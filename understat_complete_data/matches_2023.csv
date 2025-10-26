@@ -1,0 +1,381 @@
+match_id,date,home_team,home_id,home_short,away_team,away_id,away_short,home_goals,away_goals,home_xg,away_xg,forecast_win,forecast_draw,forecast_loss,season,Match
+22275,2023-08-11 19:00:00,Burnley,92,BUR,Manchester City,88,MCI,0,3,0.311032,2.40074,0.0177,0.0854,0.8969,2023,Burnley v Manchester City
+22276,2023-08-12 11:30:00,Arsenal,83,ARS,Nottingham Forest,249,NOT,2,1,0.84262,0.966305,0.2797,0.3363,0.384,2023,Arsenal v Nottingham Forest
+22277,2023-08-12 14:00:00,Bournemouth,73,BOU,West Ham,81,WHU,1,1,1.51025,1.4834,0.3559,0.3169,0.3272,2023,Bournemouth v West Ham
+22278,2023-08-12 14:00:00,Brighton,220,BRI,Luton,256,LUT,4,1,4.36748,1.88594,0.879,0.0876,0.0334,2023,Brighton v Luton
+22279,2023-08-12 14:00:00,Everton,72,EVE,Fulham,228,FLH,0,1,2.59001,1.58144,0.6371,0.1989,0.164,2023,Everton v Fulham
+22280,2023-08-12 14:00:00,Sheffield United,238,SHE,Crystal Palace,78,CRY,0,1,0.422704,2.27616,0.0358,0.1179,0.8463,2023,Sheffield United v Crystal Palace
+22281,2023-08-12 16:30:00,Newcastle United,86,NEW,Aston Villa,71,AVL,5,1,4.32208,1.486,0.8987,0.0665,0.0348,2023,Newcastle United v Aston Villa
+22282,2023-08-13 13:00:00,Brentford,244,BRE,Tottenham,82,TOT,2,2,1.90756,1.45316,0.4985,0.2608,0.2407,2023,Brentford v Tottenham
+22283,2023-08-13 15:30:00,Chelsea,80,CHE,Liverpool,87,LIV,1,1,1.93258,1.29994,0.5323,0.2472,0.2205,2023,Chelsea v Liverpool
+22284,2023-08-14 19:00:00,Manchester United,89,MUN,Wolverhampton Wanderers,229,WOL,1,0,1.97087,1.72228,0.4419,0.2505,0.3076,2023,Manchester United v Wolverhampton Wanderers
+22285,2023-08-18 18:45:00,Nottingham Forest,249,NOT,Sheffield United,238,SHE,2,1,1.37181,0.551038,0.5965,0.2786,0.1249,2023,Nottingham Forest v Sheffield United
+22286,2023-08-19 14:00:00,Wolverhampton Wanderers,229,WOL,Brighton,220,BRI,1,4,2.68821,3.15562,0.3046,0.2057,0.4897,2023,Wolverhampton Wanderers v Brighton
+22287,2023-08-19 14:00:00,Fulham,228,FLH,Brentford,244,BRE,0,3,0.399899,3.46888,0.005,0.0284,0.9666,2023,Fulham v Brentford
+22288,2023-08-19 14:00:00,Liverpool,87,LIV,Bournemouth,73,BOU,3,1,3.25448,1.3867,0.8032,0.1308,0.066,2023,Liverpool v Bournemouth
+22290,2023-08-19 16:30:00,Tottenham,82,TOT,Manchester United,89,MUN,2,0,2.53904,2.44604,0.4211,0.2102,0.3687,2023,Tottenham v Manchester United
+22291,2023-08-19 19:00:00,Manchester City,88,MCI,Newcastle United,86,NEW,1,0,1.22528,0.257154,0.6449,0.2857,0.0694,2023,Manchester City v Newcastle United
+22292,2023-08-20 13:00:00,Aston Villa,71,AVL,Everton,72,EVE,4,0,3.24336,0.721465,0.9138,0.0655,0.0207,2023,Aston Villa v Everton
+22293,2023-08-20 15:30:00,West Ham,81,WHU,Chelsea,80,CHE,3,1,1.71234,1.60916,0.3947,0.2905,0.3148,2023,West Ham v Chelsea
+22294,2023-08-21 19:00:00,Crystal Palace,78,CRY,Arsenal,83,ARS,0,1,1.06916,2.20593,0.1279,0.1973,0.6748,2023,Crystal Palace v Arsenal
+22295,2023-08-25 19:00:00,Chelsea,80,CHE,Luton,256,LUT,3,0,3.41419,0.465741,0.9422,0.0473,0.0105,2023,Chelsea v Luton
+22296,2023-08-26 11:30:00,Bournemouth,73,BOU,Tottenham,82,TOT,0,2,0.483582,2.26115,0.0438,0.129,0.8272,2023,Bournemouth v Tottenham
+22297,2023-08-26 14:00:00,Arsenal,83,ARS,Fulham,228,FLH,2,2,3.23088,0.849817,0.8911,0.0845,0.0244,2023,Arsenal v Fulham
+22298,2023-08-26 14:00:00,Brentford,244,BRE,Crystal Palace,78,CRY,1,1,0.948011,1.06061,0.3083,0.3264,0.3653,2023,Brentford v Crystal Palace
+22299,2023-08-26 14:00:00,Everton,72,EVE,Wolverhampton Wanderers,229,WOL,0,1,1.89792,1.40228,0.4943,0.2476,0.2581,2023,Everton v Wolverhampton Wanderers
+22300,2023-08-26 14:00:00,Manchester United,89,MUN,Nottingham Forest,249,NOT,3,2,3.02803,0.960354,0.861,0.1027,0.0363,2023,Manchester United v Nottingham Forest
+22301,2023-08-26 16:30:00,Brighton,220,BRI,West Ham,81,WHU,1,3,1.3743,2.9527,0.0988,0.1413,0.7599,2023,Brighton v West Ham
+22302,2023-08-27 13:00:00,Burnley,92,BUR,Aston Villa,71,AVL,1,3,0.630605,2.83691,0.0221,0.0821,0.8958,2023,Burnley v Aston Villa
+22303,2023-08-27 13:00:00,Sheffield United,238,SHE,Manchester City,88,MCI,1,2,0.762232,3.84804,0.0099,0.0443,0.9458,2023,Sheffield United v Manchester City
+22304,2023-08-27 15:30:00,Newcastle United,86,NEW,Liverpool,87,LIV,1,2,1.62037,0.856121,0.5588,0.2581,0.1831,2023,Newcastle United v Liverpool
+21925,2023-09-01 19:00:00,Luton,256,LUT,West Ham,81,WHU,1,2,2.02244,1.22528,0.5814,0.2473,0.1713,2023,Luton v West Ham
+21926,2023-09-02 11:30:00,Sheffield United,238,SHE,Everton,72,EVE,2,2,1.575,2.73871,0.1261,0.2031,0.6708,2023,Sheffield United v Everton
+21927,2023-09-02 14:00:00,Manchester City,88,MCI,Fulham,228,FLH,5,1,2.00152,1.46427,0.523,0.3082,0.1688,2023,Manchester City v Fulham
+21928,2023-09-02 14:00:00,Brentford,244,BRE,Bournemouth,73,BOU,2,2,3.07185,2.11013,0.5993,0.2049,0.1958,2023,Brentford v Bournemouth
+21929,2023-09-02 14:00:00,Burnley,92,BUR,Tottenham,82,TOT,2,5,1.66604,2.39785,0.2232,0.2163,0.5605,2023,Burnley v Tottenham
+21930,2023-09-02 14:00:00,Chelsea,80,CHE,Nottingham Forest,249,NOT,0,1,2.28442,1.1505,0.6607,0.2127,0.1266,2023,Chelsea v Nottingham Forest
+21931,2023-09-02 16:30:00,Brighton,220,BRI,Newcastle United,86,NEW,3,1,1.32258,0.90476,0.4762,0.3005,0.2233,2023,Brighton v Newcastle United
+21932,2023-09-03 13:00:00,Crystal Palace,78,CRY,Wolverhampton Wanderers,229,WOL,3,2,2.32935,1.13911,0.6847,0.1878,0.1275,2023,Crystal Palace v Wolverhampton Wanderers
+21933,2023-09-03 13:00:00,Liverpool,87,LIV,Aston Villa,71,AVL,3,0,2.73138,0.615503,0.8684,0.0998,0.0318,2023,Liverpool v Aston Villa
+21934,2023-09-03 15:30:00,Arsenal,83,ARS,Manchester United,89,MUN,3,1,1.90973,0.966109,0.629,0.2273,0.1437,2023,Arsenal v Manchester United
+21935,2023-09-16 11:30:00,Wolverhampton Wanderers,229,WOL,Liverpool,87,LIV,1,3,0.538833,2.82701,0.0189,0.0705,0.9106,2023,Wolverhampton Wanderers v Liverpool
+21936,2023-09-16 14:00:00,Tottenham,82,TOT,Sheffield United,238,SHE,2,1,2.15909,0.790655,0.7114,0.187,0.1016,2023,Tottenham v Sheffield United
+21937,2023-09-16 14:00:00,West Ham,81,WHU,Manchester City,88,MCI,1,3,0.895632,4.15046,0.0123,0.0352,0.9525,2023,West Ham v Manchester City
+21938,2023-09-16 14:00:00,Aston Villa,71,AVL,Crystal Palace,78,CRY,3,1,2.31518,1.11696,0.6875,0.201,0.1115,2023,Aston Villa v Crystal Palace
+21939,2023-09-16 14:00:00,Fulham,228,FLH,Luton,256,LUT,1,0,1.75704,1.45705,0.4351,0.2865,0.2784,2023,Fulham v Luton
+21940,2023-09-16 14:00:00,Manchester United,89,MUN,Brighton,220,BRI,1,3,0.719951,1.93908,0.1055,0.1835,0.711,2023,Manchester United v Brighton
+21943,2023-09-16 16:30:00,Newcastle United,86,NEW,Brentford,244,BRE,1,0,1.50126,0.633678,0.647,0.2452,0.1078,2023,Newcastle United v Brentford
+21942,2023-09-17 13:00:00,Bournemouth,73,BOU,Chelsea,80,CHE,0,0,1.32515,1.39677,0.348,0.2784,0.3736,2023,Bournemouth v Chelsea
+21941,2023-09-17 15:30:00,Everton,72,EVE,Arsenal,83,ARS,0,1,0.28317,0.802605,0.112,0.414,0.474,2023,Everton v Arsenal
+21944,2023-09-18 18:45:00,Nottingham Forest,249,NOT,Burnley,92,BUR,1,1,0.705795,0.807651,0.2724,0.3669,0.3607,2023,Nottingham Forest v Burnley
+21945,2023-09-23 14:00:00,Luton,256,LUT,Wolverhampton Wanderers,229,WOL,1,1,2.24101,0.762984,0.7771,0.1815,0.0414,2023,Luton v Wolverhampton Wanderers
+21946,2023-09-23 14:00:00,Manchester City,88,MCI,Nottingham Forest,249,NOT,2,0,1.33984,0.729109,0.5453,0.2792,0.1755,2023,Manchester City v Nottingham Forest
+21948,2023-09-23 14:00:00,Crystal Palace,78,CRY,Fulham,228,FLH,0,0,0.37236,0.542678,0.1986,0.488,0.3134,2023,Crystal Palace v Fulham
+21949,2023-09-23 16:30:00,Brentford,244,BRE,Everton,72,EVE,1,3,1.57402,2.51497,0.1704,0.2246,0.605,2023,Brentford v Everton
+21950,2023-09-23 19:00:00,Burnley,92,BUR,Manchester United,89,MUN,0,1,0.935444,0.840273,0.3571,0.3448,0.2981,2023,Burnley v Manchester United
+21947,2023-09-24 13:00:00,Chelsea,80,CHE,Aston Villa,71,AVL,0,1,1.19716,1.13479,0.3746,0.2965,0.3289,2023,Chelsea v Aston Villa
+21951,2023-09-24 13:00:00,Brighton,220,BRI,Bournemouth,73,BOU,3,1,2.14533,1.58984,0.5233,0.2401,0.2366,2023,Brighton v Bournemouth
+21952,2023-09-24 13:00:00,Arsenal,83,ARS,Tottenham,82,TOT,2,2,2.3429,2.21166,0.417,0.2392,0.3438,2023,Arsenal v Tottenham
+21953,2023-09-24 13:00:00,Liverpool,87,LIV,West Ham,81,WHU,3,1,4.14262,1.53878,0.882,0.0793,0.0387,2023,Liverpool v West Ham
+21954,2023-09-24 15:30:00,Sheffield United,238,SHE,Newcastle United,86,NEW,0,8,0.579392,5.1082,0.0032,0.0084,0.9884,2023,Sheffield United v Newcastle United
+21955,2023-09-30 11:30:00,Aston Villa,71,AVL,Brighton,220,BRI,6,1,1.90746,1.72819,0.4133,0.2584,0.3283,2023,Aston Villa v Brighton
+21956,2023-09-30 14:00:00,Everton,72,EVE,Luton,256,LUT,1,2,3.65377,1.5102,0.85,0.1072,0.0428,2023,Everton v Luton
+21957,2023-09-30 14:00:00,Manchester United,89,MUN,Crystal Palace,78,CRY,0,1,1.55408,1.19015,0.4561,0.2712,0.2727,2023,Manchester United v Crystal Palace
+21958,2023-09-30 14:00:00,Newcastle United,86,NEW,Burnley,92,BUR,2,0,3.08516,0.801849,0.8934,0.0819,0.0247,2023,Newcastle United v Burnley
+21959,2023-09-30 14:00:00,Bournemouth,73,BOU,Arsenal,83,ARS,0,4,0.644443,4.0742,0.0052,0.0212,0.9736,2023,Bournemouth v Arsenal
+21960,2023-09-30 14:00:00,West Ham,81,WHU,Sheffield United,238,SHE,2,0,3.19753,0.911997,0.8683,0.0908,0.0409,2023,West Ham v Sheffield United
+21961,2023-09-30 14:00:00,Wolverhampton Wanderers,229,WOL,Manchester City,88,MCI,2,1,0.673985,0.98075,0.2467,0.3543,0.399,2023,Wolverhampton Wanderers v Manchester City
+21962,2023-09-30 16:30:00,Tottenham,82,TOT,Liverpool,87,LIV,2,1,2.18823,1.12299,0.6518,0.2076,0.1406,2023,Tottenham v Liverpool
+21963,2023-10-01 13:00:00,Nottingham Forest,249,NOT,Brentford,244,BRE,1,1,0.800317,1.75862,0.1472,0.2359,0.6169,2023,Nottingham Forest v Brentford
+21964,2023-10-02 19:00:00,Fulham,228,FLH,Chelsea,80,CHE,0,2,0.889383,1.98461,0.1096,0.2252,0.6652,2023,Fulham v Chelsea
+22289,2023-10-03 18:30:00,Luton,256,LUT,Burnley,92,BUR,1,2,1.53058,0.920206,0.5256,0.2762,0.1982,2023,Luton v Burnley
+21971,2023-10-07 11:30:00,Luton,256,LUT,Tottenham,82,TOT,0,1,0.848118,2.37947,0.0838,0.1565,0.7597,2023,Luton v Tottenham
+21967,2023-10-07 14:00:00,Burnley,92,BUR,Chelsea,80,CHE,1,4,0.956642,1.97566,0.1114,0.2281,0.6605,2023,Burnley v Chelsea
+21969,2023-10-07 14:00:00,Everton,72,EVE,Bournemouth,73,BOU,3,0,3.16482,0.981732,0.8722,0.0938,0.034,2023,Everton v Bournemouth
+21970,2023-10-07 14:00:00,Fulham,228,FLH,Sheffield United,238,SHE,3,1,2.26612,0.251809,0.8781,0.1012,0.0207,2023,Fulham v Sheffield United
+21972,2023-10-07 14:00:00,Manchester United,89,MUN,Brentford,244,BRE,2,1,1.29356,1.02509,0.4271,0.2936,0.2793,2023,Manchester United v Brentford
+21968,2023-10-07 16:30:00,Crystal Palace,78,CRY,Nottingham Forest,249,NOT,0,0,0.982452,1.22105,0.282,0.3104,0.4076,2023,Crystal Palace v Nottingham Forest
+21966,2023-10-08 13:00:00,Brighton,220,BRI,Liverpool,87,LIV,2,2,2.23187,2.51029,0.316,0.236,0.448,2023,Brighton v Liverpool
+21973,2023-10-08 13:00:00,West Ham,81,WHU,Newcastle United,86,NEW,2,2,0.931345,1.97865,0.0927,0.2316,0.6757,2023,West Ham v Newcastle United
+21974,2023-10-08 13:00:00,Wolverhampton Wanderers,229,WOL,Aston Villa,71,AVL,1,1,1.76232,1.81618,0.3672,0.2589,0.3739,2023,Wolverhampton Wanderers v Aston Villa
+21965,2023-10-08 15:30:00,Arsenal,83,ARS,Manchester City,88,MCI,1,0,0.386558,0.858071,0.1372,0.3669,0.4959,2023,Arsenal v Manchester City
+21979,2023-10-21 11:30:00,Liverpool,87,LIV,Everton,72,EVE,2,0,2.28568,0.0937725,0.9342,0.0613,0.0045,2023,Liverpool v Everton
+21975,2023-10-21 14:00:00,Bournemouth,73,BOU,Wolverhampton Wanderers,229,WOL,1,2,1.01839,2.30454,0.102,0.2,0.698,2023,Bournemouth v Wolverhampton Wanderers
+21977,2023-10-21 14:00:00,Brentford,244,BRE,Burnley,92,BUR,3,0,3.15685,0.693129,0.9067,0.0745,0.0188,2023,Brentford v Burnley
+21980,2023-10-21 14:00:00,Manchester City,88,MCI,Brighton,220,BRI,2,1,0.962509,0.963733,0.3367,0.3286,0.3347,2023,Manchester City v Brighton
+21981,2023-10-21 14:00:00,Newcastle United,86,NEW,Crystal Palace,78,CRY,4,0,3.73336,1.08795,0.9023,0.0693,0.0284,2023,Newcastle United v Crystal Palace
+21982,2023-10-21 14:00:00,Nottingham Forest,249,NOT,Luton,256,LUT,2,2,3.27549,1.49555,0.7817,0.1325,0.0858,2023,Nottingham Forest v Luton
+21978,2023-10-21 16:30:00,Chelsea,80,CHE,Arsenal,83,ARS,2,2,1.71838,1.05791,0.5596,0.2612,0.1792,2023,Chelsea v Arsenal
+21983,2023-10-21 19:00:00,Sheffield United,238,SHE,Manchester United,89,MUN,1,2,1.41074,1.46187,0.3358,0.3137,0.3505,2023,Sheffield United v Manchester United
+21976,2023-10-22 15:30:00,Aston Villa,71,AVL,West Ham,81,WHU,4,1,2.34143,0.659622,0.814,0.1326,0.0534,2023,Aston Villa v West Ham
+21984,2023-10-23 19:00:00,Tottenham,82,TOT,Fulham,228,FLH,2,0,1.63523,0.745838,0.6093,0.2524,0.1383,2023,Tottenham v Fulham
+21990,2023-10-27 19:00:00,Crystal Palace,78,CRY,Tottenham,82,TOT,1,2,0.561834,0.989103,0.1774,0.342,0.4806,2023,Crystal Palace v Tottenham
+21989,2023-10-28 11:30:00,Chelsea,80,CHE,Brentford,244,BRE,0,2,1.71801,2.48137,0.2146,0.2109,0.5745,2023,Chelsea v Brentford
+21985,2023-10-28 14:00:00,Bournemouth,73,BOU,Burnley,92,BUR,2,1,1.10052,0.90255,0.3721,0.3582,0.2697,2023,Bournemouth v Burnley
+21986,2023-10-28 14:00:00,Arsenal,83,ARS,Sheffield United,238,SHE,5,0,3.03496,0.0281554,0.9842,0.0156,0.0002,2023,Arsenal v Sheffield United
+21994,2023-10-28 16:30:00,Wolverhampton Wanderers,229,WOL,Newcastle United,86,NEW,2,2,0.863393,2.31987,0.0639,0.1559,0.7802,2023,Wolverhampton Wanderers v Newcastle United
+21993,2023-10-29 13:00:00,West Ham,81,WHU,Everton,72,EVE,0,1,0.618578,0.733813,0.2689,0.3788,0.3523,2023,West Ham v Everton
+21987,2023-10-29 14:00:00,Aston Villa,71,AVL,Luton,256,LUT,3,1,3.07654,0.453117,0.9407,0.0493,0.01,2023,Aston Villa v Luton
+21988,2023-10-29 14:00:00,Brighton,220,BRI,Fulham,228,FLH,1,1,1.31996,0.552523,0.5703,0.2799,0.1498,2023,Brighton v Fulham
+21991,2023-10-29 14:00:00,Liverpool,87,LIV,Nottingham Forest,249,NOT,3,0,2.70428,0.642014,0.8733,0.0954,0.0313,2023,Liverpool v Nottingham Forest
+21992,2023-10-29 15:30:00,Manchester United,89,MUN,Manchester City,88,MCI,0,3,0.714628,4.54595,0.0029,0.0138,0.9833,2023,Manchester United v Manchester City
+21998,2023-11-04 12:30:00,Fulham,228,FLH,Manchester United,89,MUN,0,1,1.18241,0.697095,0.4803,0.3166,0.2031,2023,Fulham v Manchester United
+21995,2023-11-04 15:00:00,Brentford,244,BRE,West Ham,81,WHU,3,2,1.82944,1.75505,0.363,0.2981,0.3389,2023,Brentford v West Ham
+21996,2023-11-04 15:00:00,Burnley,92,BUR,Crystal Palace,78,CRY,0,2,1.4998,1.43653,0.3571,0.3072,0.3357,2023,Burnley v Crystal Palace
+21997,2023-11-04 15:00:00,Everton,72,EVE,Brighton,220,BRI,1,1,0.617607,0.442489,0.3494,0.4439,0.2067,2023,Everton v Brighton
+22000,2023-11-04 15:00:00,Manchester City,88,MCI,Bournemouth,73,BOU,6,1,2.39949,0.643127,0.7963,0.1463,0.0574,2023,Manchester City v Bournemouth
+22003,2023-11-04 15:00:00,Sheffield United,238,SHE,Wolverhampton Wanderers,229,WOL,2,1,1.10165,1.14803,0.3009,0.3733,0.3258,2023,Sheffield United v Wolverhampton Wanderers
+22001,2023-11-04 17:30:00,Newcastle United,86,NEW,Arsenal,83,ARS,1,0,1.12355,0.535473,0.577,0.3043,0.1187,2023,Newcastle United v Arsenal
+22002,2023-11-05 14:00:00,Nottingham Forest,249,NOT,Aston Villa,71,AVL,2,0,0.592447,1.33116,0.1456,0.2983,0.5561,2023,Nottingham Forest v Aston Villa
+21999,2023-11-05 16:30:00,Luton,256,LUT,Liverpool,87,LIV,1,1,1.3411,3.03925,0.0721,0.1522,0.7757,2023,Luton v Liverpool
+22004,2023-11-06 20:00:00,Tottenham,82,TOT,Chelsea,80,CHE,1,4,0.959108,4.05865,0.0094,0.0329,0.9577,2023,Tottenham v Chelsea
+22014,2023-11-11 12:30:00,Wolverhampton Wanderers,229,WOL,Tottenham,82,TOT,2,1,1.90884,0.432315,0.7738,0.1722,0.054,2023,Wolverhampton Wanderers v Tottenham
+22006,2023-11-11 15:00:00,Arsenal,83,ARS,Burnley,92,BUR,3,1,2.63194,0.327706,0.9544,0.0415,0.0041,2023,Arsenal v Burnley
+22010,2023-11-11 15:00:00,Crystal Palace,78,CRY,Everton,72,EVE,2,3,1.89194,1.7904,0.3803,0.2887,0.331,2023,Crystal Palace v Everton
+22012,2023-11-11 15:00:00,Manchester United,89,MUN,Luton,256,LUT,1,0,2.74105,0.408265,0.9169,0.0661,0.017,2023,Manchester United v Luton
+22005,2023-11-11 17:30:00,Bournemouth,73,BOU,Newcastle United,86,NEW,2,0,2.78424,0.306141,0.9374,0.0517,0.0109,2023,Bournemouth v Newcastle United
+22007,2023-11-12 14:00:00,Aston Villa,71,AVL,Fulham,228,FLH,3,1,2.86039,0.648745,0.9227,0.0642,0.0131,2023,Aston Villa v Fulham
+22008,2023-11-12 14:00:00,Brighton,220,BRI,Sheffield United,238,SHE,1,1,1.08601,0.84434,0.4067,0.3328,0.2605,2023,Brighton v Sheffield United
+22011,2023-11-12 14:00:00,Liverpool,87,LIV,Brentford,244,BRE,3,0,1.56004,1.44954,0.3975,0.264,0.3385,2023,Liverpool v Brentford
+22013,2023-11-12 14:00:00,West Ham,81,WHU,Nottingham Forest,249,NOT,3,2,2.06402,1.42128,0.5298,0.2455,0.2247,2023,West Ham v Nottingham Forest
+22009,2023-11-12 16:30:00,Chelsea,80,CHE,Manchester City,88,MCI,4,4,3.47238,3.19324,0.455,0.2211,0.3239,2023,Chelsea v Manchester City
+22020,2023-11-25 12:30:00,Manchester City,88,MCI,Liverpool,87,LIV,1,1,1.79622,0.766278,0.6472,0.2244,0.1284,2023,Manchester City v Liverpool
+22016,2023-11-25 15:00:00,Burnley,92,BUR,West Ham,81,WHU,1,2,1.44228,1.36963,0.3708,0.308,0.3212,2023,Burnley v West Ham
+22019,2023-11-25 15:00:00,Luton,256,LUT,Crystal Palace,78,CRY,2,1,0.996153,1.83546,0.1537,0.2577,0.5886,2023,Luton v Crystal Palace
+22021,2023-11-25 15:00:00,Newcastle United,86,NEW,Chelsea,80,CHE,4,1,2.15227,0.968061,0.6848,0.1926,0.1226,2023,Newcastle United v Chelsea
+22022,2023-11-25 15:00:00,Nottingham Forest,249,NOT,Brighton,220,BRI,2,3,2.22655,1.21792,0.6382,0.2258,0.136,2023,Nottingham Forest v Brighton
+22023,2023-11-25 15:00:00,Sheffield United,238,SHE,Bournemouth,73,BOU,1,3,0.816227,3.13975,0.0405,0.095,0.8645,2023,Sheffield United v Bournemouth
+22015,2023-11-25 17:30:00,Brentford,244,BRE,Arsenal,83,ARS,0,1,1.66315,1.82699,0.3338,0.274,0.3922,2023,Brentford v Arsenal
+22024,2023-11-26 14:00:00,Tottenham,82,TOT,Aston Villa,71,AVL,1,2,2.22542,2.39755,0.3333,0.2488,0.4179,2023,Tottenham v Aston Villa
+22017,2023-11-26 16:30:00,Everton,72,EVE,Manchester United,89,MUN,0,3,2.49764,2.07334,0.4626,0.2624,0.275,2023,Everton v Manchester United
+22018,2023-11-27 20:00:00,Fulham,228,FLH,Wolverhampton Wanderers,229,WOL,3,2,2.49057,1.57875,0.6313,0.2309,0.1378,2023,Fulham v Wolverhampton Wanderers
+22026,2023-12-02 15:00:00,Arsenal,83,ARS,Wolverhampton Wanderers,229,WOL,2,1,3.30368,1.07886,0.8622,0.0986,0.0392,2023,Arsenal v Wolverhampton Wanderers
+22027,2023-12-02 15:00:00,Brentford,244,BRE,Luton,256,LUT,3,1,3.25952,0.227176,0.9661,0.0298,0.0041,2023,Brentford v Luton
+22028,2023-12-02 15:00:00,Burnley,92,BUR,Sheffield United,238,SHE,5,0,2.60469,0.618131,0.8499,0.1154,0.0347,2023,Burnley v Sheffield United
+22033,2023-12-02 17:30:00,Nottingham Forest,249,NOT,Everton,72,EVE,0,1,0.673085,0.623789,0.3119,0.4027,0.2854,2023,Nottingham Forest v Everton
+22032,2023-12-02 20:00:00,Newcastle United,86,NEW,Manchester United,89,MUN,1,0,2.90191,0.422674,0.9224,0.0633,0.0143,2023,Newcastle United v Manchester United
+22025,2023-12-03 14:00:00,Bournemouth,73,BOU,Aston Villa,71,AVL,2,2,2.54937,0.89511,0.7928,0.144,0.0632,2023,Bournemouth v Aston Villa
+22029,2023-12-03 14:00:00,Chelsea,80,CHE,Brighton,220,BRI,3,2,1.66304,0.855058,0.6179,0.2445,0.1376,2023,Chelsea v Brighton
+22030,2023-12-03 14:00:00,Liverpool,87,LIV,Fulham,228,FLH,4,3,2.72831,1.51005,0.6648,0.1927,0.1425,2023,Liverpool v Fulham
+22034,2023-12-03 14:00:00,West Ham,81,WHU,Crystal Palace,78,CRY,1,1,1.1466,0.987682,0.3755,0.3287,0.2958,2023,West Ham v Crystal Palace
+22031,2023-12-03 16:30:00,Manchester City,88,MCI,Tottenham,82,TOT,3,3,2.90729,0.433077,0.9091,0.0719,0.019,2023,Manchester City v Tottenham
+22042,2023-12-05 19:30:00,Wolverhampton Wanderers,229,WOL,Burnley,92,BUR,1,0,1.11886,0.781542,0.4371,0.34,0.2229,2023,Wolverhampton Wanderers v Burnley
+22039,2023-12-05 20:15:00,Luton,256,LUT,Arsenal,83,ARS,3,4,0.526254,2.58815,0.0299,0.1032,0.8669,2023,Luton v Arsenal
+22036,2023-12-06 19:30:00,Brighton,220,BRI,Brentford,244,BRE,2,1,1.54099,1.22007,0.4263,0.3121,0.2616,2023,Brighton v Brentford
+22038,2023-12-06 19:30:00,Fulham,228,FLH,Nottingham Forest,249,NOT,5,0,3.09427,0.218659,0.9769,0.0204,0.0027,2023,Fulham v Nottingham Forest
+22040,2023-12-06 19:30:00,Sheffield United,238,SHE,Liverpool,87,LIV,0,2,0.834172,1.80116,0.1397,0.234,0.6263,2023,Sheffield United v Liverpool
+22043,2023-12-06 19:30:00,Crystal Palace,78,CRY,Bournemouth,73,BOU,0,2,1.26441,1.79997,0.2221,0.2553,0.5226,2023,Crystal Palace v Bournemouth
+22035,2023-12-06 20:15:00,Aston Villa,71,AVL,Manchester City,88,MCI,1,0,2.1922,1.00198,0.6881,0.2247,0.0872,2023,Aston Villa v Manchester City
+22044,2023-12-06 20:15:00,Manchester United,89,MUN,Chelsea,80,CHE,2,1,4.03949,2.3512,0.7338,0.1466,0.1196,2023,Manchester United v Chelsea
+22037,2023-12-07 19:30:00,Everton,72,EVE,Newcastle United,86,NEW,3,0,2.95393,1.29564,0.7544,0.1534,0.0922,2023,Everton v Newcastle United
+22041,2023-12-07 20:15:00,Tottenham,82,TOT,West Ham,81,WHU,1,2,1.61268,1.7409,0.3319,0.2535,0.4146,2023,Tottenham v West Ham
+22047,2023-12-09 12:30:00,Crystal Palace,78,CRY,Liverpool,87,LIV,1,2,1.79152,1.3708,0.4846,0.276,0.2394,2023,Crystal Palace v Liverpool
+22046,2023-12-09 15:00:00,Brighton,220,BRI,Burnley,92,BUR,1,1,2.96247,1.05162,0.8189,0.1267,0.0544,2023,Brighton v Burnley
+22051,2023-12-09 15:00:00,Manchester United,89,MUN,Bournemouth,73,BOU,0,3,1.11296,1.9742,0.1539,0.2242,0.6219,2023,Manchester United v Bournemouth
+22052,2023-12-09 15:00:00,Sheffield United,238,SHE,Brentford,244,BRE,1,0,0.841976,0.644638,0.3909,0.3656,0.2435,2023,Sheffield United v Brentford
+22054,2023-12-09 15:00:00,Wolverhampton Wanderers,229,WOL,Nottingham Forest,249,NOT,1,1,1.02199,1.21801,0.2745,0.3237,0.4018,2023,Wolverhampton Wanderers v Nottingham Forest
+22045,2023-12-09 17:30:00,Aston Villa,71,AVL,Arsenal,83,ARS,1,0,0.628499,1.71667,0.0978,0.2163,0.6859,2023,Aston Villa v Arsenal
+22048,2023-12-10 14:00:00,Everton,72,EVE,Chelsea,80,CHE,2,0,1.11437,0.885512,0.4245,0.3286,0.2469,2023,Everton v Chelsea
+22049,2023-12-10 14:00:00,Fulham,228,FLH,West Ham,81,WHU,5,0,2.1884,0.983,0.6859,0.1905,0.1236,2023,Fulham v West Ham
+22050,2023-12-10 14:00:00,Luton,256,LUT,Manchester City,88,MCI,1,2,0.689037,2.23353,0.054,0.178,0.768,2023,Luton v Manchester City
+22053,2023-12-10 16:30:00,Tottenham,82,TOT,Newcastle United,86,NEW,4,1,4.40118,1.61368,0.8961,0.0703,0.0336,2023,Tottenham v Newcastle United
+22063,2023-12-15 20:00:00,Nottingham Forest,249,NOT,Tottenham,82,TOT,0,2,1.70569,1.60738,0.3911,0.2583,0.3506,2023,Nottingham Forest v Tottenham
+22059,2023-12-16 15:00:00,Chelsea,80,CHE,Sheffield United,238,SHE,2,0,3.27322,0.44014,0.9605,0.0315,0.008,2023,Chelsea v Sheffield United
+22061,2023-12-16 15:00:00,Manchester City,88,MCI,Crystal Palace,78,CRY,2,2,2.41646,1.64977,0.5547,0.2489,0.1964,2023,Manchester City v Crystal Palace
+22062,2023-12-16 15:00:00,Newcastle United,86,NEW,Fulham,228,FLH,3,0,4.27933,0.471042,0.99,0.0089,0.0011,2023,Newcastle United v Fulham
+22058,2023-12-16 17:30:00,Burnley,92,BUR,Everton,72,EVE,0,2,0.811435,2.22305,0.082,0.1611,0.7569,2023,Burnley v Everton
+22056,2023-12-17 14:00:00,Arsenal,83,ARS,Brighton,220,BRI,2,0,2.76976,0.663054,0.8439,0.1165,0.0396,2023,Arsenal v Brighton
+22057,2023-12-17 14:00:00,Brentford,244,BRE,Aston Villa,71,AVL,1,2,0.796812,1.4664,0.1774,0.2816,0.541,2023,Brentford v Aston Villa
+22064,2023-12-17 14:00:00,West Ham,81,WHU,Wolverhampton Wanderers,229,WOL,3,0,1.03828,0.556206,0.4864,0.3306,0.183,2023,West Ham v Wolverhampton Wanderers
+22060,2023-12-17 16:30:00,Liverpool,87,LIV,Manchester United,89,MUN,0,0,1.97111,0.632715,0.7148,0.1924,0.0928,2023,Liverpool v Manchester United
+22066,2023-12-21 20:00:00,Crystal Palace,78,CRY,Brighton,220,BRI,1,1,1.65409,1.33653,0.455,0.2631,0.2819,2023,Crystal Palace v Brighton
+22065,2023-12-22 20:00:00,Aston Villa,71,AVL,Sheffield United,238,SHE,1,1,1.21861,0.646159,0.5001,0.3312,0.1687,2023,Aston Villa v Sheffield United
+22072,2023-12-23 12:30:00,West Ham,81,WHU,Manchester United,89,MUN,2,0,1.51468,0.730496,0.5925,0.2598,0.1477,2023,West Ham v Manchester United
+22067,2023-12-23 15:00:00,Fulham,228,FLH,Burnley,92,BUR,0,2,1.38096,0.41714,0.6363,0.2621,0.1016,2023,Fulham v Burnley
+22069,2023-12-23 15:00:00,Luton,256,LUT,Newcastle United,86,NEW,1,0,1.81844,1.41488,0.4862,0.2508,0.263,2023,Luton v Newcastle United
+22070,2023-12-23 15:00:00,Nottingham Forest,249,NOT,Bournemouth,73,BOU,2,3,0.791806,1.89067,0.1303,0.2073,0.6624,2023,Nottingham Forest v Bournemouth
+22071,2023-12-23 15:00:00,Tottenham,82,TOT,Everton,72,EVE,2,1,1.57527,1.98385,0.2879,0.2354,0.4767,2023,Tottenham v Everton
+22068,2023-12-23 17:30:00,Liverpool,87,LIV,Arsenal,83,ARS,1,1,0.982901,0.851681,0.377,0.3338,0.2892,2023,Liverpool v Arsenal
+22073,2023-12-24 13:00:00,Wolverhampton Wanderers,229,WOL,Chelsea,80,CHE,2,1,1.74626,1.75447,0.3603,0.2626,0.3771,2023,Wolverhampton Wanderers v Chelsea
+22083,2023-12-26 12:30:00,Newcastle United,86,NEW,Nottingham Forest,249,NOT,1,3,2.79106,3.1074,0.3064,0.2328,0.4608,2023,Newcastle United v Nottingham Forest
+22075,2023-12-26 15:00:00,Bournemouth,73,BOU,Fulham,228,FLH,3,0,2.07911,0.324365,0.8555,0.1194,0.0251,2023,Bournemouth v Fulham
+22084,2023-12-26 15:00:00,Sheffield United,238,SHE,Luton,256,LUT,2,3,3.61788,0.715575,0.9422,0.044,0.0138,2023,Sheffield United v Luton
+22079,2023-12-26 17:30:00,Burnley,92,BUR,Liverpool,87,LIV,0,2,0.972389,1.68451,0.1994,0.2625,0.5381,2023,Burnley v Liverpool
+22082,2023-12-26 20:00:00,Manchester United,89,MUN,Aston Villa,71,AVL,3,2,1.20104,1.83637,0.1985,0.2573,0.5442,2023,Manchester United v Aston Villa
+22077,2023-12-27 19:30:00,Brentford,244,BRE,Wolverhampton Wanderers,229,WOL,1,4,2.59347,1.89483,0.5428,0.2254,0.2318,2023,Brentford v Wolverhampton Wanderers
+22080,2023-12-27 19:30:00,Chelsea,80,CHE,Crystal Palace,78,CRY,2,1,2.73005,0.958077,0.8078,0.135,0.0572,2023,Chelsea v Crystal Palace
+22081,2023-12-27 20:15:00,Everton,72,EVE,Manchester City,88,MCI,1,3,1.23529,2.28321,0.1381,0.2182,0.6437,2023,Everton v Manchester City
+22078,2023-12-28 19:30:00,Brighton,220,BRI,Tottenham,82,TOT,4,2,3.84702,2.06955,0.767,0.1299,0.1031,2023,Brighton v Tottenham
+22076,2023-12-28 20:15:00,Arsenal,83,ARS,West Ham,81,WHU,0,2,2.7884,1.59711,0.6535,0.2038,0.1427,2023,Arsenal v West Ham
+22089,2023-12-30 12:30:00,Luton,256,LUT,Chelsea,80,CHE,2,3,2.64093,1.57463,0.6595,0.2081,0.1324,2023,Luton v Chelsea
+22085,2023-12-30 15:00:00,Aston Villa,71,AVL,Burnley,92,BUR,3,2,2.92587,1.11923,0.8066,0.131,0.0624,2023,Aston Villa v Burnley
+22086,2023-12-30 15:00:00,Crystal Palace,78,CRY,Brentford,244,BRE,3,1,1.61057,1.28731,0.4365,0.2865,0.277,2023,Crystal Palace v Brentford
+22090,2023-12-30 15:00:00,Manchester City,88,MCI,Sheffield United,238,SHE,2,0,2.24229,0.263211,0.9141,0.0761,0.0098,2023,Manchester City v Sheffield United
+22094,2023-12-30 15:00:00,Wolverhampton Wanderers,229,WOL,Everton,72,EVE,3,0,2.64477,0.519641,0.916,0.0694,0.0146,2023,Wolverhampton Wanderers v Everton
+22091,2023-12-30 17:30:00,Nottingham Forest,249,NOT,Manchester United,89,MUN,2,1,0.744348,0.651905,0.3432,0.3817,0.2751,2023,Nottingham Forest v Manchester United
+22087,2023-12-31 14:00:00,Fulham,228,FLH,Arsenal,83,ARS,2,1,1.52829,1.6591,0.3212,0.286,0.3928,2023,Fulham v Arsenal
+22092,2023-12-31 14:00:00,Tottenham,82,TOT,Bournemouth,73,BOU,3,1,2.15027,1.58229,0.5177,0.2287,0.2536,2023,Tottenham v Bournemouth
+22088,2024-01-01 19:00:00,Liverpool,87,LIV,Newcastle United,86,NEW,4,2,6.67151,0.910974,0.9981,0.0015,0.0004,2023,Liverpool v Newcastle United
+22093,2024-01-02 18:30:00,West Ham,81,WHU,Brighton,220,BRI,0,0,0.9831,2.1552,0.1215,0.2187,0.6598,2023,West Ham v Brighton
+22096,2024-01-12 19:45:00,Burnley,92,BUR,Luton,256,LUT,1,1,1.52023,0.965167,0.514,0.2735,0.2125,2023,Burnley v Luton
+22097,2024-01-13 12:30:00,Chelsea,80,CHE,Fulham,228,FLH,1,0,2.0456,0.697847,0.7466,0.1756,0.0778,2023,Chelsea v Fulham
+22100,2024-01-13 17:30:00,Newcastle United,86,NEW,Manchester City,88,MCI,2,3,1.23638,2.55452,0.1202,0.1796,0.7002,2023,Newcastle United v Manchester City
+22098,2024-01-14 14:00:00,Everton,72,EVE,Aston Villa,71,AVL,0,0,1.03664,1.3435,0.2719,0.3045,0.4236,2023,Everton v Aston Villa
+22099,2024-01-14 16:30:00,Manchester United,89,MUN,Tottenham,82,TOT,2,2,0.923233,1.31224,0.2351,0.3057,0.4592,2023,Manchester United v Tottenham
+22103,2024-01-20 12:30:00,Arsenal,83,ARS,Crystal Palace,78,CRY,5,0,3.52167,0.288083,0.967,0.029,0.004,2023,Arsenal v Crystal Palace
+22104,2024-01-20 17:30:00,Brentford,244,BRE,Nottingham Forest,249,NOT,3,2,1.94219,1.22251,0.5612,0.2428,0.196,2023,Brentford v Nottingham Forest
+22101,2024-01-21 14:00:00,Sheffield United,238,SHE,West Ham,81,WHU,2,2,2.61362,2.4241,0.4271,0.2342,0.3387,2023,Sheffield United v West Ham
+22102,2024-01-21 16:30:00,Bournemouth,73,BOU,Liverpool,87,LIV,0,4,0.834585,1.53344,0.1701,0.2667,0.5632,2023,Bournemouth v Liverpool
+22095,2024-01-22 19:45:00,Brighton,220,BRI,Wolverhampton Wanderers,229,WOL,0,0,1.3701,1.14116,0.3979,0.3324,0.2697,2023,Brighton v Wolverhampton Wanderers
+22108,2024-01-30 19:30:00,Nottingham Forest,249,NOT,Arsenal,83,ARS,1,2,0.631618,1.39143,0.1572,0.2831,0.5597,2023,Nottingham Forest v Arsenal
+22106,2024-01-30 19:45:00,Fulham,228,FLH,Everton,72,EVE,0,0,2.37499,2.83317,0.308,0.2134,0.4786,2023,Fulham v Everton
+22107,2024-01-30 19:45:00,Luton,256,LUT,Brighton,220,BRI,4,0,3.63312,1.01366,0.9284,0.0547,0.0169,2023,Luton v Brighton
+22112,2024-01-30 20:00:00,Crystal Palace,78,CRY,Sheffield United,238,SHE,3,2,1.1601,0.768467,0.4684,0.3204,0.2112,2023,Crystal Palace v Sheffield United
+22105,2024-01-30 20:15:00,Aston Villa,71,AVL,Newcastle United,86,NEW,1,3,1.44485,3.3224,0.0747,0.1228,0.8025,2023,Aston Villa v Newcastle United
+22109,2024-01-31 19:30:00,Tottenham,82,TOT,Brentford,244,BRE,3,2,3.36194,1.59637,0.7778,0.1393,0.0829,2023,Tottenham v Brentford
+22114,2024-01-31 19:30:00,Manchester City,88,MCI,Burnley,92,BUR,3,1,1.84756,1.49114,0.45,0.2838,0.2662,2023,Manchester City v Burnley
+22113,2024-01-31 20:15:00,Liverpool,87,LIV,Chelsea,80,CHE,4,1,3.6627,0.477972,0.9634,0.0301,0.0065,2023,Liverpool v Chelsea
+22110,2024-02-01 19:30:00,West Ham,81,WHU,Bournemouth,73,BOU,1,1,1.3128,1.13487,0.4096,0.3213,0.2691,2023,West Ham v Bournemouth
+22111,2024-02-01 20:15:00,Wolverhampton Wanderers,229,WOL,Manchester United,89,MUN,3,4,2.27609,3.22698,0.188,0.209,0.603,2023,Wolverhampton Wanderers v Manchester United
+22121,2024-02-03 12:30:00,Everton,72,EVE,Tottenham,82,TOT,2,2,3.25881,0.922371,0.9354,0.0526,0.012,2023,Everton v Tottenham
+22118,2024-02-03 15:00:00,Brighton,220,BRI,Crystal Palace,78,CRY,4,1,1.92591,0.241137,0.8463,0.129,0.0247,2023,Brighton v Crystal Palace
+22119,2024-02-03 15:00:00,Burnley,92,BUR,Fulham,228,FLH,2,2,1.00428,1.28806,0.2812,0.293,0.4258,2023,Burnley v Fulham
+22123,2024-02-03 15:00:00,Newcastle United,86,NEW,Luton,256,LUT,4,4,2.37353,2.67463,0.3138,0.2276,0.4586,2023,Newcastle United v Luton
+22124,2024-02-03 17:30:00,Sheffield United,238,SHE,Aston Villa,71,AVL,0,5,1.52784,2.99015,0.0949,0.1699,0.7352,2023,Sheffield United v Aston Villa
+22115,2024-02-04 14:00:00,Bournemouth,73,BOU,Nottingham Forest,249,NOT,1,1,1.1895,0.456548,0.6339,0.2803,0.0858,2023,Bournemouth v Nottingham Forest
+22120,2024-02-04 14:00:00,Chelsea,80,CHE,Wolverhampton Wanderers,229,WOL,2,4,2.35967,2.48996,0.3563,0.229,0.4147,2023,Chelsea v Wolverhampton Wanderers
+22122,2024-02-04 14:00:00,Manchester United,89,MUN,West Ham,81,WHU,3,0,0.96721,1.1807,0.2964,0.3006,0.403,2023,Manchester United v West Ham
+22116,2024-02-04 16:30:00,Arsenal,83,ARS,Liverpool,87,LIV,3,1,2.8526,0.542052,0.8894,0.0841,0.0265,2023,Arsenal v Liverpool
+22117,2024-02-05 20:00:00,Brentford,244,BRE,Manchester City,88,MCI,1,3,0.865741,2.10785,0.1246,0.1938,0.6816,2023,Brentford v Manchester City
+22130,2024-02-10 12:30:00,Manchester City,88,MCI,Everton,72,EVE,2,0,1.58971,0.192072,0.7703,0.1961,0.0336,2023,Manchester City v Everton
+22127,2024-02-10 15:00:00,Fulham,228,FLH,Bournemouth,73,BOU,3,1,1.7456,2.60612,0.2024,0.2217,0.5759,2023,Fulham v Bournemouth
+22128,2024-02-10 15:00:00,Liverpool,87,LIV,Burnley,92,BUR,3,1,3.14734,1.11123,0.8055,0.1243,0.0702,2023,Liverpool v Burnley
+22129,2024-02-10 15:00:00,Luton,256,LUT,Sheffield United,238,SHE,1,3,1.76215,1.98283,0.2937,0.2842,0.4221,2023,Luton v Sheffield United
+22132,2024-02-10 15:00:00,Tottenham,82,TOT,Brighton,220,BRI,2,1,2.10928,1.49285,0.5182,0.2553,0.2265,2023,Tottenham v Brighton
+22134,2024-02-10 15:00:00,Wolverhampton Wanderers,229,WOL,Brentford,244,BRE,0,2,1.05781,1.84908,0.1694,0.2406,0.59,2023,Wolverhampton Wanderers v Brentford
+22131,2024-02-10 17:30:00,Nottingham Forest,249,NOT,Newcastle United,86,NEW,2,3,0.968075,0.511375,0.4805,0.3509,0.1686,2023,Nottingham Forest v Newcastle United
+22133,2024-02-11 14:00:00,West Ham,81,WHU,Arsenal,83,ARS,0,6,0.191065,3.99893,0.0014,0.0121,0.9865,2023,West Ham v Arsenal
+22125,2024-02-11 16:30:00,Aston Villa,71,AVL,Manchester United,89,MUN,1,2,2.64675,2.44591,0.4367,0.2256,0.3377,2023,Aston Villa v Manchester United
+22126,2024-02-12 20:00:00,Crystal Palace,78,CRY,Chelsea,80,CHE,1,3,0.719516,1.26948,0.1869,0.2941,0.519,2023,Crystal Palace v Chelsea
+22135,2024-02-17 12:30:00,Brentford,244,BRE,Liverpool,87,LIV,1,4,1.69518,3.08952,0.13,0.1713,0.6987,2023,Brentford v Liverpool
+22136,2024-02-17 15:00:00,Burnley,92,BUR,Arsenal,83,ARS,0,5,0.335143,2.20575,0.0215,0.1051,0.8734,2023,Burnley v Arsenal
+22138,2024-02-17 15:00:00,Fulham,228,FLH,Aston Villa,71,AVL,1,2,1.41796,1.57297,0.3234,0.2655,0.4111,2023,Fulham v Aston Villa
+22141,2024-02-17 15:00:00,Newcastle United,86,NEW,Bournemouth,73,BOU,2,2,2.38425,2.08098,0.4324,0.2915,0.2761,2023,Newcastle United v Bournemouth
+22142,2024-02-17 15:00:00,Nottingham Forest,249,NOT,West Ham,81,WHU,2,0,2.66942,0.520016,0.8769,0.0916,0.0315,2023,Nottingham Forest v West Ham
+22144,2024-02-17 15:00:00,Tottenham,82,TOT,Wolverhampton Wanderers,229,WOL,1,2,1.59768,1.77591,0.3182,0.2596,0.4222,2023,Tottenham v Wolverhampton Wanderers
+22140,2024-02-17 17:30:00,Manchester City,88,MCI,Chelsea,80,CHE,1,1,2.77713,1.82903,0.5909,0.1949,0.2142,2023,Manchester City v Chelsea
+22143,2024-02-18 14:00:00,Sheffield United,238,SHE,Brighton,220,BRI,0,5,0.586214,3.35549,0.012,0.0482,0.9398,2023,Sheffield United v Brighton
+22139,2024-02-18 16:30:00,Luton,256,LUT,Manchester United,89,MUN,1,2,1.57234,3.58973,0.0801,0.1195,0.8004,2023,Luton v Manchester United
+22137,2024-02-19 20:00:00,Everton,72,EVE,Crystal Palace,78,CRY,1,1,2.44588,0.734685,0.8065,0.1381,0.0554,2023,Everton v Crystal Palace
+22074,2024-02-20 18:30:00,Manchester City,88,MCI,Brentford,244,BRE,1,0,2.53766,0.503799,0.845,0.1154,0.0396,2023,Manchester City v Brentford
+22151,2024-02-21 15:00:00,Liverpool,87,LIV,Luton,256,LUT,4,1,3.70302,0.956512,0.8961,0.0729,0.031,2023,Liverpool v Luton
+22147,2024-02-24 15:00:00,Aston Villa,71,AVL,Nottingham Forest,249,NOT,4,2,3.48861,2.25569,0.6676,0.188,0.1444,2023,Aston Villa v Nottingham Forest
+22148,2024-02-24 15:00:00,Brighton,220,BRI,Everton,72,EVE,1,1,1.6538,0.286655,0.7466,0.2016,0.0518,2023,Brighton v Everton
+22150,2024-02-24 15:00:00,Crystal Palace,78,CRY,Burnley,92,BUR,3,0,2.41612,0.0760216,0.9557,0.042,0.0023,2023,Crystal Palace v Burnley
+22152,2024-02-24 15:00:00,Manchester United,89,MUN,Fulham,228,FLH,1,2,1.96036,1.1385,0.5948,0.2309,0.1743,2023,Manchester United v Fulham
+22145,2024-02-24 17:30:00,Bournemouth,73,BOU,Manchester City,88,MCI,0,1,0.925889,1.79636,0.1377,0.2393,0.623,2023,Bournemouth v Manchester City
+22146,2024-02-24 20:00:00,Arsenal,83,ARS,Newcastle United,86,NEW,4,1,2.59336,0.217373,0.933,0.0583,0.0087,2023,Arsenal v Newcastle United
+22154,2024-02-25 13:30:00,Wolverhampton Wanderers,229,WOL,Sheffield United,238,SHE,1,0,1.21618,0.654342,0.5154,0.3025,0.1821,2023,Wolverhampton Wanderers v Sheffield United
+22153,2024-02-26 20:00:00,West Ham,81,WHU,Brentford,244,BRE,4,2,2.06873,1.33683,0.5759,0.2315,0.1926,2023,West Ham v Brentford
+22155,2024-03-02 15:00:00,Brentford,244,BRE,Chelsea,80,CHE,2,2,2.4732,2.1523,0.4418,0.2411,0.3171,2023,Brentford v Chelsea
+22157,2024-03-02 15:00:00,Everton,72,EVE,West Ham,81,WHU,1,3,3.12075,2.17948,0.6041,0.2042,0.1917,2023,Everton v West Ham
+22158,2024-03-02 15:00:00,Fulham,228,FLH,Brighton,220,BRI,3,0,1.37604,1.15198,0.4214,0.2805,0.2981,2023,Fulham v Brighton
+22161,2024-03-02 15:00:00,Newcastle United,86,NEW,Wolverhampton Wanderers,229,WOL,3,0,3.33495,0.507769,0.9528,0.0375,0.0097,2023,Newcastle United v Wolverhampton Wanderers
+22162,2024-03-02 15:00:00,Nottingham Forest,249,NOT,Liverpool,87,LIV,0,1,0.971466,1.32259,0.267,0.2868,0.4462,2023,Nottingham Forest v Liverpool
+22164,2024-03-02 15:00:00,Tottenham,82,TOT,Crystal Palace,78,CRY,3,1,2.6625,0.277887,0.9285,0.0622,0.0093,2023,Tottenham v Crystal Palace
+22159,2024-03-02 17:30:00,Luton,256,LUT,Aston Villa,71,AVL,2,3,2.43312,2.08586,0.4648,0.2474,0.2878,2023,Luton v Aston Villa
+22156,2024-03-03 13:00:00,Burnley,92,BUR,Bournemouth,73,BOU,0,2,1.60461,1.43616,0.4202,0.2635,0.3163,2023,Burnley v Bournemouth
+22160,2024-03-03 15:30:00,Manchester City,88,MCI,Manchester United,89,MUN,3,1,2.64173,0.153764,0.9375,0.0569,0.0056,2023,Manchester City v Manchester United
+22163,2024-03-04 20:00:00,Sheffield United,238,SHE,Arsenal,83,ARS,0,6,0.201374,2.47294,0.0132,0.089,0.8978,2023,Sheffield United v Arsenal
+22172,2024-03-09 12:30:00,Manchester United,89,MUN,Everton,72,EVE,2,0,2.9016,1.8214,0.6539,0.188,0.1581,2023,Manchester United v Everton
+22165,2024-03-09 15:00:00,Bournemouth,73,BOU,Sheffield United,238,SHE,2,2,3.92657,1.91752,0.7827,0.1317,0.0856,2023,Bournemouth v Sheffield United
+22170,2024-03-09 15:00:00,Crystal Palace,78,CRY,Luton,256,LUT,1,1,3.25103,1.08531,0.8485,0.1087,0.0428,2023,Crystal Palace v Luton
+22174,2024-03-09 15:00:00,Wolverhampton Wanderers,229,WOL,Fulham,228,FLH,2,1,1.29589,2.94155,0.0956,0.1555,0.7489,2023,Wolverhampton Wanderers v Fulham
+22166,2024-03-09 17:30:00,Arsenal,83,ARS,Brentford,244,BRE,2,1,1.59369,0.733239,0.5916,0.262,0.1464,2023,Arsenal v Brentford
+22167,2024-03-10 13:00:00,Aston Villa,71,AVL,Tottenham,82,TOT,0,4,1.23267,2.25381,0.1441,0.2079,0.648,2023,Aston Villa v Tottenham
+22168,2024-03-10 14:00:00,Brighton,220,BRI,Nottingham Forest,249,NOT,1,0,0.534518,0.687034,0.2326,0.4127,0.3547,2023,Brighton v Nottingham Forest
+22173,2024-03-10 14:00:00,West Ham,81,WHU,Burnley,92,BUR,2,2,1.87414,0.88131,0.617,0.2337,0.1493,2023,West Ham v Burnley
+22171,2024-03-10 15:45:00,Liverpool,87,LIV,Manchester City,88,MCI,1,1,2.25492,1.37289,0.5862,0.2435,0.1703,2023,Liverpool v Manchester City
+22169,2024-03-11 20:00:00,Chelsea,80,CHE,Newcastle United,86,NEW,3,2,1.78315,0.568435,0.7549,0.1839,0.0612,2023,Chelsea v Newcastle United
+25861,2024-03-13 19:30:00,Bournemouth,73,BOU,Luton,256,LUT,4,3,2.84403,2.79419,0.3874,0.23,0.3826,2023,Bournemouth v Luton
+22177,2024-03-16 15:00:00,Burnley,92,BUR,Brentford,244,BRE,2,1,2.69776,1.25123,0.7332,0.1712,0.0956,2023,Burnley v Brentford
+22181,2024-03-16 15:00:00,Luton,256,LUT,Nottingham Forest,249,NOT,1,1,0.853782,1.95268,0.1236,0.2202,0.6562,2023,Luton v Nottingham Forest
+22180,2024-03-16 17:30:00,Fulham,228,FLH,Tottenham,82,TOT,3,0,2.47234,2.14564,0.4497,0.2511,0.2992,2023,Fulham v Tottenham
+22183,2024-03-17 14:00:00,West Ham,81,WHU,Aston Villa,71,AVL,1,1,1.32829,0.911274,0.4612,0.3004,0.2384,2023,West Ham v Aston Villa
+22191,2024-03-30 12:30:00,Newcastle United,86,NEW,West Ham,81,WHU,4,3,3.80922,0.994584,0.9141,0.0607,0.0252,2023,Newcastle United v West Ham
+22185,2024-03-30 15:00:00,Bournemouth,73,BOU,Everton,72,EVE,2,1,1.39268,0.93378,0.4836,0.3187,0.1977,2023,Bournemouth v Everton
+22188,2024-03-30 15:00:00,Chelsea,80,CHE,Burnley,92,BUR,2,2,4.46643,2.10422,0.8334,0.0971,0.0695,2023,Chelsea v Burnley
+22192,2024-03-30 15:00:00,Nottingham Forest,249,NOT,Crystal Palace,78,CRY,1,1,0.784652,0.900972,0.2849,0.3583,0.3568,2023,Nottingham Forest v Crystal Palace
+22193,2024-03-30 15:00:00,Sheffield United,238,SHE,Fulham,228,FLH,3,3,1.78824,1.10254,0.5659,0.2465,0.1876,2023,Sheffield United v Fulham
+22194,2024-03-30 15:00:00,Tottenham,82,TOT,Luton,256,LUT,2,1,2.46523,0.402402,0.8853,0.093,0.0217,2023,Tottenham v Luton
+22186,2024-03-30 17:30:00,Aston Villa,71,AVL,Wolverhampton Wanderers,229,WOL,2,0,1.28271,1.66232,0.2681,0.2583,0.4736,2023,Aston Villa v Wolverhampton Wanderers
+22187,2024-03-30 20:00:00,Brentford,244,BRE,Manchester United,89,MUN,1,1,3.16487,0.989565,0.8271,0.1192,0.0537,2023,Brentford v Manchester United
+22189,2024-03-31 14:00:00,Liverpool,87,LIV,Brighton,220,BRI,2,1,3.21149,0.43922,0.9248,0.06,0.0152,2023,Liverpool v Brighton
+22190,2024-03-31 16:30:00,Manchester City,88,MCI,Arsenal,83,ARS,0,0,1.22009,0.511402,0.5957,0.2805,0.1238,2023,Manchester City v Arsenal
+22198,2024-04-02 18:30:00,Nottingham Forest,249,NOT,Fulham,228,FLH,3,1,1.94619,1.04304,0.6133,0.215,0.1717,2023,Nottingham Forest v Fulham
+22202,2024-04-02 18:30:00,Newcastle United,86,NEW,Everton,72,EVE,1,1,2.65009,1.69834,0.6098,0.2173,0.1729,2023,Newcastle United v Everton
+22195,2024-04-02 18:45:00,Bournemouth,73,BOU,Crystal Palace,78,CRY,1,0,1.30969,0.174389,0.7183,0.2403,0.0414,2023,Bournemouth v Crystal Palace
+22197,2024-04-02 18:45:00,Burnley,92,BUR,Wolverhampton Wanderers,229,WOL,1,1,1.12581,1.01021,0.3791,0.3116,0.3093,2023,Burnley v Wolverhampton Wanderers
+22199,2024-04-02 19:15:00,West Ham,81,WHU,Tottenham,82,TOT,1,1,1.47017,1.39423,0.3691,0.3037,0.3272,2023,West Ham v Tottenham
+22196,2024-04-03 18:30:00,Arsenal,83,ARS,Luton,256,LUT,2,0,1.14384,0.292082,0.6149,0.301,0.0841,2023,Arsenal v Luton
+22200,2024-04-03 18:30:00,Brentford,244,BRE,Brighton,220,BRI,0,0,0.423299,1.22404,0.1184,0.2938,0.5878,2023,Brentford v Brighton
+22204,2024-04-03 19:15:00,Manchester City,88,MCI,Aston Villa,71,AVL,4,1,3.87704,1.18643,0.8896,0.0723,0.0381,2023,Manchester City v Aston Villa
+22203,2024-04-04 18:30:00,Liverpool,87,LIV,Sheffield United,238,SHE,3,1,2.51772,0.720948,0.7969,0.151,0.0521,2023,Liverpool v Sheffield United
+22201,2024-04-04 19:15:00,Chelsea,80,CHE,Manchester United,89,MUN,4,3,3.48048,1.56686,0.7877,0.1251,0.0872,2023,Chelsea v Manchester United
+22207,2024-04-06 11:30:00,Crystal Palace,78,CRY,Manchester City,88,MCI,2,4,1.49472,2.26381,0.211,0.2307,0.5583,2023,Crystal Palace v Manchester City
+22205,2024-04-06 14:00:00,Aston Villa,71,AVL,Brentford,244,BRE,3,3,1.16333,1.42064,0.2673,0.2872,0.4455,2023,Aston Villa v Brentford
+22208,2024-04-06 14:00:00,Everton,72,EVE,Burnley,92,BUR,1,0,0.659844,0.34699,0.3827,0.4499,0.1674,2023,Everton v Burnley
+22209,2024-04-06 14:00:00,Fulham,228,FLH,Newcastle United,86,NEW,0,1,0.834564,1.18012,0.2389,0.3084,0.4527,2023,Fulham v Newcastle United
+22210,2024-04-06 14:00:00,Luton,256,LUT,Bournemouth,73,BOU,2,1,1.30478,0.616108,0.5559,0.2877,0.1564,2023,Luton v Bournemouth
+22214,2024-04-06 14:00:00,Wolverhampton Wanderers,229,WOL,West Ham,81,WHU,1,2,1.78341,1.14133,0.5558,0.2917,0.1525,2023,Wolverhampton Wanderers v West Ham
+22206,2024-04-06 16:30:00,Brighton,220,BRI,Arsenal,83,ARS,0,3,0.428514,4.16518,0.004,0.0185,0.9775,2023,Brighton v Arsenal
+22211,2024-04-07 14:30:00,Manchester United,89,MUN,Liverpool,87,LIV,2,2,0.814509,4.43457,0.007,0.0309,0.9621,2023,Manchester United v Liverpool
+22212,2024-04-07 16:30:00,Sheffield United,238,SHE,Chelsea,80,CHE,2,2,1.74265,0.521789,0.7207,0.2028,0.0765,2023,Sheffield United v Chelsea
+22213,2024-04-07 19:00:00,Tottenham,82,TOT,Nottingham Forest,249,NOT,3,1,1.61978,2.00122,0.2404,0.2793,0.4803,2023,Tottenham v Nottingham Forest
+22222,2024-04-13 11:30:00,Newcastle United,86,NEW,Tottenham,82,TOT,4,0,3.1483,0.737596,0.8841,0.0843,0.0316,2023,Newcastle United v Tottenham
+22217,2024-04-13 14:00:00,Brentford,244,BRE,Sheffield United,238,SHE,2,0,1.09071,0.834498,0.4097,0.3275,0.2628,2023,Brentford v Sheffield United
+22218,2024-04-13 14:00:00,Burnley,92,BUR,Brighton,220,BRI,1,1,1.8522,0.889445,0.6483,0.2124,0.1393,2023,Burnley v Brighton
+22221,2024-04-13 14:00:00,Manchester City,88,MCI,Luton,256,LUT,5,1,4.64245,0.809775,0.9687,0.0253,0.006,2023,Manchester City v Luton
+22223,2024-04-13 14:00:00,Nottingham Forest,249,NOT,Wolverhampton Wanderers,229,WOL,2,2,1.76244,1.45688,0.4299,0.2841,0.286,2023,Nottingham Forest v Wolverhampton Wanderers
+22215,2024-04-13 16:30:00,Bournemouth,73,BOU,Manchester United,89,MUN,2,2,2.38519,1.52274,0.5851,0.2409,0.174,2023,Bournemouth v Manchester United
+22220,2024-04-14 13:00:00,Liverpool,87,LIV,Crystal Palace,78,CRY,0,1,3.04497,2.12879,0.586,0.205,0.209,2023,Liverpool v Crystal Palace
+22224,2024-04-14 13:00:00,West Ham,81,WHU,Fulham,228,FLH,0,2,1.45307,3.61413,0.0551,0.1047,0.8402,2023,West Ham v Fulham
+22216,2024-04-14 15:30:00,Arsenal,83,ARS,Aston Villa,71,AVL,0,2,1.89003,0.929049,0.6312,0.2246,0.1442,2023,Arsenal v Aston Villa
+22219,2024-04-15 19:00:00,Chelsea,80,CHE,Everton,72,EVE,6,0,3.37093,1.21791,0.8957,0.0806,0.0237,2023,Chelsea v Everton
+22230,2024-04-20 14:00:00,Luton,256,LUT,Brentford,244,BRE,1,5,0.497799,3.7809,0.0056,0.0305,0.9639,2023,Luton v Brentford
+22232,2024-04-20 14:00:00,Sheffield United,238,SHE,Burnley,92,BUR,1,4,1.97816,2.42338,0.2848,0.2176,0.4976,2023,Sheffield United v Burnley
+22234,2024-04-20 18:30:00,Wolverhampton Wanderers,229,WOL,Arsenal,83,ARS,0,2,0.164516,1.66179,0.0263,0.1824,0.7913,2023,Wolverhampton Wanderers v Arsenal
+22228,2024-04-21 12:30:00,Everton,72,EVE,Nottingham Forest,249,NOT,2,0,0.473233,1.18916,0.1131,0.289,0.5979,2023,Everton v Nottingham Forest
+22225,2024-04-21 14:00:00,Aston Villa,71,AVL,Bournemouth,73,BOU,3,1,2.62687,2.05211,0.5185,0.2532,0.2283,2023,Aston Villa v Bournemouth
+22227,2024-04-21 14:00:00,Crystal Palace,78,CRY,West Ham,81,WHU,5,2,3.7185,1.34536,0.8772,0.0909,0.0319,2023,Crystal Palace v West Ham
+22229,2024-04-21 15:30:00,Fulham,228,FLH,Liverpool,87,LIV,1,3,0.83885,1.02445,0.2932,0.3265,0.3803,2023,Fulham v Liverpool
+22175,2024-04-23 19:00:00,Arsenal,83,ARS,Chelsea,80,CHE,5,0,3.45858,1.60343,0.7702,0.1394,0.0904,2023,Arsenal v Chelsea
+22184,2024-04-24 18:45:00,Wolverhampton Wanderers,229,WOL,Bournemouth,73,BOU,0,1,0.484454,2.40311,0.0421,0.1264,0.8315,2023,Wolverhampton Wanderers v Bournemouth
+22178,2024-04-24 19:00:00,Crystal Palace,78,CRY,Newcastle United,86,NEW,2,0,1.43661,0.55129,0.6157,0.2628,0.1215,2023,Crystal Palace v Newcastle United
+22179,2024-04-24 19:00:00,Everton,72,EVE,Liverpool,87,LIV,2,0,1.89111,1.87155,0.3871,0.2422,0.3707,2023,Everton v Liverpool
+22182,2024-04-24 19:00:00,Manchester United,89,MUN,Sheffield United,238,SHE,4,2,3.51311,1.20517,0.862,0.0946,0.0434,2023,Manchester United v Sheffield United
+22176,2024-04-25 19:00:00,Brighton,220,BRI,Manchester City,88,MCI,0,4,0.572021,1.90507,0.0723,0.192,0.7357,2023,Brighton v Manchester City
+22243,2024-04-27 11:30:00,West Ham,81,WHU,Liverpool,87,LIV,2,2,0.794025,2.29298,0.0961,0.1784,0.7255,2023,West Ham v Liverpool
+22238,2024-04-27 14:00:00,Fulham,228,FLH,Crystal Palace,78,CRY,1,1,1.39418,1.05387,0.4601,0.286,0.2539,2023,Fulham v Crystal Palace
+22239,2024-04-27 14:00:00,Manchester United,89,MUN,Burnley,92,BUR,1,1,3.06197,1.89591,0.633,0.1894,0.1776,2023,Manchester United v Burnley
+22240,2024-04-27 14:00:00,Newcastle United,86,NEW,Sheffield United,238,SHE,5,1,2.93477,1.82408,0.6347,0.1843,0.181,2023,Newcastle United v Sheffield United
+22244,2024-04-27 14:00:00,Wolverhampton Wanderers,229,WOL,Luton,256,LUT,2,1,1.49011,0.90435,0.5315,0.2771,0.1914,2023,Wolverhampton Wanderers v Luton
+22237,2024-04-27 16:30:00,Everton,72,EVE,Brentford,244,BRE,1,0,1.21399,0.956356,0.413,0.3107,0.2763,2023,Everton v Brentford
+22236,2024-04-27 19:00:00,Aston Villa,71,AVL,Chelsea,80,CHE,2,2,0.612257,1.56401,0.1222,0.2418,0.636,2023,Aston Villa v Chelsea
+22235,2024-04-28 13:00:00,Bournemouth,73,BOU,Brighton,220,BRI,3,0,2.48132,1.35682,0.6621,0.2038,0.1341,2023,Bournemouth v Brighton
+22241,2024-04-28 13:00:00,Tottenham,82,TOT,Arsenal,83,ARS,2,3,2.60458,1.51469,0.6558,0.2025,0.1417,2023,Tottenham v Arsenal
+22242,2024-04-28 15:30:00,Nottingham Forest,249,NOT,Manchester City,88,MCI,0,2,2.17312,0.932063,0.7162,0.1854,0.0984,2023,Nottingham Forest v Manchester City
+22149,2024-05-02 18:30:00,Chelsea,80,CHE,Tottenham,82,TOT,2,0,2.22432,1.27064,0.6141,0.2125,0.1734,2023,Chelsea v Tottenham
+22252,2024-05-03 19:00:00,Luton,256,LUT,Everton,72,EVE,1,1,0.950391,1.22959,0.2417,0.3209,0.4374,2023,Luton v Everton
+22245,2024-05-04 11:30:00,Arsenal,83,ARS,Bournemouth,73,BOU,3,0,3.91372,0.4687,0.9654,0.0291,0.0055,2023,Arsenal v Bournemouth
+22246,2024-05-04 14:00:00,Brentford,244,BRE,Fulham,228,FLH,0,0,0.809379,1.45579,0.1715,0.2963,0.5322,2023,Brentford v Fulham
+22248,2024-05-04 14:00:00,Burnley,92,BUR,Newcastle United,86,NEW,1,4,1.28632,4.25643,0.0178,0.0508,0.9314,2023,Burnley v Newcastle United
+22254,2024-05-04 14:00:00,Sheffield United,238,SHE,Nottingham Forest,249,NOT,1,3,2.48986,1.93818,0.5059,0.2253,0.2688,2023,Sheffield United v Nottingham Forest
+22253,2024-05-04 16:30:00,Manchester City,88,MCI,Wolverhampton Wanderers,229,WOL,5,1,4.52542,0.396887,0.991,0.0079,0.0011,2023,Manchester City v Wolverhampton Wanderers
+22247,2024-05-05 13:00:00,Brighton,220,BRI,Aston Villa,71,AVL,1,0,2.63566,0.0644055,0.9753,0.0239,0.0008,2023,Brighton v Aston Villa
+22249,2024-05-05 13:00:00,Chelsea,80,CHE,West Ham,81,WHU,5,0,4.21838,0.893899,0.9432,0.0394,0.0174,2023,Chelsea v West Ham
+22251,2024-05-05 15:30:00,Liverpool,87,LIV,Tottenham,82,TOT,4,2,3.26222,1.17205,0.8315,0.1185,0.05,2023,Liverpool v Tottenham
+22250,2024-05-06 19:00:00,Crystal Palace,78,CRY,Manchester United,89,MUN,4,0,2.0656,0.341417,0.8297,0.137,0.0333,2023,Crystal Palace v Manchester United
+22258,2024-05-11 11:30:00,Fulham,228,FLH,Manchester City,88,MCI,0,4,0.0886245,3.15218,0.001,0.0222,0.9768,2023,Fulham v Manchester City
+22255,2024-05-11 14:00:00,Bournemouth,73,BOU,Brentford,244,BRE,1,2,1.07237,1.92722,0.1659,0.2389,0.5952,2023,Bournemouth v Brentford
+22257,2024-05-11 14:00:00,Everton,72,EVE,Sheffield United,238,SHE,1,0,1.82411,0.465523,0.765,0.1746,0.0604,2023,Everton v Sheffield United
+22260,2024-05-11 14:00:00,Newcastle United,86,NEW,Brighton,220,BRI,1,1,2.45163,1.91556,0.4998,0.2298,0.2704,2023,Newcastle United v Brighton
+22262,2024-05-11 14:00:00,Tottenham,82,TOT,Burnley,92,BUR,2,1,3.00238,0.950331,0.8361,0.1169,0.047,2023,Tottenham v Burnley
+22263,2024-05-11 14:00:00,West Ham,81,WHU,Luton,256,LUT,3,1,3.71009,0.640456,0.9567,0.0361,0.0072,2023,West Ham v Luton
+22264,2024-05-11 14:00:00,Wolverhampton Wanderers,229,WOL,Crystal Palace,78,CRY,1,3,1.1561,2.51452,0.0949,0.1802,0.7249,2023,Wolverhampton Wanderers v Crystal Palace
+22261,2024-05-11 16:30:00,Nottingham Forest,249,NOT,Chelsea,80,CHE,2,3,2.44569,2.41068,0.3917,0.2374,0.3709,2023,Nottingham Forest v Chelsea
+22259,2024-05-12 15:30:00,Manchester United,89,MUN,Arsenal,83,ARS,0,1,0.551669,1.73104,0.0616,0.1941,0.7443,2023,Manchester United v Arsenal
+22256,2024-05-13 19:00:00,Aston Villa,71,AVL,Liverpool,87,LIV,3,3,2.71655,1.89968,0.5746,0.2272,0.1982,2023,Aston Villa v Liverpool
+22233,2024-05-14 19:00:00,Tottenham,82,TOT,Manchester City,88,MCI,0,2,1.84285,2.70331,0.169,0.2244,0.6066,2023,Tottenham v Manchester City
+22226,2024-05-15 18:45:00,Brighton,220,BRI,Chelsea,80,CHE,1,2,1.32423,1.544,0.2978,0.2856,0.4166,2023,Brighton v Chelsea
+22231,2024-05-15 19:00:00,Manchester United,89,MUN,Newcastle United,86,NEW,3,2,1.49706,2.27657,0.2182,0.2203,0.5615,2023,Manchester United v Newcastle United
+22265,2024-05-19 15:00:00,Arsenal,83,ARS,Everton,72,EVE,2,1,3.2117,0.664904,0.9199,0.0673,0.0128,2023,Arsenal v Everton
+22266,2024-05-19 15:00:00,Brentford,244,BRE,Newcastle United,86,NEW,2,4,1.70157,3.65044,0.0766,0.1234,0.8,2023,Brentford v Newcastle United
+22267,2024-05-19 15:00:00,Brighton,220,BRI,Manchester United,89,MUN,0,2,1.9717,1.00404,0.6239,0.2248,0.1513,2023,Brighton v Manchester United
+22268,2024-05-19 15:00:00,Burnley,92,BUR,Nottingham Forest,249,NOT,1,2,1.08222,1.57962,0.2347,0.2662,0.4991,2023,Burnley v Nottingham Forest
+22269,2024-05-19 15:00:00,Chelsea,80,CHE,Bournemouth,73,BOU,2,1,1.59771,2.002,0.2743,0.2387,0.487,2023,Chelsea v Bournemouth
+22270,2024-05-19 15:00:00,Crystal Palace,78,CRY,Aston Villa,71,AVL,5,0,2.23189,0.598846,0.7913,0.1508,0.0579,2023,Crystal Palace v Aston Villa
+22271,2024-05-19 15:00:00,Liverpool,87,LIV,Wolverhampton Wanderers,229,WOL,2,0,5.65937,0.731254,0.9939,0.0057,0.0004,2023,Liverpool v Wolverhampton Wanderers
+22272,2024-05-19 15:00:00,Luton,256,LUT,Fulham,228,FLH,2,4,2.06743,1.11598,0.6273,0.2206,0.1521,2023,Luton v Fulham
+22273,2024-05-19 15:00:00,Manchester City,88,MCI,West Ham,81,WHU,3,1,2.31504,0.240159,0.8797,0.1018,0.0185,2023,Manchester City v West Ham
+22274,2024-05-19 15:00:00,Sheffield United,238,SHE,Tottenham,82,TOT,0,3,0.697312,3.19675,0.0151,0.0617,0.9232,2023,Sheffield United v Tottenham

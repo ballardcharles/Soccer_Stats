@@ -1,0 +1,6 @@
+File,Rows,Columns,Size_KB
+01_matches_xG.csv,1140,20,213.14
+02_team_match_stats.csv,850,29,213.86
+03_shot_events.csv,22547,21,5202.18
+04_player_season_stats.csv,1573,23,267.45
+05_player_match_stats.csv,25713,24,4568.74

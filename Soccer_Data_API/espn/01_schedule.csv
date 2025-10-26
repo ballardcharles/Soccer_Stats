@@ -1,0 +1,1141 @@
+league,season,game,date,home_team,away_team,game_id,league_id
+ENG-Premier League,2324,2023-08-11 Burnley-Manchester City,2023-08-11 19:00:00+00:00,Burnley,Manchester City,671031,eng.1
+ENG-Premier League,2324,2023-08-12 AFC Bournemouth-West Ham United,2023-08-12 14:00:00+00:00,AFC Bournemouth,West Ham United,671033,eng.1
+ENG-Premier League,2324,2023-08-12 Arsenal-Nottingham Forest,2023-08-12 12:00:00+00:00,Arsenal,Nottingham Forest,671032,eng.1
+ENG-Premier League,2324,2023-08-12 Brighton & Hove Albion-Luton Town,2023-08-12 14:00:00+00:00,Brighton & Hove Albion,Luton Town,671034,eng.1
+ENG-Premier League,2324,2023-08-12 Everton-Fulham,2023-08-12 14:00:00+00:00,Everton,Fulham,671035,eng.1
+ENG-Premier League,2324,2023-08-12 Newcastle United-Aston Villa,2023-08-12 16:30:00+00:00,Newcastle United,Aston Villa,671037,eng.1
+ENG-Premier League,2324,2023-08-12 Sheffield United-Crystal Palace,2023-08-12 14:00:00+00:00,Sheffield United,Crystal Palace,671036,eng.1
+ENG-Premier League,2324,2023-08-13 Brentford-Tottenham Hotspur,2023-08-13 13:00:00+00:00,Brentford,Tottenham Hotspur,671038,eng.1
+ENG-Premier League,2324,2023-08-13 Chelsea-Liverpool,2023-08-13 15:30:00+00:00,Chelsea,Liverpool,671039,eng.1
+ENG-Premier League,2324,2023-08-14 Manchester United-Wolverhampton Wanderers,2023-08-14 19:00:00+00:00,Manchester United,Wolverhampton Wanderers,671040,eng.1
+ENG-Premier League,2324,2023-08-18 Nottingham Forest-Sheffield United,2023-08-18 18:45:00+00:00,Nottingham Forest,Sheffield United,671047,eng.1
+ENG-Premier League,2324,2023-08-19 Fulham-Brentford,2023-08-19 14:00:00+00:00,Fulham,Brentford,671043,eng.1
+ENG-Premier League,2324,2023-08-19 Liverpool-AFC Bournemouth,2023-08-19 14:00:00+00:00,Liverpool,AFC Bournemouth,671044,eng.1
+ENG-Premier League,2324,2023-08-19 Manchester City-Newcastle United,2023-08-19 19:00:00+00:00,Manchester City,Newcastle United,671046,eng.1
+ENG-Premier League,2324,2023-08-19 Tottenham Hotspur-Manchester United,2023-08-19 16:30:00+00:00,Tottenham Hotspur,Manchester United,671048,eng.1
+ENG-Premier League,2324,2023-08-19 Wolverhampton Wanderers-Brighton & Hove Albion,2023-08-19 14:00:00+00:00,Wolverhampton Wanderers,Brighton & Hove Albion,671050,eng.1
+ENG-Premier League,2324,2023-08-20 Aston Villa-Everton,2023-08-20 13:00:00+00:00,Aston Villa,Everton,671041,eng.1
+ENG-Premier League,2324,2023-08-20 West Ham United-Chelsea,2023-08-20 15:30:00+00:00,West Ham United,Chelsea,671049,eng.1
+ENG-Premier League,2324,2023-08-21 Crystal Palace-Arsenal,2023-08-21 19:00:00+00:00,Crystal Palace,Arsenal,671042,eng.1
+ENG-Premier League,2324,2023-08-25 Chelsea-Luton Town,2023-08-25 19:00:00+00:00,Chelsea,Luton Town,671056,eng.1
+ENG-Premier League,2324,2023-08-26 AFC Bournemouth-Tottenham Hotspur,2023-08-26 11:30:00+00:00,AFC Bournemouth,Tottenham Hotspur,671052,eng.1
+ENG-Premier League,2324,2023-08-26 Arsenal-Fulham,2023-08-26 14:00:00+00:00,Arsenal,Fulham,671051,eng.1
+ENG-Premier League,2324,2023-08-26 Brentford-Crystal Palace,2023-08-26 14:00:00+00:00,Brentford,Crystal Palace,671053,eng.1
+ENG-Premier League,2324,2023-08-26 Brighton & Hove Albion-West Ham United,2023-08-26 16:30:00+00:00,Brighton & Hove Albion,West Ham United,671054,eng.1
+ENG-Premier League,2324,2023-08-26 Everton-Wolverhampton Wanderers,2023-08-26 14:00:00+00:00,Everton,Wolverhampton Wanderers,671057,eng.1
+ENG-Premier League,2324,2023-08-26 Manchester United-Nottingham Forest,2023-08-26 14:00:00+00:00,Manchester United,Nottingham Forest,671058,eng.1
+ENG-Premier League,2324,2023-08-27 Burnley-Aston Villa,2023-08-27 13:00:00+00:00,Burnley,Aston Villa,671060,eng.1
+ENG-Premier League,2324,2023-08-27 Newcastle United-Liverpool,2023-08-27 15:30:00+00:00,Newcastle United,Liverpool,671055,eng.1
+ENG-Premier League,2324,2023-08-27 Sheffield United-Manchester City,2023-08-27 13:00:00+00:00,Sheffield United,Manchester City,671059,eng.1
+ENG-Premier League,2324,2023-09-01 Luton Town-West Ham United,2023-09-01 19:00:00+00:00,Luton Town,West Ham United,671070,eng.1
+ENG-Premier League,2324,2023-09-02 Brentford-AFC Bournemouth,2023-09-02 14:00:00+00:00,Brentford,AFC Bournemouth,671068,eng.1
+ENG-Premier League,2324,2023-09-02 Brighton & Hove Albion-Newcastle United,2023-09-02 16:30:00+00:00,Brighton & Hove Albion,Newcastle United,671069,eng.1
+ENG-Premier League,2324,2023-09-02 Burnley-Tottenham Hotspur,2023-09-02 14:00:00+00:00,Burnley,Tottenham Hotspur,671061,eng.1
+ENG-Premier League,2324,2023-09-02 Chelsea-Nottingham Forest,2023-09-02 14:00:00+00:00,Chelsea,Nottingham Forest,671062,eng.1
+ENG-Premier League,2324,2023-09-02 Manchester City-Fulham,2023-09-02 14:00:00+00:00,Manchester City,Fulham,671066,eng.1
+ENG-Premier League,2324,2023-09-02 Sheffield United-Everton,2023-09-02 11:30:00+00:00,Sheffield United,Everton,671067,eng.1
+ENG-Premier League,2324,2023-09-03 Arsenal-Manchester United,2023-09-03 15:30:00+00:00,Arsenal,Manchester United,671065,eng.1
+ENG-Premier League,2324,2023-09-03 Crystal Palace-Wolverhampton Wanderers,2023-09-03 13:00:00+00:00,Crystal Palace,Wolverhampton Wanderers,671063,eng.1
+ENG-Premier League,2324,2023-09-03 Liverpool-Aston Villa,2023-09-03 13:00:00+00:00,Liverpool,Aston Villa,671064,eng.1
+ENG-Premier League,2324,2023-09-16 Aston Villa-Crystal Palace,2023-09-16 14:00:00+00:00,Aston Villa,Crystal Palace,671071,eng.1
+ENG-Premier League,2324,2023-09-16 Fulham-Luton Town,2023-09-16 14:00:00+00:00,Fulham,Luton Town,671074,eng.1
+ENG-Premier League,2324,2023-09-16 Manchester United-Brighton & Hove Albion,2023-09-16 14:00:00+00:00,Manchester United,Brighton & Hove Albion,671075,eng.1
+ENG-Premier League,2324,2023-09-16 Newcastle United-Brentford,2023-09-16 16:30:00+00:00,Newcastle United,Brentford,671077,eng.1
+ENG-Premier League,2324,2023-09-16 Tottenham Hotspur-Sheffield United,2023-09-16 14:00:00+00:00,Tottenham Hotspur,Sheffield United,671079,eng.1
+ENG-Premier League,2324,2023-09-16 West Ham United-Manchester City,2023-09-16 14:00:00+00:00,West Ham United,Manchester City,671078,eng.1
+ENG-Premier League,2324,2023-09-16 Wolverhampton Wanderers-Liverpool,2023-09-16 11:30:00+00:00,Wolverhampton Wanderers,Liverpool,671080,eng.1
+ENG-Premier League,2324,2023-09-17 AFC Bournemouth-Chelsea,2023-09-17 13:00:00+00:00,AFC Bournemouth,Chelsea,671072,eng.1
+ENG-Premier League,2324,2023-09-17 Everton-Arsenal,2023-09-17 15:30:00+00:00,Everton,Arsenal,671073,eng.1
+ENG-Premier League,2324,2023-09-18 Nottingham Forest-Burnley,2023-09-18 18:45:00+00:00,Nottingham Forest,Burnley,671076,eng.1
+ENG-Premier League,2324,2023-09-23 Brentford-Everton,2023-09-23 16:30:00+00:00,Brentford,Everton,671086,eng.1
+ENG-Premier League,2324,2023-09-23 Burnley-Manchester United,2023-09-23 19:00:00+00:00,Burnley,Manchester United,671088,eng.1
+ENG-Premier League,2324,2023-09-23 Crystal Palace-Fulham,2023-09-23 14:00:00+00:00,Crystal Palace,Fulham,671089,eng.1
+ENG-Premier League,2324,2023-09-23 Luton Town-Wolverhampton Wanderers,2023-09-23 14:00:00+00:00,Luton Town,Wolverhampton Wanderers,671082,eng.1
+ENG-Premier League,2324,2023-09-23 Manchester City-Nottingham Forest,2023-09-23 14:00:00+00:00,Manchester City,Nottingham Forest,671081,eng.1
+ENG-Premier League,2324,2023-09-24 Arsenal-Tottenham Hotspur,2023-09-24 13:00:00+00:00,Arsenal,Tottenham Hotspur,671085,eng.1
+ENG-Premier League,2324,2023-09-24 Brighton & Hove Albion-AFC Bournemouth,2023-09-24 13:00:00+00:00,Brighton & Hove Albion,AFC Bournemouth,671087,eng.1
+ENG-Premier League,2324,2023-09-24 Chelsea-Aston Villa,2023-09-24 13:00:00+00:00,Chelsea,Aston Villa,671083,eng.1
+ENG-Premier League,2324,2023-09-24 Liverpool-West Ham United,2023-09-24 13:00:00+00:00,Liverpool,West Ham United,671090,eng.1
+ENG-Premier League,2324,2023-09-24 Sheffield United-Newcastle United,2023-09-24 15:30:00+00:00,Sheffield United,Newcastle United,671084,eng.1
+ENG-Premier League,2324,2023-09-30 AFC Bournemouth-Arsenal,2023-09-30 14:00:00+00:00,AFC Bournemouth,Arsenal,671099,eng.1
+ENG-Premier League,2324,2023-09-30 Aston Villa-Brighton & Hove Albion,2023-09-30 11:30:00+00:00,Aston Villa,Brighton & Hove Albion,671098,eng.1
+ENG-Premier League,2324,2023-09-30 Everton-Luton Town,2023-09-30 14:00:00+00:00,Everton,Luton Town,671091,eng.1
+ENG-Premier League,2324,2023-09-30 Manchester United-Crystal Palace,2023-09-30 14:00:00+00:00,Manchester United,Crystal Palace,671092,eng.1
+ENG-Premier League,2324,2023-09-30 Newcastle United-Burnley,2023-09-30 14:00:00+00:00,Newcastle United,Burnley,671095,eng.1
+ENG-Premier League,2324,2023-09-30 Tottenham Hotspur-Liverpool,2023-09-30 16:30:00+00:00,Tottenham Hotspur,Liverpool,671100,eng.1
+ENG-Premier League,2324,2023-09-30 West Ham United-Sheffield United,2023-09-30 14:00:00+00:00,West Ham United,Sheffield United,671096,eng.1
+ENG-Premier League,2324,2023-09-30 Wolverhampton Wanderers-Manchester City,2023-09-30 14:00:00+00:00,Wolverhampton Wanderers,Manchester City,671097,eng.1
+ENG-Premier League,2324,2023-10-01 Nottingham Forest-Brentford,2023-10-01 13:00:00+00:00,Nottingham Forest,Brentford,671094,eng.1
+ENG-Premier League,2324,2023-10-02 Fulham-Chelsea,2023-10-02 19:00:00+00:00,Fulham,Chelsea,671093,eng.1
+ENG-Premier League,2324,2023-10-03 Luton Town-Burnley,2023-10-03 18:30:00+00:00,Luton Town,Burnley,671045,eng.1
+ENG-Premier League,2324,2023-10-07 Burnley-Chelsea,2023-10-07 14:00:00+00:00,Burnley,Chelsea,671103,eng.1
+ENG-Premier League,2324,2023-10-07 Crystal Palace-Nottingham Forest,2023-10-07 16:30:00+00:00,Crystal Palace,Nottingham Forest,671104,eng.1
+ENG-Premier League,2324,2023-10-07 Everton-AFC Bournemouth,2023-10-07 14:00:00+00:00,Everton,AFC Bournemouth,671110,eng.1
+ENG-Premier League,2324,2023-10-07 Fulham-Sheffield United,2023-10-07 14:00:00+00:00,Fulham,Sheffield United,671106,eng.1
+ENG-Premier League,2324,2023-10-07 Luton Town-Tottenham Hotspur,2023-10-07 11:30:00+00:00,Luton Town,Tottenham Hotspur,671107,eng.1
+ENG-Premier League,2324,2023-10-07 Manchester United-Brentford,2023-10-07 14:00:00+00:00,Manchester United,Brentford,671108,eng.1
+ENG-Premier League,2324,2023-10-08 Arsenal-Manchester City,2023-10-08 15:30:00+00:00,Arsenal,Manchester City,671101,eng.1
+ENG-Premier League,2324,2023-10-08 Brighton & Hove Albion-Liverpool,2023-10-08 13:00:00+00:00,Brighton & Hove Albion,Liverpool,671102,eng.1
+ENG-Premier League,2324,2023-10-08 West Ham United-Newcastle United,2023-10-08 13:00:00+00:00,West Ham United,Newcastle United,671109,eng.1
+ENG-Premier League,2324,2023-10-08 Wolverhampton Wanderers-Aston Villa,2023-10-08 13:00:00+00:00,Wolverhampton Wanderers,Aston Villa,671105,eng.1
+ENG-Premier League,2324,2023-10-21 AFC Bournemouth-Wolverhampton Wanderers,2023-10-21 14:00:00+00:00,AFC Bournemouth,Wolverhampton Wanderers,671112,eng.1
+ENG-Premier League,2324,2023-10-21 Brentford-Burnley,2023-10-21 14:00:00+00:00,Brentford,Burnley,671111,eng.1
+ENG-Premier League,2324,2023-10-21 Chelsea-Arsenal,2023-10-21 16:30:00+00:00,Chelsea,Arsenal,671114,eng.1
+ENG-Premier League,2324,2023-10-21 Liverpool-Everton,2023-10-21 11:30:00+00:00,Liverpool,Everton,671115,eng.1
+ENG-Premier League,2324,2023-10-21 Manchester City-Brighton & Hove Albion,2023-10-21 14:00:00+00:00,Manchester City,Brighton & Hove Albion,671113,eng.1
+ENG-Premier League,2324,2023-10-21 Newcastle United-Crystal Palace,2023-10-21 14:00:00+00:00,Newcastle United,Crystal Palace,671117,eng.1
+ENG-Premier League,2324,2023-10-21 Nottingham Forest-Luton Town,2023-10-21 14:00:00+00:00,Nottingham Forest,Luton Town,671118,eng.1
+ENG-Premier League,2324,2023-10-21 Sheffield United-Manchester United,2023-10-21 19:00:00+00:00,Sheffield United,Manchester United,671119,eng.1
+ENG-Premier League,2324,2023-10-22 Aston Villa-West Ham United,2023-10-22 15:30:00+00:00,Aston Villa,West Ham United,671120,eng.1
+ENG-Premier League,2324,2023-10-23 Tottenham Hotspur-Fulham,2023-10-23 19:00:00+00:00,Tottenham Hotspur,Fulham,671116,eng.1
+ENG-Premier League,2324,2023-10-27 Crystal Palace-Tottenham Hotspur,2023-10-27 19:00:00+00:00,Crystal Palace,Tottenham Hotspur,671126,eng.1
+ENG-Premier League,2324,2023-10-28 AFC Bournemouth-Burnley,2023-10-28 14:00:00+00:00,AFC Bournemouth,Burnley,671123,eng.1
+ENG-Premier League,2324,2023-10-28 Arsenal-Sheffield United,2023-10-28 14:00:00+00:00,Arsenal,Sheffield United,671122,eng.1
+ENG-Premier League,2324,2023-10-28 Chelsea-Brentford,2023-10-28 11:30:00+00:00,Chelsea,Brentford,671130,eng.1
+ENG-Premier League,2324,2023-10-28 Wolverhampton Wanderers-Newcastle United,2023-10-28 16:30:00+00:00,Wolverhampton Wanderers,Newcastle United,671125,eng.1
+ENG-Premier League,2324,2023-10-29 Aston Villa-Luton Town,2023-10-29 14:00:00+00:00,Aston Villa,Luton Town,671121,eng.1
+ENG-Premier League,2324,2023-10-29 Brighton & Hove Albion-Fulham,2023-10-29 14:00:00+00:00,Brighton & Hove Albion,Fulham,671124,eng.1
+ENG-Premier League,2324,2023-10-29 Liverpool-Nottingham Forest,2023-10-29 14:00:00+00:00,Liverpool,Nottingham Forest,671127,eng.1
+ENG-Premier League,2324,2023-10-29 Manchester United-Manchester City,2023-10-29 15:30:00+00:00,Manchester United,Manchester City,671128,eng.1
+ENG-Premier League,2324,2023-10-29 West Ham United-Everton,2023-10-29 13:00:00+00:00,West Ham United,Everton,671129,eng.1
+ENG-Premier League,2324,2023-11-04 Brentford-West Ham United,2023-11-04 15:00:00+00:00,Brentford,West Ham United,671134,eng.1
+ENG-Premier League,2324,2023-11-04 Burnley-Crystal Palace,2023-11-04 15:00:00+00:00,Burnley,Crystal Palace,671133,eng.1
+ENG-Premier League,2324,2023-11-04 Everton-Brighton & Hove Albion,2023-11-04 15:00:00+00:00,Everton,Brighton & Hove Albion,671132,eng.1
+ENG-Premier League,2324,2023-11-04 Fulham-Manchester United,2023-11-04 12:30:00+00:00,Fulham,Manchester United,671131,eng.1
+ENG-Premier League,2324,2023-11-04 Manchester City-AFC Bournemouth,2023-11-04 15:00:00+00:00,Manchester City,AFC Bournemouth,671136,eng.1
+ENG-Premier League,2324,2023-11-04 Newcastle United-Arsenal,2023-11-04 17:30:00+00:00,Newcastle United,Arsenal,671137,eng.1
+ENG-Premier League,2324,2023-11-04 Sheffield United-Wolverhampton Wanderers,2023-11-04 15:00:00+00:00,Sheffield United,Wolverhampton Wanderers,671140,eng.1
+ENG-Premier League,2324,2023-11-05 Luton Town-Liverpool,2023-11-05 16:30:00+00:00,Luton Town,Liverpool,671135,eng.1
+ENG-Premier League,2324,2023-11-05 Nottingham Forest-Aston Villa,2023-11-05 14:00:00+00:00,Nottingham Forest,Aston Villa,671138,eng.1
+ENG-Premier League,2324,2023-11-06 Tottenham Hotspur-Chelsea,2023-11-06 20:00:00+00:00,Tottenham Hotspur,Chelsea,671139,eng.1
+ENG-Premier League,2324,2023-11-11 AFC Bournemouth-Newcastle United,2023-11-11 17:30:00+00:00,AFC Bournemouth,Newcastle United,671148,eng.1
+ENG-Premier League,2324,2023-11-11 Arsenal-Burnley,2023-11-11 15:00:00+00:00,Arsenal,Burnley,671146,eng.1
+ENG-Premier League,2324,2023-11-11 Crystal Palace-Everton,2023-11-11 15:00:00+00:00,Crystal Palace,Everton,671145,eng.1
+ENG-Premier League,2324,2023-11-11 Manchester United-Luton Town,2023-11-11 15:00:00+00:00,Manchester United,Luton Town,671142,eng.1
+ENG-Premier League,2324,2023-11-11 Wolverhampton Wanderers-Tottenham Hotspur,2023-11-11 12:30:00+00:00,Wolverhampton Wanderers,Tottenham Hotspur,671144,eng.1
+ENG-Premier League,2324,2023-11-12 Aston Villa-Fulham,2023-11-12 14:00:00+00:00,Aston Villa,Fulham,671147,eng.1
+ENG-Premier League,2324,2023-11-12 Brighton & Hove Albion-Sheffield United,2023-11-12 14:00:00+00:00,Brighton & Hove Albion,Sheffield United,671149,eng.1
+ENG-Premier League,2324,2023-11-12 Chelsea-Manchester City,2023-11-12 16:30:00+00:00,Chelsea,Manchester City,671150,eng.1
+ENG-Premier League,2324,2023-11-12 Liverpool-Brentford,2023-11-12 14:00:00+00:00,Liverpool,Brentford,671141,eng.1
+ENG-Premier League,2324,2023-11-12 West Ham United-Nottingham Forest,2023-11-12 14:00:00+00:00,West Ham United,Nottingham Forest,671143,eng.1
+ENG-Premier League,2324,2023-11-25 Brentford-Arsenal,2023-11-25 17:30:00+00:00,Brentford,Arsenal,671160,eng.1
+ENG-Premier League,2324,2023-11-25 Burnley-West Ham United,2023-11-25 15:00:00+00:00,Burnley,West Ham United,671156,eng.1
+ENG-Premier League,2324,2023-11-25 Luton Town-Crystal Palace,2023-11-25 15:00:00+00:00,Luton Town,Crystal Palace,671155,eng.1
+ENG-Premier League,2324,2023-11-25 Manchester City-Liverpool,2023-11-25 12:30:00+00:00,Manchester City,Liverpool,671154,eng.1
+ENG-Premier League,2324,2023-11-25 Newcastle United-Chelsea,2023-11-25 15:00:00+00:00,Newcastle United,Chelsea,671153,eng.1
+ENG-Premier League,2324,2023-11-25 Nottingham Forest-Brighton & Hove Albion,2023-11-25 15:00:00+00:00,Nottingham Forest,Brighton & Hove Albion,671152,eng.1
+ENG-Premier League,2324,2023-11-25 Sheffield United-AFC Bournemouth,2023-11-25 15:00:00+00:00,Sheffield United,AFC Bournemouth,671159,eng.1
+ENG-Premier League,2324,2023-11-26 Everton-Manchester United,2023-11-26 16:30:00+00:00,Everton,Manchester United,671157,eng.1
+ENG-Premier League,2324,2023-11-26 Tottenham Hotspur-Aston Villa,2023-11-26 14:00:00+00:00,Tottenham Hotspur,Aston Villa,671151,eng.1
+ENG-Premier League,2324,2023-11-27 Fulham-Wolverhampton Wanderers,2023-11-27 20:00:00+00:00,Fulham,Wolverhampton Wanderers,671158,eng.1
+ENG-Premier League,2324,2023-12-02 Arsenal-Wolverhampton Wanderers,2023-12-02 15:00:00+00:00,Arsenal,Wolverhampton Wanderers,671162,eng.1
+ENG-Premier League,2324,2023-12-02 Brentford-Luton Town,2023-12-02 15:00:00+00:00,Brentford,Luton Town,671170,eng.1
+ENG-Premier League,2324,2023-12-02 Burnley-Sheffield United,2023-12-02 15:00:00+00:00,Burnley,Sheffield United,671169,eng.1
+ENG-Premier League,2324,2023-12-02 Newcastle United-Manchester United,2023-12-02 20:00:00+00:00,Newcastle United,Manchester United,671165,eng.1
+ENG-Premier League,2324,2023-12-02 Nottingham Forest-Everton,2023-12-02 17:30:00+00:00,Nottingham Forest,Everton,671164,eng.1
+ENG-Premier League,2324,2023-12-03 AFC Bournemouth-Aston Villa,2023-12-03 14:00:00+00:00,AFC Bournemouth,Aston Villa,671161,eng.1
+ENG-Premier League,2324,2023-12-03 Chelsea-Brighton & Hove Albion,2023-12-03 14:00:00+00:00,Chelsea,Brighton & Hove Albion,671163,eng.1
+ENG-Premier League,2324,2023-12-03 Liverpool-Fulham,2023-12-03 14:00:00+00:00,Liverpool,Fulham,671167,eng.1
+ENG-Premier League,2324,2023-12-03 Manchester City-Tottenham Hotspur,2023-12-03 16:30:00+00:00,Manchester City,Tottenham Hotspur,671166,eng.1
+ENG-Premier League,2324,2023-12-03 West Ham United-Crystal Palace,2023-12-03 14:00:00+00:00,West Ham United,Crystal Palace,671168,eng.1
+ENG-Premier League,2324,2023-12-05 Luton Town-Arsenal,2023-12-05 20:15:00+00:00,Luton Town,Arsenal,671175,eng.1
+ENG-Premier League,2324,2023-12-05 Wolverhampton Wanderers-Burnley,2023-12-05 19:30:00+00:00,Wolverhampton Wanderers,Burnley,671177,eng.1
+ENG-Premier League,2324,2023-12-06 Aston Villa-Manchester City,2023-12-06 20:15:00+00:00,Aston Villa,Manchester City,671173,eng.1
+ENG-Premier League,2324,2023-12-06 Brighton & Hove Albion-Brentford,2023-12-06 19:30:00+00:00,Brighton & Hove Albion,Brentford,671171,eng.1
+ENG-Premier League,2324,2023-12-06 Crystal Palace-AFC Bournemouth,2023-12-06 19:30:00+00:00,Crystal Palace,AFC Bournemouth,671179,eng.1
+ENG-Premier League,2324,2023-12-06 Fulham-Nottingham Forest,2023-12-06 19:30:00+00:00,Fulham,Nottingham Forest,671178,eng.1
+ENG-Premier League,2324,2023-12-06 Manchester United-Chelsea,2023-12-06 20:15:00+00:00,Manchester United,Chelsea,671180,eng.1
+ENG-Premier League,2324,2023-12-06 Sheffield United-Liverpool,2023-12-06 19:30:00+00:00,Sheffield United,Liverpool,671172,eng.1
+ENG-Premier League,2324,2023-12-07 Everton-Newcastle United,2023-12-07 19:30:00+00:00,Everton,Newcastle United,671174,eng.1
+ENG-Premier League,2324,2023-12-07 Tottenham Hotspur-West Ham United,2023-12-07 20:15:00+00:00,Tottenham Hotspur,West Ham United,671176,eng.1
+ENG-Premier League,2324,2023-12-09 Aston Villa-Arsenal,2023-12-09 17:30:00+00:00,Aston Villa,Arsenal,671188,eng.1
+ENG-Premier League,2324,2023-12-09 Brighton & Hove Albion-Burnley,2023-12-09 15:00:00+00:00,Brighton & Hove Albion,Burnley,671181,eng.1
+ENG-Premier League,2324,2023-12-09 Crystal Palace-Liverpool,2023-12-09 12:30:00+00:00,Crystal Palace,Liverpool,671182,eng.1
+ENG-Premier League,2324,2023-12-09 Manchester United-AFC Bournemouth,2023-12-09 15:00:00+00:00,Manchester United,AFC Bournemouth,671184,eng.1
+ENG-Premier League,2324,2023-12-09 Sheffield United-Brentford,2023-12-09 15:00:00+00:00,Sheffield United,Brentford,671183,eng.1
+ENG-Premier League,2324,2023-12-09 Wolverhampton Wanderers-Nottingham Forest,2023-12-09 15:00:00+00:00,Wolverhampton Wanderers,Nottingham Forest,671186,eng.1
+ENG-Premier League,2324,2023-12-10 Everton-Chelsea,2023-12-10 14:00:00+00:00,Everton,Chelsea,671190,eng.1
+ENG-Premier League,2324,2023-12-10 Fulham-West Ham United,2023-12-10 14:00:00+00:00,Fulham,West Ham United,671187,eng.1
+ENG-Premier League,2324,2023-12-10 Luton Town-Manchester City,2023-12-10 14:00:00+00:00,Luton Town,Manchester City,671185,eng.1
+ENG-Premier League,2324,2023-12-10 Tottenham Hotspur-Newcastle United,2023-12-10 16:30:00+00:00,Tottenham Hotspur,Newcastle United,671189,eng.1
+ENG-Premier League,2324,2023-12-15 Nottingham Forest-Tottenham Hotspur,2023-12-15 20:00:00+00:00,Nottingham Forest,Tottenham Hotspur,671197,eng.1
+ENG-Premier League,2324,2023-12-16 Burnley-Everton,2023-12-16 17:30:00+00:00,Burnley,Everton,671192,eng.1
+ENG-Premier League,2324,2023-12-16 Chelsea-Sheffield United,2023-12-16 15:00:00+00:00,Chelsea,Sheffield United,671191,eng.1
+ENG-Premier League,2324,2023-12-16 Manchester City-Crystal Palace,2023-12-16 15:00:00+00:00,Manchester City,Crystal Palace,671199,eng.1
+ENG-Premier League,2324,2023-12-16 Newcastle United-Fulham,2023-12-16 15:00:00+00:00,Newcastle United,Fulham,671198,eng.1
+ENG-Premier League,2324,2023-12-17 Arsenal-Brighton & Hove Albion,2023-12-17 14:00:00+00:00,Arsenal,Brighton & Hove Albion,671200,eng.1
+ENG-Premier League,2324,2023-12-17 Brentford-Aston Villa,2023-12-17 14:00:00+00:00,Brentford,Aston Villa,671193,eng.1
+ENG-Premier League,2324,2023-12-17 Liverpool-Manchester United,2023-12-17 16:30:00+00:00,Liverpool,Manchester United,671195,eng.1
+ENG-Premier League,2324,2023-12-17 West Ham United-Wolverhampton Wanderers,2023-12-17 14:00:00+00:00,West Ham United,Wolverhampton Wanderers,671196,eng.1
+ENG-Premier League,2324,2023-12-21 Crystal Palace-Brighton & Hove Albion,2023-12-21 20:00:00+00:00,Crystal Palace,Brighton & Hove Albion,671208,eng.1
+ENG-Premier League,2324,2023-12-22 Aston Villa-Sheffield United,2023-12-22 20:00:00+00:00,Aston Villa,Sheffield United,671209,eng.1
+ENG-Premier League,2324,2023-12-23 Fulham-Burnley,2023-12-23 15:00:00+00:00,Fulham,Burnley,671210,eng.1
+ENG-Premier League,2324,2023-12-23 Liverpool-Arsenal,2023-12-23 17:30:00+00:00,Liverpool,Arsenal,671201,eng.1
+ENG-Premier League,2324,2023-12-23 Luton Town-Newcastle United,2023-12-23 15:00:00+00:00,Luton Town,Newcastle United,671202,eng.1
+ENG-Premier League,2324,2023-12-23 Nottingham Forest-AFC Bournemouth,2023-12-23 15:00:00+00:00,Nottingham Forest,AFC Bournemouth,671204,eng.1
+ENG-Premier League,2324,2023-12-23 Tottenham Hotspur-Everton,2023-12-23 15:00:00+00:00,Tottenham Hotspur,Everton,671205,eng.1
+ENG-Premier League,2324,2023-12-23 West Ham United-Manchester United,2023-12-23 12:30:00+00:00,West Ham United,Manchester United,671206,eng.1
+ENG-Premier League,2324,2023-12-24 Wolverhampton Wanderers-Chelsea,2023-12-24 13:00:00+00:00,Wolverhampton Wanderers,Chelsea,671207,eng.1
+ENG-Premier League,2324,2023-12-26 AFC Bournemouth-Fulham,2023-12-26 15:00:00+00:00,AFC Bournemouth,Fulham,671219,eng.1
+ENG-Premier League,2324,2023-12-26 Burnley-Liverpool,2023-12-26 17:30:00+00:00,Burnley,Liverpool,671212,eng.1
+ENG-Premier League,2324,2023-12-26 Manchester United-Aston Villa,2023-12-26 20:00:00+00:00,Manchester United,Aston Villa,671215,eng.1
+ENG-Premier League,2324,2023-12-26 Newcastle United-Nottingham Forest,2023-12-26 12:30:00+00:00,Newcastle United,Nottingham Forest,671216,eng.1
+ENG-Premier League,2324,2023-12-26 Sheffield United-Luton Town,2023-12-26 15:00:00+00:00,Sheffield United,Luton Town,671217,eng.1
+ENG-Premier League,2324,2023-12-27 Brentford-Wolverhampton Wanderers,2023-12-27 19:30:00+00:00,Brentford,Wolverhampton Wanderers,671220,eng.1
+ENG-Premier League,2324,2023-12-27 Chelsea-Crystal Palace,2023-12-27 19:30:00+00:00,Chelsea,Crystal Palace,671213,eng.1
+ENG-Premier League,2324,2023-12-27 Everton-Manchester City,2023-12-27 20:15:00+00:00,Everton,Manchester City,671214,eng.1
+ENG-Premier League,2324,2023-12-28 Arsenal-West Ham United,2023-12-28 20:15:00+00:00,Arsenal,West Ham United,671218,eng.1
+ENG-Premier League,2324,2023-12-28 Brighton & Hove Albion-Tottenham Hotspur,2023-12-28 19:30:00+00:00,Brighton & Hove Albion,Tottenham Hotspur,671211,eng.1
+ENG-Premier League,2324,2023-12-30 Aston Villa-Burnley,2023-12-30 15:00:00+00:00,Aston Villa,Burnley,671227,eng.1
+ENG-Premier League,2324,2023-12-30 Crystal Palace-Brentford,2023-12-30 15:00:00+00:00,Crystal Palace,Brentford,671226,eng.1
+ENG-Premier League,2324,2023-12-30 Luton Town-Chelsea,2023-12-30 12:30:00+00:00,Luton Town,Chelsea,671228,eng.1
+ENG-Premier League,2324,2023-12-30 Manchester City-Sheffield United,2023-12-30 15:00:00+00:00,Manchester City,Sheffield United,671225,eng.1
+ENG-Premier League,2324,2023-12-30 Nottingham Forest-Manchester United,2023-12-30 17:30:00+00:00,Nottingham Forest,Manchester United,671230,eng.1
+ENG-Premier League,2324,2023-12-30 Wolverhampton Wanderers-Everton,2023-12-30 15:00:00+00:00,Wolverhampton Wanderers,Everton,671222,eng.1
+ENG-Premier League,2324,2023-12-31 Fulham-Arsenal,2023-12-31 14:00:00+00:00,Fulham,Arsenal,671221,eng.1
+ENG-Premier League,2324,2023-12-31 Tottenham Hotspur-AFC Bournemouth,2023-12-31 14:00:00+00:00,Tottenham Hotspur,AFC Bournemouth,671224,eng.1
+ENG-Premier League,2324,2024-01-01 Liverpool-Newcastle United,2024-01-01 20:00:00+00:00,Liverpool,Newcastle United,671229,eng.1
+ENG-Premier League,2324,2024-01-02 West Ham United-Brighton & Hove Albion,2024-01-02 19:30:00+00:00,West Ham United,Brighton & Hove Albion,671223,eng.1
+ENG-Premier League,2324,2024-01-12 Burnley-Luton Town,2024-01-12 19:45:00+00:00,Burnley,Luton Town,671235,eng.1
+ENG-Premier League,2324,2024-01-13 Chelsea-Fulham,2024-01-13 12:30:00+00:00,Chelsea,Fulham,671236,eng.1
+ENG-Premier League,2324,2024-01-13 Newcastle United-Manchester City,2024-01-13 17:30:00+00:00,Newcastle United,Manchester City,671239,eng.1
+ENG-Premier League,2324,2024-01-14 Everton-Aston Villa,2024-01-14 14:00:00+00:00,Everton,Aston Villa,671237,eng.1
+ENG-Premier League,2324,2024-01-14 Manchester United-Tottenham Hotspur,2024-01-14 16:30:00+00:00,Manchester United,Tottenham Hotspur,671238,eng.1
+ENG-Premier League,2324,2024-01-20 Arsenal-Crystal Palace,2024-01-20 12:30:00+00:00,Arsenal,Crystal Palace,671231,eng.1
+ENG-Premier League,2324,2024-01-20 Brentford-Nottingham Forest,2024-01-20 17:30:00+00:00,Brentford,Nottingham Forest,671233,eng.1
+ENG-Premier League,2324,2024-01-21 AFC Bournemouth-Liverpool,2024-01-21 16:30:00+00:00,AFC Bournemouth,Liverpool,671232,eng.1
+ENG-Premier League,2324,2024-01-21 Sheffield United-West Ham United,2024-01-21 14:00:00+00:00,Sheffield United,West Ham United,671240,eng.1
+ENG-Premier League,2324,2024-01-22 Brighton & Hove Albion-Wolverhampton Wanderers,2024-01-22 19:45:00+00:00,Brighton & Hove Albion,Wolverhampton Wanderers,671234,eng.1
+ENG-Premier League,2324,2024-01-30 Aston Villa-Newcastle United,2024-01-30 20:15:00+00:00,Aston Villa,Newcastle United,671241,eng.1
+ENG-Premier League,2324,2024-01-30 Crystal Palace-Sheffield United,2024-01-30 20:00:00+00:00,Crystal Palace,Sheffield United,671248,eng.1
+ENG-Premier League,2324,2024-01-30 Fulham-Everton,2024-01-30 19:45:00+00:00,Fulham,Everton,671244,eng.1
+ENG-Premier League,2324,2024-01-30 Luton Town-Brighton & Hove Albion,2024-01-30 19:45:00+00:00,Luton Town,Brighton & Hove Albion,671247,eng.1
+ENG-Premier League,2324,2024-01-30 Nottingham Forest-Arsenal,2024-01-30 19:30:00+00:00,Nottingham Forest,Arsenal,671245,eng.1
+ENG-Premier League,2324,2024-01-31 Liverpool-Chelsea,2024-01-31 20:15:00+00:00,Liverpool,Chelsea,671249,eng.1
+ENG-Premier League,2324,2024-01-31 Manchester City-Burnley,2024-01-31 19:30:00+00:00,Manchester City,Burnley,671250,eng.1
+ENG-Premier League,2324,2024-01-31 Tottenham Hotspur-Brentford,2024-01-31 19:30:00+00:00,Tottenham Hotspur,Brentford,671243,eng.1
+ENG-Premier League,2324,2024-02-01 West Ham United-AFC Bournemouth,2024-02-01 19:30:00+00:00,West Ham United,AFC Bournemouth,671242,eng.1
+ENG-Premier League,2324,2024-02-01 Wolverhampton Wanderers-Manchester United,2024-02-01 20:15:00+00:00,Wolverhampton Wanderers,Manchester United,671246,eng.1
+ENG-Premier League,2324,2024-02-03 Brighton & Hove Albion-Crystal Palace,2024-02-03 15:00:00+00:00,Brighton & Hove Albion,Crystal Palace,671256,eng.1
+ENG-Premier League,2324,2024-02-03 Burnley-Fulham,2024-02-03 15:00:00+00:00,Burnley,Fulham,671260,eng.1
+ENG-Premier League,2324,2024-02-03 Everton-Tottenham Hotspur,2024-02-03 12:30:00+00:00,Everton,Tottenham Hotspur,671253,eng.1
+ENG-Premier League,2324,2024-02-03 Newcastle United-Luton Town,2024-02-03 15:00:00+00:00,Newcastle United,Luton Town,671251,eng.1
+ENG-Premier League,2324,2024-02-03 Sheffield United-Aston Villa,2024-02-03 17:30:00+00:00,Sheffield United,Aston Villa,671255,eng.1
+ENG-Premier League,2324,2024-02-04 AFC Bournemouth-Nottingham Forest,2024-02-04 14:00:00+00:00,AFC Bournemouth,Nottingham Forest,671258,eng.1
+ENG-Premier League,2324,2024-02-04 Arsenal-Liverpool,2024-02-04 16:30:00+00:00,Arsenal,Liverpool,671259,eng.1
+ENG-Premier League,2324,2024-02-04 Chelsea-Wolverhampton Wanderers,2024-02-04 14:00:00+00:00,Chelsea,Wolverhampton Wanderers,671254,eng.1
+ENG-Premier League,2324,2024-02-04 Manchester United-West Ham United,2024-02-04 14:00:00+00:00,Manchester United,West Ham United,671252,eng.1
+ENG-Premier League,2324,2024-02-05 Brentford-Manchester City,2024-02-05 20:00:00+00:00,Brentford,Manchester City,671257,eng.1
+ENG-Premier League,2324,2024-02-10 Fulham-AFC Bournemouth,2024-02-10 15:00:00+00:00,Fulham,AFC Bournemouth,671268,eng.1
+ENG-Premier League,2324,2024-02-10 Liverpool-Burnley,2024-02-10 15:00:00+00:00,Liverpool,Burnley,671269,eng.1
+ENG-Premier League,2324,2024-02-10 Luton Town-Sheffield United,2024-02-10 15:00:00+00:00,Luton Town,Sheffield United,671270,eng.1
+ENG-Premier League,2324,2024-02-10 Manchester City-Everton,2024-02-10 12:30:00+00:00,Manchester City,Everton,671264,eng.1
+ENG-Premier League,2324,2024-02-10 Nottingham Forest-Newcastle United,2024-02-10 17:30:00+00:00,Nottingham Forest,Newcastle United,671263,eng.1
+ENG-Premier League,2324,2024-02-10 Tottenham Hotspur-Brighton & Hove Albion,2024-02-10 15:00:00+00:00,Tottenham Hotspur,Brighton & Hove Albion,671262,eng.1
+ENG-Premier League,2324,2024-02-10 Wolverhampton Wanderers-Brentford,2024-02-10 15:00:00+00:00,Wolverhampton Wanderers,Brentford,671265,eng.1
+ENG-Premier League,2324,2024-02-11 Aston Villa-Manchester United,2024-02-11 16:30:00+00:00,Aston Villa,Manchester United,671266,eng.1
+ENG-Premier League,2324,2024-02-11 West Ham United-Arsenal,2024-02-11 14:00:00+00:00,West Ham United,Arsenal,671261,eng.1
+ENG-Premier League,2324,2024-02-12 Crystal Palace-Chelsea,2024-02-12 20:00:00+00:00,Crystal Palace,Chelsea,671267,eng.1
+ENG-Premier League,2324,2024-02-17 Brentford-Liverpool,2024-02-17 12:30:00+00:00,Brentford,Liverpool,671279,eng.1
+ENG-Premier League,2324,2024-02-17 Burnley-Arsenal,2024-02-17 15:00:00+00:00,Burnley,Arsenal,671280,eng.1
+ENG-Premier League,2324,2024-02-17 Fulham-Aston Villa,2024-02-17 15:00:00+00:00,Fulham,Aston Villa,671271,eng.1
+ENG-Premier League,2324,2024-02-17 Manchester City-Chelsea,2024-02-17 17:30:00+00:00,Manchester City,Chelsea,671273,eng.1
+ENG-Premier League,2324,2024-02-17 Newcastle United-AFC Bournemouth,2024-02-17 15:00:00+00:00,Newcastle United,AFC Bournemouth,671274,eng.1
+ENG-Premier League,2324,2024-02-17 Nottingham Forest-West Ham United,2024-02-17 15:00:00+00:00,Nottingham Forest,West Ham United,671275,eng.1
+ENG-Premier League,2324,2024-02-17 Tottenham Hotspur-Wolverhampton Wanderers,2024-02-17 15:00:00+00:00,Tottenham Hotspur,Wolverhampton Wanderers,671277,eng.1
+ENG-Premier League,2324,2024-02-18 Luton Town-Manchester United,2024-02-18 16:30:00+00:00,Luton Town,Manchester United,671278,eng.1
+ENG-Premier League,2324,2024-02-18 Sheffield United-Brighton & Hove Albion,2024-02-18 14:00:00+00:00,Sheffield United,Brighton & Hove Albion,671276,eng.1
+ENG-Premier League,2324,2024-02-19 Everton-Crystal Palace,2024-02-19 20:00:00+00:00,Everton,Crystal Palace,671272,eng.1
+ENG-Premier League,2324,2024-02-20 Manchester City-Brentford,2024-02-20 19:30:00+00:00,Manchester City,Brentford,671203,eng.1
+ENG-Premier League,2324,2024-02-21 Liverpool-Luton Town,2024-02-21 19:30:00+00:00,Liverpool,Luton Town,671284,eng.1
+ENG-Premier League,2324,2024-02-24 AFC Bournemouth-Manchester City,2024-02-24 17:30:00+00:00,AFC Bournemouth,Manchester City,671288,eng.1
+ENG-Premier League,2324,2024-02-24 Arsenal-Newcastle United,2024-02-24 20:00:00+00:00,Arsenal,Newcastle United,671281,eng.1
+ENG-Premier League,2324,2024-02-24 Aston Villa-Nottingham Forest,2024-02-24 15:00:00+00:00,Aston Villa,Nottingham Forest,671289,eng.1
+ENG-Premier League,2324,2024-02-24 Brighton & Hove Albion-Everton,2024-02-24 15:00:00+00:00,Brighton & Hove Albion,Everton,671287,eng.1
+ENG-Premier League,2324,2024-02-24 Crystal Palace-Burnley,2024-02-24 15:00:00+00:00,Crystal Palace,Burnley,671283,eng.1
+ENG-Premier League,2324,2024-02-24 Manchester United-Fulham,2024-02-24 15:00:00+00:00,Manchester United,Fulham,671290,eng.1
+ENG-Premier League,2324,2024-02-25 Wolverhampton Wanderers-Sheffield United,2024-02-25 13:30:00+00:00,Wolverhampton Wanderers,Sheffield United,671286,eng.1
+ENG-Premier League,2324,2024-02-26 West Ham United-Brentford,2024-02-26 20:00:00+00:00,West Ham United,Brentford,671285,eng.1
+ENG-Premier League,2324,2024-03-02 Brentford-Chelsea,2024-03-02 15:00:00+00:00,Brentford,Chelsea,671295,eng.1
+ENG-Premier League,2324,2024-03-02 Everton-West Ham United,2024-03-02 15:00:00+00:00,Everton,West Ham United,671293,eng.1
+ENG-Premier League,2324,2024-03-02 Fulham-Brighton & Hove Albion,2024-03-02 15:00:00+00:00,Fulham,Brighton & Hove Albion,671297,eng.1
+ENG-Premier League,2324,2024-03-02 Luton Town-Aston Villa,2024-03-02 17:30:00+00:00,Luton Town,Aston Villa,671296,eng.1
+ENG-Premier League,2324,2024-03-02 Newcastle United-Wolverhampton Wanderers,2024-03-02 15:00:00+00:00,Newcastle United,Wolverhampton Wanderers,671298,eng.1
+ENG-Premier League,2324,2024-03-02 Nottingham Forest-Liverpool,2024-03-02 15:00:00+00:00,Nottingham Forest,Liverpool,671299,eng.1
+ENG-Premier League,2324,2024-03-02 Tottenham Hotspur-Crystal Palace,2024-03-02 15:00:00+00:00,Tottenham Hotspur,Crystal Palace,671291,eng.1
+ENG-Premier League,2324,2024-03-03 Burnley-AFC Bournemouth,2024-03-03 13:00:00+00:00,Burnley,AFC Bournemouth,671294,eng.1
+ENG-Premier League,2324,2024-03-03 Manchester City-Manchester United,2024-03-03 15:30:00+00:00,Manchester City,Manchester United,671292,eng.1
+ENG-Premier League,2324,2024-03-04 Sheffield United-Arsenal,2024-03-04 20:00:00+00:00,Sheffield United,Arsenal,671300,eng.1
+ENG-Premier League,2324,2024-03-09 AFC Bournemouth-Sheffield United,2024-03-09 15:00:00+00:00,AFC Bournemouth,Sheffield United,671303,eng.1
+ENG-Premier League,2324,2024-03-09 Arsenal-Brentford,2024-03-09 17:30:00+00:00,Arsenal,Brentford,671305,eng.1
+ENG-Premier League,2324,2024-03-09 Crystal Palace-Luton Town,2024-03-09 15:00:00+00:00,Crystal Palace,Luton Town,671310,eng.1
+ENG-Premier League,2324,2024-03-09 Manchester United-Everton,2024-03-09 12:30:00+00:00,Manchester United,Everton,671308,eng.1
+ENG-Premier League,2324,2024-03-09 Wolverhampton Wanderers-Fulham,2024-03-09 15:00:00+00:00,Wolverhampton Wanderers,Fulham,671306,eng.1
+ENG-Premier League,2324,2024-03-10 Aston Villa-Tottenham Hotspur,2024-03-10 13:00:00+00:00,Aston Villa,Tottenham Hotspur,671304,eng.1
+ENG-Premier League,2324,2024-03-10 Brighton & Hove Albion-Nottingham Forest,2024-03-10 14:00:00+00:00,Brighton & Hove Albion,Nottingham Forest,671307,eng.1
+ENG-Premier League,2324,2024-03-10 Liverpool-Manchester City,2024-03-10 15:45:00+00:00,Liverpool,Manchester City,671309,eng.1
+ENG-Premier League,2324,2024-03-10 West Ham United-Burnley,2024-03-10 14:00:00+00:00,West Ham United,Burnley,671302,eng.1
+ENG-Premier League,2324,2024-03-11 Chelsea-Newcastle United,2024-03-11 20:00:00+00:00,Chelsea,Newcastle United,671301,eng.1
+ENG-Premier League,2324,2024-03-13 AFC Bournemouth-Luton Town,2024-03-13 19:30:00+00:00,AFC Bournemouth,Luton Town,671194,eng.1
+ENG-Premier League,2324,2024-03-16 Burnley-Brentford,2024-03-16 15:00:00+00:00,Burnley,Brentford,671316,eng.1
+ENG-Premier League,2324,2024-03-16 Fulham-Tottenham Hotspur,2024-03-16 17:30:00+00:00,Fulham,Tottenham Hotspur,671313,eng.1
+ENG-Premier League,2324,2024-03-16 Luton Town-Nottingham Forest,2024-03-16 15:00:00+00:00,Luton Town,Nottingham Forest,671317,eng.1
+ENG-Premier League,2324,2024-03-17 West Ham United-Aston Villa,2024-03-17 14:00:00+00:00,West Ham United,Aston Villa,671320,eng.1
+ENG-Premier League,2324,2024-03-30 AFC Bournemouth-Everton,2024-03-30 15:00:00+00:00,AFC Bournemouth,Everton,671330,eng.1
+ENG-Premier League,2324,2024-03-30 Aston Villa-Wolverhampton Wanderers,2024-03-30 17:30:00+00:00,Aston Villa,Wolverhampton Wanderers,671325,eng.1
+ENG-Premier League,2324,2024-03-30 Brentford-Manchester United,2024-03-30 20:00:00+00:00,Brentford,Manchester United,671324,eng.1
+ENG-Premier League,2324,2024-03-30 Chelsea-Burnley,2024-03-30 15:00:00+00:00,Chelsea,Burnley,671323,eng.1
+ENG-Premier League,2324,2024-03-30 Newcastle United-West Ham United,2024-03-30 12:30:00+00:00,Newcastle United,West Ham United,671327,eng.1
+ENG-Premier League,2324,2024-03-30 Nottingham Forest-Crystal Palace,2024-03-30 15:00:00+00:00,Nottingham Forest,Crystal Palace,671328,eng.1
+ENG-Premier League,2324,2024-03-30 Sheffield United-Fulham,2024-03-30 15:00:00+00:00,Sheffield United,Fulham,671329,eng.1
+ENG-Premier League,2324,2024-03-30 Tottenham Hotspur-Luton Town,2024-03-30 15:00:00+00:00,Tottenham Hotspur,Luton Town,671321,eng.1
+ENG-Premier League,2324,2024-03-31 Liverpool-Brighton & Hove Albion,2024-03-31 13:00:00+00:00,Liverpool,Brighton & Hove Albion,671322,eng.1
+ENG-Premier League,2324,2024-03-31 Manchester City-Arsenal,2024-03-31 15:30:00+00:00,Manchester City,Arsenal,671326,eng.1
+ENG-Premier League,2324,2024-04-02 AFC Bournemouth-Crystal Palace,2024-04-02 18:45:00+00:00,AFC Bournemouth,Crystal Palace,671332,eng.1
+ENG-Premier League,2324,2024-04-02 Burnley-Wolverhampton Wanderers,2024-04-02 18:45:00+00:00,Burnley,Wolverhampton Wanderers,671334,eng.1
+ENG-Premier League,2324,2024-04-02 Newcastle United-Everton,2024-04-02 18:30:00+00:00,Newcastle United,Everton,671338,eng.1
+ENG-Premier League,2324,2024-04-02 Nottingham Forest-Fulham,2024-04-02 18:30:00+00:00,Nottingham Forest,Fulham,671335,eng.1
+ENG-Premier League,2324,2024-04-02 West Ham United-Tottenham Hotspur,2024-04-02 19:15:00+00:00,West Ham United,Tottenham Hotspur,671336,eng.1
+ENG-Premier League,2324,2024-04-03 Arsenal-Luton Town,2024-04-03 18:30:00+00:00,Arsenal,Luton Town,671331,eng.1
+ENG-Premier League,2324,2024-04-03 Brentford-Brighton & Hove Albion,2024-04-03 18:30:00+00:00,Brentford,Brighton & Hove Albion,671333,eng.1
+ENG-Premier League,2324,2024-04-03 Manchester City-Aston Villa,2024-04-03 19:15:00+00:00,Manchester City,Aston Villa,671339,eng.1
+ENG-Premier League,2324,2024-04-04 Chelsea-Manchester United,2024-04-04 19:15:00+00:00,Chelsea,Manchester United,671337,eng.1
+ENG-Premier League,2324,2024-04-04 Liverpool-Sheffield United,2024-04-04 18:30:00+00:00,Liverpool,Sheffield United,671340,eng.1
+ENG-Premier League,2324,2024-04-06 Aston Villa-Brentford,2024-04-06 14:00:00+00:00,Aston Villa,Brentford,671344,eng.1
+ENG-Premier League,2324,2024-04-06 Brighton & Hove Albion-Arsenal,2024-04-06 16:30:00+00:00,Brighton & Hove Albion,Arsenal,671343,eng.1
+ENG-Premier League,2324,2024-04-06 Crystal Palace-Manchester City,2024-04-06 11:30:00+00:00,Crystal Palace,Manchester City,671342,eng.1
+ENG-Premier League,2324,2024-04-06 Everton-Burnley,2024-04-06 14:00:00+00:00,Everton,Burnley,671349,eng.1
+ENG-Premier League,2324,2024-04-06 Fulham-Newcastle United,2024-04-06 14:00:00+00:00,Fulham,Newcastle United,671350,eng.1
+ENG-Premier League,2324,2024-04-06 Luton Town-AFC Bournemouth,2024-04-06 14:00:00+00:00,Luton Town,AFC Bournemouth,671346,eng.1
+ENG-Premier League,2324,2024-04-06 Wolverhampton Wanderers-West Ham United,2024-04-06 14:00:00+00:00,Wolverhampton Wanderers,West Ham United,671345,eng.1
+ENG-Premier League,2324,2024-04-07 Manchester United-Liverpool,2024-04-07 14:30:00+00:00,Manchester United,Liverpool,671347,eng.1
+ENG-Premier League,2324,2024-04-07 Sheffield United-Chelsea,2024-04-07 16:30:00+00:00,Sheffield United,Chelsea,671348,eng.1
+ENG-Premier League,2324,2024-04-07 Tottenham Hotspur-Nottingham Forest,2024-04-07 17:00:00+00:00,Tottenham Hotspur,Nottingham Forest,671341,eng.1
+ENG-Premier League,2324,2024-04-13 AFC Bournemouth-Manchester United,2024-04-13 16:30:00+00:00,AFC Bournemouth,Manchester United,671352,eng.1
+ENG-Premier League,2324,2024-04-13 Brentford-Sheffield United,2024-04-13 14:00:00+00:00,Brentford,Sheffield United,671351,eng.1
+ENG-Premier League,2324,2024-04-13 Burnley-Brighton & Hove Albion,2024-04-13 14:00:00+00:00,Burnley,Brighton & Hove Albion,671360,eng.1
+ENG-Premier League,2324,2024-04-13 Manchester City-Luton Town,2024-04-13 14:00:00+00:00,Manchester City,Luton Town,671356,eng.1
+ENG-Premier League,2324,2024-04-13 Newcastle United-Tottenham Hotspur,2024-04-13 11:30:00+00:00,Newcastle United,Tottenham Hotspur,671357,eng.1
+ENG-Premier League,2324,2024-04-13 Nottingham Forest-Wolverhampton Wanderers,2024-04-13 14:00:00+00:00,Nottingham Forest,Wolverhampton Wanderers,671358,eng.1
+ENG-Premier League,2324,2024-04-14 Arsenal-Aston Villa,2024-04-14 15:30:00+00:00,Arsenal,Aston Villa,671353,eng.1
+ENG-Premier League,2324,2024-04-14 Liverpool-Crystal Palace,2024-04-14 13:00:00+00:00,Liverpool,Crystal Palace,671355,eng.1
+ENG-Premier League,2324,2024-04-14 West Ham United-Fulham,2024-04-14 13:00:00+00:00,West Ham United,Fulham,671359,eng.1
+ENG-Premier League,2324,2024-04-15 Chelsea-Everton,2024-04-15 19:00:00+00:00,Chelsea,Everton,671354,eng.1
+ENG-Premier League,2324,2024-04-20 Luton Town-Brentford,2024-04-20 14:00:00+00:00,Luton Town,Brentford,671363,eng.1
+ENG-Premier League,2324,2024-04-20 Sheffield United-Burnley,2024-04-20 14:00:00+00:00,Sheffield United,Burnley,671361,eng.1
+ENG-Premier League,2324,2024-04-20 Wolverhampton Wanderers-Arsenal,2024-04-20 18:30:00+00:00,Wolverhampton Wanderers,Arsenal,671369,eng.1
+ENG-Premier League,2324,2024-04-21 Aston Villa-AFC Bournemouth,2024-04-21 14:00:00+00:00,Aston Villa,AFC Bournemouth,671368,eng.1
+ENG-Premier League,2324,2024-04-21 Crystal Palace-West Ham United,2024-04-21 14:00:00+00:00,Crystal Palace,West Ham United,671366,eng.1
+ENG-Premier League,2324,2024-04-21 Everton-Nottingham Forest,2024-04-21 12:30:00+00:00,Everton,Nottingham Forest,671370,eng.1
+ENG-Premier League,2324,2024-04-21 Fulham-Liverpool,2024-04-21 15:30:00+00:00,Fulham,Liverpool,671364,eng.1
+ENG-Premier League,2324,2024-04-23 Arsenal-Chelsea,2024-04-23 19:00:00+00:00,Arsenal,Chelsea,671312,eng.1
+ENG-Premier League,2324,2024-04-24 Crystal Palace-Newcastle United,2024-04-24 19:00:00+00:00,Crystal Palace,Newcastle United,671315,eng.1
+ENG-Premier League,2324,2024-04-24 Everton-Liverpool,2024-04-24 19:00:00+00:00,Everton,Liverpool,671314,eng.1
+ENG-Premier League,2324,2024-04-24 Manchester United-Sheffield United,2024-04-24 19:00:00+00:00,Manchester United,Sheffield United,671311,eng.1
+ENG-Premier League,2324,2024-04-24 Wolverhampton Wanderers-AFC Bournemouth,2024-04-24 18:45:00+00:00,Wolverhampton Wanderers,AFC Bournemouth,671319,eng.1
+ENG-Premier League,2324,2024-04-25 Brighton & Hove Albion-Manchester City,2024-04-25 19:00:00+00:00,Brighton & Hove Albion,Manchester City,671318,eng.1
+ENG-Premier League,2324,2024-04-27 Aston Villa-Chelsea,2024-04-27 19:00:00+00:00,Aston Villa,Chelsea,671380,eng.1
+ENG-Premier League,2324,2024-04-27 Everton-Brentford,2024-04-27 16:30:00+00:00,Everton,Brentford,671376,eng.1
+ENG-Premier League,2324,2024-04-27 Fulham-Crystal Palace,2024-04-27 14:00:00+00:00,Fulham,Crystal Palace,671375,eng.1
+ENG-Premier League,2324,2024-04-27 Manchester United-Burnley,2024-04-27 14:00:00+00:00,Manchester United,Burnley,671371,eng.1
+ENG-Premier League,2324,2024-04-27 Newcastle United-Sheffield United,2024-04-27 14:00:00+00:00,Newcastle United,Sheffield United,671372,eng.1
+ENG-Premier League,2324,2024-04-27 West Ham United-Liverpool,2024-04-27 11:30:00+00:00,West Ham United,Liverpool,671377,eng.1
+ENG-Premier League,2324,2024-04-27 Wolverhampton Wanderers-Luton Town,2024-04-27 14:00:00+00:00,Wolverhampton Wanderers,Luton Town,671374,eng.1
+ENG-Premier League,2324,2024-04-28 AFC Bournemouth-Brighton & Hove Albion,2024-04-28 13:00:00+00:00,AFC Bournemouth,Brighton & Hove Albion,671379,eng.1
+ENG-Premier League,2324,2024-04-28 Nottingham Forest-Manchester City,2024-04-28 15:30:00+00:00,Nottingham Forest,Manchester City,671373,eng.1
+ENG-Premier League,2324,2024-04-28 Tottenham Hotspur-Arsenal,2024-04-28 13:00:00+00:00,Tottenham Hotspur,Arsenal,671378,eng.1
+ENG-Premier League,2324,2024-05-02 Chelsea-Tottenham Hotspur,2024-05-02 18:30:00+00:00,Chelsea,Tottenham Hotspur,671282,eng.1
+ENG-Premier League,2324,2024-05-03 Luton Town-Everton,2024-05-03 19:00:00+00:00,Luton Town,Everton,671388,eng.1
+ENG-Premier League,2324,2024-05-04 Arsenal-AFC Bournemouth,2024-05-04 11:30:00+00:00,Arsenal,AFC Bournemouth,671381,eng.1
+ENG-Premier League,2324,2024-05-04 Brentford-Fulham,2024-05-04 14:00:00+00:00,Brentford,Fulham,671382,eng.1
+ENG-Premier League,2324,2024-05-04 Burnley-Newcastle United,2024-05-04 14:00:00+00:00,Burnley,Newcastle United,671384,eng.1
+ENG-Premier League,2324,2024-05-04 Manchester City-Wolverhampton Wanderers,2024-05-04 16:30:00+00:00,Manchester City,Wolverhampton Wanderers,671389,eng.1
+ENG-Premier League,2324,2024-05-04 Sheffield United-Nottingham Forest,2024-05-04 14:00:00+00:00,Sheffield United,Nottingham Forest,671390,eng.1
+ENG-Premier League,2324,2024-05-05 Brighton & Hove Albion-Aston Villa,2024-05-05 13:00:00+00:00,Brighton & Hove Albion,Aston Villa,671383,eng.1
+ENG-Premier League,2324,2024-05-05 Chelsea-West Ham United,2024-05-05 13:00:00+00:00,Chelsea,West Ham United,671385,eng.1
+ENG-Premier League,2324,2024-05-05 Liverpool-Tottenham Hotspur,2024-05-05 15:30:00+00:00,Liverpool,Tottenham Hotspur,671387,eng.1
+ENG-Premier League,2324,2024-05-06 Crystal Palace-Manchester United,2024-05-06 19:00:00+00:00,Crystal Palace,Manchester United,671386,eng.1
+ENG-Premier League,2324,2024-05-11 AFC Bournemouth-Brentford,2024-05-11 14:00:00+00:00,AFC Bournemouth,Brentford,671392,eng.1
+ENG-Premier League,2324,2024-05-11 Everton-Sheffield United,2024-05-11 14:00:00+00:00,Everton,Sheffield United,671393,eng.1
+ENG-Premier League,2324,2024-05-11 Fulham-Manchester City,2024-05-11 11:30:00+00:00,Fulham,Manchester City,671394,eng.1
+ENG-Premier League,2324,2024-05-11 Newcastle United-Brighton & Hove Albion,2024-05-11 14:00:00+00:00,Newcastle United,Brighton & Hove Albion,671396,eng.1
+ENG-Premier League,2324,2024-05-11 Nottingham Forest-Chelsea,2024-05-11 16:30:00+00:00,Nottingham Forest,Chelsea,671397,eng.1
+ENG-Premier League,2324,2024-05-11 Tottenham Hotspur-Burnley,2024-05-11 14:00:00+00:00,Tottenham Hotspur,Burnley,671398,eng.1
+ENG-Premier League,2324,2024-05-11 West Ham United-Luton Town,2024-05-11 14:00:00+00:00,West Ham United,Luton Town,671399,eng.1
+ENG-Premier League,2324,2024-05-11 Wolverhampton Wanderers-Crystal Palace,2024-05-11 14:00:00+00:00,Wolverhampton Wanderers,Crystal Palace,671400,eng.1
+ENG-Premier League,2324,2024-05-12 Manchester United-Arsenal,2024-05-12 15:30:00+00:00,Manchester United,Arsenal,671395,eng.1
+ENG-Premier League,2324,2024-05-13 Aston Villa-Liverpool,2024-05-13 19:00:00+00:00,Aston Villa,Liverpool,671391,eng.1
+ENG-Premier League,2324,2024-05-14 Tottenham Hotspur-Manchester City,2024-05-14 19:00:00+00:00,Tottenham Hotspur,Manchester City,671365,eng.1
+ENG-Premier League,2324,2024-05-15 Brighton & Hove Albion-Chelsea,2024-05-15 18:45:00+00:00,Brighton & Hove Albion,Chelsea,671367,eng.1
+ENG-Premier League,2324,2024-05-15 Manchester United-Newcastle United,2024-05-15 19:00:00+00:00,Manchester United,Newcastle United,671362,eng.1
+ENG-Premier League,2324,2024-05-19 Arsenal-Everton,2024-05-19 15:00:00+00:00,Arsenal,Everton,671401,eng.1
+ENG-Premier League,2324,2024-05-19 Brentford-Newcastle United,2024-05-19 15:00:00+00:00,Brentford,Newcastle United,671402,eng.1
+ENG-Premier League,2324,2024-05-19 Brighton & Hove Albion-Manchester United,2024-05-19 15:00:00+00:00,Brighton & Hove Albion,Manchester United,671403,eng.1
+ENG-Premier League,2324,2024-05-19 Burnley-Nottingham Forest,2024-05-19 15:00:00+00:00,Burnley,Nottingham Forest,671404,eng.1
+ENG-Premier League,2324,2024-05-19 Chelsea-AFC Bournemouth,2024-05-19 15:00:00+00:00,Chelsea,AFC Bournemouth,671410,eng.1
+ENG-Premier League,2324,2024-05-19 Crystal Palace-Aston Villa,2024-05-19 15:00:00+00:00,Crystal Palace,Aston Villa,671406,eng.1
+ENG-Premier League,2324,2024-05-19 Liverpool-Wolverhampton Wanderers,2024-05-19 15:00:00+00:00,Liverpool,Wolverhampton Wanderers,671407,eng.1
+ENG-Premier League,2324,2024-05-19 Luton Town-Fulham,2024-05-19 15:00:00+00:00,Luton Town,Fulham,671408,eng.1
+ENG-Premier League,2324,2024-05-19 Manchester City-West Ham United,2024-05-19 15:00:00+00:00,Manchester City,West Ham United,671405,eng.1
+ENG-Premier League,2324,2024-05-19 Sheffield United-Tottenham Hotspur,2024-05-19 15:00:00+00:00,Sheffield United,Tottenham Hotspur,671409,eng.1
+ENG-Premier League,2425,2024-08-16 Manchester United-Fulham,2024-08-16 19:00:00+00:00,Manchester United,Fulham,704279,eng.1
+ENG-Premier League,2425,2024-08-17 Arsenal-Wolverhampton Wanderers,2024-08-17 14:00:00+00:00,Arsenal,Wolverhampton Wanderers,704281,eng.1
+ENG-Premier League,2425,2024-08-17 Everton-Brighton & Hove Albion,2024-08-17 14:00:00+00:00,Everton,Brighton & Hove Albion,704282,eng.1
+ENG-Premier League,2425,2024-08-17 Ipswich Town-Liverpool,2024-08-17 11:30:00+00:00,Ipswich Town,Liverpool,704280,eng.1
+ENG-Premier League,2425,2024-08-17 Newcastle United-Southampton,2024-08-17 14:00:00+00:00,Newcastle United,Southampton,704283,eng.1
+ENG-Premier League,2425,2024-08-17 Nottingham Forest-AFC Bournemouth,2024-08-17 14:00:00+00:00,Nottingham Forest,AFC Bournemouth,704284,eng.1
+ENG-Premier League,2425,2024-08-17 West Ham United-Aston Villa,2024-08-17 16:30:00+00:00,West Ham United,Aston Villa,704285,eng.1
+ENG-Premier League,2425,2024-08-18 Brentford-Crystal Palace,2024-08-18 13:00:00+00:00,Brentford,Crystal Palace,704286,eng.1
+ENG-Premier League,2425,2024-08-18 Chelsea-Manchester City,2024-08-18 15:30:00+00:00,Chelsea,Manchester City,704287,eng.1
+ENG-Premier League,2425,2024-08-19 Leicester City-Tottenham Hotspur,2024-08-19 19:00:00+00:00,Leicester City,Tottenham Hotspur,704288,eng.1
+ENG-Premier League,2425,2024-08-24 Aston Villa-Arsenal,2024-08-24 16:30:00+00:00,Aston Villa,Arsenal,704289,eng.1
+ENG-Premier League,2425,2024-08-24 Brighton & Hove Albion-Manchester United,2024-08-24 11:30:00+00:00,Brighton & Hove Albion,Manchester United,704291,eng.1
+ENG-Premier League,2425,2024-08-24 Crystal Palace-West Ham United,2024-08-24 14:00:00+00:00,Crystal Palace,West Ham United,704292,eng.1
+ENG-Premier League,2425,2024-08-24 Fulham-Leicester City,2024-08-24 14:00:00+00:00,Fulham,Leicester City,704293,eng.1
+ENG-Premier League,2425,2024-08-24 Manchester City-Ipswich Town,2024-08-24 14:00:00+00:00,Manchester City,Ipswich Town,704295,eng.1
+ENG-Premier League,2425,2024-08-24 Southampton-Nottingham Forest,2024-08-24 14:00:00+00:00,Southampton,Nottingham Forest,704296,eng.1
+ENG-Premier League,2425,2024-08-24 Tottenham Hotspur-Everton,2024-08-24 14:00:00+00:00,Tottenham Hotspur,Everton,704297,eng.1
+ENG-Premier League,2425,2024-08-25 AFC Bournemouth-Newcastle United,2024-08-25 13:00:00+00:00,AFC Bournemouth,Newcastle United,704290,eng.1
+ENG-Premier League,2425,2024-08-25 Liverpool-Brentford,2024-08-25 15:30:00+00:00,Liverpool,Brentford,704294,eng.1
+ENG-Premier League,2425,2024-08-25 Wolverhampton Wanderers-Chelsea,2024-08-25 13:00:00+00:00,Wolverhampton Wanderers,Chelsea,704298,eng.1
+ENG-Premier League,2425,2024-08-31 Arsenal-Brighton & Hove Albion,2024-08-31 11:30:00+00:00,Arsenal,Brighton & Hove Albion,704299,eng.1
+ENG-Premier League,2425,2024-08-31 Brentford-Southampton,2024-08-31 14:00:00+00:00,Brentford,Southampton,704300,eng.1
+ENG-Premier League,2425,2024-08-31 Everton-AFC Bournemouth,2024-08-31 14:00:00+00:00,Everton,AFC Bournemouth,704302,eng.1
+ENG-Premier League,2425,2024-08-31 Ipswich Town-Fulham,2024-08-31 14:00:00+00:00,Ipswich Town,Fulham,704308,eng.1
+ENG-Premier League,2425,2024-08-31 Leicester City-Aston Villa,2024-08-31 14:00:00+00:00,Leicester City,Aston Villa,704304,eng.1
+ENG-Premier League,2425,2024-08-31 Nottingham Forest-Wolverhampton Wanderers,2024-08-31 14:00:00+00:00,Nottingham Forest,Wolverhampton Wanderers,704303,eng.1
+ENG-Premier League,2425,2024-08-31 West Ham United-Manchester City,2024-08-31 16:30:00+00:00,West Ham United,Manchester City,704307,eng.1
+ENG-Premier League,2425,2024-09-01 Chelsea-Crystal Palace,2024-09-01 12:30:00+00:00,Chelsea,Crystal Palace,704301,eng.1
+ENG-Premier League,2425,2024-09-01 Manchester United-Liverpool,2024-09-01 15:00:00+00:00,Manchester United,Liverpool,704305,eng.1
+ENG-Premier League,2425,2024-09-01 Newcastle United-Tottenham Hotspur,2024-09-01 12:30:00+00:00,Newcastle United,Tottenham Hotspur,704306,eng.1
+ENG-Premier League,2425,2024-09-14 AFC Bournemouth-Chelsea,2024-09-14 19:00:00+00:00,AFC Bournemouth,Chelsea,704310,eng.1
+ENG-Premier League,2425,2024-09-14 Aston Villa-Everton,2024-09-14 16:30:00+00:00,Aston Villa,Everton,704309,eng.1
+ENG-Premier League,2425,2024-09-14 Brighton & Hove Albion-Ipswich Town,2024-09-14 14:00:00+00:00,Brighton & Hove Albion,Ipswich Town,704311,eng.1
+ENG-Premier League,2425,2024-09-14 Crystal Palace-Leicester City,2024-09-14 14:00:00+00:00,Crystal Palace,Leicester City,704312,eng.1
+ENG-Premier League,2425,2024-09-14 Fulham-West Ham United,2024-09-14 14:00:00+00:00,Fulham,West Ham United,704313,eng.1
+ENG-Premier League,2425,2024-09-14 Liverpool-Nottingham Forest,2024-09-14 14:00:00+00:00,Liverpool,Nottingham Forest,704314,eng.1
+ENG-Premier League,2425,2024-09-14 Manchester City-Brentford,2024-09-14 14:00:00+00:00,Manchester City,Brentford,704315,eng.1
+ENG-Premier League,2425,2024-09-14 Southampton-Manchester United,2024-09-14 11:30:00+00:00,Southampton,Manchester United,704316,eng.1
+ENG-Premier League,2425,2024-09-15 Tottenham Hotspur-Arsenal,2024-09-15 13:00:00+00:00,Tottenham Hotspur,Arsenal,704317,eng.1
+ENG-Premier League,2425,2024-09-15 Wolverhampton Wanderers-Newcastle United,2024-09-15 15:30:00+00:00,Wolverhampton Wanderers,Newcastle United,704318,eng.1
+ENG-Premier League,2425,2024-09-21 Aston Villa-Wolverhampton Wanderers,2024-09-21 14:00:00+00:00,Aston Villa,Wolverhampton Wanderers,704319,eng.1
+ENG-Premier League,2425,2024-09-21 Crystal Palace-Manchester United,2024-09-21 16:30:00+00:00,Crystal Palace,Manchester United,704321,eng.1
+ENG-Premier League,2425,2024-09-21 Fulham-Newcastle United,2024-09-21 14:00:00+00:00,Fulham,Newcastle United,704322,eng.1
+ENG-Premier League,2425,2024-09-21 Leicester City-Everton,2024-09-21 14:00:00+00:00,Leicester City,Everton,704323,eng.1
+ENG-Premier League,2425,2024-09-21 Liverpool-AFC Bournemouth,2024-09-21 14:00:00+00:00,Liverpool,AFC Bournemouth,704324,eng.1
+ENG-Premier League,2425,2024-09-21 Southampton-Ipswich Town,2024-09-21 14:00:00+00:00,Southampton,Ipswich Town,704326,eng.1
+ENG-Premier League,2425,2024-09-21 Tottenham Hotspur-Brentford,2024-09-21 14:00:00+00:00,Tottenham Hotspur,Brentford,704327,eng.1
+ENG-Premier League,2425,2024-09-21 West Ham United-Chelsea,2024-09-21 11:30:00+00:00,West Ham United,Chelsea,704328,eng.1
+ENG-Premier League,2425,2024-09-22 Brighton & Hove Albion-Nottingham Forest,2024-09-22 13:00:00+00:00,Brighton & Hove Albion,Nottingham Forest,704320,eng.1
+ENG-Premier League,2425,2024-09-22 Manchester City-Arsenal,2024-09-22 15:30:00+00:00,Manchester City,Arsenal,704325,eng.1
+ENG-Premier League,2425,2024-09-28 Arsenal-Leicester City,2024-09-28 14:00:00+00:00,Arsenal,Leicester City,704329,eng.1
+ENG-Premier League,2425,2024-09-28 Brentford-West Ham United,2024-09-28 14:00:00+00:00,Brentford,West Ham United,704331,eng.1
+ENG-Premier League,2425,2024-09-28 Chelsea-Brighton & Hove Albion,2024-09-28 14:00:00+00:00,Chelsea,Brighton & Hove Albion,704332,eng.1
+ENG-Premier League,2425,2024-09-28 Everton-Crystal Palace,2024-09-28 14:00:00+00:00,Everton,Crystal Palace,704338,eng.1
+ENG-Premier League,2425,2024-09-28 Newcastle United-Manchester City,2024-09-28 11:30:00+00:00,Newcastle United,Manchester City,704336,eng.1
+ENG-Premier League,2425,2024-09-28 Nottingham Forest-Fulham,2024-09-28 14:00:00+00:00,Nottingham Forest,Fulham,704333,eng.1
+ENG-Premier League,2425,2024-09-28 Wolverhampton Wanderers-Liverpool,2024-09-28 16:30:00+00:00,Wolverhampton Wanderers,Liverpool,704337,eng.1
+ENG-Premier League,2425,2024-09-29 Ipswich Town-Aston Villa,2024-09-29 13:00:00+00:00,Ipswich Town,Aston Villa,704334,eng.1
+ENG-Premier League,2425,2024-09-29 Manchester United-Tottenham Hotspur,2024-09-29 15:30:00+00:00,Manchester United,Tottenham Hotspur,704335,eng.1
+ENG-Premier League,2425,2024-09-30 AFC Bournemouth-Southampton,2024-09-30 19:00:00+00:00,AFC Bournemouth,Southampton,704330,eng.1
+ENG-Premier League,2425,2024-10-05 Arsenal-Southampton,2024-10-05 14:00:00+00:00,Arsenal,Southampton,704343,eng.1
+ENG-Premier League,2425,2024-10-05 Brentford-Wolverhampton Wanderers,2024-10-05 14:00:00+00:00,Brentford,Wolverhampton Wanderers,704346,eng.1
+ENG-Premier League,2425,2024-10-05 Crystal Palace-Liverpool,2024-10-05 11:30:00+00:00,Crystal Palace,Liverpool,704345,eng.1
+ENG-Premier League,2425,2024-10-05 Everton-Newcastle United,2024-10-05 16:30:00+00:00,Everton,Newcastle United,704340,eng.1
+ENG-Premier League,2425,2024-10-05 Leicester City-AFC Bournemouth,2024-10-05 14:00:00+00:00,Leicester City,AFC Bournemouth,704339,eng.1
+ENG-Premier League,2425,2024-10-05 Manchester City-Fulham,2024-10-05 14:00:00+00:00,Manchester City,Fulham,704348,eng.1
+ENG-Premier League,2425,2024-10-05 West Ham United-Ipswich Town,2024-10-05 14:00:00+00:00,West Ham United,Ipswich Town,704344,eng.1
+ENG-Premier League,2425,2024-10-06 Aston Villa-Manchester United,2024-10-06 13:00:00+00:00,Aston Villa,Manchester United,704347,eng.1
+ENG-Premier League,2425,2024-10-06 Brighton & Hove Albion-Tottenham Hotspur,2024-10-06 15:30:00+00:00,Brighton & Hove Albion,Tottenham Hotspur,704341,eng.1
+ENG-Premier League,2425,2024-10-06 Chelsea-Nottingham Forest,2024-10-06 13:00:00+00:00,Chelsea,Nottingham Forest,704342,eng.1
+ENG-Premier League,2425,2024-10-19 AFC Bournemouth-Arsenal,2024-10-19 16:30:00+00:00,AFC Bournemouth,Arsenal,704351,eng.1
+ENG-Premier League,2425,2024-10-19 Fulham-Aston Villa,2024-10-19 14:00:00+00:00,Fulham,Aston Villa,704356,eng.1
+ENG-Premier League,2425,2024-10-19 Ipswich Town-Everton,2024-10-19 14:15:00+00:00,Ipswich Town,Everton,704355,eng.1
+ENG-Premier League,2425,2024-10-19 Manchester United-Brentford,2024-10-19 14:00:00+00:00,Manchester United,Brentford,704352,eng.1
+ENG-Premier League,2425,2024-10-19 Newcastle United-Brighton & Hove Albion,2024-10-19 14:00:00+00:00,Newcastle United,Brighton & Hove Albion,704357,eng.1
+ENG-Premier League,2425,2024-10-19 Southampton-Leicester City,2024-10-19 14:00:00+00:00,Southampton,Leicester City,704349,eng.1
+ENG-Premier League,2425,2024-10-19 Tottenham Hotspur-West Ham United,2024-10-19 11:30:00+00:00,Tottenham Hotspur,West Ham United,704353,eng.1
+ENG-Premier League,2425,2024-10-20 Liverpool-Chelsea,2024-10-20 15:30:00+00:00,Liverpool,Chelsea,704354,eng.1
+ENG-Premier League,2425,2024-10-20 Wolverhampton Wanderers-Manchester City,2024-10-20 13:00:00+00:00,Wolverhampton Wanderers,Manchester City,704358,eng.1
+ENG-Premier League,2425,2024-10-21 Nottingham Forest-Crystal Palace,2024-10-21 19:00:00+00:00,Nottingham Forest,Crystal Palace,704350,eng.1
+ENG-Premier League,2425,2024-10-25 Leicester City-Nottingham Forest,2024-10-25 19:00:00+00:00,Leicester City,Nottingham Forest,704362,eng.1
+ENG-Premier League,2425,2024-10-26 Aston Villa-AFC Bournemouth,2024-10-26 14:00:00+00:00,Aston Villa,AFC Bournemouth,704368,eng.1
+ENG-Premier League,2425,2024-10-26 Brentford-Ipswich Town,2024-10-26 14:00:00+00:00,Brentford,Ipswich Town,704364,eng.1
+ENG-Premier League,2425,2024-10-26 Brighton & Hove Albion-Wolverhampton Wanderers,2024-10-26 14:00:00+00:00,Brighton & Hove Albion,Wolverhampton Wanderers,704365,eng.1
+ENG-Premier League,2425,2024-10-26 Everton-Fulham,2024-10-26 16:30:00+00:00,Everton,Fulham,704361,eng.1
+ENG-Premier League,2425,2024-10-26 Manchester City-Southampton,2024-10-26 14:00:00+00:00,Manchester City,Southampton,704363,eng.1
+ENG-Premier League,2425,2024-10-27 Arsenal-Liverpool,2024-10-27 16:30:00+00:00,Arsenal,Liverpool,704367,eng.1
+ENG-Premier League,2425,2024-10-27 Chelsea-Newcastle United,2024-10-27 14:00:00+00:00,Chelsea,Newcastle United,704359,eng.1
+ENG-Premier League,2425,2024-10-27 Crystal Palace-Tottenham Hotspur,2024-10-27 14:00:00+00:00,Crystal Palace,Tottenham Hotspur,704360,eng.1
+ENG-Premier League,2425,2024-10-27 West Ham United-Manchester United,2024-10-27 14:00:00+00:00,West Ham United,Manchester United,704366,eng.1
+ENG-Premier League,2425,2024-11-02 AFC Bournemouth-Manchester City,2024-11-02 15:00:00+00:00,AFC Bournemouth,Manchester City,704377,eng.1
+ENG-Premier League,2425,2024-11-02 Ipswich Town-Leicester City,2024-11-02 15:00:00+00:00,Ipswich Town,Leicester City,704375,eng.1
+ENG-Premier League,2425,2024-11-02 Liverpool-Brighton & Hove Albion,2024-11-02 15:00:00+00:00,Liverpool,Brighton & Hove Albion,704374,eng.1
+ENG-Premier League,2425,2024-11-02 Newcastle United-Arsenal,2024-11-02 12:30:00+00:00,Newcastle United,Arsenal,704372,eng.1
+ENG-Premier League,2425,2024-11-02 Nottingham Forest-West Ham United,2024-11-02 15:00:00+00:00,Nottingham Forest,West Ham United,704371,eng.1
+ENG-Premier League,2425,2024-11-02 Southampton-Everton,2024-11-02 15:00:00+00:00,Southampton,Everton,704370,eng.1
+ENG-Premier League,2425,2024-11-02 Wolverhampton Wanderers-Crystal Palace,2024-11-02 17:30:00+00:00,Wolverhampton Wanderers,Crystal Palace,704373,eng.1
+ENG-Premier League,2425,2024-11-03 Manchester United-Chelsea,2024-11-03 16:30:00+00:00,Manchester United,Chelsea,704378,eng.1
+ENG-Premier League,2425,2024-11-03 Tottenham Hotspur-Aston Villa,2024-11-03 14:00:00+00:00,Tottenham Hotspur,Aston Villa,704369,eng.1
+ENG-Premier League,2425,2024-11-04 Fulham-Brentford,2024-11-04 20:00:00+00:00,Fulham,Brentford,704376,eng.1
+ENG-Premier League,2425,2024-11-09 Brentford-AFC Bournemouth,2024-11-09 15:00:00+00:00,Brentford,AFC Bournemouth,704382,eng.1
+ENG-Premier League,2425,2024-11-09 Brighton & Hove Albion-Manchester City,2024-11-09 17:30:00+00:00,Brighton & Hove Albion,Manchester City,704381,eng.1
+ENG-Premier League,2425,2024-11-09 Crystal Palace-Fulham,2024-11-09 15:00:00+00:00,Crystal Palace,Fulham,704379,eng.1
+ENG-Premier League,2425,2024-11-09 Liverpool-Aston Villa,2024-11-09 20:00:00+00:00,Liverpool,Aston Villa,704388,eng.1
+ENG-Premier League,2425,2024-11-09 West Ham United-Everton,2024-11-09 15:00:00+00:00,West Ham United,Everton,704384,eng.1
+ENG-Premier League,2425,2024-11-09 Wolverhampton Wanderers-Southampton,2024-11-09 15:00:00+00:00,Wolverhampton Wanderers,Southampton,704385,eng.1
+ENG-Premier League,2425,2024-11-10 Chelsea-Arsenal,2024-11-10 16:30:00+00:00,Chelsea,Arsenal,704380,eng.1
+ENG-Premier League,2425,2024-11-10 Manchester United-Leicester City,2024-11-10 14:00:00+00:00,Manchester United,Leicester City,704386,eng.1
+ENG-Premier League,2425,2024-11-10 Nottingham Forest-Newcastle United,2024-11-10 14:00:00+00:00,Nottingham Forest,Newcastle United,704387,eng.1
+ENG-Premier League,2425,2024-11-10 Tottenham Hotspur-Ipswich Town,2024-11-10 14:00:00+00:00,Tottenham Hotspur,Ipswich Town,704383,eng.1
+ENG-Premier League,2425,2024-11-23 AFC Bournemouth-Brighton & Hove Albion,2024-11-23 15:00:00+00:00,AFC Bournemouth,Brighton & Hove Albion,704395,eng.1
+ENG-Premier League,2425,2024-11-23 Arsenal-Nottingham Forest,2024-11-23 15:00:00+00:00,Arsenal,Nottingham Forest,704393,eng.1
+ENG-Premier League,2425,2024-11-23 Aston Villa-Crystal Palace,2024-11-23 15:00:00+00:00,Aston Villa,Crystal Palace,704394,eng.1
+ENG-Premier League,2425,2024-11-23 Everton-Brentford,2024-11-23 15:00:00+00:00,Everton,Brentford,704391,eng.1
+ENG-Premier League,2425,2024-11-23 Fulham-Wolverhampton Wanderers,2024-11-23 15:00:00+00:00,Fulham,Wolverhampton Wanderers,704390,eng.1
+ENG-Premier League,2425,2024-11-23 Leicester City-Chelsea,2024-11-23 12:30:00+00:00,Leicester City,Chelsea,704392,eng.1
+ENG-Premier League,2425,2024-11-23 Manchester City-Tottenham Hotspur,2024-11-23 17:30:00+00:00,Manchester City,Tottenham Hotspur,704396,eng.1
+ENG-Premier League,2425,2024-11-24 Ipswich Town-Manchester United,2024-11-24 16:30:00+00:00,Ipswich Town,Manchester United,704389,eng.1
+ENG-Premier League,2425,2024-11-24 Southampton-Liverpool,2024-11-24 14:00:00+00:00,Southampton,Liverpool,704397,eng.1
+ENG-Premier League,2425,2024-11-25 Newcastle United-West Ham United,2024-11-25 20:00:00+00:00,Newcastle United,West Ham United,704398,eng.1
+ENG-Premier League,2425,2024-11-29 Brighton & Hove Albion-Southampton,2024-11-29 20:00:00+00:00,Brighton & Hove Albion,Southampton,704408,eng.1
+ENG-Premier League,2425,2024-11-30 Brentford-Leicester City,2024-11-30 15:00:00+00:00,Brentford,Leicester City,704402,eng.1
+ENG-Premier League,2425,2024-11-30 Crystal Palace-Newcastle United,2024-11-30 15:00:00+00:00,Crystal Palace,Newcastle United,704405,eng.1
+ENG-Premier League,2425,2024-11-30 Nottingham Forest-Ipswich Town,2024-11-30 15:00:00+00:00,Nottingham Forest,Ipswich Town,704399,eng.1
+ENG-Premier League,2425,2024-11-30 West Ham United-Arsenal,2024-11-30 17:30:00+00:00,West Ham United,Arsenal,704400,eng.1
+ENG-Premier League,2425,2024-11-30 Wolverhampton Wanderers-AFC Bournemouth,2024-11-30 15:00:00+00:00,Wolverhampton Wanderers,AFC Bournemouth,704403,eng.1
+ENG-Premier League,2425,2024-12-01 Chelsea-Aston Villa,2024-12-01 13:30:00+00:00,Chelsea,Aston Villa,704404,eng.1
+ENG-Premier League,2425,2024-12-01 Liverpool-Manchester City,2024-12-01 16:00:00+00:00,Liverpool,Manchester City,704406,eng.1
+ENG-Premier League,2425,2024-12-01 Manchester United-Everton,2024-12-01 13:30:00+00:00,Manchester United,Everton,704407,eng.1
+ENG-Premier League,2425,2024-12-01 Tottenham Hotspur-Fulham,2024-12-01 13:30:00+00:00,Tottenham Hotspur,Fulham,704401,eng.1
+ENG-Premier League,2425,2024-12-03 Ipswich Town-Crystal Palace,2024-12-03 19:30:00+00:00,Ipswich Town,Crystal Palace,704412,eng.1
+ENG-Premier League,2425,2024-12-03 Leicester City-West Ham United,2024-12-03 20:15:00+00:00,Leicester City,West Ham United,704411,eng.1
+ENG-Premier League,2425,2024-12-04 Arsenal-Manchester United,2024-12-04 20:15:00+00:00,Arsenal,Manchester United,704410,eng.1
+ENG-Premier League,2425,2024-12-04 Aston Villa-Brentford,2024-12-04 20:15:00+00:00,Aston Villa,Brentford,704409,eng.1
+ENG-Premier League,2425,2024-12-04 Everton-Wolverhampton Wanderers,2024-12-04 19:30:00+00:00,Everton,Wolverhampton Wanderers,704415,eng.1
+ENG-Premier League,2425,2024-12-04 Manchester City-Nottingham Forest,2024-12-04 19:30:00+00:00,Manchester City,Nottingham Forest,704416,eng.1
+ENG-Premier League,2425,2024-12-04 Newcastle United-Liverpool,2024-12-04 19:30:00+00:00,Newcastle United,Liverpool,704417,eng.1
+ENG-Premier League,2425,2024-12-04 Southampton-Chelsea,2024-12-04 19:30:00+00:00,Southampton,Chelsea,704418,eng.1
+ENG-Premier League,2425,2024-12-05 AFC Bournemouth-Tottenham Hotspur,2024-12-05 20:15:00+00:00,AFC Bournemouth,Tottenham Hotspur,704414,eng.1
+ENG-Premier League,2425,2024-12-05 Fulham-Brighton & Hove Albion,2024-12-05 19:30:00+00:00,Fulham,Brighton & Hove Albion,704413,eng.1
+ENG-Premier League,2425,2024-12-07 Aston Villa-Southampton,2024-12-07 15:00:00+00:00,Aston Villa,Southampton,704422,eng.1
+ENG-Premier League,2425,2024-12-07 Brentford-Newcastle United,2024-12-07 15:00:00+00:00,Brentford,Newcastle United,704423,eng.1
+ENG-Premier League,2425,2024-12-07 Crystal Palace-Manchester City,2024-12-07 15:00:00+00:00,Crystal Palace,Manchester City,704424,eng.1
+ENG-Premier League,2425,2024-12-07 Manchester United-Nottingham Forest,2024-12-07 17:30:00+00:00,Manchester United,Nottingham Forest,704419,eng.1
+ENG-Premier League,2425,2024-12-08 Fulham-Arsenal,2024-12-08 14:00:00+00:00,Fulham,Arsenal,704421,eng.1
+ENG-Premier League,2425,2024-12-08 Ipswich Town-AFC Bournemouth,2024-12-08 14:00:00+00:00,Ipswich Town,AFC Bournemouth,704427,eng.1
+ENG-Premier League,2425,2024-12-08 Leicester City-Brighton & Hove Albion,2024-12-08 14:00:00+00:00,Leicester City,Brighton & Hove Albion,704428,eng.1
+ENG-Premier League,2425,2024-12-08 Tottenham Hotspur-Chelsea,2024-12-08 16:30:00+00:00,Tottenham Hotspur,Chelsea,704420,eng.1
+ENG-Premier League,2425,2024-12-09 West Ham United-Wolverhampton Wanderers,2024-12-09 20:00:00+00:00,West Ham United,Wolverhampton Wanderers,704426,eng.1
+ENG-Premier League,2425,2024-12-14 Arsenal-Everton,2024-12-14 15:00:00+00:00,Arsenal,Everton,704429,eng.1
+ENG-Premier League,2425,2024-12-14 Liverpool-Fulham,2024-12-14 15:00:00+00:00,Liverpool,Fulham,704438,eng.1
+ENG-Premier League,2425,2024-12-14 Newcastle United-Leicester City,2024-12-14 15:00:00+00:00,Newcastle United,Leicester City,704435,eng.1
+ENG-Premier League,2425,2024-12-14 Nottingham Forest-Aston Villa,2024-12-14 17:30:00+00:00,Nottingham Forest,Aston Villa,704436,eng.1
+ENG-Premier League,2425,2024-12-14 Wolverhampton Wanderers-Ipswich Town,2024-12-14 15:00:00+00:00,Wolverhampton Wanderers,Ipswich Town,704433,eng.1
+ENG-Premier League,2425,2024-12-15 Brighton & Hove Albion-Crystal Palace,2024-12-15 14:00:00+00:00,Brighton & Hove Albion,Crystal Palace,704431,eng.1
+ENG-Premier League,2425,2024-12-15 Chelsea-Brentford,2024-12-15 19:00:00+00:00,Chelsea,Brentford,704432,eng.1
+ENG-Premier League,2425,2024-12-15 Manchester City-Manchester United,2024-12-15 16:30:00+00:00,Manchester City,Manchester United,704434,eng.1
+ENG-Premier League,2425,2024-12-15 Southampton-Tottenham Hotspur,2024-12-15 19:00:00+00:00,Southampton,Tottenham Hotspur,704437,eng.1
+ENG-Premier League,2425,2024-12-16 AFC Bournemouth-West Ham United,2024-12-16 20:00:00+00:00,AFC Bournemouth,West Ham United,704430,eng.1
+ENG-Premier League,2425,2024-12-21 Aston Villa-Manchester City,2024-12-21 12:30:00+00:00,Aston Villa,Manchester City,704444,eng.1
+ENG-Premier League,2425,2024-12-21 Brentford-Nottingham Forest,2024-12-21 15:00:00+00:00,Brentford,Nottingham Forest,704445,eng.1
+ENG-Premier League,2425,2024-12-21 Crystal Palace-Arsenal,2024-12-21 17:30:00+00:00,Crystal Palace,Arsenal,704446,eng.1
+ENG-Premier League,2425,2024-12-21 Ipswich Town-Newcastle United,2024-12-21 15:00:00+00:00,Ipswich Town,Newcastle United,704442,eng.1
+ENG-Premier League,2425,2024-12-21 West Ham United-Brighton & Hove Albion,2024-12-21 15:00:00+00:00,West Ham United,Brighton & Hove Albion,704443,eng.1
+ENG-Premier League,2425,2024-12-22 Everton-Chelsea,2024-12-22 14:00:00+00:00,Everton,Chelsea,704447,eng.1
+ENG-Premier League,2425,2024-12-22 Fulham-Southampton,2024-12-22 14:00:00+00:00,Fulham,Southampton,704448,eng.1
+ENG-Premier League,2425,2024-12-22 Leicester City-Wolverhampton Wanderers,2024-12-22 14:00:00+00:00,Leicester City,Wolverhampton Wanderers,704441,eng.1
+ENG-Premier League,2425,2024-12-22 Manchester United-AFC Bournemouth,2024-12-22 14:00:00+00:00,Manchester United,AFC Bournemouth,704440,eng.1
+ENG-Premier League,2425,2024-12-22 Tottenham Hotspur-Liverpool,2024-12-22 16:30:00+00:00,Tottenham Hotspur,Liverpool,704439,eng.1
+ENG-Premier League,2425,2024-12-26 AFC Bournemouth-Crystal Palace,2024-12-26 15:00:00+00:00,AFC Bournemouth,Crystal Palace,704458,eng.1
+ENG-Premier League,2425,2024-12-26 Chelsea-Fulham,2024-12-26 15:00:00+00:00,Chelsea,Fulham,704449,eng.1
+ENG-Premier League,2425,2024-12-26 Liverpool-Leicester City,2024-12-26 20:00:00+00:00,Liverpool,Leicester City,704456,eng.1
+ENG-Premier League,2425,2024-12-26 Manchester City-Everton,2024-12-26 12:30:00+00:00,Manchester City,Everton,704451,eng.1
+ENG-Premier League,2425,2024-12-26 Newcastle United-Aston Villa,2024-12-26 15:00:00+00:00,Newcastle United,Aston Villa,704452,eng.1
+ENG-Premier League,2425,2024-12-26 Nottingham Forest-Tottenham Hotspur,2024-12-26 15:00:00+00:00,Nottingham Forest,Tottenham Hotspur,704453,eng.1
+ENG-Premier League,2425,2024-12-26 Southampton-West Ham United,2024-12-26 15:00:00+00:00,Southampton,West Ham United,704454,eng.1
+ENG-Premier League,2425,2024-12-26 Wolverhampton Wanderers-Manchester United,2024-12-26 17:30:00+00:00,Wolverhampton Wanderers,Manchester United,704455,eng.1
+ENG-Premier League,2425,2024-12-27 Arsenal-Ipswich Town,2024-12-27 20:15:00+00:00,Arsenal,Ipswich Town,704457,eng.1
+ENG-Premier League,2425,2024-12-27 Brighton & Hove Albion-Brentford,2024-12-27 19:30:00+00:00,Brighton & Hove Albion,Brentford,704450,eng.1
+ENG-Premier League,2425,2024-12-29 Crystal Palace-Southampton,2024-12-29 15:00:00+00:00,Crystal Palace,Southampton,704466,eng.1
+ENG-Premier League,2425,2024-12-29 Everton-Nottingham Forest,2024-12-29 15:00:00+00:00,Everton,Nottingham Forest,704465,eng.1
+ENG-Premier League,2425,2024-12-29 Fulham-AFC Bournemouth,2024-12-29 15:00:00+00:00,Fulham,AFC Bournemouth,704460,eng.1
+ENG-Premier League,2425,2024-12-29 Leicester City-Manchester City,2024-12-29 14:30:00+00:00,Leicester City,Manchester City,704462,eng.1
+ENG-Premier League,2425,2024-12-29 Tottenham Hotspur-Wolverhampton Wanderers,2024-12-29 15:00:00+00:00,Tottenham Hotspur,Wolverhampton Wanderers,704463,eng.1
+ENG-Premier League,2425,2024-12-29 West Ham United-Liverpool,2024-12-29 17:15:00+00:00,West Ham United,Liverpool,704464,eng.1
+ENG-Premier League,2425,2024-12-30 Aston Villa-Brighton & Hove Albion,2024-12-30 19:45:00+00:00,Aston Villa,Brighton & Hove Albion,704459,eng.1
+ENG-Premier League,2425,2024-12-30 Ipswich Town-Chelsea,2024-12-30 19:45:00+00:00,Ipswich Town,Chelsea,704461,eng.1
+ENG-Premier League,2425,2024-12-30 Manchester United-Newcastle United,2024-12-30 20:00:00+00:00,Manchester United,Newcastle United,704468,eng.1
+ENG-Premier League,2425,2025-01-01 Brentford-Arsenal,2025-01-01 17:30:00+00:00,Brentford,Arsenal,704467,eng.1
+ENG-Premier League,2425,2025-01-04 AFC Bournemouth-Everton,2025-01-04 15:00:00+00:00,AFC Bournemouth,Everton,704469,eng.1
+ENG-Premier League,2425,2025-01-04 Aston Villa-Leicester City,2025-01-04 15:00:00+00:00,Aston Villa,Leicester City,704470,eng.1
+ENG-Premier League,2425,2025-01-04 Brighton & Hove Albion-Arsenal,2025-01-04 17:30:00+00:00,Brighton & Hove Albion,Arsenal,704477,eng.1
+ENG-Premier League,2425,2025-01-04 Crystal Palace-Chelsea,2025-01-04 15:00:00+00:00,Crystal Palace,Chelsea,704478,eng.1
+ENG-Premier League,2425,2025-01-04 Manchester City-West Ham United,2025-01-04 15:00:00+00:00,Manchester City,West Ham United,704474,eng.1
+ENG-Premier League,2425,2025-01-04 Southampton-Brentford,2025-01-04 15:00:00+00:00,Southampton,Brentford,704473,eng.1
+ENG-Premier League,2425,2025-01-04 Tottenham Hotspur-Newcastle United,2025-01-04 12:30:00+00:00,Tottenham Hotspur,Newcastle United,704472,eng.1
+ENG-Premier League,2425,2025-01-05 Fulham-Ipswich Town,2025-01-05 14:00:00+00:00,Fulham,Ipswich Town,704471,eng.1
+ENG-Premier League,2425,2025-01-05 Liverpool-Manchester United,2025-01-05 16:30:00+00:00,Liverpool,Manchester United,704475,eng.1
+ENG-Premier League,2425,2025-01-06 Wolverhampton Wanderers-Nottingham Forest,2025-01-06 20:00:00+00:00,Wolverhampton Wanderers,Nottingham Forest,704476,eng.1
+ENG-Premier League,2425,2025-01-14 Brentford-Manchester City,2025-01-14 19:30:00+00:00,Brentford,Manchester City,704482,eng.1
+ENG-Premier League,2425,2025-01-14 Chelsea-AFC Bournemouth,2025-01-14 19:30:00+00:00,Chelsea,AFC Bournemouth,704487,eng.1
+ENG-Premier League,2425,2025-01-14 Nottingham Forest-Liverpool,2025-01-14 20:00:00+00:00,Nottingham Forest,Liverpool,704484,eng.1
+ENG-Premier League,2425,2025-01-14 West Ham United-Fulham,2025-01-14 19:30:00+00:00,West Ham United,Fulham,704483,eng.1
+ENG-Premier League,2425,2025-01-15 Arsenal-Tottenham Hotspur,2025-01-15 20:00:00+00:00,Arsenal,Tottenham Hotspur,704485,eng.1
+ENG-Premier League,2425,2025-01-15 Everton-Aston Villa,2025-01-15 19:30:00+00:00,Everton,Aston Villa,704481,eng.1
+ENG-Premier League,2425,2025-01-15 Leicester City-Crystal Palace,2025-01-15 19:30:00+00:00,Leicester City,Crystal Palace,704479,eng.1
+ENG-Premier League,2425,2025-01-15 Newcastle United-Wolverhampton Wanderers,2025-01-15 19:30:00+00:00,Newcastle United,Wolverhampton Wanderers,704486,eng.1
+ENG-Premier League,2425,2025-01-16 Ipswich Town-Brighton & Hove Albion,2025-01-16 19:30:00+00:00,Ipswich Town,Brighton & Hove Albion,704480,eng.1
+ENG-Premier League,2425,2025-01-16 Manchester United-Southampton,2025-01-16 20:00:00+00:00,Manchester United,Southampton,704488,eng.1
+ENG-Premier League,2425,2025-01-18 Arsenal-Aston Villa,2025-01-18 17:30:00+00:00,Arsenal,Aston Villa,704493,eng.1
+ENG-Premier League,2425,2025-01-18 Brentford-Liverpool,2025-01-18 15:00:00+00:00,Brentford,Liverpool,704494,eng.1
+ENG-Premier League,2425,2025-01-18 Leicester City-Fulham,2025-01-18 15:00:00+00:00,Leicester City,Fulham,704498,eng.1
+ENG-Premier League,2425,2025-01-18 Newcastle United-AFC Bournemouth,2025-01-18 12:30:00+00:00,Newcastle United,AFC Bournemouth,704496,eng.1
+ENG-Premier League,2425,2025-01-18 West Ham United-Crystal Palace,2025-01-18 15:00:00+00:00,West Ham United,Crystal Palace,704491,eng.1
+ENG-Premier League,2425,2025-01-19 Everton-Tottenham Hotspur,2025-01-19 14:00:00+00:00,Everton,Tottenham Hotspur,704489,eng.1
+ENG-Premier League,2425,2025-01-19 Ipswich Town-Manchester City,2025-01-19 16:30:00+00:00,Ipswich Town,Manchester City,704490,eng.1
+ENG-Premier League,2425,2025-01-19 Manchester United-Brighton & Hove Albion,2025-01-19 14:00:00+00:00,Manchester United,Brighton & Hove Albion,704497,eng.1
+ENG-Premier League,2425,2025-01-19 Nottingham Forest-Southampton,2025-01-19 14:00:00+00:00,Nottingham Forest,Southampton,704492,eng.1
+ENG-Premier League,2425,2025-01-20 Chelsea-Wolverhampton Wanderers,2025-01-20 20:00:00+00:00,Chelsea,Wolverhampton Wanderers,704495,eng.1
+ENG-Premier League,2425,2025-01-25 AFC Bournemouth-Nottingham Forest,2025-01-25 15:00:00+00:00,AFC Bournemouth,Nottingham Forest,704507,eng.1
+ENG-Premier League,2425,2025-01-25 Brighton & Hove Albion-Everton,2025-01-25 15:00:00+00:00,Brighton & Hove Albion,Everton,704506,eng.1
+ENG-Premier League,2425,2025-01-25 Liverpool-Ipswich Town,2025-01-25 15:00:00+00:00,Liverpool,Ipswich Town,704508,eng.1
+ENG-Premier League,2425,2025-01-25 Manchester City-Chelsea,2025-01-25 17:30:00+00:00,Manchester City,Chelsea,704502,eng.1
+ENG-Premier League,2425,2025-01-25 Southampton-Newcastle United,2025-01-25 15:00:00+00:00,Southampton,Newcastle United,704501,eng.1
+ENG-Premier League,2425,2025-01-25 Wolverhampton Wanderers-Arsenal,2025-01-25 15:00:00+00:00,Wolverhampton Wanderers,Arsenal,704504,eng.1
+ENG-Premier League,2425,2025-01-26 Aston Villa-West Ham United,2025-01-26 16:30:00+00:00,Aston Villa,West Ham United,704499,eng.1
+ENG-Premier League,2425,2025-01-26 Crystal Palace-Brentford,2025-01-26 14:00:00+00:00,Crystal Palace,Brentford,704505,eng.1
+ENG-Premier League,2425,2025-01-26 Fulham-Manchester United,2025-01-26 19:00:00+00:00,Fulham,Manchester United,704503,eng.1
+ENG-Premier League,2425,2025-01-26 Tottenham Hotspur-Leicester City,2025-01-26 14:00:00+00:00,Tottenham Hotspur,Leicester City,704500,eng.1
+ENG-Premier League,2425,2025-02-01 AFC Bournemouth-Liverpool,2025-02-01 15:00:00+00:00,AFC Bournemouth,Liverpool,704511,eng.1
+ENG-Premier League,2425,2025-02-01 Everton-Leicester City,2025-02-01 15:00:00+00:00,Everton,Leicester City,704509,eng.1
+ENG-Premier League,2425,2025-02-01 Ipswich Town-Southampton,2025-02-01 15:00:00+00:00,Ipswich Town,Southampton,704510,eng.1
+ENG-Premier League,2425,2025-02-01 Newcastle United-Fulham,2025-02-01 15:00:00+00:00,Newcastle United,Fulham,704517,eng.1
+ENG-Premier League,2425,2025-02-01 Nottingham Forest-Brighton & Hove Albion,2025-02-01 12:30:00+00:00,Nottingham Forest,Brighton & Hove Albion,704518,eng.1
+ENG-Premier League,2425,2025-02-01 Wolverhampton Wanderers-Aston Villa,2025-02-01 17:30:00+00:00,Wolverhampton Wanderers,Aston Villa,704514,eng.1
+ENG-Premier League,2425,2025-02-02 Arsenal-Manchester City,2025-02-02 16:30:00+00:00,Arsenal,Manchester City,704515,eng.1
+ENG-Premier League,2425,2025-02-02 Brentford-Tottenham Hotspur,2025-02-02 14:00:00+00:00,Brentford,Tottenham Hotspur,704512,eng.1
+ENG-Premier League,2425,2025-02-02 Manchester United-Crystal Palace,2025-02-02 14:00:00+00:00,Manchester United,Crystal Palace,704516,eng.1
+ENG-Premier League,2425,2025-02-03 Chelsea-West Ham United,2025-02-03 20:00:00+00:00,Chelsea,West Ham United,704513,eng.1
+ENG-Premier League,2425,2025-02-12 Everton-Liverpool,2025-02-12 19:30:00+00:00,Everton,Liverpool,704425,eng.1
+ENG-Premier League,2425,2025-02-14 Brighton & Hove Albion-Chelsea,2025-02-14 20:00:00+00:00,Brighton & Hove Albion,Chelsea,704526,eng.1
+ENG-Premier League,2425,2025-02-15 Aston Villa-Ipswich Town,2025-02-15 15:00:00+00:00,Aston Villa,Ipswich Town,704527,eng.1
+ENG-Premier League,2425,2025-02-15 Crystal Palace-Everton,2025-02-15 17:30:00+00:00,Crystal Palace,Everton,704525,eng.1
+ENG-Premier League,2425,2025-02-15 Fulham-Nottingham Forest,2025-02-15 15:00:00+00:00,Fulham,Nottingham Forest,704519,eng.1
+ENG-Premier League,2425,2025-02-15 Leicester City-Arsenal,2025-02-15 12:30:00+00:00,Leicester City,Arsenal,704520,eng.1
+ENG-Premier League,2425,2025-02-15 Manchester City-Newcastle United,2025-02-15 15:00:00+00:00,Manchester City,Newcastle United,704522,eng.1
+ENG-Premier League,2425,2025-02-15 Southampton-AFC Bournemouth,2025-02-15 15:00:00+00:00,Southampton,AFC Bournemouth,704528,eng.1
+ENG-Premier League,2425,2025-02-15 West Ham United-Brentford,2025-02-15 15:00:00+00:00,West Ham United,Brentford,704523,eng.1
+ENG-Premier League,2425,2025-02-16 Liverpool-Wolverhampton Wanderers,2025-02-16 14:00:00+00:00,Liverpool,Wolverhampton Wanderers,704521,eng.1
+ENG-Premier League,2425,2025-02-16 Tottenham Hotspur-Manchester United,2025-02-16 16:30:00+00:00,Tottenham Hotspur,Manchester United,704524,eng.1
+ENG-Premier League,2425,2025-02-19 Aston Villa-Liverpool,2025-02-19 19:30:00+00:00,Aston Villa,Liverpool,704567,eng.1
+ENG-Premier League,2425,2025-02-21 Leicester City-Brentford,2025-02-21 20:00:00+00:00,Leicester City,Brentford,704535,eng.1
+ENG-Premier League,2425,2025-02-22 AFC Bournemouth-Wolverhampton Wanderers,2025-02-22 15:00:00+00:00,AFC Bournemouth,Wolverhampton Wanderers,704529,eng.1
+ENG-Premier League,2425,2025-02-22 Arsenal-West Ham United,2025-02-22 15:00:00+00:00,Arsenal,West Ham United,704538,eng.1
+ENG-Premier League,2425,2025-02-22 Aston Villa-Chelsea,2025-02-22 17:30:00+00:00,Aston Villa,Chelsea,704537,eng.1
+ENG-Premier League,2425,2025-02-22 Everton-Manchester United,2025-02-22 12:30:00+00:00,Everton,Manchester United,704530,eng.1
+ENG-Premier League,2425,2025-02-22 Fulham-Crystal Palace,2025-02-22 15:00:00+00:00,Fulham,Crystal Palace,704531,eng.1
+ENG-Premier League,2425,2025-02-22 Ipswich Town-Tottenham Hotspur,2025-02-22 15:00:00+00:00,Ipswich Town,Tottenham Hotspur,704532,eng.1
+ENG-Premier League,2425,2025-02-22 Southampton-Brighton & Hove Albion,2025-02-22 15:00:00+00:00,Southampton,Brighton & Hove Albion,704536,eng.1
+ENG-Premier League,2425,2025-02-23 Manchester City-Liverpool,2025-02-23 16:30:00+00:00,Manchester City,Liverpool,704534,eng.1
+ENG-Premier League,2425,2025-02-23 Newcastle United-Nottingham Forest,2025-02-23 14:00:00+00:00,Newcastle United,Nottingham Forest,704533,eng.1
+ENG-Premier League,2425,2025-02-25 Brighton & Hove Albion-AFC Bournemouth,2025-02-25 19:30:00+00:00,Brighton & Hove Albion,AFC Bournemouth,704542,eng.1
+ENG-Premier League,2425,2025-02-25 Chelsea-Southampton,2025-02-25 20:15:00+00:00,Chelsea,Southampton,704547,eng.1
+ENG-Premier League,2425,2025-02-25 Crystal Palace-Aston Villa,2025-02-25 19:30:00+00:00,Crystal Palace,Aston Villa,704544,eng.1
+ENG-Premier League,2425,2025-02-25 Wolverhampton Wanderers-Fulham,2025-02-25 19:30:00+00:00,Wolverhampton Wanderers,Fulham,704539,eng.1
+ENG-Premier League,2425,2025-02-26 Brentford-Everton,2025-02-26 19:30:00+00:00,Brentford,Everton,704545,eng.1
+ENG-Premier League,2425,2025-02-26 Liverpool-Newcastle United,2025-02-26 20:15:00+00:00,Liverpool,Newcastle United,704548,eng.1
+ENG-Premier League,2425,2025-02-26 Manchester United-Ipswich Town,2025-02-26 19:30:00+00:00,Manchester United,Ipswich Town,704546,eng.1
+ENG-Premier League,2425,2025-02-26 Nottingham Forest-Arsenal,2025-02-26 19:30:00+00:00,Nottingham Forest,Arsenal,704541,eng.1
+ENG-Premier League,2425,2025-02-26 Tottenham Hotspur-Manchester City,2025-02-26 19:30:00+00:00,Tottenham Hotspur,Manchester City,704540,eng.1
+ENG-Premier League,2425,2025-02-27 West Ham United-Leicester City,2025-02-27 20:00:00+00:00,West Ham United,Leicester City,704543,eng.1
+ENG-Premier League,2425,2025-03-08 Brentford-Aston Villa,2025-03-08 17:30:00+00:00,Brentford,Aston Villa,704549,eng.1
+ENG-Premier League,2425,2025-03-08 Brighton & Hove Albion-Fulham,2025-03-08 15:00:00+00:00,Brighton & Hove Albion,Fulham,704550,eng.1
+ENG-Premier League,2425,2025-03-08 Crystal Palace-Ipswich Town,2025-03-08 15:00:00+00:00,Crystal Palace,Ipswich Town,704557,eng.1
+ENG-Premier League,2425,2025-03-08 Liverpool-Southampton,2025-03-08 15:00:00+00:00,Liverpool,Southampton,704556,eng.1
+ENG-Premier League,2425,2025-03-08 Nottingham Forest-Manchester City,2025-03-08 12:30:00+00:00,Nottingham Forest,Manchester City,704554,eng.1
+ENG-Premier League,2425,2025-03-08 Wolverhampton Wanderers-Everton,2025-03-08 20:00:00+00:00,Wolverhampton Wanderers,Everton,704551,eng.1
+ENG-Premier League,2425,2025-03-09 Chelsea-Leicester City,2025-03-09 14:00:00+00:00,Chelsea,Leicester City,704553,eng.1
+ENG-Premier League,2425,2025-03-09 Manchester United-Arsenal,2025-03-09 16:30:00+00:00,Manchester United,Arsenal,704555,eng.1
+ENG-Premier League,2425,2025-03-09 Tottenham Hotspur-AFC Bournemouth,2025-03-09 14:00:00+00:00,Tottenham Hotspur,AFC Bournemouth,704558,eng.1
+ENG-Premier League,2425,2025-03-10 West Ham United-Newcastle United,2025-03-10 20:00:00+00:00,West Ham United,Newcastle United,704552,eng.1
+ENG-Premier League,2425,2025-03-15 AFC Bournemouth-Brentford,2025-03-15 17:30:00+00:00,AFC Bournemouth,Brentford,704566,eng.1
+ENG-Premier League,2425,2025-03-15 Everton-West Ham United,2025-03-15 15:00:00+00:00,Everton,West Ham United,704565,eng.1
+ENG-Premier League,2425,2025-03-15 Ipswich Town-Nottingham Forest,2025-03-15 15:00:00+00:00,Ipswich Town,Nottingham Forest,704568,eng.1
+ENG-Premier League,2425,2025-03-15 Manchester City-Brighton & Hove Albion,2025-03-15 15:00:00+00:00,Manchester City,Brighton & Hove Albion,704561,eng.1
+ENG-Premier League,2425,2025-03-15 Southampton-Wolverhampton Wanderers,2025-03-15 15:00:00+00:00,Southampton,Wolverhampton Wanderers,704563,eng.1
+ENG-Premier League,2425,2025-03-16 Arsenal-Chelsea,2025-03-16 13:30:00+00:00,Arsenal,Chelsea,704559,eng.1
+ENG-Premier League,2425,2025-03-16 Fulham-Tottenham Hotspur,2025-03-16 13:30:00+00:00,Fulham,Tottenham Hotspur,704564,eng.1
+ENG-Premier League,2425,2025-03-16 Leicester City-Manchester United,2025-03-16 19:00:00+00:00,Leicester City,Manchester United,704562,eng.1
+ENG-Premier League,2425,2025-04-01 Arsenal-Fulham,2025-04-01 18:45:00+00:00,Arsenal,Fulham,704572,eng.1
+ENG-Premier League,2425,2025-04-01 Nottingham Forest-Manchester United,2025-04-01 19:00:00+00:00,Nottingham Forest,Manchester United,704569,eng.1
+ENG-Premier League,2425,2025-04-01 Wolverhampton Wanderers-West Ham United,2025-04-01 18:45:00+00:00,Wolverhampton Wanderers,West Ham United,704573,eng.1
+ENG-Premier League,2425,2025-04-02 AFC Bournemouth-Ipswich Town,2025-04-02 18:45:00+00:00,AFC Bournemouth,Ipswich Town,704570,eng.1
+ENG-Premier League,2425,2025-04-02 Brighton & Hove Albion-Aston Villa,2025-04-02 18:45:00+00:00,Brighton & Hove Albion,Aston Villa,704571,eng.1
+ENG-Premier League,2425,2025-04-02 Liverpool-Everton,2025-04-02 19:00:00+00:00,Liverpool,Everton,704575,eng.1
+ENG-Premier League,2425,2025-04-02 Manchester City-Leicester City,2025-04-02 18:45:00+00:00,Manchester City,Leicester City,704574,eng.1
+ENG-Premier League,2425,2025-04-02 Newcastle United-Brentford,2025-04-02 18:45:00+00:00,Newcastle United,Brentford,704578,eng.1
+ENG-Premier League,2425,2025-04-02 Southampton-Crystal Palace,2025-04-02 18:45:00+00:00,Southampton,Crystal Palace,704577,eng.1
+ENG-Premier League,2425,2025-04-03 Chelsea-Tottenham Hotspur,2025-04-03 19:00:00+00:00,Chelsea,Tottenham Hotspur,704576,eng.1
+ENG-Premier League,2425,2025-04-05 Aston Villa-Nottingham Forest,2025-04-05 16:30:00+00:00,Aston Villa,Nottingham Forest,704580,eng.1
+ENG-Premier League,2425,2025-04-05 Crystal Palace-Brighton & Hove Albion,2025-04-05 14:00:00+00:00,Crystal Palace,Brighton & Hove Albion,704583,eng.1
+ENG-Premier League,2425,2025-04-05 Everton-Arsenal,2025-04-05 11:30:00+00:00,Everton,Arsenal,704584,eng.1
+ENG-Premier League,2425,2025-04-05 Ipswich Town-Wolverhampton Wanderers,2025-04-05 14:00:00+00:00,Ipswich Town,Wolverhampton Wanderers,704585,eng.1
+ENG-Premier League,2425,2025-04-05 West Ham United-AFC Bournemouth,2025-04-05 14:00:00+00:00,West Ham United,AFC Bournemouth,704582,eng.1
+ENG-Premier League,2425,2025-04-06 Brentford-Chelsea,2025-04-06 13:00:00+00:00,Brentford,Chelsea,704579,eng.1
+ENG-Premier League,2425,2025-04-06 Fulham-Liverpool,2025-04-06 13:00:00+00:00,Fulham,Liverpool,704586,eng.1
+ENG-Premier League,2425,2025-04-06 Manchester United-Manchester City,2025-04-06 15:30:00+00:00,Manchester United,Manchester City,704581,eng.1
+ENG-Premier League,2425,2025-04-06 Tottenham Hotspur-Southampton,2025-04-06 13:00:00+00:00,Tottenham Hotspur,Southampton,704587,eng.1
+ENG-Premier League,2425,2025-04-07 Leicester City-Newcastle United,2025-04-07 19:00:00+00:00,Leicester City,Newcastle United,704588,eng.1
+ENG-Premier League,2425,2025-04-12 Arsenal-Brentford,2025-04-12 16:30:00+00:00,Arsenal,Brentford,704595,eng.1
+ENG-Premier League,2425,2025-04-12 Brighton & Hove Albion-Leicester City,2025-04-12 14:00:00+00:00,Brighton & Hove Albion,Leicester City,704597,eng.1
+ENG-Premier League,2425,2025-04-12 Manchester City-Crystal Palace,2025-04-12 11:30:00+00:00,Manchester City,Crystal Palace,704591,eng.1
+ENG-Premier League,2425,2025-04-12 Nottingham Forest-Everton,2025-04-12 14:00:00+00:00,Nottingham Forest,Everton,704589,eng.1
+ENG-Premier League,2425,2025-04-12 Southampton-Aston Villa,2025-04-12 14:00:00+00:00,Southampton,Aston Villa,704592,eng.1
+ENG-Premier League,2425,2025-04-13 Chelsea-Ipswich Town,2025-04-13 13:00:00+00:00,Chelsea,Ipswich Town,704598,eng.1
+ENG-Premier League,2425,2025-04-13 Liverpool-West Ham United,2025-04-13 13:00:00+00:00,Liverpool,West Ham United,704594,eng.1
+ENG-Premier League,2425,2025-04-13 Newcastle United-Manchester United,2025-04-13 15:30:00+00:00,Newcastle United,Manchester United,704590,eng.1
+ENG-Premier League,2425,2025-04-13 Wolverhampton Wanderers-Tottenham Hotspur,2025-04-13 13:00:00+00:00,Wolverhampton Wanderers,Tottenham Hotspur,704593,eng.1
+ENG-Premier League,2425,2025-04-14 AFC Bournemouth-Fulham,2025-04-14 19:00:00+00:00,AFC Bournemouth,Fulham,704596,eng.1
+ENG-Premier League,2425,2025-04-16 Newcastle United-Crystal Palace,2025-04-16 18:30:00+00:00,Newcastle United,Crystal Palace,704560,eng.1
+ENG-Premier League,2425,2025-04-19 Aston Villa-Newcastle United,2025-04-19 16:30:00+00:00,Aston Villa,Newcastle United,704606,eng.1
+ENG-Premier League,2425,2025-04-19 Brentford-Brighton & Hove Albion,2025-04-19 14:00:00+00:00,Brentford,Brighton & Hove Albion,704607,eng.1
+ENG-Premier League,2425,2025-04-19 Crystal Palace-AFC Bournemouth,2025-04-19 14:00:00+00:00,Crystal Palace,AFC Bournemouth,704605,eng.1
+ENG-Premier League,2425,2025-04-19 Everton-Manchester City,2025-04-19 14:00:00+00:00,Everton,Manchester City,704604,eng.1
+ENG-Premier League,2425,2025-04-19 West Ham United-Southampton,2025-04-19 14:00:00+00:00,West Ham United,Southampton,704603,eng.1
+ENG-Premier League,2425,2025-04-20 Fulham-Chelsea,2025-04-20 13:00:00+00:00,Fulham,Chelsea,704608,eng.1
+ENG-Premier League,2425,2025-04-20 Ipswich Town-Arsenal,2025-04-20 13:00:00+00:00,Ipswich Town,Arsenal,704602,eng.1
+ENG-Premier League,2425,2025-04-20 Leicester City-Liverpool,2025-04-20 15:30:00+00:00,Leicester City,Liverpool,704601,eng.1
+ENG-Premier League,2425,2025-04-20 Manchester United-Wolverhampton Wanderers,2025-04-20 13:00:00+00:00,Manchester United,Wolverhampton Wanderers,704600,eng.1
+ENG-Premier League,2425,2025-04-21 Tottenham Hotspur-Nottingham Forest,2025-04-21 19:00:00+00:00,Tottenham Hotspur,Nottingham Forest,704599,eng.1
+ENG-Premier League,2425,2025-04-22 Manchester City-Aston Villa,2025-04-22 19:00:00+00:00,Manchester City,Aston Villa,704615,eng.1
+ENG-Premier League,2425,2025-04-23 Arsenal-Crystal Palace,2025-04-23 19:00:00+00:00,Arsenal,Crystal Palace,704618,eng.1
+ENG-Premier League,2425,2025-04-26 Brighton & Hove Albion-West Ham United,2025-04-26 14:00:00+00:00,Brighton & Hove Albion,West Ham United,704610,eng.1
+ENG-Premier League,2425,2025-04-26 Chelsea-Everton,2025-04-26 11:30:00+00:00,Chelsea,Everton,704611,eng.1
+ENG-Premier League,2425,2025-04-26 Newcastle United-Ipswich Town,2025-04-26 14:00:00+00:00,Newcastle United,Ipswich Town,704614,eng.1
+ENG-Premier League,2425,2025-04-26 Southampton-Fulham,2025-04-26 14:00:00+00:00,Southampton,Fulham,704612,eng.1
+ENG-Premier League,2425,2025-04-26 Wolverhampton Wanderers-Leicester City,2025-04-26 14:00:00+00:00,Wolverhampton Wanderers,Leicester City,704613,eng.1
+ENG-Premier League,2425,2025-04-27 AFC Bournemouth-Manchester United,2025-04-27 13:00:00+00:00,AFC Bournemouth,Manchester United,704609,eng.1
+ENG-Premier League,2425,2025-04-27 Liverpool-Tottenham Hotspur,2025-04-27 15:30:00+00:00,Liverpool,Tottenham Hotspur,704617,eng.1
+ENG-Premier League,2425,2025-05-01 Nottingham Forest-Brentford,2025-05-01 18:30:00+00:00,Nottingham Forest,Brentford,704616,eng.1
+ENG-Premier League,2425,2025-05-02 Manchester City-Wolverhampton Wanderers,2025-05-02 19:00:00+00:00,Manchester City,Wolverhampton Wanderers,704627,eng.1
+ENG-Premier League,2425,2025-05-03 Arsenal-AFC Bournemouth,2025-05-03 16:30:00+00:00,Arsenal,AFC Bournemouth,704619,eng.1
+ENG-Premier League,2425,2025-05-03 Aston Villa-Fulham,2025-05-03 11:30:00+00:00,Aston Villa,Fulham,704620,eng.1
+ENG-Premier League,2425,2025-05-03 Everton-Ipswich Town,2025-05-03 14:00:00+00:00,Everton,Ipswich Town,704625,eng.1
+ENG-Premier League,2425,2025-05-03 Leicester City-Southampton,2025-05-03 14:00:00+00:00,Leicester City,Southampton,704626,eng.1
+ENG-Premier League,2425,2025-05-04 Brentford-Manchester United,2025-05-04 13:00:00+00:00,Brentford,Manchester United,704621,eng.1
+ENG-Premier League,2425,2025-05-04 Brighton & Hove Albion-Newcastle United,2025-05-04 13:00:00+00:00,Brighton & Hove Albion,Newcastle United,704622,eng.1
+ENG-Premier League,2425,2025-05-04 Chelsea-Liverpool,2025-05-04 15:30:00+00:00,Chelsea,Liverpool,704623,eng.1
+ENG-Premier League,2425,2025-05-04 West Ham United-Tottenham Hotspur,2025-05-04 13:00:00+00:00,West Ham United,Tottenham Hotspur,704628,eng.1
+ENG-Premier League,2425,2025-05-05 Crystal Palace-Nottingham Forest,2025-05-05 19:00:00+00:00,Crystal Palace,Nottingham Forest,704624,eng.1
+ENG-Premier League,2425,2025-05-10 AFC Bournemouth-Aston Villa,2025-05-10 16:30:00+00:00,AFC Bournemouth,Aston Villa,704629,eng.1
+ENG-Premier League,2425,2025-05-10 Fulham-Everton,2025-05-10 14:00:00+00:00,Fulham,Everton,704630,eng.1
+ENG-Premier League,2425,2025-05-10 Ipswich Town-Brentford,2025-05-10 14:00:00+00:00,Ipswich Town,Brentford,704631,eng.1
+ENG-Premier League,2425,2025-05-10 Southampton-Manchester City,2025-05-10 14:00:00+00:00,Southampton,Manchester City,704636,eng.1
+ENG-Premier League,2425,2025-05-10 Wolverhampton Wanderers-Brighton & Hove Albion,2025-05-10 14:00:00+00:00,Wolverhampton Wanderers,Brighton & Hove Albion,704638,eng.1
+ENG-Premier League,2425,2025-05-11 Liverpool-Arsenal,2025-05-11 15:30:00+00:00,Liverpool,Arsenal,704632,eng.1
+ENG-Premier League,2425,2025-05-11 Manchester United-West Ham United,2025-05-11 13:15:00+00:00,Manchester United,West Ham United,704633,eng.1
+ENG-Premier League,2425,2025-05-11 Newcastle United-Chelsea,2025-05-11 11:00:00+00:00,Newcastle United,Chelsea,704634,eng.1
+ENG-Premier League,2425,2025-05-11 Nottingham Forest-Leicester City,2025-05-11 13:15:00+00:00,Nottingham Forest,Leicester City,704635,eng.1
+ENG-Premier League,2425,2025-05-11 Tottenham Hotspur-Crystal Palace,2025-05-11 13:15:00+00:00,Tottenham Hotspur,Crystal Palace,704637,eng.1
+ENG-Premier League,2425,2025-05-16 Aston Villa-Tottenham Hotspur,2025-05-16 18:30:00+00:00,Aston Villa,Tottenham Hotspur,704640,eng.1
+ENG-Premier League,2425,2025-05-16 Chelsea-Manchester United,2025-05-16 19:15:00+00:00,Chelsea,Manchester United,704643,eng.1
+ENG-Premier League,2425,2025-05-18 Arsenal-Newcastle United,2025-05-18 15:30:00+00:00,Arsenal,Newcastle United,704639,eng.1
+ENG-Premier League,2425,2025-05-18 Brentford-Fulham,2025-05-18 14:00:00+00:00,Brentford,Fulham,704641,eng.1
+ENG-Premier League,2425,2025-05-18 Everton-Southampton,2025-05-18 11:00:00+00:00,Everton,Southampton,704645,eng.1
+ENG-Premier League,2425,2025-05-18 Leicester City-Ipswich Town,2025-05-18 14:00:00+00:00,Leicester City,Ipswich Town,704646,eng.1
+ENG-Premier League,2425,2025-05-18 West Ham United-Nottingham Forest,2025-05-18 13:15:00+00:00,West Ham United,Nottingham Forest,704648,eng.1
+ENG-Premier League,2425,2025-05-19 Brighton & Hove Albion-Liverpool,2025-05-19 19:00:00+00:00,Brighton & Hove Albion,Liverpool,704642,eng.1
+ENG-Premier League,2425,2025-05-20 Crystal Palace-Wolverhampton Wanderers,2025-05-20 19:00:00+00:00,Crystal Palace,Wolverhampton Wanderers,704644,eng.1
+ENG-Premier League,2425,2025-05-20 Manchester City-AFC Bournemouth,2025-05-20 19:00:00+00:00,Manchester City,AFC Bournemouth,704647,eng.1
+ENG-Premier League,2425,2025-05-25 AFC Bournemouth-Leicester City,2025-05-25 15:00:00+00:00,AFC Bournemouth,Leicester City,704649,eng.1
+ENG-Premier League,2425,2025-05-25 Fulham-Manchester City,2025-05-25 15:00:00+00:00,Fulham,Manchester City,704650,eng.1
+ENG-Premier League,2425,2025-05-25 Ipswich Town-West Ham United,2025-05-25 15:00:00+00:00,Ipswich Town,West Ham United,704651,eng.1
+ENG-Premier League,2425,2025-05-25 Liverpool-Crystal Palace,2025-05-25 15:00:00+00:00,Liverpool,Crystal Palace,704652,eng.1
+ENG-Premier League,2425,2025-05-25 Manchester United-Aston Villa,2025-05-25 15:00:00+00:00,Manchester United,Aston Villa,704658,eng.1
+ENG-Premier League,2425,2025-05-25 Newcastle United-Everton,2025-05-25 15:00:00+00:00,Newcastle United,Everton,704653,eng.1
+ENG-Premier League,2425,2025-05-25 Nottingham Forest-Chelsea,2025-05-25 15:00:00+00:00,Nottingham Forest,Chelsea,704655,eng.1
+ENG-Premier League,2425,2025-05-25 Southampton-Arsenal,2025-05-25 15:00:00+00:00,Southampton,Arsenal,704656,eng.1
+ENG-Premier League,2425,2025-05-25 Tottenham Hotspur-Brighton & Hove Albion,2025-05-25 15:00:00+00:00,Tottenham Hotspur,Brighton & Hove Albion,704657,eng.1
+ENG-Premier League,2425,2025-05-25 Wolverhampton Wanderers-Brentford,2025-05-25 15:00:00+00:00,Wolverhampton Wanderers,Brentford,704654,eng.1
+ENG-Premier League,2526,2025-08-15 Liverpool-AFC Bournemouth,2025-08-15 19:00:00+00:00,Liverpool,AFC Bournemouth,740596,eng.1
+ENG-Premier League,2526,2025-08-16 Aston Villa-Newcastle United,2025-08-16 11:30:00+00:00,Aston Villa,Newcastle United,740597,eng.1
+ENG-Premier League,2526,2025-08-16 Brighton & Hove Albion-Fulham,2025-08-16 14:00:00+00:00,Brighton & Hove Albion,Fulham,740598,eng.1
+ENG-Premier League,2526,2025-08-16 Sunderland-West Ham United,2025-08-16 14:00:00+00:00,Sunderland,West Ham United,740600,eng.1
+ENG-Premier League,2526,2025-08-16 Tottenham Hotspur-Burnley,2025-08-16 14:00:00+00:00,Tottenham Hotspur,Burnley,740601,eng.1
+ENG-Premier League,2526,2025-08-16 Wolverhampton Wanderers-Manchester City,2025-08-16 16:30:00+00:00,Wolverhampton Wanderers,Manchester City,740602,eng.1
+ENG-Premier League,2526,2025-08-17 Chelsea-Crystal Palace,2025-08-17 13:00:00+00:00,Chelsea,Crystal Palace,740603,eng.1
+ENG-Premier League,2526,2025-08-17 Manchester United-Arsenal,2025-08-17 15:30:00+00:00,Manchester United,Arsenal,740604,eng.1
+ENG-Premier League,2526,2025-08-17 Nottingham Forest-Brentford,2025-08-17 13:00:00+00:00,Nottingham Forest,Brentford,740599,eng.1
+ENG-Premier League,2526,2025-08-18 Leeds United-Everton,2025-08-18 19:00:00+00:00,Leeds United,Everton,740605,eng.1
+ENG-Premier League,2526,2025-08-22 West Ham United-Chelsea,2025-08-22 19:00:00+00:00,West Ham United,Chelsea,740615,eng.1
+ENG-Premier League,2526,2025-08-23 AFC Bournemouth-Wolverhampton Wanderers,2025-08-23 14:00:00+00:00,AFC Bournemouth,Wolverhampton Wanderers,740607,eng.1
+ENG-Premier League,2526,2025-08-23 Arsenal-Leeds United,2025-08-23 16:30:00+00:00,Arsenal,Leeds United,740606,eng.1
+ENG-Premier League,2526,2025-08-23 Brentford-Aston Villa,2025-08-23 14:00:00+00:00,Brentford,Aston Villa,740608,eng.1
+ENG-Premier League,2526,2025-08-23 Burnley-Sunderland,2025-08-23 14:00:00+00:00,Burnley,Sunderland,740609,eng.1
+ENG-Premier League,2526,2025-08-23 Manchester City-Tottenham Hotspur,2025-08-23 11:30:00+00:00,Manchester City,Tottenham Hotspur,740613,eng.1
+ENG-Premier League,2526,2025-08-24 Crystal Palace-Nottingham Forest,2025-08-24 13:00:00+00:00,Crystal Palace,Nottingham Forest,740610,eng.1
+ENG-Premier League,2526,2025-08-24 Everton-Brighton & Hove Albion,2025-08-24 13:00:00+00:00,Everton,Brighton & Hove Albion,740611,eng.1
+ENG-Premier League,2526,2025-08-24 Fulham-Manchester United,2025-08-24 15:30:00+00:00,Fulham,Manchester United,740612,eng.1
+ENG-Premier League,2526,2025-08-25 Newcastle United-Liverpool,2025-08-25 19:00:00+00:00,Newcastle United,Liverpool,740614,eng.1
+ENG-Premier League,2526,2025-08-30 Chelsea-Fulham,2025-08-30 11:30:00+00:00,Chelsea,Fulham,740618,eng.1
+ENG-Premier League,2526,2025-08-30 Leeds United-Newcastle United,2025-08-30 16:30:00+00:00,Leeds United,Newcastle United,740619,eng.1
+ENG-Premier League,2526,2025-08-30 Manchester United-Burnley,2025-08-30 14:00:00+00:00,Manchester United,Burnley,740621,eng.1
+ENG-Premier League,2526,2025-08-30 Sunderland-Brentford,2025-08-30 14:00:00+00:00,Sunderland,Brentford,740623,eng.1
+ENG-Premier League,2526,2025-08-30 Tottenham Hotspur-AFC Bournemouth,2025-08-30 14:00:00+00:00,Tottenham Hotspur,AFC Bournemouth,740620,eng.1
+ENG-Premier League,2526,2025-08-30 Wolverhampton Wanderers-Everton,2025-08-30 14:00:00+00:00,Wolverhampton Wanderers,Everton,740624,eng.1
+ENG-Premier League,2526,2025-08-31 Aston Villa-Crystal Palace,2025-08-31 18:00:00+00:00,Aston Villa,Crystal Palace,740616,eng.1
+ENG-Premier League,2526,2025-08-31 Brighton & Hove Albion-Manchester City,2025-08-31 13:00:00+00:00,Brighton & Hove Albion,Manchester City,740617,eng.1
+ENG-Premier League,2526,2025-08-31 Liverpool-Arsenal,2025-08-31 15:30:00+00:00,Liverpool,Arsenal,740625,eng.1
+ENG-Premier League,2526,2025-08-31 Nottingham Forest-West Ham United,2025-08-31 13:00:00+00:00,Nottingham Forest,West Ham United,740622,eng.1
+ENG-Premier League,2526,2025-09-13 AFC Bournemouth-Brighton & Hove Albion,2025-09-13 14:00:00+00:00,AFC Bournemouth,Brighton & Hove Albion,740635,eng.1
+ENG-Premier League,2526,2025-09-13 Arsenal-Nottingham Forest,2025-09-13 11:30:00+00:00,Arsenal,Nottingham Forest,740627,eng.1
+ENG-Premier League,2526,2025-09-13 Brentford-Chelsea,2025-09-13 19:00:00+00:00,Brentford,Chelsea,740634,eng.1
+ENG-Premier League,2526,2025-09-13 Crystal Palace-Sunderland,2025-09-13 14:00:00+00:00,Crystal Palace,Sunderland,740628,eng.1
+ENG-Premier League,2526,2025-09-13 Everton-Aston Villa,2025-09-13 14:00:00+00:00,Everton,Aston Villa,740632,eng.1
+ENG-Premier League,2526,2025-09-13 Fulham-Leeds United,2025-09-13 14:00:00+00:00,Fulham,Leeds United,740631,eng.1
+ENG-Premier League,2526,2025-09-13 Newcastle United-Wolverhampton Wanderers,2025-09-13 14:00:00+00:00,Newcastle United,Wolverhampton Wanderers,740629,eng.1
+ENG-Premier League,2526,2025-09-13 West Ham United-Tottenham Hotspur,2025-09-13 16:30:00+00:00,West Ham United,Tottenham Hotspur,740626,eng.1
+ENG-Premier League,2526,2025-09-14 Burnley-Liverpool,2025-09-14 13:00:00+00:00,Burnley,Liverpool,740633,eng.1
+ENG-Premier League,2526,2025-09-14 Manchester City-Manchester United,2025-09-14 15:30:00+00:00,Manchester City,Manchester United,740630,eng.1
+ENG-Premier League,2526,2025-09-20 Brighton & Hove Albion-Tottenham Hotspur,2025-09-20 14:00:00+00:00,Brighton & Hove Albion,Tottenham Hotspur,740636,eng.1
+ENG-Premier League,2526,2025-09-20 Burnley-Nottingham Forest,2025-09-20 14:00:00+00:00,Burnley,Nottingham Forest,740637,eng.1
+ENG-Premier League,2526,2025-09-20 Fulham-Brentford,2025-09-20 19:00:00+00:00,Fulham,Brentford,740642,eng.1
+ENG-Premier League,2526,2025-09-20 Liverpool-Everton,2025-09-20 11:30:00+00:00,Liverpool,Everton,740641,eng.1
+ENG-Premier League,2526,2025-09-20 Manchester United-Chelsea,2025-09-20 16:30:00+00:00,Manchester United,Chelsea,740645,eng.1
+ENG-Premier League,2526,2025-09-20 West Ham United-Crystal Palace,2025-09-20 14:00:00+00:00,West Ham United,Crystal Palace,740638,eng.1
+ENG-Premier League,2526,2025-09-20 Wolverhampton Wanderers-Leeds United,2025-09-20 14:00:00+00:00,Wolverhampton Wanderers,Leeds United,740640,eng.1
+ENG-Premier League,2526,2025-09-21 AFC Bournemouth-Newcastle United,2025-09-21 13:00:00+00:00,AFC Bournemouth,Newcastle United,740644,eng.1
+ENG-Premier League,2526,2025-09-21 Arsenal-Manchester City,2025-09-21 15:30:00+00:00,Arsenal,Manchester City,740643,eng.1
+ENG-Premier League,2526,2025-09-21 Sunderland-Aston Villa,2025-09-21 13:00:00+00:00,Sunderland,Aston Villa,740639,eng.1
+ENG-Premier League,2526,2025-09-27 Brentford-Manchester United,2025-09-27 11:30:00+00:00,Brentford,Manchester United,740649,eng.1
+ENG-Premier League,2526,2025-09-27 Chelsea-Brighton & Hove Albion,2025-09-27 14:00:00+00:00,Chelsea,Brighton & Hove Albion,740648,eng.1
+ENG-Premier League,2526,2025-09-27 Crystal Palace-Liverpool,2025-09-27 14:00:00+00:00,Crystal Palace,Liverpool,740647,eng.1
+ENG-Premier League,2526,2025-09-27 Leeds United-AFC Bournemouth,2025-09-27 14:00:00+00:00,Leeds United,AFC Bournemouth,740655,eng.1
+ENG-Premier League,2526,2025-09-27 Manchester City-Burnley,2025-09-27 14:00:00+00:00,Manchester City,Burnley,740654,eng.1
+ENG-Premier League,2526,2025-09-27 Nottingham Forest-Sunderland,2025-09-27 16:30:00+00:00,Nottingham Forest,Sunderland,740651,eng.1
+ENG-Premier League,2526,2025-09-27 Tottenham Hotspur-Wolverhampton Wanderers,2025-09-27 19:00:00+00:00,Tottenham Hotspur,Wolverhampton Wanderers,740646,eng.1
+ENG-Premier League,2526,2025-09-28 Aston Villa-Fulham,2025-09-28 13:00:00+00:00,Aston Villa,Fulham,740650,eng.1
+ENG-Premier League,2526,2025-09-28 Newcastle United-Arsenal,2025-09-28 15:30:00+00:00,Newcastle United,Arsenal,740653,eng.1
+ENG-Premier League,2526,2025-09-29 Everton-West Ham United,2025-09-29 19:00:00+00:00,Everton,West Ham United,740652,eng.1
+ENG-Premier League,2526,2025-10-03 AFC Bournemouth-Fulham,2025-10-03 19:00:00+00:00,AFC Bournemouth,Fulham,740658,eng.1
+ENG-Premier League,2526,2025-10-04 Arsenal-West Ham United,2025-10-04 14:00:00+00:00,Arsenal,West Ham United,740656,eng.1
+ENG-Premier League,2526,2025-10-04 Chelsea-Liverpool,2025-10-04 16:30:00+00:00,Chelsea,Liverpool,740660,eng.1
+ENG-Premier League,2526,2025-10-04 Leeds United-Tottenham Hotspur,2025-10-04 11:30:00+00:00,Leeds United,Tottenham Hotspur,740662,eng.1
+ENG-Premier League,2526,2025-10-04 Manchester United-Sunderland,2025-10-04 14:00:00+00:00,Manchester United,Sunderland,740663,eng.1
+ENG-Premier League,2526,2025-10-05 Aston Villa-Burnley,2025-10-05 13:00:00+00:00,Aston Villa,Burnley,740657,eng.1
+ENG-Premier League,2526,2025-10-05 Brentford-Manchester City,2025-10-05 15:30:00+00:00,Brentford,Manchester City,740659,eng.1
+ENG-Premier League,2526,2025-10-05 Everton-Crystal Palace,2025-10-05 13:00:00+00:00,Everton,Crystal Palace,740661,eng.1
+ENG-Premier League,2526,2025-10-05 Newcastle United-Nottingham Forest,2025-10-05 13:00:00+00:00,Newcastle United,Nottingham Forest,740664,eng.1
+ENG-Premier League,2526,2025-10-05 Wolverhampton Wanderers-Brighton & Hove Albion,2025-10-05 13:00:00+00:00,Wolverhampton Wanderers,Brighton & Hove Albion,740665,eng.1
+ENG-Premier League,2526,2025-10-18 Brighton & Hove Albion-Newcastle United,2025-10-18 14:00:00+00:00,Brighton & Hove Albion,Newcastle United,740666,eng.1
+ENG-Premier League,2526,2025-10-18 Burnley-Leeds United,2025-10-18 14:00:00+00:00,Burnley,Leeds United,740667,eng.1
+ENG-Premier League,2526,2025-10-18 Crystal Palace-AFC Bournemouth,2025-10-18 14:00:00+00:00,Crystal Palace,AFC Bournemouth,740668,eng.1
+ENG-Premier League,2526,2025-10-18 Fulham-Arsenal,2025-10-18 16:30:00+00:00,Fulham,Arsenal,740669,eng.1
+ENG-Premier League,2526,2025-10-18 Manchester City-Everton,2025-10-18 14:00:00+00:00,Manchester City,Everton,740671,eng.1
+ENG-Premier League,2526,2025-10-18 Nottingham Forest-Chelsea,2025-10-18 11:30:00+00:00,Nottingham Forest,Chelsea,740672,eng.1
+ENG-Premier League,2526,2025-10-18 Sunderland-Wolverhampton Wanderers,2025-10-18 14:00:00+00:00,Sunderland,Wolverhampton Wanderers,740673,eng.1
+ENG-Premier League,2526,2025-10-19 Liverpool-Manchester United,2025-10-19 15:30:00+00:00,Liverpool,Manchester United,740670,eng.1
+ENG-Premier League,2526,2025-10-19 Tottenham Hotspur-Aston Villa,2025-10-19 13:00:00+00:00,Tottenham Hotspur,Aston Villa,740674,eng.1
+ENG-Premier League,2526,2025-10-20 West Ham United-Brentford,2025-10-20 19:00:00+00:00,West Ham United,Brentford,740675,eng.1
+ENG-Premier League,2526,2025-10-24 Leeds United-West Ham United,2025-10-24 19:00:00+00:00,Leeds United,West Ham United,740682,eng.1
+ENG-Premier League,2526,2025-10-25 Brentford-Liverpool,2025-10-25 19:00:00+00:00,Brentford,Liverpool,740679,eng.1
+ENG-Premier League,2526,2025-10-25 Chelsea-Sunderland,2025-10-25 14:00:00+00:00,Chelsea,Sunderland,740685,eng.1
+ENG-Premier League,2526,2025-10-25 Manchester United-Brighton & Hove Albion,2025-10-25 16:30:00+00:00,Manchester United,Brighton & Hove Albion,740683,eng.1
+ENG-Premier League,2526,2025-10-25 Newcastle United-Fulham,2025-10-25 14:00:00+00:00,Newcastle United,Fulham,740680,eng.1
+ENG-Premier League,2526,2025-10-26 AFC Bournemouth-Nottingham Forest,2025-10-26 14:00:00+00:00,AFC Bournemouth,Nottingham Forest,740678,eng.1
+ENG-Premier League,2526,2025-10-26 Arsenal-Crystal Palace,2025-10-26 14:00:00+00:00,Arsenal,Crystal Palace,740676,eng.1
+ENG-Premier League,2526,2025-10-26 Aston Villa-Manchester City,2025-10-26 14:00:00+00:00,Aston Villa,Manchester City,740677,eng.1
+ENG-Premier League,2526,2025-10-26 Everton-Tottenham Hotspur,2025-10-26 16:30:00+00:00,Everton,Tottenham Hotspur,740681,eng.1
+ENG-Premier League,2526,2025-10-26 Wolverhampton Wanderers-Burnley,2025-10-26 14:00:00+00:00,Wolverhampton Wanderers,Burnley,740684,eng.1
+ENG-Premier League,2526,2025-11-01 Brighton & Hove Albion-Leeds United,2025-11-01 15:00:00+00:00,Brighton & Hove Albion,Leeds United,740686,eng.1
+ENG-Premier League,2526,2025-11-01 Burnley-Arsenal,2025-11-01 15:00:00+00:00,Burnley,Arsenal,740687,eng.1
+ENG-Premier League,2526,2025-11-01 Crystal Palace-Brentford,2025-11-01 15:00:00+00:00,Crystal Palace,Brentford,740688,eng.1
+ENG-Premier League,2526,2025-11-01 Fulham-Wolverhampton Wanderers,2025-11-01 15:00:00+00:00,Fulham,Wolverhampton Wanderers,740689,eng.1
+ENG-Premier League,2526,2025-11-01 Liverpool-Aston Villa,2025-11-01 20:00:00+00:00,Liverpool,Aston Villa,740694,eng.1
+ENG-Premier League,2526,2025-11-01 Nottingham Forest-Manchester United,2025-11-01 15:00:00+00:00,Nottingham Forest,Manchester United,740692,eng.1
+ENG-Premier League,2526,2025-11-01 Tottenham Hotspur-Chelsea,2025-11-01 17:30:00+00:00,Tottenham Hotspur,Chelsea,740690,eng.1
+ENG-Premier League,2526,2025-11-02 Manchester City-AFC Bournemouth,2025-11-02 16:30:00+00:00,Manchester City,AFC Bournemouth,740691,eng.1
+ENG-Premier League,2526,2025-11-02 West Ham United-Newcastle United,2025-11-02 14:00:00+00:00,West Ham United,Newcastle United,740695,eng.1
+ENG-Premier League,2526,2025-11-03 Sunderland-Everton,2025-11-03 20:00:00+00:00,Sunderland,Everton,740693,eng.1
+ENG-Premier League,2526,2025-11-08 Chelsea-Wolverhampton Wanderers,2025-11-08 20:00:00+00:00,Chelsea,Wolverhampton Wanderers,740699,eng.1
+ENG-Premier League,2526,2025-11-08 Everton-Fulham,2025-11-08 15:00:00+00:00,Everton,Fulham,740701,eng.1
+ENG-Premier League,2526,2025-11-08 Sunderland-Arsenal,2025-11-08 17:30:00+00:00,Sunderland,Arsenal,740704,eng.1
+ENG-Premier League,2526,2025-11-08 Tottenham Hotspur-Manchester United,2025-11-08 12:30:00+00:00,Tottenham Hotspur,Manchester United,740705,eng.1
+ENG-Premier League,2526,2025-11-08 West Ham United-Burnley,2025-11-08 15:00:00+00:00,West Ham United,Burnley,740696,eng.1
+ENG-Premier League,2526,2025-11-09 Aston Villa-AFC Bournemouth,2025-11-09 14:00:00+00:00,Aston Villa,AFC Bournemouth,740697,eng.1
+ENG-Premier League,2526,2025-11-09 Brentford-Newcastle United,2025-11-09 14:00:00+00:00,Brentford,Newcastle United,740698,eng.1
+ENG-Premier League,2526,2025-11-09 Crystal Palace-Brighton & Hove Albion,2025-11-09 14:00:00+00:00,Crystal Palace,Brighton & Hove Albion,740700,eng.1
+ENG-Premier League,2526,2025-11-09 Manchester City-Liverpool,2025-11-09 16:30:00+00:00,Manchester City,Liverpool,740702,eng.1
+ENG-Premier League,2526,2025-11-09 Nottingham Forest-Leeds United,2025-11-09 14:00:00+00:00,Nottingham Forest,Leeds United,740703,eng.1
+ENG-Premier League,2526,2025-11-22 AFC Bournemouth-West Ham United,2025-11-22 15:00:00+00:00,AFC Bournemouth,West Ham United,740715,eng.1
+ENG-Premier League,2526,2025-11-22 Brighton & Hove Albion-Brentford,2025-11-22 15:00:00+00:00,Brighton & Hove Albion,Brentford,740706,eng.1
+ENG-Premier League,2526,2025-11-22 Burnley-Chelsea,2025-11-22 12:30:00+00:00,Burnley,Chelsea,740707,eng.1
+ENG-Premier League,2526,2025-11-22 Fulham-Sunderland,2025-11-22 15:00:00+00:00,Fulham,Sunderland,740708,eng.1
+ENG-Premier League,2526,2025-11-22 Liverpool-Nottingham Forest,2025-11-22 15:00:00+00:00,Liverpool,Nottingham Forest,740710,eng.1
+ENG-Premier League,2526,2025-11-22 Newcastle United-Manchester City,2025-11-22 17:30:00+00:00,Newcastle United,Manchester City,740712,eng.1
+ENG-Premier League,2526,2025-11-22 Wolverhampton Wanderers-Crystal Palace,2025-11-22 15:00:00+00:00,Wolverhampton Wanderers,Crystal Palace,740713,eng.1
+ENG-Premier League,2526,2025-11-23 Arsenal-Tottenham Hotspur,2025-11-23 16:30:00+00:00,Arsenal,Tottenham Hotspur,740714,eng.1
+ENG-Premier League,2526,2025-11-23 Leeds United-Aston Villa,2025-11-23 14:00:00+00:00,Leeds United,Aston Villa,740709,eng.1
+ENG-Premier League,2526,2025-11-24 Manchester United-Everton,2025-11-24 20:00:00+00:00,Manchester United,Everton,740711,eng.1
+ENG-Premier League,2526,2025-11-29 Brentford-Burnley,2025-11-29 15:00:00+00:00,Brentford,Burnley,740718,eng.1
+ENG-Premier League,2526,2025-11-29 Everton-Newcastle United,2025-11-29 17:30:00+00:00,Everton,Newcastle United,740721,eng.1
+ENG-Premier League,2526,2025-11-29 Manchester City-Leeds United,2025-11-29 15:00:00+00:00,Manchester City,Leeds United,740717,eng.1
+ENG-Premier League,2526,2025-11-29 Sunderland-AFC Bournemouth,2025-11-29 15:00:00+00:00,Sunderland,AFC Bournemouth,740724,eng.1
+ENG-Premier League,2526,2025-11-29 Tottenham Hotspur-Fulham,2025-11-29 20:00:00+00:00,Tottenham Hotspur,Fulham,740720,eng.1
+ENG-Premier League,2526,2025-11-30 Aston Villa-Wolverhampton Wanderers,2025-11-30 14:05:00+00:00,Aston Villa,Wolverhampton Wanderers,740716,eng.1
+ENG-Premier League,2526,2025-11-30 Chelsea-Arsenal,2025-11-30 16:30:00+00:00,Chelsea,Arsenal,740719,eng.1
+ENG-Premier League,2526,2025-11-30 Crystal Palace-Manchester United,2025-11-30 12:00:00+00:00,Crystal Palace,Manchester United,740725,eng.1
+ENG-Premier League,2526,2025-11-30 Nottingham Forest-Brighton & Hove Albion,2025-11-30 14:05:00+00:00,Nottingham Forest,Brighton & Hove Albion,740723,eng.1
+ENG-Premier League,2526,2025-11-30 West Ham United-Liverpool,2025-11-30 14:05:00+00:00,West Ham United,Liverpool,740722,eng.1
+ENG-Premier League,2526,2025-12-02 AFC Bournemouth-Everton,2025-12-02 19:30:00+00:00,AFC Bournemouth,Everton,740733,eng.1
+ENG-Premier League,2526,2025-12-02 Fulham-Manchester City,2025-12-02 19:30:00+00:00,Fulham,Manchester City,740730,eng.1
+ENG-Premier League,2526,2025-12-02 Newcastle United-Tottenham Hotspur,2025-12-02 20:15:00+00:00,Newcastle United,Tottenham Hotspur,740729,eng.1
+ENG-Premier League,2526,2025-12-03 Arsenal-Brentford,2025-12-03 19:30:00+00:00,Arsenal,Brentford,740734,eng.1
+ENG-Premier League,2526,2025-12-03 Brighton & Hove Albion-Aston Villa,2025-12-03 19:30:00+00:00,Brighton & Hove Albion,Aston Villa,740727,eng.1
+ENG-Premier League,2526,2025-12-03 Burnley-Crystal Palace,2025-12-03 19:30:00+00:00,Burnley,Crystal Palace,740726,eng.1
+ENG-Premier League,2526,2025-12-03 Leeds United-Chelsea,2025-12-03 20:15:00+00:00,Leeds United,Chelsea,740732,eng.1
+ENG-Premier League,2526,2025-12-03 Liverpool-Sunderland,2025-12-03 20:15:00+00:00,Liverpool,Sunderland,740731,eng.1
+ENG-Premier League,2526,2025-12-03 Wolverhampton Wanderers-Nottingham Forest,2025-12-03 19:30:00+00:00,Wolverhampton Wanderers,Nottingham Forest,740728,eng.1
+ENG-Premier League,2526,2025-12-04 Manchester United-West Ham United,2025-12-04 20:00:00+00:00,Manchester United,West Ham United,740735,eng.1
+ENG-Premier League,2526,2025-12-06 AFC Bournemouth-Chelsea,2025-12-06 15:00:00+00:00,AFC Bournemouth,Chelsea,740743,eng.1
+ENG-Premier League,2526,2025-12-06 Aston Villa-Arsenal,2025-12-06 12:30:00+00:00,Aston Villa,Arsenal,740745,eng.1
+ENG-Premier League,2526,2025-12-06 Everton-Nottingham Forest,2025-12-06 15:00:00+00:00,Everton,Nottingham Forest,740739,eng.1
+ENG-Premier League,2526,2025-12-06 Leeds United-Liverpool,2025-12-06 17:30:00+00:00,Leeds United,Liverpool,740742,eng.1
+ENG-Premier League,2526,2025-12-06 Manchester City-Sunderland,2025-12-06 15:00:00+00:00,Manchester City,Sunderland,740736,eng.1
+ENG-Premier League,2526,2025-12-06 Newcastle United-Burnley,2025-12-06 15:00:00+00:00,Newcastle United,Burnley,740741,eng.1
+ENG-Premier League,2526,2025-12-06 Tottenham Hotspur-Brentford,2025-12-06 15:00:00+00:00,Tottenham Hotspur,Brentford,740744,eng.1
+ENG-Premier League,2526,2025-12-07 Brighton & Hove Albion-West Ham United,2025-12-07 14:00:00+00:00,Brighton & Hove Albion,West Ham United,740740,eng.1
+ENG-Premier League,2526,2025-12-07 Fulham-Crystal Palace,2025-12-07 16:30:00+00:00,Fulham,Crystal Palace,740738,eng.1
+ENG-Premier League,2526,2025-12-08 Wolverhampton Wanderers-Manchester United,2025-12-08 20:00:00+00:00,Wolverhampton Wanderers,Manchester United,740737,eng.1
+ENG-Premier League,2526,2025-12-13 Arsenal-Wolverhampton Wanderers,2025-12-13 20:00:00+00:00,Arsenal,Wolverhampton Wanderers,740746,eng.1
+ENG-Premier League,2526,2025-12-13 Burnley-Fulham,2025-12-13 17:30:00+00:00,Burnley,Fulham,740754,eng.1
+ENG-Premier League,2526,2025-12-13 Chelsea-Everton,2025-12-13 15:00:00+00:00,Chelsea,Everton,740750,eng.1
+ENG-Premier League,2526,2025-12-13 Liverpool-Brighton & Hove Albion,2025-12-13 15:00:00+00:00,Liverpool,Brighton & Hove Albion,740752,eng.1
+ENG-Premier League,2526,2025-12-14 Brentford-Leeds United,2025-12-14 16:30:00+00:00,Brentford,Leeds United,740753,eng.1
+ENG-Premier League,2526,2025-12-14 Crystal Palace-Manchester City,2025-12-14 14:00:00+00:00,Crystal Palace,Manchester City,740747,eng.1
+ENG-Premier League,2526,2025-12-14 Nottingham Forest-Tottenham Hotspur,2025-12-14 14:00:00+00:00,Nottingham Forest,Tottenham Hotspur,740755,eng.1
+ENG-Premier League,2526,2025-12-14 Sunderland-Newcastle United,2025-12-14 14:00:00+00:00,Sunderland,Newcastle United,740749,eng.1
+ENG-Premier League,2526,2025-12-14 West Ham United-Aston Villa,2025-12-14 14:00:00+00:00,West Ham United,Aston Villa,740748,eng.1
+ENG-Premier League,2526,2025-12-15 Manchester United-AFC Bournemouth,2025-12-15 20:00:00+00:00,Manchester United,AFC Bournemouth,740751,eng.1
+ENG-Premier League,2526,2025-12-20 AFC Bournemouth-Burnley,2025-12-20 15:00:00+00:00,AFC Bournemouth,Burnley,740764,eng.1
+ENG-Premier League,2526,2025-12-20 Brighton & Hove Albion-Sunderland,2025-12-20 15:00:00+00:00,Brighton & Hove Albion,Sunderland,740756,eng.1
+ENG-Premier League,2526,2025-12-20 Manchester City-West Ham United,2025-12-20 15:00:00+00:00,Manchester City,West Ham United,740760,eng.1
+ENG-Premier League,2526,2025-12-20 Newcastle United-Chelsea,2025-12-20 12:30:00+00:00,Newcastle United,Chelsea,740763,eng.1
+ENG-Premier League,2526,2025-12-20 Tottenham Hotspur-Liverpool,2025-12-20 17:30:00+00:00,Tottenham Hotspur,Liverpool,740762,eng.1
+ENG-Premier League,2526,2025-12-20 Wolverhampton Wanderers-Brentford,2025-12-20 15:00:00+00:00,Wolverhampton Wanderers,Brentford,740761,eng.1
+ENG-Premier League,2526,2025-12-21 Aston Villa-Manchester United,2025-12-21 16:30:00+00:00,Aston Villa,Manchester United,740765,eng.1
+ENG-Premier League,2526,2025-12-21 Everton-Arsenal,2025-12-21 14:00:00+00:00,Everton,Arsenal,740757,eng.1
+ENG-Premier League,2526,2025-12-21 Leeds United-Crystal Palace,2025-12-21 14:00:00+00:00,Leeds United,Crystal Palace,740759,eng.1
+ENG-Premier League,2526,2025-12-22 Fulham-Nottingham Forest,2025-12-22 20:00:00+00:00,Fulham,Nottingham Forest,740758,eng.1
+ENG-Premier League,2526,2025-12-27 Arsenal-Brighton & Hove Albion,2025-12-27 15:00:00+00:00,Arsenal,Brighton & Hove Albion,740772,eng.1
+ENG-Premier League,2526,2025-12-27 Brentford-AFC Bournemouth,2025-12-27 15:00:00+00:00,Brentford,AFC Bournemouth,740774,eng.1
+ENG-Premier League,2526,2025-12-27 Burnley-Everton,2025-12-27 15:00:00+00:00,Burnley,Everton,740773,eng.1
+ENG-Premier League,2526,2025-12-27 Chelsea-Aston Villa,2025-12-27 15:00:00+00:00,Chelsea,Aston Villa,740766,eng.1
+ENG-Premier League,2526,2025-12-27 Crystal Palace-Tottenham Hotspur,2025-12-27 15:00:00+00:00,Crystal Palace,Tottenham Hotspur,740771,eng.1
+ENG-Premier League,2526,2025-12-27 Liverpool-Wolverhampton Wanderers,2025-12-27 15:00:00+00:00,Liverpool,Wolverhampton Wanderers,740775,eng.1
+ENG-Premier League,2526,2025-12-27 Manchester United-Newcastle United,2025-12-27 15:00:00+00:00,Manchester United,Newcastle United,740769,eng.1
+ENG-Premier League,2526,2025-12-27 Nottingham Forest-Manchester City,2025-12-27 15:00:00+00:00,Nottingham Forest,Manchester City,740770,eng.1
+ENG-Premier League,2526,2025-12-27 Sunderland-Leeds United,2025-12-27 15:00:00+00:00,Sunderland,Leeds United,740767,eng.1
+ENG-Premier League,2526,2025-12-27 West Ham United-Fulham,2025-12-27 15:00:00+00:00,West Ham United,Fulham,740768,eng.1
+ENG-Premier League,2526,2025-12-30 Arsenal-Aston Villa,2025-12-30 20:00:00+00:00,Arsenal,Aston Villa,740776,eng.1
+ENG-Premier League,2526,2025-12-30 Brentford-Tottenham Hotspur,2025-12-30 20:00:00+00:00,Brentford,Tottenham Hotspur,740777,eng.1
+ENG-Premier League,2526,2025-12-30 Burnley-Newcastle United,2025-12-30 20:00:00+00:00,Burnley,Newcastle United,740778,eng.1
+ENG-Premier League,2526,2025-12-30 Chelsea-AFC Bournemouth,2025-12-30 20:00:00+00:00,Chelsea,AFC Bournemouth,740779,eng.1
+ENG-Premier League,2526,2025-12-30 Crystal Palace-Fulham,2025-12-30 20:00:00+00:00,Crystal Palace,Fulham,740780,eng.1
+ENG-Premier League,2526,2025-12-30 Liverpool-Leeds United,2025-12-30 20:00:00+00:00,Liverpool,Leeds United,740781,eng.1
+ENG-Premier League,2526,2025-12-30 Manchester United-Wolverhampton Wanderers,2025-12-30 20:00:00+00:00,Manchester United,Wolverhampton Wanderers,740782,eng.1
+ENG-Premier League,2526,2025-12-30 Nottingham Forest-Everton,2025-12-30 20:00:00+00:00,Nottingham Forest,Everton,740783,eng.1
+ENG-Premier League,2526,2025-12-30 Sunderland-Manchester City,2025-12-30 20:00:00+00:00,Sunderland,Manchester City,740784,eng.1
+ENG-Premier League,2526,2025-12-30 West Ham United-Brighton & Hove Albion,2025-12-30 20:00:00+00:00,West Ham United,Brighton & Hove Albion,740785,eng.1
+ENG-Premier League,2526,2026-01-03 AFC Bournemouth-Arsenal,2026-01-03 15:00:00+00:00,AFC Bournemouth,Arsenal,740788,eng.1
+ENG-Premier League,2526,2026-01-03 Aston Villa-Nottingham Forest,2026-01-03 15:00:00+00:00,Aston Villa,Nottingham Forest,740789,eng.1
+ENG-Premier League,2526,2026-01-03 Brighton & Hove Albion-Burnley,2026-01-03 15:00:00+00:00,Brighton & Hove Albion,Burnley,740795,eng.1
+ENG-Premier League,2526,2026-01-03 Everton-Brentford,2026-01-03 15:00:00+00:00,Everton,Brentford,740794,eng.1
+ENG-Premier League,2526,2026-01-03 Fulham-Liverpool,2026-01-03 15:00:00+00:00,Fulham,Liverpool,740790,eng.1
+ENG-Premier League,2526,2026-01-03 Leeds United-Manchester United,2026-01-03 15:00:00+00:00,Leeds United,Manchester United,740791,eng.1
+ENG-Premier League,2526,2026-01-03 Manchester City-Chelsea,2026-01-03 15:00:00+00:00,Manchester City,Chelsea,740792,eng.1
+ENG-Premier League,2526,2026-01-03 Newcastle United-Crystal Palace,2026-01-03 15:00:00+00:00,Newcastle United,Crystal Palace,740793,eng.1
+ENG-Premier League,2526,2026-01-03 Tottenham Hotspur-Sunderland,2026-01-03 15:00:00+00:00,Tottenham Hotspur,Sunderland,740786,eng.1
+ENG-Premier League,2526,2026-01-03 Wolverhampton Wanderers-West Ham United,2026-01-03 15:00:00+00:00,Wolverhampton Wanderers,West Ham United,740787,eng.1
+ENG-Premier League,2526,2026-01-07 AFC Bournemouth-Tottenham Hotspur,2026-01-07 20:00:00+00:00,AFC Bournemouth,Tottenham Hotspur,740797,eng.1
+ENG-Premier League,2526,2026-01-07 Arsenal-Liverpool,2026-01-07 20:00:00+00:00,Arsenal,Liverpool,740796,eng.1
+ENG-Premier League,2526,2026-01-07 Brentford-Sunderland,2026-01-07 20:00:00+00:00,Brentford,Sunderland,740798,eng.1
+ENG-Premier League,2526,2026-01-07 Burnley-Manchester United,2026-01-07 20:00:00+00:00,Burnley,Manchester United,740799,eng.1
+ENG-Premier League,2526,2026-01-07 Crystal Palace-Aston Villa,2026-01-07 20:00:00+00:00,Crystal Palace,Aston Villa,740805,eng.1
+ENG-Premier League,2526,2026-01-07 Everton-Wolverhampton Wanderers,2026-01-07 20:00:00+00:00,Everton,Wolverhampton Wanderers,740800,eng.1
+ENG-Premier League,2526,2026-01-07 Fulham-Chelsea,2026-01-07 20:00:00+00:00,Fulham,Chelsea,740802,eng.1
+ENG-Premier League,2526,2026-01-07 Manchester City-Brighton & Hove Albion,2026-01-07 20:00:00+00:00,Manchester City,Brighton & Hove Albion,740803,eng.1
+ENG-Premier League,2526,2026-01-07 Newcastle United-Leeds United,2026-01-07 20:00:00+00:00,Newcastle United,Leeds United,740804,eng.1
+ENG-Premier League,2526,2026-01-07 West Ham United-Nottingham Forest,2026-01-07 20:00:00+00:00,West Ham United,Nottingham Forest,740801,eng.1
+ENG-Premier League,2526,2026-01-17 Aston Villa-Everton,2026-01-17 15:00:00+00:00,Aston Villa,Everton,740806,eng.1
+ENG-Premier League,2526,2026-01-17 Brighton & Hove Albion-AFC Bournemouth,2026-01-17 15:00:00+00:00,Brighton & Hove Albion,AFC Bournemouth,740807,eng.1
+ENG-Premier League,2526,2026-01-17 Chelsea-Brentford,2026-01-17 15:00:00+00:00,Chelsea,Brentford,740808,eng.1
+ENG-Premier League,2526,2026-01-17 Leeds United-Fulham,2026-01-17 15:00:00+00:00,Leeds United,Fulham,740809,eng.1
+ENG-Premier League,2526,2026-01-17 Liverpool-Burnley,2026-01-17 15:00:00+00:00,Liverpool,Burnley,740810,eng.1
+ENG-Premier League,2526,2026-01-17 Manchester United-Manchester City,2026-01-17 15:00:00+00:00,Manchester United,Manchester City,740811,eng.1
+ENG-Premier League,2526,2026-01-17 Nottingham Forest-Arsenal,2026-01-17 15:00:00+00:00,Nottingham Forest,Arsenal,740812,eng.1
+ENG-Premier League,2526,2026-01-17 Sunderland-Crystal Palace,2026-01-17 15:00:00+00:00,Sunderland,Crystal Palace,740813,eng.1
+ENG-Premier League,2526,2026-01-17 Tottenham Hotspur-West Ham United,2026-01-17 15:00:00+00:00,Tottenham Hotspur,West Ham United,740814,eng.1
+ENG-Premier League,2526,2026-01-17 Wolverhampton Wanderers-Newcastle United,2026-01-17 15:00:00+00:00,Wolverhampton Wanderers,Newcastle United,740815,eng.1
+ENG-Premier League,2526,2026-01-24 AFC Bournemouth-Liverpool,2026-01-24 15:00:00+00:00,AFC Bournemouth,Liverpool,740817,eng.1
+ENG-Premier League,2526,2026-01-24 Arsenal-Manchester United,2026-01-24 15:00:00+00:00,Arsenal,Manchester United,740816,eng.1
+ENG-Premier League,2526,2026-01-24 Brentford-Nottingham Forest,2026-01-24 15:00:00+00:00,Brentford,Nottingham Forest,740818,eng.1
+ENG-Premier League,2526,2026-01-24 Burnley-Tottenham Hotspur,2026-01-24 15:00:00+00:00,Burnley,Tottenham Hotspur,740819,eng.1
+ENG-Premier League,2526,2026-01-24 Crystal Palace-Chelsea,2026-01-24 15:00:00+00:00,Crystal Palace,Chelsea,740820,eng.1
+ENG-Premier League,2526,2026-01-24 Everton-Leeds United,2026-01-24 15:00:00+00:00,Everton,Leeds United,740821,eng.1
+ENG-Premier League,2526,2026-01-24 Fulham-Brighton & Hove Albion,2026-01-24 15:00:00+00:00,Fulham,Brighton & Hove Albion,740822,eng.1
+ENG-Premier League,2526,2026-01-24 Manchester City-Wolverhampton Wanderers,2026-01-24 15:00:00+00:00,Manchester City,Wolverhampton Wanderers,740823,eng.1
+ENG-Premier League,2526,2026-01-24 Newcastle United-Aston Villa,2026-01-24 15:00:00+00:00,Newcastle United,Aston Villa,740824,eng.1
+ENG-Premier League,2526,2026-01-24 West Ham United-Sunderland,2026-01-24 15:00:00+00:00,West Ham United,Sunderland,740825,eng.1
+ENG-Premier League,2526,2026-01-31 Aston Villa-Brentford,2026-01-31 15:00:00+00:00,Aston Villa,Brentford,740826,eng.1
+ENG-Premier League,2526,2026-01-31 Brighton & Hove Albion-Everton,2026-01-31 15:00:00+00:00,Brighton & Hove Albion,Everton,740831,eng.1
+ENG-Premier League,2526,2026-01-31 Chelsea-West Ham United,2026-01-31 15:00:00+00:00,Chelsea,West Ham United,740835,eng.1
+ENG-Premier League,2526,2026-01-31 Leeds United-Arsenal,2026-01-31 15:00:00+00:00,Leeds United,Arsenal,740829,eng.1
+ENG-Premier League,2526,2026-01-31 Liverpool-Newcastle United,2026-01-31 15:00:00+00:00,Liverpool,Newcastle United,740834,eng.1
+ENG-Premier League,2526,2026-01-31 Manchester United-Fulham,2026-01-31 15:00:00+00:00,Manchester United,Fulham,740833,eng.1
+ENG-Premier League,2526,2026-01-31 Nottingham Forest-Crystal Palace,2026-01-31 15:00:00+00:00,Nottingham Forest,Crystal Palace,740832,eng.1
+ENG-Premier League,2526,2026-01-31 Sunderland-Burnley,2026-01-31 15:00:00+00:00,Sunderland,Burnley,740830,eng.1
+ENG-Premier League,2526,2026-01-31 Tottenham Hotspur-Manchester City,2026-01-31 15:00:00+00:00,Tottenham Hotspur,Manchester City,740828,eng.1
+ENG-Premier League,2526,2026-01-31 Wolverhampton Wanderers-AFC Bournemouth,2026-01-31 15:00:00+00:00,Wolverhampton Wanderers,AFC Bournemouth,740827,eng.1
+ENG-Premier League,2526,2026-02-07 AFC Bournemouth-Aston Villa,2026-02-07 15:00:00+00:00,AFC Bournemouth,Aston Villa,740837,eng.1
+ENG-Premier League,2526,2026-02-07 Arsenal-Sunderland,2026-02-07 15:00:00+00:00,Arsenal,Sunderland,740836,eng.1
+ENG-Premier League,2526,2026-02-07 Brighton & Hove Albion-Crystal Palace,2026-02-07 15:00:00+00:00,Brighton & Hove Albion,Crystal Palace,740838,eng.1
+ENG-Premier League,2526,2026-02-07 Burnley-West Ham United,2026-02-07 15:00:00+00:00,Burnley,West Ham United,740839,eng.1
+ENG-Premier League,2526,2026-02-07 Fulham-Everton,2026-02-07 15:00:00+00:00,Fulham,Everton,740842,eng.1
+ENG-Premier League,2526,2026-02-07 Leeds United-Nottingham Forest,2026-02-07 15:00:00+00:00,Leeds United,Nottingham Forest,740841,eng.1
+ENG-Premier League,2526,2026-02-07 Liverpool-Manchester City,2026-02-07 15:00:00+00:00,Liverpool,Manchester City,740845,eng.1
+ENG-Premier League,2526,2026-02-07 Manchester United-Tottenham Hotspur,2026-02-07 15:00:00+00:00,Manchester United,Tottenham Hotspur,740843,eng.1
+ENG-Premier League,2526,2026-02-07 Newcastle United-Brentford,2026-02-07 15:00:00+00:00,Newcastle United,Brentford,740844,eng.1
+ENG-Premier League,2526,2026-02-07 Wolverhampton Wanderers-Chelsea,2026-02-07 15:00:00+00:00,Wolverhampton Wanderers,Chelsea,740840,eng.1
+ENG-Premier League,2526,2026-02-11 Aston Villa-Brighton & Hove Albion,2026-02-11 20:00:00+00:00,Aston Villa,Brighton & Hove Albion,740846,eng.1
+ENG-Premier League,2526,2026-02-11 Brentford-Arsenal,2026-02-11 20:00:00+00:00,Brentford,Arsenal,740847,eng.1
+ENG-Premier League,2526,2026-02-11 Chelsea-Leeds United,2026-02-11 20:00:00+00:00,Chelsea,Leeds United,740848,eng.1
+ENG-Premier League,2526,2026-02-11 Crystal Palace-Burnley,2026-02-11 20:00:00+00:00,Crystal Palace,Burnley,740851,eng.1
+ENG-Premier League,2526,2026-02-11 Everton-AFC Bournemouth,2026-02-11 20:00:00+00:00,Everton,AFC Bournemouth,740852,eng.1
+ENG-Premier League,2526,2026-02-11 Manchester City-Fulham,2026-02-11 20:00:00+00:00,Manchester City,Fulham,740849,eng.1
+ENG-Premier League,2526,2026-02-11 Nottingham Forest-Wolverhampton Wanderers,2026-02-11 20:00:00+00:00,Nottingham Forest,Wolverhampton Wanderers,740850,eng.1
+ENG-Premier League,2526,2026-02-11 Sunderland-Liverpool,2026-02-11 20:00:00+00:00,Sunderland,Liverpool,740853,eng.1
+ENG-Premier League,2526,2026-02-11 Tottenham Hotspur-Newcastle United,2026-02-11 20:00:00+00:00,Tottenham Hotspur,Newcastle United,740854,eng.1
+ENG-Premier League,2526,2026-02-11 West Ham United-Manchester United,2026-02-11 20:00:00+00:00,West Ham United,Manchester United,740855,eng.1
+ENG-Premier League,2526,2026-02-21 Aston Villa-Leeds United,2026-02-21 15:00:00+00:00,Aston Villa,Leeds United,740862,eng.1
+ENG-Premier League,2526,2026-02-21 Brentford-Brighton & Hove Albion,2026-02-21 15:00:00+00:00,Brentford,Brighton & Hove Albion,740858,eng.1
+ENG-Premier League,2526,2026-02-21 Chelsea-Burnley,2026-02-21 15:00:00+00:00,Chelsea,Burnley,740864,eng.1
+ENG-Premier League,2526,2026-02-21 Crystal Palace-Wolverhampton Wanderers,2026-02-21 15:00:00+00:00,Crystal Palace,Wolverhampton Wanderers,740860,eng.1
+ENG-Premier League,2526,2026-02-21 Everton-Manchester United,2026-02-21 15:00:00+00:00,Everton,Manchester United,740856,eng.1
+ENG-Premier League,2526,2026-02-21 Manchester City-Newcastle United,2026-02-21 15:00:00+00:00,Manchester City,Newcastle United,740857,eng.1
+ENG-Premier League,2526,2026-02-21 Nottingham Forest-Liverpool,2026-02-21 15:00:00+00:00,Nottingham Forest,Liverpool,740863,eng.1
+ENG-Premier League,2526,2026-02-21 Sunderland-Fulham,2026-02-21 15:00:00+00:00,Sunderland,Fulham,740859,eng.1
+ENG-Premier League,2526,2026-02-21 Tottenham Hotspur-Arsenal,2026-02-21 15:00:00+00:00,Tottenham Hotspur,Arsenal,740865,eng.1
+ENG-Premier League,2526,2026-02-21 West Ham United-AFC Bournemouth,2026-02-21 15:00:00+00:00,West Ham United,AFC Bournemouth,740861,eng.1
+ENG-Premier League,2526,2026-02-28 AFC Bournemouth-Sunderland,2026-02-28 15:00:00+00:00,AFC Bournemouth,Sunderland,740873,eng.1
+ENG-Premier League,2526,2026-02-28 Arsenal-Chelsea,2026-02-28 15:00:00+00:00,Arsenal,Chelsea,740871,eng.1
+ENG-Premier League,2526,2026-02-28 Brighton & Hove Albion-Nottingham Forest,2026-02-28 15:00:00+00:00,Brighton & Hove Albion,Nottingham Forest,740866,eng.1
+ENG-Premier League,2526,2026-02-28 Burnley-Brentford,2026-02-28 15:00:00+00:00,Burnley,Brentford,740867,eng.1
+ENG-Premier League,2526,2026-02-28 Fulham-Tottenham Hotspur,2026-02-28 15:00:00+00:00,Fulham,Tottenham Hotspur,740870,eng.1
+ENG-Premier League,2526,2026-02-28 Leeds United-Manchester City,2026-02-28 15:00:00+00:00,Leeds United,Manchester City,740869,eng.1
+ENG-Premier League,2526,2026-02-28 Liverpool-West Ham United,2026-02-28 15:00:00+00:00,Liverpool,West Ham United,740872,eng.1
+ENG-Premier League,2526,2026-02-28 Manchester United-Crystal Palace,2026-02-28 15:00:00+00:00,Manchester United,Crystal Palace,740875,eng.1
+ENG-Premier League,2526,2026-02-28 Newcastle United-Everton,2026-02-28 15:00:00+00:00,Newcastle United,Everton,740874,eng.1
+ENG-Premier League,2526,2026-02-28 Wolverhampton Wanderers-Aston Villa,2026-02-28 15:00:00+00:00,Wolverhampton Wanderers,Aston Villa,740868,eng.1
+ENG-Premier League,2526,2026-03-04 AFC Bournemouth-Brentford,2026-03-04 20:00:00+00:00,AFC Bournemouth,Brentford,740877,eng.1
+ENG-Premier League,2526,2026-03-04 Aston Villa-Chelsea,2026-03-04 20:00:00+00:00,Aston Villa,Chelsea,740876,eng.1
+ENG-Premier League,2526,2026-03-04 Brighton & Hove Albion-Arsenal,2026-03-04 20:00:00+00:00,Brighton & Hove Albion,Arsenal,740878,eng.1
+ENG-Premier League,2526,2026-03-04 Everton-Burnley,2026-03-04 20:00:00+00:00,Everton,Burnley,740879,eng.1
+ENG-Premier League,2526,2026-03-04 Fulham-West Ham United,2026-03-04 20:00:00+00:00,Fulham,West Ham United,740880,eng.1
+ENG-Premier League,2526,2026-03-04 Leeds United-Sunderland,2026-03-04 20:00:00+00:00,Leeds United,Sunderland,740881,eng.1
+ENG-Premier League,2526,2026-03-04 Manchester City-Nottingham Forest,2026-03-04 20:00:00+00:00,Manchester City,Nottingham Forest,740882,eng.1
+ENG-Premier League,2526,2026-03-04 Newcastle United-Manchester United,2026-03-04 20:00:00+00:00,Newcastle United,Manchester United,740883,eng.1
+ENG-Premier League,2526,2026-03-04 Tottenham Hotspur-Crystal Palace,2026-03-04 20:00:00+00:00,Tottenham Hotspur,Crystal Palace,740884,eng.1
+ENG-Premier League,2526,2026-03-04 Wolverhampton Wanderers-Liverpool,2026-03-04 20:00:00+00:00,Wolverhampton Wanderers,Liverpool,740885,eng.1
+ENG-Premier League,2526,2026-03-14 Arsenal-Everton,2026-03-14 15:00:00+00:00,Arsenal,Everton,740886,eng.1
+ENG-Premier League,2526,2026-03-14 Brentford-Wolverhampton Wanderers,2026-03-14 15:00:00+00:00,Brentford,Wolverhampton Wanderers,740887,eng.1
+ENG-Premier League,2526,2026-03-14 Burnley-AFC Bournemouth,2026-03-14 15:00:00+00:00,Burnley,AFC Bournemouth,740888,eng.1
+ENG-Premier League,2526,2026-03-14 Chelsea-Newcastle United,2026-03-14 15:00:00+00:00,Chelsea,Newcastle United,740889,eng.1
+ENG-Premier League,2526,2026-03-14 Crystal Palace-Leeds United,2026-03-14 15:00:00+00:00,Crystal Palace,Leeds United,740890,eng.1
+ENG-Premier League,2526,2026-03-14 Liverpool-Tottenham Hotspur,2026-03-14 15:00:00+00:00,Liverpool,Tottenham Hotspur,740891,eng.1
+ENG-Premier League,2526,2026-03-14 Manchester United-Aston Villa,2026-03-14 15:00:00+00:00,Manchester United,Aston Villa,740892,eng.1
+ENG-Premier League,2526,2026-03-14 Nottingham Forest-Fulham,2026-03-14 15:00:00+00:00,Nottingham Forest,Fulham,740893,eng.1
+ENG-Premier League,2526,2026-03-14 Sunderland-Brighton & Hove Albion,2026-03-14 15:00:00+00:00,Sunderland,Brighton & Hove Albion,740894,eng.1
+ENG-Premier League,2526,2026-03-14 West Ham United-Manchester City,2026-03-14 15:00:00+00:00,West Ham United,Manchester City,740895,eng.1
+ENG-Premier League,2526,2026-03-21 AFC Bournemouth-Manchester United,2026-03-21 15:00:00+00:00,AFC Bournemouth,Manchester United,740897,eng.1
+ENG-Premier League,2526,2026-03-21 Aston Villa-West Ham United,2026-03-21 15:00:00+00:00,Aston Villa,West Ham United,740896,eng.1
+ENG-Premier League,2526,2026-03-21 Brighton & Hove Albion-Liverpool,2026-03-21 15:00:00+00:00,Brighton & Hove Albion,Liverpool,740898,eng.1
+ENG-Premier League,2526,2026-03-21 Everton-Chelsea,2026-03-21 15:00:00+00:00,Everton,Chelsea,740899,eng.1
+ENG-Premier League,2526,2026-03-21 Fulham-Burnley,2026-03-21 15:00:00+00:00,Fulham,Burnley,740905,eng.1
+ENG-Premier League,2526,2026-03-21 Leeds United-Brentford,2026-03-21 15:00:00+00:00,Leeds United,Brentford,740900,eng.1
+ENG-Premier League,2526,2026-03-21 Manchester City-Crystal Palace,2026-03-21 15:00:00+00:00,Manchester City,Crystal Palace,740902,eng.1
+ENG-Premier League,2526,2026-03-21 Newcastle United-Sunderland,2026-03-21 15:00:00+00:00,Newcastle United,Sunderland,740903,eng.1
+ENG-Premier League,2526,2026-03-21 Tottenham Hotspur-Nottingham Forest,2026-03-21 15:00:00+00:00,Tottenham Hotspur,Nottingham Forest,740904,eng.1
+ENG-Premier League,2526,2026-03-21 Wolverhampton Wanderers-Arsenal,2026-03-21 15:00:00+00:00,Wolverhampton Wanderers,Arsenal,740901,eng.1
+ENG-Premier League,2526,2026-04-11 Arsenal-AFC Bournemouth,2026-04-11 14:00:00+00:00,Arsenal,AFC Bournemouth,740908,eng.1
+ENG-Premier League,2526,2026-04-11 Brentford-Everton,2026-04-11 14:00:00+00:00,Brentford,Everton,740906,eng.1
+ENG-Premier League,2526,2026-04-11 Burnley-Brighton & Hove Albion,2026-04-11 14:00:00+00:00,Burnley,Brighton & Hove Albion,740907,eng.1
+ENG-Premier League,2526,2026-04-11 Chelsea-Manchester City,2026-04-11 14:00:00+00:00,Chelsea,Manchester City,740909,eng.1
+ENG-Premier League,2526,2026-04-11 Crystal Palace-Newcastle United,2026-04-11 14:00:00+00:00,Crystal Palace,Newcastle United,740910,eng.1
+ENG-Premier League,2526,2026-04-11 Liverpool-Fulham,2026-04-11 14:00:00+00:00,Liverpool,Fulham,740911,eng.1
+ENG-Premier League,2526,2026-04-11 Manchester United-Leeds United,2026-04-11 14:00:00+00:00,Manchester United,Leeds United,740912,eng.1
+ENG-Premier League,2526,2026-04-11 Nottingham Forest-Aston Villa,2026-04-11 14:00:00+00:00,Nottingham Forest,Aston Villa,740914,eng.1
+ENG-Premier League,2526,2026-04-11 Sunderland-Tottenham Hotspur,2026-04-11 14:00:00+00:00,Sunderland,Tottenham Hotspur,740915,eng.1
+ENG-Premier League,2526,2026-04-11 West Ham United-Wolverhampton Wanderers,2026-04-11 14:00:00+00:00,West Ham United,Wolverhampton Wanderers,740913,eng.1
+ENG-Premier League,2526,2026-04-18 Aston Villa-Sunderland,2026-04-18 14:00:00+00:00,Aston Villa,Sunderland,740919,eng.1
+ENG-Premier League,2526,2026-04-18 Brentford-Fulham,2026-04-18 14:00:00+00:00,Brentford,Fulham,740921,eng.1
+ENG-Premier League,2526,2026-04-18 Chelsea-Manchester United,2026-04-18 14:00:00+00:00,Chelsea,Manchester United,740922,eng.1
+ENG-Premier League,2526,2026-04-18 Crystal Palace-West Ham United,2026-04-18 14:00:00+00:00,Crystal Palace,West Ham United,740923,eng.1
+ENG-Premier League,2526,2026-04-18 Everton-Liverpool,2026-04-18 14:00:00+00:00,Everton,Liverpool,740925,eng.1
+ENG-Premier League,2526,2026-04-18 Leeds United-Wolverhampton Wanderers,2026-04-18 14:00:00+00:00,Leeds United,Wolverhampton Wanderers,740924,eng.1
+ENG-Premier League,2526,2026-04-18 Manchester City-Arsenal,2026-04-18 14:00:00+00:00,Manchester City,Arsenal,740916,eng.1
+ENG-Premier League,2526,2026-04-18 Newcastle United-AFC Bournemouth,2026-04-18 14:00:00+00:00,Newcastle United,AFC Bournemouth,740918,eng.1
+ENG-Premier League,2526,2026-04-18 Nottingham Forest-Burnley,2026-04-18 14:00:00+00:00,Nottingham Forest,Burnley,740917,eng.1
+ENG-Premier League,2526,2026-04-18 Tottenham Hotspur-Brighton & Hove Albion,2026-04-18 14:00:00+00:00,Tottenham Hotspur,Brighton & Hove Albion,740920,eng.1
+ENG-Premier League,2526,2026-04-25 AFC Bournemouth-Leeds United,2026-04-25 14:00:00+00:00,AFC Bournemouth,Leeds United,740926,eng.1
+ENG-Premier League,2526,2026-04-25 Arsenal-Newcastle United,2026-04-25 14:00:00+00:00,Arsenal,Newcastle United,740931,eng.1
+ENG-Premier League,2526,2026-04-25 Brighton & Hove Albion-Chelsea,2026-04-25 14:00:00+00:00,Brighton & Hove Albion,Chelsea,740928,eng.1
+ENG-Premier League,2526,2026-04-25 Burnley-Manchester City,2026-04-25 14:00:00+00:00,Burnley,Manchester City,740929,eng.1
+ENG-Premier League,2526,2026-04-25 Fulham-Aston Villa,2026-04-25 14:00:00+00:00,Fulham,Aston Villa,740935,eng.1
+ENG-Premier League,2526,2026-04-25 Liverpool-Crystal Palace,2026-04-25 14:00:00+00:00,Liverpool,Crystal Palace,740927,eng.1
+ENG-Premier League,2526,2026-04-25 Manchester United-Brentford,2026-04-25 14:00:00+00:00,Manchester United,Brentford,740932,eng.1
+ENG-Premier League,2526,2026-04-25 Sunderland-Nottingham Forest,2026-04-25 14:00:00+00:00,Sunderland,Nottingham Forest,740933,eng.1
+ENG-Premier League,2526,2026-04-25 West Ham United-Everton,2026-04-25 14:00:00+00:00,West Ham United,Everton,740930,eng.1
+ENG-Premier League,2526,2026-04-25 Wolverhampton Wanderers-Tottenham Hotspur,2026-04-25 14:00:00+00:00,Wolverhampton Wanderers,Tottenham Hotspur,740934,eng.1
+ENG-Premier League,2526,2026-05-02 AFC Bournemouth-Crystal Palace,2026-05-02 14:00:00+00:00,AFC Bournemouth,Crystal Palace,740938,eng.1
+ENG-Premier League,2526,2026-05-02 Arsenal-Fulham,2026-05-02 14:00:00+00:00,Arsenal,Fulham,740936,eng.1
+ENG-Premier League,2526,2026-05-02 Aston Villa-Tottenham Hotspur,2026-05-02 14:00:00+00:00,Aston Villa,Tottenham Hotspur,740937,eng.1
+ENG-Premier League,2526,2026-05-02 Brentford-West Ham United,2026-05-02 14:00:00+00:00,Brentford,West Ham United,740939,eng.1
+ENG-Premier League,2526,2026-05-02 Chelsea-Nottingham Forest,2026-05-02 14:00:00+00:00,Chelsea,Nottingham Forest,740940,eng.1
+ENG-Premier League,2526,2026-05-02 Everton-Manchester City,2026-05-02 14:00:00+00:00,Everton,Manchester City,740941,eng.1
+ENG-Premier League,2526,2026-05-02 Leeds United-Burnley,2026-05-02 14:00:00+00:00,Leeds United,Burnley,740942,eng.1
+ENG-Premier League,2526,2026-05-02 Manchester United-Liverpool,2026-05-02 14:00:00+00:00,Manchester United,Liverpool,740943,eng.1
+ENG-Premier League,2526,2026-05-02 Newcastle United-Brighton & Hove Albion,2026-05-02 14:00:00+00:00,Newcastle United,Brighton & Hove Albion,740944,eng.1
+ENG-Premier League,2526,2026-05-02 Wolverhampton Wanderers-Sunderland,2026-05-02 14:00:00+00:00,Wolverhampton Wanderers,Sunderland,740945,eng.1
+ENG-Premier League,2526,2026-05-09 Brighton & Hove Albion-Wolverhampton Wanderers,2026-05-09 14:00:00+00:00,Brighton & Hove Albion,Wolverhampton Wanderers,740946,eng.1
+ENG-Premier League,2526,2026-05-09 Burnley-Aston Villa,2026-05-09 14:00:00+00:00,Burnley,Aston Villa,740947,eng.1
+ENG-Premier League,2526,2026-05-09 Crystal Palace-Everton,2026-05-09 14:00:00+00:00,Crystal Palace,Everton,740948,eng.1
+ENG-Premier League,2526,2026-05-09 Fulham-AFC Bournemouth,2026-05-09 14:00:00+00:00,Fulham,AFC Bournemouth,740949,eng.1
+ENG-Premier League,2526,2026-05-09 Liverpool-Chelsea,2026-05-09 14:00:00+00:00,Liverpool,Chelsea,740950,eng.1
+ENG-Premier League,2526,2026-05-09 Manchester City-Brentford,2026-05-09 14:00:00+00:00,Manchester City,Brentford,740951,eng.1
+ENG-Premier League,2526,2026-05-09 Nottingham Forest-Newcastle United,2026-05-09 14:00:00+00:00,Nottingham Forest,Newcastle United,740952,eng.1
+ENG-Premier League,2526,2026-05-09 Sunderland-Manchester United,2026-05-09 14:00:00+00:00,Sunderland,Manchester United,740953,eng.1
+ENG-Premier League,2526,2026-05-09 Tottenham Hotspur-Leeds United,2026-05-09 14:00:00+00:00,Tottenham Hotspur,Leeds United,740954,eng.1
+ENG-Premier League,2526,2026-05-09 West Ham United-Arsenal,2026-05-09 14:00:00+00:00,West Ham United,Arsenal,740955,eng.1
+ENG-Premier League,2526,2026-05-17 AFC Bournemouth-Manchester City,2026-05-17 14:00:00+00:00,AFC Bournemouth,Manchester City,740958,eng.1
+ENG-Premier League,2526,2026-05-17 Arsenal-Burnley,2026-05-17 14:00:00+00:00,Arsenal,Burnley,740956,eng.1
+ENG-Premier League,2526,2026-05-17 Aston Villa-Liverpool,2026-05-17 14:00:00+00:00,Aston Villa,Liverpool,740957,eng.1
+ENG-Premier League,2526,2026-05-17 Brentford-Crystal Palace,2026-05-17 14:00:00+00:00,Brentford,Crystal Palace,740959,eng.1
+ENG-Premier League,2526,2026-05-17 Chelsea-Tottenham Hotspur,2026-05-17 14:00:00+00:00,Chelsea,Tottenham Hotspur,740960,eng.1
+ENG-Premier League,2526,2026-05-17 Everton-Sunderland,2026-05-17 14:00:00+00:00,Everton,Sunderland,740961,eng.1
+ENG-Premier League,2526,2026-05-17 Leeds United-Brighton & Hove Albion,2026-05-17 14:00:00+00:00,Leeds United,Brighton & Hove Albion,740962,eng.1
+ENG-Premier League,2526,2026-05-17 Manchester United-Nottingham Forest,2026-05-17 14:00:00+00:00,Manchester United,Nottingham Forest,740963,eng.1
+ENG-Premier League,2526,2026-05-17 Newcastle United-West Ham United,2026-05-17 14:00:00+00:00,Newcastle United,West Ham United,740964,eng.1
+ENG-Premier League,2526,2026-05-17 Wolverhampton Wanderers-Fulham,2026-05-17 14:00:00+00:00,Wolverhampton Wanderers,Fulham,740965,eng.1
+ENG-Premier League,2526,2026-05-24 Brighton & Hove Albion-Manchester United,2026-05-24 15:00:00+00:00,Brighton & Hove Albion,Manchester United,740966,eng.1
+ENG-Premier League,2526,2026-05-24 Burnley-Wolverhampton Wanderers,2026-05-24 15:00:00+00:00,Burnley,Wolverhampton Wanderers,740967,eng.1
+ENG-Premier League,2526,2026-05-24 Crystal Palace-Arsenal,2026-05-24 15:00:00+00:00,Crystal Palace,Arsenal,740968,eng.1
+ENG-Premier League,2526,2026-05-24 Fulham-Newcastle United,2026-05-24 15:00:00+00:00,Fulham,Newcastle United,740969,eng.1
+ENG-Premier League,2526,2026-05-24 Liverpool-Brentford,2026-05-24 15:00:00+00:00,Liverpool,Brentford,740975,eng.1
+ENG-Premier League,2526,2026-05-24 Manchester City-Aston Villa,2026-05-24 15:00:00+00:00,Manchester City,Aston Villa,740970,eng.1
+ENG-Premier League,2526,2026-05-24 Nottingham Forest-AFC Bournemouth,2026-05-24 15:00:00+00:00,Nottingham Forest,AFC Bournemouth,740972,eng.1
+ENG-Premier League,2526,2026-05-24 Sunderland-Chelsea,2026-05-24 15:00:00+00:00,Sunderland,Chelsea,740973,eng.1
+ENG-Premier League,2526,2026-05-24 Tottenham Hotspur-Everton,2026-05-24 15:00:00+00:00,Tottenham Hotspur,Everton,740974,eng.1
+ENG-Premier League,2526,2026-05-24 West Ham United-Leeds United,2026-05-24 15:00:00+00:00,West Ham United,Leeds United,740971,eng.1

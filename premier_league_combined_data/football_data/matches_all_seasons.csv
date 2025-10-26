@@ -1,0 +1,1141 @@
+join_key,id,season,matchday,date,status,home_team,home_team_id,away_team,away_team_id,home_score,away_score,home_ht_score,away_ht_score,winner,venue,referee,home_team_shortened
+2023-08-11_Burnley,435943,2023,1,2023-08-11,FINISHED,Burnley FC,328,Manchester City FC,65,0.0,3.0,0.0,2.0,AWAY_TEAM,,Craig Pawson,Burnley
+2023-08-12_Arsenal,435944,2023,1,2023-08-12,FINISHED,Arsenal FC,57,Nottingham Forest FC,351,2.0,1.0,2.0,0.0,HOME_TEAM,,Michael Oliver,Arsenal
+2023-08-12_Bournemouth,435945,2023,1,2023-08-12,FINISHED,Bournemouth,1044,West Ham United FC,563,1.0,1.0,0.0,0.0,DRAW,,Peter Bankes,Bournemouth
+2023-08-12_Brighton,435946,2023,1,2023-08-12,FINISHED,Brighton & Hove Albion FC,397,Luton Town FC,389,4.0,1.0,1.0,0.0,HOME_TEAM,,David Coote,Brighton
+2023-08-12_Everton,435947,2023,1,2023-08-12,FINISHED,Everton FC,62,Fulham FC,63,0.0,1.0,0.0,0.0,AWAY_TEAM,,Stuart Attwell,Everton
+2023-08-12_Sheffield,435948,2023,1,2023-08-12,FINISHED,Sheffield United FC,356,Crystal Palace FC,354,0.0,1.0,0.0,0.0,AWAY_TEAM,,John Brooks,Sheffield
+2023-08-12_Newcastle,435949,2023,1,2023-08-12,FINISHED,Newcastle United FC,67,Aston Villa FC,58,5.0,1.0,2.0,1.0,HOME_TEAM,,Andy Madley,Newcastle
+2023-08-13_Brentford,435950,2023,1,2023-08-13,FINISHED,Brentford FC,402,Tottenham Hotspur FC,73,2.0,2.0,2.0,2.0,DRAW,,Robert Jones,Brentford
+2023-08-13_Chelsea,435951,2023,1,2023-08-13,FINISHED,Chelsea FC,61,Liverpool FC,64,1.0,1.0,1.0,1.0,DRAW,,Anthony Taylor,Chelsea
+2023-08-14_Manchester,435952,2023,1,2023-08-14,FINISHED,Manchester United FC,66,Wolverhampton Wanderers FC,76,1.0,0.0,0.0,0.0,HOME_TEAM,,Simon Hooper,Manchester
+2023-08-18_Nottingham,435959,2023,2,2023-08-18,FINISHED,Nottingham Forest FC,351,Sheffield United FC,356,2.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Nottingham
+2023-08-19_Fulham,435955,2023,2,2023-08-19,FINISHED,Fulham FC,63,Brentford FC,402,0.0,3.0,0.0,1.0,AWAY_TEAM,,Darren Bond,Fulham
+2023-08-19_Liverpool,435956,2023,2,2023-08-19,FINISHED,Liverpool FC,64,Bournemouth,1044,3.0,1.0,2.0,1.0,HOME_TEAM,,Thomas Bramall,Liverpool
+2023-08-19_Wolverhampton,435962,2023,2,2023-08-19,FINISHED,Wolverhampton Wanderers FC,76,Brighton & Hove Albion FC,397,1.0,4.0,0.0,1.0,AWAY_TEAM,,Andy Madley,Wolverhampton
+2023-08-19_Tottenham,435960,2023,2,2023-08-19,FINISHED,Tottenham Hotspur FC,73,Manchester United FC,66,2.0,0.0,0.0,0.0,HOME_TEAM,,Michael Oliver,Tottenham
+2023-08-19_Manchester,435958,2023,2,2023-08-19,FINISHED,Manchester City FC,65,Newcastle United FC,67,1.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Manchester
+2023-08-20_Aston,435953,2023,2,2023-08-20,FINISHED,Aston Villa FC,58,Everton FC,62,4.0,0.0,2.0,0.0,HOME_TEAM,,Anthony Taylor,Aston
+2023-08-20_West,435961,2023,2,2023-08-20,FINISHED,West Ham United FC,563,Chelsea FC,61,3.0,1.0,1.0,1.0,HOME_TEAM,,John Brooks,West
+2023-08-21_Crystal,435954,2023,2,2023-08-21,FINISHED,Crystal Palace FC,354,Arsenal FC,57,0.0,1.0,0.0,0.0,AWAY_TEAM,,David Coote,Crystal
+2023-08-25_Chelsea,435968,2023,3,2023-08-25,FINISHED,Chelsea FC,61,Luton Town FC,389,3.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Chelsea
+2023-08-26_Bournemouth,435963,2023,3,2023-08-26,FINISHED,Bournemouth,1044,Tottenham Hotspur FC,73,0.0,2.0,0.0,1.0,AWAY_TEAM,,Tim Robinson,Bournemouth
+2023-08-26_Everton,435969,2023,3,2023-08-26,FINISHED,Everton FC,62,Wolverhampton Wanderers FC,76,0.0,1.0,0.0,0.0,AWAY_TEAM,,Craig Pawson,Everton
+2023-08-26_Manchester,435970,2023,3,2023-08-26,FINISHED,Manchester United FC,66,Nottingham Forest FC,351,3.0,2.0,1.0,2.0,HOME_TEAM,,Stuart Attwell,Manchester
+2023-08-26_Arsenal,435964,2023,3,2023-08-26,FINISHED,Arsenal FC,57,Fulham FC,63,2.0,2.0,0.0,1.0,DRAW,,Paul Tierney,Arsenal
+2023-08-26_Brentford,435965,2023,3,2023-08-26,FINISHED,Brentford FC,402,Crystal Palace FC,354,1.0,1.0,1.0,0.0,DRAW,,Peter Bankes,Brentford
+2023-08-26_Brighton,435966,2023,3,2023-08-26,FINISHED,Brighton & Hove Albion FC,397,West Ham United FC,563,1.0,3.0,0.0,1.0,AWAY_TEAM,,Anthony Taylor,Brighton
+2023-08-27_Sheffield,435972,2023,3,2023-08-27,FINISHED,Sheffield United FC,356,Manchester City FC,65,1.0,2.0,0.0,0.0,AWAY_TEAM,,Jarred Gillett,Sheffield
+2023-08-27_Burnley,435967,2023,3,2023-08-27,FINISHED,Burnley FC,328,Aston Villa FC,58,1.0,3.0,0.0,2.0,AWAY_TEAM,,Michael Salisbury,Burnley
+2023-08-27_Newcastle,435971,2023,3,2023-08-27,FINISHED,Newcastle United FC,67,Liverpool FC,64,1.0,2.0,1.0,0.0,AWAY_TEAM,,John Brooks,Newcastle
+2023-09-01_Luton,435980,2023,4,2023-09-01,FINISHED,Luton Town FC,389,West Ham United FC,563,1.0,2.0,0.0,1.0,AWAY_TEAM,,Paul Tierney,Luton
+2023-09-02_Sheffield,435982,2023,4,2023-09-02,FINISHED,Sheffield United FC,356,Everton FC,62,2.0,2.0,2.0,1.0,DRAW,,Andy Madley,Sheffield
+2023-09-02_Brentford,435974,2023,4,2023-09-02,FINISHED,Brentford FC,402,Bournemouth,1044,2.0,2.0,1.0,1.0,DRAW,,Bobby Madley,Brentford
+2023-09-02_Burnley,435976,2023,4,2023-09-02,FINISHED,Burnley FC,328,Tottenham Hotspur FC,73,2.0,5.0,1.0,2.0,AWAY_TEAM,,Darren England,Burnley
+2023-09-02_Chelsea,435977,2023,4,2023-09-02,FINISHED,Chelsea FC,61,Nottingham Forest FC,351,0.0,1.0,0.0,0.0,AWAY_TEAM,,Tim Robinson,Chelsea
+2023-09-02_Manchester,435981,2023,4,2023-09-02,FINISHED,Manchester City FC,65,Fulham FC,63,5.0,1.0,2.0,1.0,HOME_TEAM,,Michael Oliver,Manchester
+2023-09-02_Brighton,435975,2023,4,2023-09-02,FINISHED,Brighton & Hove Albion FC,397,Newcastle United FC,67,3.0,1.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Brighton
+2023-09-03_Crystal,435978,2023,4,2023-09-03,FINISHED,Crystal Palace FC,354,Wolverhampton Wanderers FC,76,3.0,2.0,0.0,0.0,HOME_TEAM,,Robert Jones,Crystal
+2023-09-03_Liverpool,435979,2023,4,2023-09-03,FINISHED,Liverpool FC,64,Aston Villa FC,58,3.0,0.0,2.0,0.0,HOME_TEAM,,Simon Hooper,Liverpool
+2023-09-03_Arsenal,435973,2023,4,2023-09-03,FINISHED,Arsenal FC,57,Manchester United FC,66,3.0,1.0,1.0,1.0,HOME_TEAM,,Anthony Taylor,Arsenal
+2023-09-16_Wolverhampton,435992,2023,5,2023-09-16,FINISHED,Wolverhampton Wanderers FC,76,Liverpool FC,64,1.0,3.0,1.0,0.0,AWAY_TEAM,,Michael Oliver,Wolverhampton
+2023-09-16_Aston,435984,2023,5,2023-09-16,FINISHED,Aston Villa FC,58,Crystal Palace FC,354,3.0,1.0,0.0,0.0,HOME_TEAM,,Darren England,Aston
+2023-09-16_Fulham,435986,2023,5,2023-09-16,FINISHED,Fulham FC,63,Luton Town FC,389,1.0,0.0,0.0,0.0,HOME_TEAM,,Michael Salisbury,Fulham
+2023-09-16_Manchester,435987,2023,5,2023-09-16,FINISHED,Manchester United FC,66,Brighton & Hove Albion FC,397,1.0,3.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Manchester
+2023-09-16_Tottenham,435990,2023,5,2023-09-16,FINISHED,Tottenham Hotspur FC,73,Sheffield United FC,356,2.0,1.0,0.0,0.0,HOME_TEAM,,Peter Bankes,Tottenham
+2023-09-16_West,435991,2023,5,2023-09-16,FINISHED,West Ham United FC,563,Manchester City FC,65,1.0,3.0,1.0,0.0,AWAY_TEAM,,Andy Madley,West
+2023-09-16_Newcastle,435988,2023,5,2023-09-16,FINISHED,Newcastle United FC,67,Brentford FC,402,1.0,0.0,0.0,0.0,HOME_TEAM,,Craig Pawson,Newcastle
+2023-09-17_Bournemouth,435983,2023,5,2023-09-17,FINISHED,Bournemouth,1044,Chelsea FC,61,0.0,0.0,0.0,0.0,DRAW,,David Coote,Bournemouth
+2023-09-17_Everton,435985,2023,5,2023-09-17,FINISHED,Everton FC,62,Arsenal FC,57,0.0,1.0,0.0,0.0,AWAY_TEAM,,Simon Hooper,Everton
+2023-09-18_Nottingham,435989,2023,5,2023-09-18,FINISHED,Nottingham Forest FC,351,Burnley FC,328,1.0,1.0,0.0,1.0,DRAW,,Robert Jones,Nottingham
+2023-09-23_Crystal,435998,2023,6,2023-09-23,FINISHED,Crystal Palace FC,354,Fulham FC,63,0.0,0.0,0.0,0.0,DRAW,,Paul Tierney,Crystal
+2023-09-23_Luton,436000,2023,6,2023-09-23,FINISHED,Luton Town FC,389,Wolverhampton Wanderers FC,76,1.0,1.0,0.0,0.0,DRAW,,Josh Smith,Luton
+2023-09-23_Manchester,436001,2023,6,2023-09-23,FINISHED,Manchester City FC,65,Nottingham Forest FC,351,2.0,0.0,2.0,0.0,HOME_TEAM,,Anthony Taylor,Manchester
+2023-09-23_Brentford,435994,2023,6,2023-09-23,FINISHED,Brentford FC,402,Everton FC,62,1.0,3.0,1.0,1.0,AWAY_TEAM,,Michael Oliver,Brentford
+2023-09-23_Burnley,435996,2023,6,2023-09-23,FINISHED,Burnley FC,328,Manchester United FC,66,0.0,1.0,0.0,1.0,AWAY_TEAM,,Tony Harrington,Burnley
+2023-09-24_Arsenal,435993,2023,6,2023-09-24,FINISHED,Arsenal FC,57,Tottenham Hotspur FC,73,2.0,2.0,1.0,1.0,DRAW,,Robert Jones,Arsenal
+2023-09-24_Brighton,435995,2023,6,2023-09-24,FINISHED,Brighton & Hove Albion FC,397,Bournemouth,1044,3.0,1.0,1.0,1.0,HOME_TEAM,,John Brooks,Brighton
+2023-09-24_Chelsea,435997,2023,6,2023-09-24,FINISHED,Chelsea FC,61,Aston Villa FC,58,0.0,1.0,0.0,0.0,AWAY_TEAM,,Jarred Gillett,Chelsea
+2023-09-24_Liverpool,435999,2023,6,2023-09-24,FINISHED,Liverpool FC,64,West Ham United FC,563,3.0,1.0,1.0,1.0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2023-09-24_Sheffield,436002,2023,6,2023-09-24,FINISHED,Sheffield United FC,356,Newcastle United FC,67,0.0,8.0,0.0,3.0,AWAY_TEAM,,Stuart Attwell,Sheffield
+2023-09-30_Aston,436004,2023,7,2023-09-30,FINISHED,Aston Villa FC,58,Brighton & Hove Albion FC,397,6.0,1.0,3.0,0.0,HOME_TEAM,,Andy Madley,Aston
+2023-09-30_Bournemouth,436003,2023,7,2023-09-30,FINISHED,Bournemouth,1044,Arsenal FC,57,0.0,4.0,0.0,2.0,AWAY_TEAM,,Michael Salisbury,Bournemouth
+2023-09-30_Everton,436005,2023,7,2023-09-30,FINISHED,Everton FC,62,Luton Town FC,389,1.0,2.0,1.0,2.0,AWAY_TEAM,,Anthony Taylor,Everton
+2023-09-30_Manchester,436007,2023,7,2023-09-30,FINISHED,Manchester United FC,66,Crystal Palace FC,354,0.0,1.0,0.0,1.0,AWAY_TEAM,,Chris Kavanagh,Manchester
+2023-09-30_Newcastle,436008,2023,7,2023-09-30,FINISHED,Newcastle United FC,67,Burnley FC,328,2.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Newcastle
+2023-09-30_West,436011,2023,7,2023-09-30,FINISHED,West Ham United FC,563,Sheffield United FC,356,2.0,0.0,2.0,0.0,HOME_TEAM,,Graham Scott,West
+2023-09-30_Wolverhampton,436012,2023,7,2023-09-30,FINISHED,Wolverhampton Wanderers FC,76,Manchester City FC,65,2.0,1.0,1.0,0.0,HOME_TEAM,,Craig Pawson,Wolverhampton
+2023-09-30_Tottenham,436010,2023,7,2023-09-30,FINISHED,Tottenham Hotspur FC,73,Liverpool FC,64,2.0,1.0,1.0,1.0,HOME_TEAM,,Simon Hooper,Tottenham
+2023-10-01_Nottingham,436009,2023,7,2023-10-01,FINISHED,Nottingham Forest FC,351,Brentford FC,402,1.0,1.0,0.0,0.0,DRAW,,Paul Tierney,Nottingham
+2023-10-02_Fulham,436006,2023,7,2023-10-02,FINISHED,Fulham FC,63,Chelsea FC,61,0.0,2.0,0.0,2.0,AWAY_TEAM,,Tim Robinson,Fulham
+2023-10-03_Luton,435957,2023,2,2023-10-03,FINISHED,Luton Town FC,389,Burnley FC,328,1.0,2.0,0.0,1.0,AWAY_TEAM,,Peter Bankes,Luton
+2023-10-07_Luton,436019,2023,8,2023-10-07,FINISHED,Luton Town FC,389,Tottenham Hotspur FC,73,0.0,1.0,0.0,0.0,AWAY_TEAM,,John Brooks,Luton
+2023-10-07_Burnley,436015,2023,8,2023-10-07,FINISHED,Burnley FC,328,Chelsea FC,61,1.0,4.0,1.0,1.0,AWAY_TEAM,,Stuart Attwell,Burnley
+2023-10-07_Everton,436017,2023,8,2023-10-07,FINISHED,Everton FC,62,Bournemouth,1044,3.0,0.0,2.0,0.0,HOME_TEAM,,David Coote,Everton
+2023-10-07_Fulham,436018,2023,8,2023-10-07,FINISHED,Fulham FC,63,Sheffield United FC,356,3.0,1.0,0.0,0.0,HOME_TEAM,,Sam Barrott,Fulham
+2023-10-07_Manchester,436020,2023,8,2023-10-07,FINISHED,Manchester United FC,66,Brentford FC,402,2.0,1.0,0.0,1.0,HOME_TEAM,,Bobby Madley,Manchester
+2023-10-07_Crystal,436016,2023,8,2023-10-07,FINISHED,Crystal Palace FC,354,Nottingham Forest FC,351,0.0,0.0,0.0,0.0,DRAW,,Craig Pawson,Crystal
+2023-10-08_Brighton,436014,2023,8,2023-10-08,FINISHED,Brighton & Hove Albion FC,397,Liverpool FC,64,2.0,2.0,1.0,2.0,DRAW,,Anthony Taylor,Brighton
+2023-10-08_West,436021,2023,8,2023-10-08,FINISHED,West Ham United FC,563,Newcastle United FC,67,2.0,2.0,1.0,0.0,DRAW,,Peter Bankes,West
+2023-10-08_Wolverhampton,436022,2023,8,2023-10-08,FINISHED,Wolverhampton Wanderers FC,76,Aston Villa FC,58,1.0,1.0,0.0,0.0,DRAW,,Robert Jones,Wolverhampton
+2023-10-08_Arsenal,436013,2023,8,2023-10-08,FINISHED,Arsenal FC,57,Manchester City FC,65,1.0,0.0,0.0,0.0,HOME_TEAM,,Michael Oliver,Arsenal
+2023-10-21_Liverpool,436027,2023,9,2023-10-21,FINISHED,Liverpool FC,64,Everton FC,62,2.0,0.0,0.0,0.0,HOME_TEAM,,Craig Pawson,Liverpool
+2023-10-21_Bournemouth,436023,2023,9,2023-10-21,FINISHED,Bournemouth,1044,Wolverhampton Wanderers FC,76,1.0,2.0,1.0,0.0,AWAY_TEAM,,Paul Tierney,Bournemouth
+2023-10-21_Brentford,436025,2023,9,2023-10-21,FINISHED,Brentford FC,402,Burnley FC,328,3.0,0.0,1.0,0.0,HOME_TEAM,,Josh Smith,Brentford
+2023-10-21_Manchester,436028,2023,9,2023-10-21,FINISHED,Manchester City FC,65,Brighton & Hove Albion FC,397,2.0,1.0,2.0,0.0,HOME_TEAM,,Robert Jones,Manchester
+2023-10-21_Newcastle,436029,2023,9,2023-10-21,FINISHED,Newcastle United FC,67,Crystal Palace FC,354,4.0,0.0,3.0,0.0,HOME_TEAM,,Tim Robinson,Newcastle
+2023-10-21_Nottingham,436030,2023,9,2023-10-21,FINISHED,Nottingham Forest FC,351,Luton Town FC,389,2.0,2.0,0.0,0.0,DRAW,,Sam Barrott,Nottingham
+2023-10-21_Chelsea,436026,2023,9,2023-10-21,FINISHED,Chelsea FC,61,Arsenal FC,57,2.0,2.0,1.0,0.0,DRAW,,Chris Kavanagh,Chelsea
+2023-10-21_Sheffield,436031,2023,9,2023-10-21,FINISHED,Sheffield United FC,356,Manchester United FC,66,1.0,2.0,1.0,1.0,AWAY_TEAM,,Michael Oliver,Sheffield
+2023-10-22_Aston,436024,2023,9,2023-10-22,FINISHED,Aston Villa FC,58,West Ham United FC,563,4.0,1.0,1.0,0.0,HOME_TEAM,,David Coote,Aston
+2023-10-23_Tottenham,436032,2023,9,2023-10-23,FINISHED,Tottenham Hotspur FC,73,Fulham FC,63,2.0,0.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Tottenham
+2023-10-27_Crystal,436038,2023,10,2023-10-27,FINISHED,Crystal Palace FC,354,Tottenham Hotspur FC,73,1.0,2.0,0.0,0.0,AWAY_TEAM,,Andy Madley,Crystal
+2023-10-28_Chelsea,436037,2023,10,2023-10-28,FINISHED,Chelsea FC,61,Brentford FC,402,0.0,2.0,0.0,0.0,AWAY_TEAM,,Simon Hooper,Chelsea
+2023-10-28_Bournemouth,436033,2023,10,2023-10-28,FINISHED,Bournemouth,1044,Burnley FC,328,2.0,1.0,1.0,1.0,HOME_TEAM,,Sam Barrott,Bournemouth
+2023-10-28_Arsenal,436034,2023,10,2023-10-28,FINISHED,Arsenal FC,57,Sheffield United FC,356,5.0,0.0,1.0,0.0,HOME_TEAM,,Tim Robinson,Arsenal
+2023-10-28_Wolverhampton,436042,2023,10,2023-10-28,FINISHED,Wolverhampton Wanderers FC,76,Newcastle United FC,67,2.0,2.0,1.0,2.0,DRAW,,Anthony Taylor,Wolverhampton
+2023-10-29_West,436041,2023,10,2023-10-29,FINISHED,West Ham United FC,563,Everton FC,62,0.0,1.0,0.0,0.0,AWAY_TEAM,,Stuart Attwell,West
+2023-10-29_Aston,436035,2023,10,2023-10-29,FINISHED,Aston Villa FC,58,Luton Town FC,389,3.0,1.0,1.0,0.0,HOME_TEAM,,John Brooks,Aston
+2023-10-29_Brighton,436036,2023,10,2023-10-29,FINISHED,Brighton & Hove Albion FC,397,Fulham FC,63,1.0,1.0,1.0,0.0,DRAW,,Michael Salisbury,Brighton
+2023-10-29_Liverpool,436039,2023,10,2023-10-29,FINISHED,Liverpool FC,64,Nottingham Forest FC,351,3.0,0.0,2.0,0.0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2023-10-29_Manchester,436040,2023,10,2023-10-29,FINISHED,Manchester United FC,66,Manchester City FC,65,0.0,3.0,0.0,1.0,AWAY_TEAM,,Paul Tierney,Manchester
+2023-11-04_Fulham,436046,2023,11,2023-11-04,FINISHED,Fulham FC,63,Manchester United FC,66,0.0,1.0,0.0,0.0,AWAY_TEAM,,John Brooks,Fulham
+2023-11-04_Brentford,436043,2023,11,2023-11-04,FINISHED,Brentford FC,402,West Ham United FC,563,3.0,2.0,1.0,2.0,HOME_TEAM,,Thomas Bramall,Brentford
+2023-11-04_Burnley,436044,2023,11,2023-11-04,FINISHED,Burnley FC,328,Crystal Palace FC,354,0.0,2.0,0.0,1.0,AWAY_TEAM,,Peter Bankes,Burnley
+2023-11-04_Everton,436045,2023,11,2023-11-04,FINISHED,Everton FC,62,Brighton & Hove Albion FC,397,1.0,1.0,1.0,0.0,DRAW,,Tim Robinson,Everton
+2023-11-04_Manchester,436048,2023,11,2023-11-04,FINISHED,Manchester City FC,65,Bournemouth,1044,6.0,1.0,3.0,0.0,HOME_TEAM,,Craig Pawson,Manchester
+2023-11-04_Sheffield,436051,2023,11,2023-11-04,FINISHED,Sheffield United FC,356,Wolverhampton Wanderers FC,76,2.0,1.0,0.0,0.0,HOME_TEAM,,Robert Jones,Sheffield
+2023-11-04_Newcastle,436049,2023,11,2023-11-04,FINISHED,Newcastle United FC,67,Arsenal FC,57,1.0,0.0,0.0,0.0,HOME_TEAM,,Stuart Attwell,Newcastle
+2023-11-05_Nottingham,436050,2023,11,2023-11-05,FINISHED,Nottingham Forest FC,351,Aston Villa FC,58,2.0,0.0,1.0,0.0,HOME_TEAM,,Jarred Gillett,Nottingham
+2023-11-05_Luton,436047,2023,11,2023-11-05,FINISHED,Luton Town FC,389,Liverpool FC,64,1.0,1.0,0.0,0.0,DRAW,,Andy Madley,Luton
+2023-11-06_Tottenham,436052,2023,11,2023-11-06,FINISHED,Tottenham Hotspur FC,73,Chelsea FC,61,1.0,4.0,1.0,1.0,AWAY_TEAM,,Michael Oliver,Tottenham
+2023-11-11_Wolverhampton,436062,2023,12,2023-11-11,FINISHED,Wolverhampton Wanderers FC,76,Tottenham Hotspur FC,73,2.0,1.0,0.0,1.0,HOME_TEAM,,Tim Robinson,Wolverhampton
+2023-11-11_Arsenal,436054,2023,12,2023-11-11,FINISHED,Arsenal FC,57,Burnley FC,328,3.0,1.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Arsenal
+2023-11-11_Crystal,436058,2023,12,2023-11-11,FINISHED,Crystal Palace FC,354,Everton FC,62,2.0,3.0,1.0,1.0,AWAY_TEAM,,Sam Barrott,Crystal
+2023-11-11_Manchester,436060,2023,12,2023-11-11,FINISHED,Manchester United FC,66,Luton Town FC,389,1.0,0.0,0.0,0.0,HOME_TEAM,,Graham Scott,Manchester
+2023-11-11_Bournemouth,436053,2023,12,2023-11-11,FINISHED,Bournemouth,1044,Newcastle United FC,67,2.0,0.0,0.0,0.0,HOME_TEAM,,Chris Kavanagh,Bournemouth
+2023-11-12_Aston,436055,2023,12,2023-11-12,FINISHED,Aston Villa FC,58,Fulham FC,63,3.0,1.0,2.0,0.0,HOME_TEAM,,Simon Hooper,Aston
+2023-11-12_Brighton,436056,2023,12,2023-11-12,FINISHED,Brighton & Hove Albion FC,397,Sheffield United FC,356,1.0,1.0,1.0,0.0,DRAW,,John Brooks,Brighton
+2023-11-12_Liverpool,436059,2023,12,2023-11-12,FINISHED,Liverpool FC,64,Brentford FC,402,3.0,0.0,1.0,0.0,HOME_TEAM,,Paul Tierney,Liverpool
+2023-11-12_West,436061,2023,12,2023-11-12,FINISHED,West Ham United FC,563,Nottingham Forest FC,351,3.0,2.0,1.0,1.0,HOME_TEAM,,Michael Salisbury,West
+2023-11-12_Chelsea,436057,2023,12,2023-11-12,FINISHED,Chelsea FC,61,Manchester City FC,65,4.0,4.0,2.0,2.0,DRAW,,Anthony Taylor,Chelsea
+2023-11-25_Manchester,436068,2023,13,2023-11-25,FINISHED,Manchester City FC,65,Liverpool FC,64,1.0,1.0,1.0,0.0,DRAW,,Chris Kavanagh,Manchester
+2023-11-25_Burnley,436064,2023,13,2023-11-25,FINISHED,Burnley FC,328,West Ham United FC,563,1.0,2.0,0.0,0.0,AWAY_TEAM,,Sam Barrott,Burnley
+2023-11-25_Luton,436067,2023,13,2023-11-25,FINISHED,Luton Town FC,389,Crystal Palace FC,354,2.0,1.0,0.0,0.0,HOME_TEAM,,Jarred Gillett,Luton
+2023-11-25_Newcastle,436069,2023,13,2023-11-25,FINISHED,Newcastle United FC,67,Chelsea FC,61,4.0,1.0,1.0,1.0,HOME_TEAM,,Simon Hooper,Newcastle
+2023-11-25_Nottingham,436070,2023,13,2023-11-25,FINISHED,Nottingham Forest FC,351,Brighton & Hove Albion FC,397,2.0,3.0,1.0,2.0,AWAY_TEAM,,Anthony Taylor,Nottingham
+2023-11-25_Sheffield,436071,2023,13,2023-11-25,FINISHED,Sheffield United FC,356,Bournemouth,1044,1.0,3.0,0.0,2.0,AWAY_TEAM,,Bobby Madley,Sheffield
+2023-11-25_Brentford,436063,2023,13,2023-11-25,FINISHED,Brentford FC,402,Arsenal FC,57,0.0,1.0,0.0,0.0,AWAY_TEAM,,Tim Robinson,Brentford
+2023-11-26_Tottenham,436072,2023,13,2023-11-26,FINISHED,Tottenham Hotspur FC,73,Aston Villa FC,58,1.0,2.0,1.0,1.0,AWAY_TEAM,,Robert Jones,Tottenham
+2023-11-26_Everton,436065,2023,13,2023-11-26,FINISHED,Everton FC,62,Manchester United FC,66,0.0,3.0,0.0,1.0,AWAY_TEAM,,John Brooks,Everton
+2023-11-27_Fulham,436066,2023,13,2023-11-27,FINISHED,Fulham FC,63,Wolverhampton Wanderers FC,76,3.0,2.0,1.0,1.0,HOME_TEAM,,Michael Salisbury,Fulham
+2023-12-02_Arsenal,436074,2023,14,2023-12-02,FINISHED,Arsenal FC,57,Wolverhampton Wanderers FC,76,2.0,1.0,2.0,0.0,HOME_TEAM,,Peter Bankes,Arsenal
+2023-12-02_Brentford,436075,2023,14,2023-12-02,FINISHED,Brentford FC,402,Luton Town FC,389,3.0,1.0,0.0,0.0,HOME_TEAM,,Anthony Taylor,Brentford
+2023-12-02_Burnley,436076,2023,14,2023-12-02,FINISHED,Burnley FC,328,Sheffield United FC,356,5.0,0.0,2.0,0.0,HOME_TEAM,,Chris Kavanagh,Burnley
+2023-12-02_Nottingham,436081,2023,14,2023-12-02,FINISHED,Nottingham Forest FC,351,Everton FC,62,0.0,1.0,0.0,0.0,AWAY_TEAM,,Paul Tierney,Nottingham
+2023-12-02_Newcastle,436080,2023,14,2023-12-02,FINISHED,Newcastle United FC,67,Manchester United FC,66,1.0,0.0,0.0,0.0,HOME_TEAM,,Robert Jones,Newcastle
+2023-12-03_Bournemouth,436073,2023,14,2023-12-03,FINISHED,Bournemouth,1044,Aston Villa FC,58,2.0,2.0,1.0,1.0,DRAW,,Thomas Bramall,Bournemouth
+2023-12-03_Chelsea,436077,2023,14,2023-12-03,FINISHED,Chelsea FC,61,Brighton & Hove Albion FC,397,3.0,2.0,2.0,1.0,HOME_TEAM,,Craig Pawson,Chelsea
+2023-12-03_Liverpool,436078,2023,14,2023-12-03,FINISHED,Liverpool FC,64,Fulham FC,63,4.0,3.0,2.0,2.0,HOME_TEAM,,Stuart Attwell,Liverpool
+2023-12-03_West,436082,2023,14,2023-12-03,FINISHED,West Ham United FC,563,Crystal Palace FC,354,1.0,1.0,1.0,0.0,DRAW,,Michael Oliver,West
+2023-12-03_Manchester,436079,2023,14,2023-12-03,FINISHED,Manchester City FC,65,Tottenham Hotspur FC,73,3.0,3.0,2.0,1.0,DRAW,,Simon Hooper,Manchester
+2023-12-05_Wolverhampton,436090,2023,15,2023-12-05,FINISHED,Wolverhampton Wanderers FC,76,Burnley FC,328,1.0,0.0,1.0,0.0,HOME_TEAM,,Jarred Gillett,Wolverhampton
+2023-12-05_Luton,436087,2023,15,2023-12-05,FINISHED,Luton Town FC,389,Arsenal FC,57,3.0,4.0,1.0,2.0,AWAY_TEAM,,Sam Barrott,Luton
+2023-12-06_Brighton,436084,2023,15,2023-12-06,FINISHED,Brighton & Hove Albion FC,397,Brentford FC,402,2.0,1.0,1.0,1.0,HOME_TEAM,,Peter Bankes,Brighton
+2023-12-06_Fulham,436086,2023,15,2023-12-06,FINISHED,Fulham FC,63,Nottingham Forest FC,351,5.0,0.0,2.0,0.0,HOME_TEAM,,Josh Smith,Fulham
+2023-12-06_Sheffield,436088,2023,15,2023-12-06,FINISHED,Sheffield United FC,356,Liverpool FC,64,0.0,2.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Sheffield
+2023-12-06_Crystal,436091,2023,15,2023-12-06,FINISHED,Crystal Palace FC,354,Bournemouth,1044,0.0,2.0,0.0,1.0,AWAY_TEAM,,Craig Pawson,Crystal
+2023-12-06_Aston,436083,2023,15,2023-12-06,FINISHED,Aston Villa FC,58,Manchester City FC,65,1.0,0.0,0.0,0.0,HOME_TEAM,,John Brooks,Aston
+2023-12-06_Manchester,436092,2023,15,2023-12-06,FINISHED,Manchester United FC,66,Chelsea FC,61,2.0,1.0,1.0,1.0,HOME_TEAM,,Chris Kavanagh,Manchester
+2023-12-07_Everton,436085,2023,15,2023-12-07,FINISHED,Everton FC,62,Newcastle United FC,67,3.0,0.0,0.0,0.0,HOME_TEAM,,Tim Robinson,Everton
+2023-12-07_Tottenham,436089,2023,15,2023-12-07,FINISHED,Tottenham Hotspur FC,73,West Ham United FC,563,1.0,2.0,1.0,0.0,AWAY_TEAM,,Michael Salisbury,Tottenham
+2023-12-09_Crystal,436095,2023,16,2023-12-09,FINISHED,Crystal Palace FC,354,Liverpool FC,64,1.0,2.0,0.0,0.0,AWAY_TEAM,,Andy Madley,Crystal
+2023-12-09_Brighton,436094,2023,16,2023-12-09,FINISHED,Brighton & Hove Albion FC,397,Burnley FC,328,1.0,1.0,0.0,1.0,DRAW,,Simon Hooper,Brighton
+2023-12-09_Manchester,436099,2023,16,2023-12-09,FINISHED,Manchester United FC,66,Bournemouth,1044,0.0,3.0,0.0,1.0,AWAY_TEAM,,Peter Bankes,Manchester
+2023-12-09_Sheffield,436100,2023,16,2023-12-09,FINISHED,Sheffield United FC,356,Brentford FC,402,1.0,0.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Sheffield
+2023-12-09_Wolverhampton,436102,2023,16,2023-12-09,FINISHED,Wolverhampton Wanderers FC,76,Nottingham Forest FC,351,1.0,1.0,1.0,1.0,DRAW,,Sam Barrott,Wolverhampton
+2023-12-09_Aston,436093,2023,16,2023-12-09,FINISHED,Aston Villa FC,58,Arsenal FC,57,1.0,0.0,1.0,0.0,HOME_TEAM,,Jarred Gillett,Aston
+2023-12-10_Everton,436096,2023,16,2023-12-10,FINISHED,Everton FC,62,Chelsea FC,61,2.0,0.0,0.0,0.0,HOME_TEAM,,Michael Oliver,Everton
+2023-12-10_Fulham,436097,2023,16,2023-12-10,FINISHED,Fulham FC,63,West Ham United FC,563,5.0,0.0,3.0,0.0,HOME_TEAM,,Paul Tierney,Fulham
+2023-12-10_Luton,436098,2023,16,2023-12-10,FINISHED,Luton Town FC,389,Manchester City FC,65,1.0,2.0,1.0,0.0,AWAY_TEAM,,Tim Robinson,Luton
+2023-12-10_Tottenham,436101,2023,16,2023-12-10,FINISHED,Tottenham Hotspur FC,73,Newcastle United FC,67,4.0,1.0,2.0,0.0,HOME_TEAM,,Chris Kavanagh,Tottenham
+2023-12-15_Nottingham,436111,2023,17,2023-12-15,FINISHED,Nottingham Forest FC,351,Tottenham Hotspur FC,73,0.0,2.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Nottingham
+2023-12-16_Chelsea,436107,2023,17,2023-12-16,FINISHED,Chelsea FC,61,Sheffield United FC,356,2.0,0.0,0.0,0.0,HOME_TEAM,,Andy Madley,Chelsea
+2023-12-16_Manchester,436109,2023,17,2023-12-16,FINISHED,Manchester City FC,65,Crystal Palace FC,354,2.0,2.0,1.0,0.0,DRAW,,Paul Tierney,Manchester
+2023-12-16_Newcastle,436110,2023,17,2023-12-16,FINISHED,Newcastle United FC,67,Fulham FC,63,3.0,0.0,0.0,0.0,HOME_TEAM,,Sam Barrott,Newcastle
+2023-12-16_Burnley,436106,2023,17,2023-12-16,FINISHED,Burnley FC,328,Everton FC,62,0.0,2.0,0.0,2.0,AWAY_TEAM,,Anthony Taylor,Burnley
+2023-12-17_Arsenal,436104,2023,17,2023-12-17,FINISHED,Arsenal FC,57,Brighton & Hove Albion FC,397,2.0,0.0,0.0,0.0,HOME_TEAM,,Tim Robinson,Arsenal
+2023-12-17_Brentford,436105,2023,17,2023-12-17,FINISHED,Brentford FC,402,Aston Villa FC,58,1.0,2.0,1.0,0.0,AWAY_TEAM,,David Coote,Brentford
+2023-12-17_West,436112,2023,17,2023-12-17,FINISHED,West Ham United FC,563,Wolverhampton Wanderers FC,76,3.0,0.0,2.0,0.0,HOME_TEAM,,Chris Kavanagh,West
+2023-12-17_Liverpool,436108,2023,17,2023-12-17,FINISHED,Liverpool FC,64,Manchester United FC,66,0.0,0.0,0.0,0.0,DRAW,,Michael Oliver,Liverpool
+2023-12-21_Crystal,436114,2023,18,2023-12-21,FINISHED,Crystal Palace FC,354,Brighton & Hove Albion FC,397,1.0,1.0,1.0,0.0,DRAW,,John Brooks,Crystal
+2023-12-22_Aston,436113,2023,18,2023-12-22,FINISHED,Aston Villa FC,58,Sheffield United FC,356,1.0,1.0,0.0,0.0,DRAW,,Anthony Taylor,Aston
+2023-12-23_West,436121,2023,18,2023-12-23,FINISHED,West Ham United FC,563,Manchester United FC,66,2.0,0.0,0.0,0.0,HOME_TEAM,,Simon Hooper,West
+2023-12-23_Fulham,436115,2023,18,2023-12-23,FINISHED,Fulham FC,63,Burnley FC,328,0.0,2.0,0.0,0.0,AWAY_TEAM,,Rebecca Welch,Fulham
+2023-12-23_Luton,436117,2023,18,2023-12-23,FINISHED,Luton Town FC,389,Newcastle United FC,67,1.0,0.0,1.0,0.0,HOME_TEAM,,Darren England,Luton
+2023-12-23_Nottingham,436119,2023,18,2023-12-23,FINISHED,Nottingham Forest FC,351,Bournemouth,1044,2.0,3.0,0.0,0.0,AWAY_TEAM,,Robert Jones,Nottingham
+2023-12-23_Tottenham,436120,2023,18,2023-12-23,FINISHED,Tottenham Hotspur FC,73,Everton FC,62,2.0,1.0,2.0,0.0,HOME_TEAM,,Stuart Attwell,Tottenham
+2023-12-23_Liverpool,436116,2023,18,2023-12-23,FINISHED,Liverpool FC,64,Arsenal FC,57,1.0,1.0,1.0,1.0,DRAW,,Chris Kavanagh,Liverpool
+2023-12-24_Wolverhampton,436122,2023,18,2023-12-24,FINISHED,Wolverhampton Wanderers FC,76,Chelsea FC,61,2.0,1.0,0.0,0.0,HOME_TEAM,,David Coote,Wolverhampton
+2023-12-26_Newcastle,436131,2023,19,2023-12-26,FINISHED,Newcastle United FC,67,Nottingham Forest FC,351,1.0,3.0,1.0,1.0,AWAY_TEAM,,Chris Kavanagh,Newcastle
+2023-12-26_Bournemouth,436123,2023,19,2023-12-26,FINISHED,Bournemouth,1044,Fulham FC,63,3.0,0.0,1.0,0.0,HOME_TEAM,,Tim Robinson,Bournemouth
+2023-12-26_Sheffield,436132,2023,19,2023-12-26,FINISHED,Sheffield United FC,356,Luton Town FC,389,2.0,3.0,0.0,1.0,AWAY_TEAM,,Samuel Allison,Sheffield
+2023-12-26_Burnley,436127,2023,19,2023-12-26,FINISHED,Burnley FC,328,Liverpool FC,64,0.0,2.0,0.0,1.0,AWAY_TEAM,,Paul Tierney,Burnley
+2023-12-26_Manchester,436130,2023,19,2023-12-26,FINISHED,Manchester United FC,66,Aston Villa FC,58,3.0,2.0,0.0,2.0,HOME_TEAM,,Craig Pawson,Manchester
+2023-12-27_Brentford,436125,2023,19,2023-12-27,FINISHED,Brentford FC,402,Wolverhampton Wanderers FC,76,1.0,4.0,1.0,3.0,AWAY_TEAM,,Andy Madley,Brentford
+2023-12-27_Chelsea,436128,2023,19,2023-12-27,FINISHED,Chelsea FC,61,Crystal Palace FC,354,2.0,1.0,1.0,1.0,HOME_TEAM,,Michael Salisbury,Chelsea
+2023-12-27_Everton,436129,2023,19,2023-12-27,FINISHED,Everton FC,62,Manchester City FC,65,1.0,3.0,1.0,0.0,AWAY_TEAM,,John Brooks,Everton
+2023-12-28_Brighton,436126,2023,19,2023-12-28,FINISHED,Brighton & Hove Albion FC,397,Tottenham Hotspur FC,73,4.0,2.0,2.0,0.0,HOME_TEAM,,Jarred Gillett,Brighton
+2023-12-28_Arsenal,436124,2023,19,2023-12-28,FINISHED,Arsenal FC,57,West Ham United FC,563,0.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Oliver,Arsenal
+2023-12-30_Luton,436137,2023,20,2023-12-30,FINISHED,Luton Town FC,389,Chelsea FC,61,2.0,3.0,0.0,2.0,AWAY_TEAM,,Paul Tierney,Luton
+2023-12-30_Aston,436133,2023,20,2023-12-30,FINISHED,Aston Villa FC,58,Burnley FC,328,3.0,2.0,2.0,1.0,HOME_TEAM,,Stuart Attwell,Aston
+2023-12-30_Crystal,436134,2023,20,2023-12-30,FINISHED,Crystal Palace FC,354,Brentford FC,402,3.0,1.0,2.0,1.0,HOME_TEAM,,Robert Jones,Crystal
+2023-12-30_Manchester,436138,2023,20,2023-12-30,FINISHED,Manchester City FC,65,Sheffield United FC,356,2.0,0.0,1.0,0.0,HOME_TEAM,,David Coote,Manchester
+2023-12-30_Wolverhampton,436142,2023,20,2023-12-30,FINISHED,Wolverhampton Wanderers FC,76,Everton FC,62,3.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Wolverhampton
+2023-12-30_Nottingham,436139,2023,20,2023-12-30,FINISHED,Nottingham Forest FC,351,Manchester United FC,66,2.0,1.0,0.0,0.0,HOME_TEAM,,Tim Robinson,Nottingham
+2023-12-31_Fulham,436135,2023,20,2023-12-31,FINISHED,Fulham FC,63,Arsenal FC,57,2.0,1.0,1.0,1.0,HOME_TEAM,,Peter Bankes,Fulham
+2023-12-31_Tottenham,436140,2023,20,2023-12-31,FINISHED,Tottenham Hotspur FC,73,Bournemouth,1044,3.0,1.0,1.0,0.0,HOME_TEAM,,Simon Hooper,Tottenham
+2024-01-01_Liverpool,436136,2023,20,2024-01-01,FINISHED,Liverpool FC,64,Newcastle United FC,67,4.0,2.0,0.0,0.0,HOME_TEAM,,Anthony Taylor,Liverpool
+2024-01-02_West,436141,2023,20,2024-01-02,FINISHED,West Ham United FC,563,Brighton & Hove Albion FC,397,0.0,0.0,0.0,0.0,DRAW,,Sam Barrott,West
+2024-01-12_Burnley,436147,2023,21,2024-01-12,FINISHED,Burnley FC,328,Luton Town FC,389,1.0,1.0,1.0,0.0,DRAW,,Tony Harrington,Burnley
+2024-01-13_Chelsea,436148,2023,21,2024-01-13,FINISHED,Chelsea FC,61,Fulham FC,63,1.0,0.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Chelsea
+2024-01-13_Newcastle,436151,2023,21,2024-01-13,FINISHED,Newcastle United FC,67,Manchester City FC,65,2.0,3.0,2.0,1.0,AWAY_TEAM,,Chris Kavanagh,Newcastle
+2024-01-14_Everton,436149,2023,21,2024-01-14,FINISHED,Everton FC,62,Aston Villa FC,58,0.0,0.0,0.0,0.0,DRAW,,David Coote,Everton
+2024-01-14_Manchester,436150,2023,21,2024-01-14,FINISHED,Manchester United FC,66,Tottenham Hotspur FC,73,2.0,2.0,2.0,1.0,DRAW,,John Brooks,Manchester
+2024-01-20_Arsenal,436144,2023,21,2024-01-20,FINISHED,Arsenal FC,57,Crystal Palace FC,354,5.0,0.0,2.0,0.0,HOME_TEAM,,Paul Tierney,Arsenal
+2024-01-20_Brentford,436145,2023,21,2024-01-20,FINISHED,Brentford FC,402,Nottingham Forest FC,351,3.0,2.0,1.0,1.0,HOME_TEAM,,Darren England,Brentford
+2024-01-21_Sheffield,436152,2023,21,2024-01-21,FINISHED,Sheffield United FC,356,West Ham United FC,563,2.0,2.0,1.0,1.0,DRAW,,Michael Salisbury,Sheffield
+2024-01-21_Bournemouth,436143,2023,21,2024-01-21,FINISHED,Bournemouth,1044,Liverpool FC,64,0.0,4.0,0.0,0.0,AWAY_TEAM,,Bobby Madley,Bournemouth
+2024-01-22_Brighton,436146,2023,21,2024-01-22,FINISHED,Brighton & Hove Albion FC,397,Wolverhampton Wanderers FC,76,0.0,0.0,0.0,0.0,DRAW,,Craig Pawson,Brighton
+2024-01-30_Nottingham,436153,2023,22,2024-01-30,FINISHED,Nottingham Forest FC,351,Arsenal FC,57,1.0,2.0,0.0,0.0,AWAY_TEAM,,Simon Hooper,Nottingham
+2024-01-30_Luton,436155,2023,22,2024-01-30,FINISHED,Luton Town FC,389,Brighton & Hove Albion FC,397,4.0,0.0,3.0,0.0,HOME_TEAM,,Robert Jones,Luton
+2024-01-30_Fulham,436156,2023,22,2024-01-30,FINISHED,Fulham FC,63,Everton FC,62,0.0,0.0,0.0,0.0,DRAW,,Thomas Bramall,Fulham
+2024-01-30_Crystal,436157,2023,22,2024-01-30,FINISHED,Crystal Palace FC,354,Sheffield United FC,356,3.0,2.0,2.0,2.0,HOME_TEAM,,Tony Harrington,Crystal
+2024-01-30_Aston,436158,2023,22,2024-01-30,FINISHED,Aston Villa FC,58,Newcastle United FC,67,1.0,3.0,0.0,2.0,AWAY_TEAM,,John Brooks,Aston
+2024-01-31_Tottenham,436159,2023,22,2024-01-31,FINISHED,Tottenham Hotspur FC,73,Brentford FC,402,3.0,2.0,0.0,1.0,HOME_TEAM,,David Coote,Tottenham
+2024-01-31_Manchester,436161,2023,22,2024-01-31,FINISHED,Manchester City FC,65,Burnley FC,328,3.0,1.0,2.0,0.0,HOME_TEAM,,Sam Barrott,Manchester
+2024-01-31_Liverpool,436162,2023,22,2024-01-31,FINISHED,Liverpool FC,64,Chelsea FC,61,4.0,1.0,2.0,0.0,HOME_TEAM,,Paul Tierney,Liverpool
+2024-02-01_West,436154,2023,22,2024-02-01,FINISHED,West Ham United FC,563,Bournemouth,1044,1.0,1.0,0.0,1.0,DRAW,,Tim Robinson,West
+2024-02-01_Wolverhampton,436160,2023,22,2024-02-01,FINISHED,Wolverhampton Wanderers FC,76,Manchester United FC,66,3.0,4.0,0.0,2.0,AWAY_TEAM,,Jarred Gillett,Wolverhampton
+2024-02-03_Everton,436169,2023,23,2024-02-03,FINISHED,Everton FC,62,Tottenham Hotspur FC,73,2.0,2.0,1.0,2.0,DRAW,,Michael Oliver,Everton
+2024-02-03_Brighton,436166,2023,23,2024-02-03,FINISHED,Brighton & Hove Albion FC,397,Crystal Palace FC,354,4.0,1.0,3.0,0.0,HOME_TEAM,,Simon Hooper,Brighton
+2024-02-03_Burnley,436167,2023,23,2024-02-03,FINISHED,Burnley FC,328,Fulham FC,63,2.0,2.0,0.0,2.0,DRAW,,Darren Bond,Burnley
+2024-02-03_Newcastle,436171,2023,23,2024-02-03,FINISHED,Newcastle United FC,67,Luton Town FC,389,4.0,4.0,2.0,2.0,DRAW,,Thomas Bramall,Newcastle
+2024-02-03_Sheffield,436172,2023,23,2024-02-03,FINISHED,Sheffield United FC,356,Aston Villa FC,58,0.0,5.0,0.0,4.0,AWAY_TEAM,,Paul Tierney,Sheffield
+2024-02-04_Bournemouth,436163,2023,23,2024-02-04,FINISHED,Bournemouth,1044,Nottingham Forest FC,351,1.0,1.0,1.0,1.0,DRAW,,Rebecca Welch,Bournemouth
+2024-02-04_Chelsea,436168,2023,23,2024-02-04,FINISHED,Chelsea FC,61,Wolverhampton Wanderers FC,76,2.0,4.0,1.0,2.0,AWAY_TEAM,,Tim Robinson,Chelsea
+2024-02-04_Manchester,436170,2023,23,2024-02-04,FINISHED,Manchester United FC,66,West Ham United FC,563,3.0,0.0,1.0,0.0,HOME_TEAM,,Andy Madley,Manchester
+2024-02-04_Arsenal,436164,2023,23,2024-02-04,FINISHED,Arsenal FC,57,Liverpool FC,64,3.0,1.0,1.0,1.0,HOME_TEAM,,Anthony Taylor,Arsenal
+2024-02-05_Brentford,436165,2023,23,2024-02-05,FINISHED,Brentford FC,402,Manchester City FC,65,1.0,3.0,1.0,1.0,AWAY_TEAM,,Jarred Gillett,Brentford
+2024-02-10_Manchester,436178,2023,24,2024-02-10,FINISHED,Manchester City FC,65,Everton FC,62,2.0,0.0,0.0,0.0,HOME_TEAM,,John Brooks,Manchester
+2024-02-10_Fulham,436175,2023,24,2024-02-10,FINISHED,Fulham FC,63,Bournemouth,1044,3.0,1.0,2.0,0.0,HOME_TEAM,,Darren England,Fulham
+2024-02-10_Liverpool,436176,2023,24,2024-02-10,FINISHED,Liverpool FC,64,Burnley FC,328,3.0,1.0,1.0,1.0,HOME_TEAM,,Tim Robinson,Liverpool
+2024-02-10_Luton,436177,2023,24,2024-02-10,FINISHED,Luton Town FC,389,Sheffield United FC,356,1.0,3.0,0.0,2.0,AWAY_TEAM,,Chris Kavanagh,Luton
+2024-02-10_Tottenham,436180,2023,24,2024-02-10,FINISHED,Tottenham Hotspur FC,73,Brighton & Hove Albion FC,397,2.0,1.0,0.0,1.0,HOME_TEAM,,Sam Barrott,Tottenham
+2024-02-10_Wolverhampton,436182,2023,24,2024-02-10,FINISHED,Wolverhampton Wanderers FC,76,Brentford FC,402,0.0,2.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Wolverhampton
+2024-02-10_Nottingham,436179,2023,24,2024-02-10,FINISHED,Nottingham Forest FC,351,Newcastle United FC,67,2.0,3.0,2.0,2.0,AWAY_TEAM,,Anthony Taylor,Nottingham
+2024-02-11_West,436181,2023,24,2024-02-11,FINISHED,West Ham United FC,563,Arsenal FC,57,0.0,6.0,0.0,4.0,AWAY_TEAM,,Craig Pawson,West
+2024-02-11_Aston,436173,2023,24,2024-02-11,FINISHED,Aston Villa FC,58,Manchester United FC,66,1.0,2.0,0.0,1.0,AWAY_TEAM,,Robert Jones,Aston
+2024-02-12_Crystal,436174,2023,24,2024-02-12,FINISHED,Crystal Palace FC,354,Chelsea FC,61,1.0,3.0,1.0,0.0,AWAY_TEAM,,Michael Oliver,Crystal
+2024-02-17_Brentford,436183,2023,25,2024-02-17,FINISHED,Brentford FC,402,Liverpool FC,64,1.0,4.0,0.0,1.0,AWAY_TEAM,,Michael Oliver,Brentford
+2024-02-17_Burnley,436184,2023,25,2024-02-17,FINISHED,Burnley FC,328,Arsenal FC,57,0.0,5.0,0.0,2.0,AWAY_TEAM,,Jarred Gillett,Burnley
+2024-02-17_Fulham,436186,2023,25,2024-02-17,FINISHED,Fulham FC,63,Aston Villa FC,58,1.0,2.0,0.0,1.0,AWAY_TEAM,,Lewis Smith,Fulham
+2024-02-17_Newcastle,436189,2023,25,2024-02-17,FINISHED,Newcastle United FC,67,Bournemouth,1044,2.0,2.0,0.0,0.0,DRAW,,Michael Salisbury,Newcastle
+2024-02-17_Nottingham,436190,2023,25,2024-02-17,FINISHED,Nottingham Forest FC,351,West Ham United FC,563,2.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Nottingham
+2024-02-17_Tottenham,436192,2023,25,2024-02-17,FINISHED,Tottenham Hotspur FC,73,Wolverhampton Wanderers FC,76,1.0,2.0,0.0,1.0,AWAY_TEAM,,Anthony Taylor,Tottenham
+2024-02-17_Manchester,436188,2023,25,2024-02-17,FINISHED,Manchester City FC,65,Chelsea FC,61,1.0,1.0,0.0,1.0,DRAW,,Andy Madley,Manchester
+2024-02-18_Sheffield,436191,2023,25,2024-02-18,FINISHED,Sheffield United FC,356,Brighton & Hove Albion FC,397,0.0,5.0,0.0,2.0,AWAY_TEAM,,Stuart Attwell,Sheffield
+2024-02-18_Luton,436187,2023,25,2024-02-18,FINISHED,Luton Town FC,389,Manchester United FC,66,1.0,2.0,1.0,2.0,AWAY_TEAM,,David Coote,Luton
+2024-02-19_Everton,436185,2023,25,2024-02-19,FINISHED,Everton FC,62,Crystal Palace FC,354,1.0,1.0,0.0,0.0,DRAW,,Paul Tierney,Everton
+2024-02-20_Manchester,436118,2023,18,2024-02-20,FINISHED,Manchester City FC,65,Brentford FC,402,1.0,0.0,0.0,0.0,HOME_TEAM,,Darren England,Manchester
+2024-02-21_Liverpool,436199,2023,26,2024-02-21,FINISHED,Liverpool FC,64,Luton Town FC,389,4.0,1.0,0.0,1.0,HOME_TEAM,,Andy Madley,Liverpool
+2024-02-24_Aston,436195,2023,26,2024-02-24,FINISHED,Aston Villa FC,58,Nottingham Forest FC,351,4.0,2.0,3.0,1.0,HOME_TEAM,,Sam Barrott,Aston
+2024-02-24_Brighton,436196,2023,26,2024-02-24,FINISHED,Brighton & Hove Albion FC,397,Everton FC,62,1.0,1.0,0.0,0.0,DRAW,,Tony Harrington,Brighton
+2024-02-24_Crystal,436198,2023,26,2024-02-24,FINISHED,Crystal Palace FC,354,Burnley FC,328,3.0,0.0,0.0,0.0,HOME_TEAM,,Lewis Smith,Crystal
+2024-02-24_Manchester,436200,2023,26,2024-02-24,FINISHED,Manchester United FC,66,Fulham FC,63,1.0,2.0,0.0,0.0,AWAY_TEAM,,Michael Oliver,Manchester
+2024-02-24_Bournemouth,436193,2023,26,2024-02-24,FINISHED,Bournemouth,1044,Manchester City FC,65,0.0,1.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Bournemouth
+2024-02-24_Arsenal,436194,2023,26,2024-02-24,FINISHED,Arsenal FC,57,Newcastle United FC,67,4.0,1.0,2.0,0.0,HOME_TEAM,,Paul Tierney,Arsenal
+2024-02-25_Wolverhampton,436202,2023,26,2024-02-25,FINISHED,Wolverhampton Wanderers FC,76,Sheffield United FC,356,1.0,0.0,1.0,0.0,HOME_TEAM,,Darren Bond,Wolverhampton
+2024-02-26_West,436201,2023,26,2024-02-26,FINISHED,West Ham United FC,563,Brentford FC,402,4.0,2.0,2.0,1.0,HOME_TEAM,,Simon Hooper,West
+2024-03-02_Brentford,436203,2023,27,2024-03-02,FINISHED,Brentford FC,402,Chelsea FC,61,2.0,2.0,0.0,1.0,DRAW,,Jarred Gillett,Brentford
+2024-03-02_Everton,436205,2023,27,2024-03-02,FINISHED,Everton FC,62,West Ham United FC,563,1.0,3.0,0.0,0.0,AWAY_TEAM,,Craig Pawson,Everton
+2024-03-02_Fulham,436206,2023,27,2024-03-02,FINISHED,Fulham FC,63,Brighton & Hove Albion FC,397,3.0,0.0,2.0,0.0,HOME_TEAM,,Simon Hooper,Fulham
+2024-03-02_Newcastle,436209,2023,27,2024-03-02,FINISHED,Newcastle United FC,67,Wolverhampton Wanderers FC,76,3.0,0.0,2.0,0.0,HOME_TEAM,,Tim Robinson,Newcastle
+2024-03-02_Nottingham,436210,2023,27,2024-03-02,FINISHED,Nottingham Forest FC,351,Liverpool FC,64,0.0,1.0,0.0,0.0,AWAY_TEAM,,Paul Tierney,Nottingham
+2024-03-02_Tottenham,436212,2023,27,2024-03-02,FINISHED,Tottenham Hotspur FC,73,Crystal Palace FC,354,3.0,1.0,0.0,0.0,HOME_TEAM,,John Brooks,Tottenham
+2024-03-02_Luton,436207,2023,27,2024-03-02,FINISHED,Luton Town FC,389,Aston Villa FC,58,2.0,3.0,0.0,2.0,AWAY_TEAM,,Michael Oliver,Luton
+2024-03-03_Burnley,436204,2023,27,2024-03-03,FINISHED,Burnley FC,328,Bournemouth,1044,0.0,2.0,0.0,1.0,AWAY_TEAM,,David Coote,Burnley
+2024-03-03_Manchester,436208,2023,27,2024-03-03,FINISHED,Manchester City FC,65,Manchester United FC,66,3.0,1.0,0.0,1.0,HOME_TEAM,,Andy Madley,Manchester
+2024-03-04_Sheffield,436211,2023,27,2024-03-04,FINISHED,Sheffield United FC,356,Arsenal FC,57,0.0,6.0,0.0,5.0,AWAY_TEAM,,Sam Barrott,Sheffield
+2024-03-09_Manchester,436220,2023,28,2024-03-09,FINISHED,Manchester United FC,66,Everton FC,62,2.0,0.0,2.0,0.0,HOME_TEAM,,Simon Hooper,Manchester
+2024-03-09_Bournemouth,436213,2023,28,2024-03-09,FINISHED,Bournemouth,1044,Sheffield United FC,356,2.0,2.0,0.0,1.0,DRAW,,Anthony Taylor,Bournemouth
+2024-03-09_Crystal,436218,2023,28,2024-03-09,FINISHED,Crystal Palace FC,354,Luton Town FC,389,1.0,1.0,1.0,0.0,DRAW,,Sunny Gill,Crystal
+2024-03-09_Wolverhampton,436222,2023,28,2024-03-09,FINISHED,Wolverhampton Wanderers FC,76,Fulham FC,63,2.0,1.0,0.0,0.0,HOME_TEAM,,Tony Harrington,Wolverhampton
+2024-03-09_Arsenal,436214,2023,28,2024-03-09,FINISHED,Arsenal FC,57,Brentford FC,402,2.0,1.0,1.0,1.0,HOME_TEAM,,Robert Jones,Arsenal
+2024-03-10_Aston,436215,2023,28,2024-03-10,FINISHED,Aston Villa FC,58,Tottenham Hotspur FC,73,0.0,4.0,0.0,0.0,AWAY_TEAM,,Chris Kavanagh,Aston
+2024-03-10_Brighton,436216,2023,28,2024-03-10,FINISHED,Brighton & Hove Albion FC,397,Nottingham Forest FC,351,1.0,0.0,1.0,0.0,HOME_TEAM,,Michael Salisbury,Brighton
+2024-03-10_West,436221,2023,28,2024-03-10,FINISHED,West Ham United FC,563,Burnley FC,328,2.0,2.0,0.0,2.0,DRAW,,Darren England,West
+2024-03-10_Liverpool,436219,2023,28,2024-03-10,FINISHED,Liverpool FC,64,Manchester City FC,65,1.0,1.0,0.0,1.0,DRAW,,Michael Oliver,Liverpool
+2024-03-11_Chelsea,436217,2023,28,2024-03-11,FINISHED,Chelsea FC,61,Newcastle United FC,67,3.0,2.0,1.0,1.0,HOME_TEAM,,John Brooks,Chelsea
+2024-03-13_Bournemouth,436103,2023,17,2024-03-13,FINISHED,Bournemouth,1044,Luton Town FC,389,4.0,3.0,0.0,3.0,HOME_TEAM,,Samuel Allison,Bournemouth
+2024-03-16_Burnley,436225,2023,29,2024-03-16,FINISHED,Burnley FC,328,Brentford FC,402,2.0,1.0,1.0,0.0,HOME_TEAM,,Darren Bond,Burnley
+2024-03-16_Luton,436229,2023,29,2024-03-16,FINISHED,Luton Town FC,389,Nottingham Forest FC,351,1.0,1.0,0.0,1.0,DRAW,,Darren England,Luton
+2024-03-16_Fulham,436228,2023,29,2024-03-16,FINISHED,Fulham FC,63,Tottenham Hotspur FC,73,3.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Fulham
+2024-03-17_West,436231,2023,29,2024-03-17,FINISHED,West Ham United FC,563,Aston Villa FC,58,1.0,1.0,1.0,0.0,DRAW,,Jarred Gillett,West
+2024-03-30_Newcastle,436239,2023,30,2024-03-30,FINISHED,Newcastle United FC,67,West Ham United FC,563,4.0,3.0,1.0,2.0,HOME_TEAM,,Robert Jones,Newcastle
+2024-03-30_Bournemouth,436233,2023,30,2024-03-30,FINISHED,Bournemouth,1044,Everton FC,62,2.0,1.0,0.0,0.0,HOME_TEAM,,Sam Barrott,Bournemouth
+2024-03-30_Chelsea,436236,2023,30,2024-03-30,FINISHED,Chelsea FC,61,Burnley FC,328,2.0,2.0,1.0,0.0,DRAW,,Darren England,Chelsea
+2024-03-30_Nottingham,436240,2023,30,2024-03-30,FINISHED,Nottingham Forest FC,351,Crystal Palace FC,354,1.0,1.0,0.0,1.0,DRAW,,Chris Kavanagh,Nottingham
+2024-03-30_Sheffield,436241,2023,30,2024-03-30,FINISHED,Sheffield United FC,356,Fulham FC,63,3.0,3.0,0.0,0.0,DRAW,,Tim Robinson,Sheffield
+2024-03-30_Tottenham,436242,2023,30,2024-03-30,FINISHED,Tottenham Hotspur FC,73,Luton Town FC,389,2.0,1.0,0.0,1.0,HOME_TEAM,,Jarred Gillett,Tottenham
+2024-03-30_Aston,436234,2023,30,2024-03-30,FINISHED,Aston Villa FC,58,Wolverhampton Wanderers FC,76,2.0,0.0,1.0,0.0,HOME_TEAM,,Paul Tierney,Aston
+2024-03-30_Brentford,436235,2023,30,2024-03-30,FINISHED,Brentford FC,402,Manchester United FC,66,1.0,1.0,0.0,0.0,DRAW,,Simon Hooper,Brentford
+2024-03-31_Liverpool,436237,2023,30,2024-03-31,FINISHED,Liverpool FC,64,Brighton & Hove Albion FC,397,2.0,1.0,1.0,1.0,HOME_TEAM,,David Coote,Liverpool
+2024-03-31_Manchester,436238,2023,30,2024-03-31,FINISHED,Manchester City FC,65,Arsenal FC,57,0.0,0.0,0.0,0.0,DRAW,,Anthony Taylor,Manchester
+2024-04-02_Nottingham,436247,2023,31,2024-04-02,FINISHED,Nottingham Forest FC,351,Fulham FC,63,3.0,1.0,3.0,0.0,HOME_TEAM,,Michael Oliver,Nottingham
+2024-04-02_Newcastle,436250,2023,31,2024-04-02,FINISHED,Newcastle United FC,67,Everton FC,62,1.0,1.0,1.0,0.0,DRAW,,Tony Harrington,Newcastle
+2024-04-02_Bournemouth,436243,2023,31,2024-04-02,FINISHED,Bournemouth,1044,Crystal Palace FC,354,1.0,0.0,0.0,0.0,HOME_TEAM,,Graham Scott,Bournemouth
+2024-04-02_Burnley,436246,2023,31,2024-04-02,FINISHED,Burnley FC,328,Wolverhampton Wanderers FC,76,1.0,1.0,1.0,1.0,DRAW,,Thomas Bramall,Burnley
+2024-04-02_West,436248,2023,31,2024-04-02,FINISHED,West Ham United FC,563,Tottenham Hotspur FC,73,1.0,1.0,1.0,1.0,DRAW,,John Brooks,West
+2024-04-03_Arsenal,436244,2023,31,2024-04-03,FINISHED,Arsenal FC,57,Luton Town FC,389,2.0,0.0,2.0,0.0,HOME_TEAM,,Craig Pawson,Arsenal
+2024-04-03_Brentford,436245,2023,31,2024-04-03,FINISHED,Brentford FC,402,Brighton & Hove Albion FC,397,0.0,0.0,0.0,0.0,DRAW,,Bobby Madley,Brentford
+2024-04-03_Manchester,436252,2023,31,2024-04-03,FINISHED,Manchester City FC,65,Aston Villa FC,58,4.0,1.0,2.0,1.0,HOME_TEAM,,Darren England,Manchester
+2024-04-04_Liverpool,436251,2023,31,2024-04-04,FINISHED,Liverpool FC,64,Sheffield United FC,356,3.0,1.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Liverpool
+2024-04-04_Chelsea,436249,2023,31,2024-04-04,FINISHED,Chelsea FC,61,Manchester United FC,66,4.0,3.0,2.0,2.0,HOME_TEAM,,Jarred Gillett,Chelsea
+2024-04-06_Crystal,436255,2023,32,2024-04-06,FINISHED,Crystal Palace FC,354,Manchester City FC,65,2.0,4.0,1.0,1.0,AWAY_TEAM,,Paul Tierney,Crystal
+2024-04-06_Aston,436253,2023,32,2024-04-06,FINISHED,Aston Villa FC,58,Brentford FC,402,3.0,3.0,1.0,0.0,DRAW,,Michael Salisbury,Aston
+2024-04-06_Everton,436256,2023,32,2024-04-06,FINISHED,Everton FC,62,Burnley FC,328,1.0,0.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Everton
+2024-04-06_Fulham,436257,2023,32,2024-04-06,FINISHED,Fulham FC,63,Newcastle United FC,67,0.0,1.0,0.0,0.0,AWAY_TEAM,,Samuel Allison,Fulham
+2024-04-06_Luton,436258,2023,32,2024-04-06,FINISHED,Luton Town FC,389,Bournemouth,1044,2.0,1.0,0.0,0.0,HOME_TEAM,,Andy Madley,Luton
+2024-04-06_Wolverhampton,436262,2023,32,2024-04-06,FINISHED,Wolverhampton Wanderers FC,76,West Ham United FC,563,1.0,2.0,1.0,0.0,AWAY_TEAM,,Tony Harrington,Wolverhampton
+2024-04-06_Brighton,436254,2023,32,2024-04-06,FINISHED,Brighton & Hove Albion FC,397,Arsenal FC,57,0.0,3.0,0.0,1.0,AWAY_TEAM,,John Brooks,Brighton
+2024-04-07_Manchester,436259,2023,32,2024-04-07,FINISHED,Manchester United FC,66,Liverpool FC,64,2.0,2.0,0.0,1.0,DRAW,,Anthony Taylor,Manchester
+2024-04-07_Sheffield,436260,2023,32,2024-04-07,FINISHED,Sheffield United FC,356,Chelsea FC,61,2.0,2.0,1.0,1.0,DRAW,,Robert Jones,Sheffield
+2024-04-07_Tottenham,436261,2023,32,2024-04-07,FINISHED,Tottenham Hotspur FC,73,Nottingham Forest FC,351,3.0,1.0,1.0,1.0,HOME_TEAM,,Simon Hooper,Tottenham
+2024-04-13_Newcastle,436270,2023,33,2024-04-13,FINISHED,Newcastle United FC,67,Tottenham Hotspur FC,73,4.0,0.0,2.0,0.0,HOME_TEAM,,Tim Robinson,Newcastle
+2024-04-13_Brentford,436265,2023,33,2024-04-13,FINISHED,Brentford FC,402,Sheffield United FC,356,2.0,0.0,0.0,0.0,HOME_TEAM,,Sam Barrott,Brentford
+2024-04-13_Burnley,436266,2023,33,2024-04-13,FINISHED,Burnley FC,328,Brighton & Hove Albion FC,397,1.0,1.0,0.0,0.0,DRAW,,Simon Hooper,Burnley
+2024-04-13_Manchester,436269,2023,33,2024-04-13,FINISHED,Manchester City FC,65,Luton Town FC,389,5.0,1.0,1.0,0.0,HOME_TEAM,,John Brooks,Manchester
+2024-04-13_Nottingham,436271,2023,33,2024-04-13,FINISHED,Nottingham Forest FC,351,Wolverhampton Wanderers FC,76,2.0,2.0,1.0,1.0,DRAW,,Craig Pawson,Nottingham
+2024-04-13_Bournemouth,436263,2023,33,2024-04-13,FINISHED,Bournemouth,1044,Manchester United FC,66,2.0,2.0,2.0,1.0,DRAW,,Tony Harrington,Bournemouth
+2024-04-14_Liverpool,436268,2023,33,2024-04-14,FINISHED,Liverpool FC,64,Crystal Palace FC,354,0.0,1.0,0.0,1.0,AWAY_TEAM,,Chris Kavanagh,Liverpool
+2024-04-14_West,436272,2023,33,2024-04-14,FINISHED,West Ham United FC,563,Fulham FC,63,0.0,2.0,0.0,1.0,AWAY_TEAM,,Stuart Attwell,West
+2024-04-14_Arsenal,436264,2023,33,2024-04-14,FINISHED,Arsenal FC,57,Aston Villa FC,58,0.0,2.0,0.0,0.0,AWAY_TEAM,,David Coote,Arsenal
+2024-04-15_Chelsea,436267,2023,33,2024-04-15,FINISHED,Chelsea FC,61,Everton FC,62,6.0,0.0,4.0,0.0,HOME_TEAM,,Paul Tierney,Chelsea
+2024-04-20_Luton,436278,2023,34,2024-04-20,FINISHED,Luton Town FC,389,Brentford FC,402,1.0,5.0,0.0,2.0,AWAY_TEAM,,Jarred Gillett,Luton
+2024-04-20_Sheffield,436280,2023,34,2024-04-20,FINISHED,Sheffield United FC,356,Burnley FC,328,1.0,4.0,0.0,2.0,AWAY_TEAM,,Andy Madley,Sheffield
+2024-04-20_Wolverhampton,436282,2023,34,2024-04-20,FINISHED,Wolverhampton Wanderers FC,76,Arsenal FC,57,0.0,2.0,0.0,1.0,AWAY_TEAM,,Paul Tierney,Wolverhampton
+2024-04-21_Everton,436276,2023,34,2024-04-21,FINISHED,Everton FC,62,Nottingham Forest FC,351,2.0,0.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Everton
+2024-04-21_Aston,436273,2023,34,2024-04-21,FINISHED,Aston Villa FC,58,Bournemouth,1044,3.0,1.0,1.0,1.0,HOME_TEAM,,Tim Robinson,Aston
+2024-04-21_Crystal,436275,2023,34,2024-04-21,FINISHED,Crystal Palace FC,354,West Ham United FC,563,5.0,2.0,4.0,1.0,HOME_TEAM,,Graham Scott,Crystal
+2024-04-21_Fulham,436277,2023,34,2024-04-21,FINISHED,Fulham FC,63,Liverpool FC,64,1.0,3.0,1.0,1.0,AWAY_TEAM,,Craig Pawson,Fulham
+2024-04-23_Arsenal,436223,2023,29,2024-04-23,FINISHED,Arsenal FC,57,Chelsea FC,61,5.0,0.0,1.0,0.0,HOME_TEAM,,Simon Hooper,Arsenal
+2024-04-24_Wolverhampton,436232,2023,29,2024-04-24,FINISHED,Wolverhampton Wanderers FC,76,Bournemouth,1044,0.0,1.0,0.0,1.0,AWAY_TEAM,,Stuart Attwell,Wolverhampton
+2024-04-24_Crystal,436226,2023,29,2024-04-24,FINISHED,Crystal Palace FC,354,Newcastle United FC,67,2.0,0.0,0.0,0.0,HOME_TEAM,,Thomas Bramall,Crystal
+2024-04-24_Everton,436227,2023,29,2024-04-24,FINISHED,Everton FC,62,Liverpool FC,64,2.0,0.0,1.0,0.0,HOME_TEAM,,Andy Madley,Everton
+2024-04-24_Manchester,436230,2023,29,2024-04-24,FINISHED,Manchester United FC,66,Sheffield United FC,356,4.0,2.0,1.0,1.0,HOME_TEAM,,Michael Salisbury,Manchester
+2024-04-25_Brighton,436224,2023,29,2024-04-25,FINISHED,Brighton & Hove Albion FC,397,Manchester City FC,65,0.0,4.0,0.0,3.0,AWAY_TEAM,,Jarred Gillett,Brighton
+2024-04-27_West,436291,2023,35,2024-04-27,FINISHED,West Ham United FC,563,Liverpool FC,64,2.0,2.0,1.0,0.0,DRAW,,Anthony Taylor,West
+2024-04-27_Fulham,436286,2023,35,2024-04-27,FINISHED,Fulham FC,63,Crystal Palace FC,354,1.0,1.0,0.0,0.0,DRAW,,Stuart Attwell,Fulham
+2024-04-27_Manchester,436287,2023,35,2024-04-27,FINISHED,Manchester United FC,66,Burnley FC,328,1.0,1.0,0.0,0.0,DRAW,,John Brooks,Manchester
+2024-04-27_Newcastle,436288,2023,35,2024-04-27,FINISHED,Newcastle United FC,67,Sheffield United FC,356,5.0,1.0,1.0,1.0,HOME_TEAM,,Tony Harrington,Newcastle
+2024-04-27_Wolverhampton,436292,2023,35,2024-04-27,FINISHED,Wolverhampton Wanderers FC,76,Luton Town FC,389,2.0,1.0,1.0,0.0,HOME_TEAM,,David Coote,Wolverhampton
+2024-04-27_Everton,436285,2023,35,2024-04-27,FINISHED,Everton FC,62,Brentford FC,402,1.0,0.0,0.0,0.0,HOME_TEAM,,Darren England,Everton
+2024-04-27_Aston,436284,2023,35,2024-04-27,FINISHED,Aston Villa FC,58,Chelsea FC,61,2.0,2.0,2.0,0.0,DRAW,,Craig Pawson,Aston
+2024-04-28_Bournemouth,436283,2023,35,2024-04-28,FINISHED,Bournemouth,1044,Brighton & Hove Albion FC,397,3.0,0.0,1.0,0.0,HOME_TEAM,,Paul Tierney,Bournemouth
+2024-04-28_Tottenham,436290,2023,35,2024-04-28,FINISHED,Tottenham Hotspur FC,73,Arsenal FC,57,2.0,3.0,0.0,3.0,AWAY_TEAM,,Michael Oliver,Tottenham
+2024-04-28_Nottingham,436289,2023,35,2024-04-28,FINISHED,Nottingham Forest FC,351,Manchester City FC,65,0.0,2.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Nottingham
+2024-05-02_Chelsea,436197,2023,26,2024-05-02,FINISHED,Chelsea FC,61,Tottenham Hotspur FC,73,2.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Chelsea
+2024-05-03_Luton,436300,2023,36,2024-05-03,FINISHED,Luton Town FC,389,Everton FC,62,1.0,1.0,1.0,1.0,DRAW,,Tim Robinson,Luton
+2024-05-04_Arsenal,436293,2023,36,2024-05-04,FINISHED,Arsenal FC,57,Bournemouth,1044,3.0,0.0,1.0,0.0,HOME_TEAM,,David Coote,Arsenal
+2024-05-04_Brentford,436294,2023,36,2024-05-04,FINISHED,Brentford FC,402,Fulham FC,63,0.0,0.0,0.0,0.0,DRAW,,Graham Scott,Brentford
+2024-05-04_Burnley,436296,2023,36,2024-05-04,FINISHED,Burnley FC,328,Newcastle United FC,67,1.0,4.0,0.0,3.0,AWAY_TEAM,,Anthony Taylor,Burnley
+2024-05-04_Sheffield,436302,2023,36,2024-05-04,FINISHED,Sheffield United FC,356,Nottingham Forest FC,351,1.0,3.0,1.0,1.0,AWAY_TEAM,,Chris Kavanagh,Sheffield
+2024-05-04_Manchester,436301,2023,36,2024-05-04,FINISHED,Manchester City FC,65,Wolverhampton Wanderers FC,76,5.0,1.0,3.0,0.0,HOME_TEAM,,Craig Pawson,Manchester
+2024-05-05_Brighton,436295,2023,36,2024-05-05,FINISHED,Brighton & Hove Albion FC,397,Aston Villa FC,58,1.0,0.0,0.0,0.0,HOME_TEAM,,Robert Jones,Brighton
+2024-05-05_Chelsea,436297,2023,36,2024-05-05,FINISHED,Chelsea FC,61,West Ham United FC,563,5.0,0.0,3.0,0.0,HOME_TEAM,,Bobby Madley,Chelsea
+2024-05-05_Liverpool,436299,2023,36,2024-05-05,FINISHED,Liverpool FC,64,Tottenham Hotspur FC,73,4.0,2.0,2.0,0.0,HOME_TEAM,,Paul Tierney,Liverpool
+2024-05-06_Crystal,436298,2023,36,2024-05-06,FINISHED,Crystal Palace FC,354,Manchester United FC,66,4.0,0.0,2.0,0.0,HOME_TEAM,,Jarred Gillett,Crystal
+2024-05-11_Fulham,436306,2023,37,2024-05-11,FINISHED,Fulham FC,63,Manchester City FC,65,0.0,4.0,0.0,1.0,AWAY_TEAM,,Anthony Taylor,Fulham
+2024-05-11_Bournemouth,436303,2023,37,2024-05-11,FINISHED,Bournemouth,1044,Brentford FC,402,1.0,2.0,0.0,0.0,AWAY_TEAM,,Matt Donohue,Bournemouth
+2024-05-11_Everton,436305,2023,37,2024-05-11,FINISHED,Everton FC,62,Sheffield United FC,356,1.0,0.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Everton
+2024-05-11_Newcastle,436308,2023,37,2024-05-11,FINISHED,Newcastle United FC,67,Brighton & Hove Albion FC,397,1.0,1.0,1.0,1.0,DRAW,,Darren England,Newcastle
+2024-05-11_Tottenham,436310,2023,37,2024-05-11,FINISHED,Tottenham Hotspur FC,73,Burnley FC,328,2.0,1.0,1.0,1.0,HOME_TEAM,,Jarred Gillett,Tottenham
+2024-05-11_West,436311,2023,37,2024-05-11,FINISHED,West Ham United FC,563,Luton Town FC,389,3.0,1.0,0.0,1.0,HOME_TEAM,,Michael Oliver,West
+2024-05-11_Wolverhampton,436312,2023,37,2024-05-11,FINISHED,Wolverhampton Wanderers FC,76,Crystal Palace FC,354,1.0,3.0,0.0,2.0,AWAY_TEAM,,Thomas Bramall,Wolverhampton
+2024-05-11_Nottingham,436309,2023,37,2024-05-11,FINISHED,Nottingham Forest FC,351,Chelsea FC,61,2.0,3.0,1.0,1.0,AWAY_TEAM,,Tony Harrington,Nottingham
+2024-05-12_Manchester,436307,2023,37,2024-05-12,FINISHED,Manchester United FC,66,Arsenal FC,57,0.0,1.0,0.0,1.0,AWAY_TEAM,,Paul Tierney,Manchester
+2024-05-13_Aston,436304,2023,37,2024-05-13,FINISHED,Aston Villa FC,58,Liverpool FC,64,3.0,3.0,1.0,2.0,DRAW,,Simon Hooper,Aston
+2024-05-14_Tottenham,436281,2023,34,2024-05-14,FINISHED,Tottenham Hotspur FC,73,Manchester City FC,65,0.0,2.0,0.0,0.0,AWAY_TEAM,,Chris Kavanagh,Tottenham
+2024-05-15_Brighton,436274,2023,34,2024-05-15,FINISHED,Brighton & Hove Albion FC,397,Chelsea FC,61,1.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Salisbury,Brighton
+2024-05-15_Manchester,436279,2023,34,2024-05-15,FINISHED,Manchester United FC,66,Newcastle United FC,67,3.0,2.0,1.0,0.0,HOME_TEAM,,Robert Jones,Manchester
+2024-05-19_Arsenal,436313,2023,38,2024-05-19,FINISHED,Arsenal FC,57,Everton FC,62,2.0,1.0,1.0,1.0,HOME_TEAM,,Michael Oliver,Arsenal
+2024-05-19_Brentford,436314,2023,38,2024-05-19,FINISHED,Brentford FC,402,Newcastle United FC,67,2.0,4.0,0.0,3.0,AWAY_TEAM,,Simon Hooper,Brentford
+2024-05-19_Brighton,436315,2023,38,2024-05-19,FINISHED,Brighton & Hove Albion FC,397,Manchester United FC,66,0.0,2.0,0.0,0.0,AWAY_TEAM,,Craig Pawson,Brighton
+2024-05-19_Burnley,436316,2023,38,2024-05-19,FINISHED,Burnley FC,328,Nottingham Forest FC,351,1.0,2.0,0.0,2.0,AWAY_TEAM,,Graham Scott,Burnley
+2024-05-19_Chelsea,436317,2023,38,2024-05-19,FINISHED,Chelsea FC,61,Bournemouth,1044,2.0,1.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Chelsea
+2024-05-19_Crystal,436318,2023,38,2024-05-19,FINISHED,Crystal Palace FC,354,Aston Villa FC,58,5.0,0.0,2.0,0.0,HOME_TEAM,,Darren Bond,Crystal
+2024-05-19_Liverpool,436319,2023,38,2024-05-19,FINISHED,Liverpool FC,64,Wolverhampton Wanderers FC,76,2.0,0.0,2.0,0.0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2024-05-19_Luton,436320,2023,38,2024-05-19,FINISHED,Luton Town FC,389,Fulham FC,63,2.0,4.0,1.0,2.0,AWAY_TEAM,,Matt Donohue,Luton
+2024-05-19_Manchester,436321,2023,38,2024-05-19,FINISHED,Manchester City FC,65,West Ham United FC,563,3.0,1.0,2.0,1.0,HOME_TEAM,,John Brooks,Manchester
+2024-05-19_Sheffield,436322,2023,38,2024-05-19,FINISHED,Sheffield United FC,356,Tottenham Hotspur FC,73,0.0,3.0,0.0,1.0,AWAY_TEAM,,Bobby Madley,Sheffield
+2024-08-16_Manchester,497410,2024,1,2024-08-16,FINISHED,Manchester United FC,66,Fulham FC,63,1.0,0.0,0.0,0.0,HOME_TEAM,,Robert Jones,Manchester
+2024-08-17_Ipswich,497411,2024,1,2024-08-17,FINISHED,Ipswich Town FC,349,Liverpool FC,64,0.0,2.0,0.0,0.0,AWAY_TEAM,,Tim Robinson,Ipswich
+2024-08-17_Arsenal,497412,2024,1,2024-08-17,FINISHED,Arsenal FC,57,Wolverhampton Wanderers FC,76,2.0,0.0,1.0,0.0,HOME_TEAM,,Jarred Gillett,Arsenal
+2024-08-17_Everton,497413,2024,1,2024-08-17,FINISHED,Everton FC,62,Brighton & Hove Albion FC,397,0.0,3.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Everton
+2024-08-17_Newcastle,497414,2024,1,2024-08-17,FINISHED,Newcastle United FC,67,Southampton FC,340,1.0,0.0,1.0,0.0,HOME_TEAM,,Craig Pawson,Newcastle
+2024-08-17_Nottingham,497415,2024,1,2024-08-17,FINISHED,Nottingham Forest FC,351,Bournemouth,1044,1.0,1.0,1.0,0.0,DRAW,,Michael Oliver,Nottingham
+2024-08-17_West,497416,2024,1,2024-08-17,FINISHED,West Ham United FC,563,Aston Villa FC,58,1.0,2.0,1.0,1.0,AWAY_TEAM,,Tony Harrington,West
+2024-08-18_Brentford,497417,2024,1,2024-08-18,FINISHED,Brentford FC,402,Crystal Palace FC,354,2.0,1.0,1.0,0.0,HOME_TEAM,,Sam Barrott,Brentford
+2024-08-18_Chelsea,497418,2024,1,2024-08-18,FINISHED,Chelsea FC,61,Manchester City FC,65,0.0,2.0,0.0,1.0,AWAY_TEAM,,Anthony Taylor,Chelsea
+2024-08-19_Leicester,497419,2024,1,2024-08-19,FINISHED,Leicester City FC,338,Tottenham Hotspur FC,73,1.0,1.0,0.0,1.0,DRAW,,Chris Kavanagh,Leicester
+2024-08-24_Brighton,497422,2024,2,2024-08-24,FINISHED,Brighton & Hove Albion FC,397,Manchester United FC,66,2.0,1.0,1.0,0.0,HOME_TEAM,,Craig Pawson,Brighton
+2024-08-24_Crystal,497423,2024,2,2024-08-24,FINISHED,Crystal Palace FC,354,West Ham United FC,563,0.0,2.0,0.0,0.0,AWAY_TEAM,,Robert Jones,Crystal
+2024-08-24_Fulham,497424,2024,2,2024-08-24,FINISHED,Fulham FC,63,Leicester City FC,338,2.0,1.0,1.0,1.0,HOME_TEAM,,Darren Bond,Fulham
+2024-08-24_Manchester,497426,2024,2,2024-08-24,FINISHED,Manchester City FC,65,Ipswich Town FC,349,4.0,1.0,3.0,1.0,HOME_TEAM,,Michael Salisbury,Manchester
+2024-08-24_Southampton,497427,2024,2,2024-08-24,FINISHED,Southampton FC,340,Nottingham Forest FC,351,0.0,1.0,0.0,0.0,AWAY_TEAM,,Sam Barrott,Southampton
+2024-08-24_Tottenham,497428,2024,2,2024-08-24,FINISHED,Tottenham Hotspur FC,73,Everton FC,62,4.0,0.0,2.0,0.0,HOME_TEAM,,Anthony Taylor,Tottenham
+2024-08-24_Aston,497421,2024,2,2024-08-24,FINISHED,Aston Villa FC,58,Arsenal FC,57,0.0,2.0,0.0,0.0,AWAY_TEAM,,Michael Oliver,Aston
+2024-08-25_Bournemouth,497420,2024,2,2024-08-25,FINISHED,Bournemouth,1044,Newcastle United FC,67,1.0,1.0,1.0,0.0,DRAW,,David Coote,Bournemouth
+2024-08-25_Wolverhampton,497429,2024,2,2024-08-25,FINISHED,Wolverhampton Wanderers FC,76,Chelsea FC,61,2.0,6.0,2.0,2.0,AWAY_TEAM,,Darren England,Wolverhampton
+2024-08-25_Liverpool,497425,2024,2,2024-08-25,FINISHED,Liverpool FC,64,Brentford FC,402,2.0,0.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Liverpool
+2024-08-31_Arsenal,497430,2024,3,2024-08-31,FINISHED,Arsenal FC,57,Brighton & Hove Albion FC,397,1.0,1.0,1.0,0.0,DRAW,,Chris Kavanagh,Arsenal
+2024-08-31_Brentford,497431,2024,3,2024-08-31,FINISHED,Brentford FC,402,Southampton FC,340,3.0,1.0,1.0,0.0,HOME_TEAM,,Joshua Smith,Brentford
+2024-08-31_Everton,497433,2024,3,2024-08-31,FINISHED,Everton FC,62,Bournemouth,1044,2.0,3.0,0.0,0.0,AWAY_TEAM,,Stuart Attwell,Everton
+2024-08-31_Ipswich,497434,2024,3,2024-08-31,FINISHED,Ipswich Town FC,349,Fulham FC,63,1.0,1.0,1.0,1.0,DRAW,,Lewis Smith,Ipswich
+2024-08-31_Leicester,497435,2024,3,2024-08-31,FINISHED,Leicester City FC,338,Aston Villa FC,58,1.0,2.0,0.0,1.0,AWAY_TEAM,,David Coote,Leicester
+2024-08-31_Nottingham,497438,2024,3,2024-08-31,FINISHED,Nottingham Forest FC,351,Wolverhampton Wanderers FC,76,1.0,1.0,1.0,1.0,DRAW,,Simon Hooper,Nottingham
+2024-08-31_West,497439,2024,3,2024-08-31,FINISHED,West Ham United FC,563,Manchester City FC,65,1.0,3.0,1.0,2.0,AWAY_TEAM,,Michael Oliver,West
+2024-09-01_Chelsea,497432,2024,3,2024-09-01,FINISHED,Chelsea FC,61,Crystal Palace FC,354,1.0,1.0,1.0,0.0,DRAW,,Jarred Gillett,Chelsea
+2024-09-01_Newcastle,497437,2024,3,2024-09-01,FINISHED,Newcastle United FC,67,Tottenham Hotspur FC,73,2.0,1.0,1.0,0.0,HOME_TEAM,,Robert Jones,Newcastle
+2024-09-01_Manchester,497436,2024,3,2024-09-01,FINISHED,Manchester United FC,66,Liverpool FC,64,0.0,3.0,0.0,2.0,AWAY_TEAM,,Anthony Taylor,Manchester
+2024-09-14_Southampton,497447,2024,4,2024-09-14,FINISHED,Southampton FC,340,Manchester United FC,66,0.0,3.0,0.0,2.0,AWAY_TEAM,,Stuart Attwell,Southampton
+2024-09-14_Brighton,497442,2024,4,2024-09-14,FINISHED,Brighton & Hove Albion FC,397,Ipswich Town FC,349,0.0,0.0,0.0,0.0,DRAW,,Sam Barrott,Brighton
+2024-09-14_Crystal,497443,2024,4,2024-09-14,FINISHED,Crystal Palace FC,354,Leicester City FC,338,2.0,2.0,0.0,1.0,DRAW,,Tony Harrington,Crystal
+2024-09-14_Fulham,497444,2024,4,2024-09-14,FINISHED,Fulham FC,63,West Ham United FC,563,1.0,1.0,1.0,0.0,DRAW,,Tim Robinson,Fulham
+2024-09-14_Liverpool,497445,2024,4,2024-09-14,FINISHED,Liverpool FC,64,Nottingham Forest FC,351,0.0,1.0,0.0,0.0,AWAY_TEAM,,Michael Oliver,Liverpool
+2024-09-14_Manchester,497446,2024,4,2024-09-14,FINISHED,Manchester City FC,65,Brentford FC,402,2.0,1.0,2.0,1.0,HOME_TEAM,,Darren Bond,Manchester
+2024-09-14_Aston,497441,2024,4,2024-09-14,FINISHED,Aston Villa FC,58,Everton FC,62,3.0,2.0,1.0,2.0,HOME_TEAM,,Craig Pawson,Aston
+2024-09-14_Bournemouth,497440,2024,4,2024-09-14,FINISHED,Bournemouth,1044,Chelsea FC,61,0.0,1.0,0.0,0.0,AWAY_TEAM,,Anthony Taylor,Bournemouth
+2024-09-15_Tottenham,497448,2024,4,2024-09-15,FINISHED,Tottenham Hotspur FC,73,Arsenal FC,57,0.0,1.0,0.0,0.0,AWAY_TEAM,,Jarred Gillett,Tottenham
+2024-09-15_Wolverhampton,497449,2024,4,2024-09-15,FINISHED,Wolverhampton Wanderers FC,76,Newcastle United FC,67,1.0,2.0,1.0,0.0,AWAY_TEAM,,Chris Kavanagh,Wolverhampton
+2024-09-21_West,497459,2024,5,2024-09-21,FINISHED,West Ham United FC,563,Chelsea FC,61,0.0,3.0,0.0,2.0,AWAY_TEAM,,Sam Barrott,West
+2024-09-21_Aston,497450,2024,5,2024-09-21,FINISHED,Aston Villa FC,58,Wolverhampton Wanderers FC,76,3.0,1.0,0.0,1.0,HOME_TEAM,,Tim Robinson,Aston
+2024-09-21_Fulham,497453,2024,5,2024-09-21,FINISHED,Fulham FC,63,Newcastle United FC,67,3.0,1.0,2.0,0.0,HOME_TEAM,,Peter Bankes,Fulham
+2024-09-21_Leicester,497454,2024,5,2024-09-21,FINISHED,Leicester City FC,338,Everton FC,62,1.0,1.0,0.0,1.0,DRAW,,Darren England,Leicester
+2024-09-21_Liverpool,497455,2024,5,2024-09-21,FINISHED,Liverpool FC,64,Bournemouth,1044,3.0,0.0,3.0,0.0,HOME_TEAM,,Tony Harrington,Liverpool
+2024-09-21_Southampton,497457,2024,5,2024-09-21,FINISHED,Southampton FC,340,Ipswich Town FC,349,1.0,1.0,1.0,0.0,DRAW,,Samuel Allison,Southampton
+2024-09-21_Tottenham,497458,2024,5,2024-09-21,FINISHED,Tottenham Hotspur FC,73,Brentford FC,402,3.0,1.0,2.0,1.0,HOME_TEAM,,John Brooks,Tottenham
+2024-09-21_Crystal,497452,2024,5,2024-09-21,FINISHED,Crystal Palace FC,354,Manchester United FC,66,0.0,0.0,0.0,0.0,DRAW,,David Coote,Crystal
+2024-09-22_Brighton,497451,2024,5,2024-09-22,FINISHED,Brighton & Hove Albion FC,397,Nottingham Forest FC,351,2.0,2.0,2.0,1.0,DRAW,,Robert Jones,Brighton
+2024-09-22_Manchester,497456,2024,5,2024-09-22,FINISHED,Manchester City FC,65,Arsenal FC,57,2.0,2.0,1.0,2.0,DRAW,,Michael Oliver,Manchester
+2024-09-28_Newcastle,497467,2024,6,2024-09-28,FINISHED,Newcastle United FC,67,Manchester City FC,65,1.0,1.0,0.0,1.0,DRAW,,Jarred Gillett,Newcastle
+2024-09-28_Arsenal,497461,2024,6,2024-09-28,FINISHED,Arsenal FC,57,Leicester City FC,338,4.0,2.0,2.0,0.0,HOME_TEAM,,Sam Barrott,Arsenal
+2024-09-28_Brentford,497462,2024,6,2024-09-28,FINISHED,Brentford FC,402,West Ham United FC,563,1.0,1.0,1.0,0.0,DRAW,,Simon Hooper,Brentford
+2024-09-28_Chelsea,497463,2024,6,2024-09-28,FINISHED,Chelsea FC,61,Brighton & Hove Albion FC,397,4.0,2.0,4.0,2.0,HOME_TEAM,,Peter Bankes,Chelsea
+2024-09-28_Everton,497464,2024,6,2024-09-28,FINISHED,Everton FC,62,Crystal Palace FC,354,2.0,1.0,0.0,1.0,HOME_TEAM,,Andy Madley,Everton
+2024-09-28_Nottingham,497468,2024,6,2024-09-28,FINISHED,Nottingham Forest FC,351,Fulham FC,63,0.0,1.0,0.0,0.0,AWAY_TEAM,,Joshua Smith,Nottingham
+2024-09-28_Wolverhampton,497469,2024,6,2024-09-28,FINISHED,Wolverhampton Wanderers FC,76,Liverpool FC,64,1.0,2.0,0.0,1.0,AWAY_TEAM,,Anthony Taylor,Wolverhampton
+2024-09-29_Ipswich,497465,2024,6,2024-09-29,FINISHED,Ipswich Town FC,349,Aston Villa FC,58,2.0,2.0,1.0,2.0,DRAW,,Stuart Attwell,Ipswich
+2024-09-29_Manchester,497466,2024,6,2024-09-29,FINISHED,Manchester United FC,66,Tottenham Hotspur FC,73,0.0,3.0,0.0,1.0,AWAY_TEAM,,Chris Kavanagh,Manchester
+2024-09-30_Bournemouth,497460,2024,6,2024-09-30,FINISHED,Bournemouth,1044,Southampton FC,340,3.0,1.0,3.0,0.0,HOME_TEAM,,Michael Oliver,Bournemouth
+2024-10-05_Crystal,497475,2024,7,2024-10-05,FINISHED,Crystal Palace FC,354,Liverpool FC,64,0.0,1.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Crystal
+2024-10-05_Arsenal,497470,2024,7,2024-10-05,FINISHED,Arsenal FC,57,Southampton FC,340,3.0,1.0,0.0,0.0,HOME_TEAM,,Tony Harrington,Arsenal
+2024-10-05_Brentford,497472,2024,7,2024-10-05,FINISHED,Brentford FC,402,Wolverhampton Wanderers FC,76,5.0,3.0,4.0,2.0,HOME_TEAM,,Andy Madley,Brentford
+2024-10-05_Leicester,497477,2024,7,2024-10-05,FINISHED,Leicester City FC,338,Bournemouth,1044,1.0,0.0,1.0,0.0,HOME_TEAM,,Darren Bond,Leicester
+2024-10-05_Manchester,497478,2024,7,2024-10-05,FINISHED,Manchester City FC,65,Fulham FC,63,3.0,2.0,1.0,1.0,HOME_TEAM,,Peter Bankes,Manchester
+2024-10-05_West,497479,2024,7,2024-10-05,FINISHED,West Ham United FC,563,Ipswich Town FC,349,4.0,1.0,2.0,1.0,HOME_TEAM,,Anthony Taylor,West
+2024-10-05_Everton,497476,2024,7,2024-10-05,FINISHED,Everton FC,62,Newcastle United FC,67,0.0,0.0,0.0,0.0,DRAW,,Craig Pawson,Everton
+2024-10-06_Aston,497471,2024,7,2024-10-06,FINISHED,Aston Villa FC,58,Manchester United FC,66,0.0,0.0,0.0,0.0,DRAW,,Robert Jones,Aston
+2024-10-06_Chelsea,497474,2024,7,2024-10-06,FINISHED,Chelsea FC,61,Nottingham Forest FC,351,1.0,1.0,0.0,0.0,DRAW,,Chris Kavanagh,Chelsea
+2024-10-06_Brighton,497473,2024,7,2024-10-06,FINISHED,Brighton & Hove Albion FC,397,Tottenham Hotspur FC,73,3.0,2.0,0.0,2.0,HOME_TEAM,,David Coote,Brighton
+2024-10-19_Tottenham,497488,2024,8,2024-10-19,FINISHED,Tottenham Hotspur FC,73,West Ham United FC,563,4.0,1.0,1.0,1.0,HOME_TEAM,,Andy Madley,Tottenham
+2024-10-19_Fulham,497481,2024,8,2024-10-19,FINISHED,Fulham FC,63,Aston Villa FC,58,1.0,3.0,1.0,1.0,AWAY_TEAM,,Darren England,Fulham
+2024-10-19_Ipswich,497482,2024,8,2024-10-19,FINISHED,Ipswich Town FC,349,Everton FC,62,0.0,2.0,0.0,2.0,AWAY_TEAM,,Michael Oliver,Ipswich
+2024-10-19_Manchester,497484,2024,8,2024-10-19,FINISHED,Manchester United FC,66,Brentford FC,402,2.0,1.0,0.0,1.0,HOME_TEAM,,Sam Barrott,Manchester
+2024-10-19_Newcastle,497485,2024,8,2024-10-19,FINISHED,Newcastle United FC,67,Brighton & Hove Albion FC,397,0.0,1.0,0.0,1.0,AWAY_TEAM,,Peter Bankes,Newcastle
+2024-10-19_Southampton,497487,2024,8,2024-10-19,FINISHED,Southampton FC,340,Leicester City FC,338,2.0,3.0,2.0,0.0,AWAY_TEAM,,Anthony Taylor,Southampton
+2024-10-19_Bournemouth,497480,2024,8,2024-10-19,FINISHED,Bournemouth,1044,Arsenal FC,57,2.0,0.0,0.0,0.0,HOME_TEAM,,Robert Jones,Bournemouth
+2024-10-20_Wolverhampton,497489,2024,8,2024-10-20,FINISHED,Wolverhampton Wanderers FC,76,Manchester City FC,65,1.0,2.0,1.0,1.0,AWAY_TEAM,,Chris Kavanagh,Wolverhampton
+2024-10-20_Liverpool,497483,2024,8,2024-10-20,FINISHED,Liverpool FC,64,Chelsea FC,61,2.0,1.0,1.0,0.0,HOME_TEAM,,John Brooks,Liverpool
+2024-10-21_Nottingham,497486,2024,8,2024-10-21,FINISHED,Nottingham Forest FC,351,Crystal Palace FC,354,1.0,0.0,0.0,0.0,HOME_TEAM,,Tim Robinson,Nottingham
+2024-10-25_Leicester,497497,2024,9,2024-10-25,FINISHED,Leicester City FC,338,Nottingham Forest FC,351,1.0,3.0,1.0,1.0,AWAY_TEAM,,Craig Pawson,Leicester
+2024-10-26_Aston,497491,2024,9,2024-10-26,FINISHED,Aston Villa FC,58,Bournemouth,1044,1.0,1.0,0.0,0.0,DRAW,,Andy Madley,Aston
+2024-10-26_Brentford,497492,2024,9,2024-10-26,FINISHED,Brentford FC,402,Ipswich Town FC,349,4.0,3.0,2.0,2.0,HOME_TEAM,,Lewis Smith,Brentford
+2024-10-26_Brighton,497493,2024,9,2024-10-26,FINISHED,Brighton & Hove Albion FC,397,Wolverhampton Wanderers FC,76,2.0,2.0,1.0,0.0,DRAW,,Michael Oliver,Brighton
+2024-10-26_Manchester,497498,2024,9,2024-10-26,FINISHED,Manchester City FC,65,Southampton FC,340,1.0,0.0,1.0,0.0,HOME_TEAM,,Tony Harrington,Manchester
+2024-10-26_Everton,497496,2024,9,2024-10-26,FINISHED,Everton FC,62,Fulham FC,63,1.0,1.0,0.0,0.0,DRAW,,John Brooks,Everton
+2024-10-27_Chelsea,497494,2024,9,2024-10-27,FINISHED,Chelsea FC,61,Newcastle United FC,67,2.0,1.0,1.0,1.0,HOME_TEAM,,Simon Hooper,Chelsea
+2024-10-27_Crystal,497495,2024,9,2024-10-27,FINISHED,Crystal Palace FC,354,Tottenham Hotspur FC,73,1.0,0.0,1.0,0.0,HOME_TEAM,,Darren Bond,Crystal
+2024-10-27_West,497499,2024,9,2024-10-27,FINISHED,West Ham United FC,563,Manchester United FC,66,2.0,1.0,0.0,0.0,HOME_TEAM,,David Coote,West
+2024-10-27_Arsenal,497490,2024,9,2024-10-27,FINISHED,Arsenal FC,57,Liverpool FC,64,2.0,2.0,2.0,1.0,DRAW,,Anthony Taylor,Arsenal
+2024-11-02_Newcastle,497505,2024,10,2024-11-02,FINISHED,Newcastle United FC,67,Arsenal FC,57,1.0,0.0,1.0,0.0,HOME_TEAM,,John Brooks,Newcastle
+2024-11-02_Bournemouth,497500,2024,10,2024-11-02,FINISHED,Bournemouth,1044,Manchester City FC,65,2.0,1.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Bournemouth
+2024-11-02_Ipswich,497502,2024,10,2024-11-02,FINISHED,Ipswich Town FC,349,Leicester City FC,338,1.0,1.0,0.0,0.0,DRAW,,Tim Robinson,Ipswich
+2024-11-02_Liverpool,497503,2024,10,2024-11-02,FINISHED,Liverpool FC,64,Brighton & Hove Albion FC,397,2.0,1.0,0.0,1.0,HOME_TEAM,,Tony Harrington,Liverpool
+2024-11-02_Nottingham,497506,2024,10,2024-11-02,FINISHED,Nottingham Forest FC,351,West Ham United FC,563,3.0,0.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Nottingham
+2024-11-02_Southampton,497507,2024,10,2024-11-02,FINISHED,Southampton FC,340,Everton FC,62,1.0,0.0,0.0,0.0,HOME_TEAM,,Andy Madley,Southampton
+2024-11-02_Wolverhampton,497509,2024,10,2024-11-02,FINISHED,Wolverhampton Wanderers FC,76,Crystal Palace FC,354,2.0,2.0,0.0,0.0,DRAW,,Anthony Taylor,Wolverhampton
+2024-11-03_Tottenham,497508,2024,10,2024-11-03,FINISHED,Tottenham Hotspur FC,73,Aston Villa FC,58,4.0,1.0,0.0,1.0,HOME_TEAM,,Craig Pawson,Tottenham
+2024-11-03_Manchester,497504,2024,10,2024-11-03,FINISHED,Manchester United FC,66,Chelsea FC,61,1.0,1.0,0.0,0.0,DRAW,,Robert Jones,Manchester
+2024-11-04_Fulham,497501,2024,10,2024-11-04,FINISHED,Fulham FC,63,Brentford FC,402,2.0,1.0,0.0,1.0,HOME_TEAM,,Stuart Attwell,Fulham
+2024-11-09_Brentford,497510,2024,11,2024-11-09,FINISHED,Brentford FC,402,Bournemouth,1044,3.0,2.0,1.0,1.0,HOME_TEAM,,Darren Bond,Brentford
+2024-11-09_Crystal,497513,2024,11,2024-11-09,FINISHED,Crystal Palace FC,354,Fulham FC,63,0.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Salisbury,Crystal
+2024-11-09_West,497518,2024,11,2024-11-09,FINISHED,West Ham United FC,563,Everton FC,62,0.0,0.0,0.0,0.0,DRAW,,Stuart Attwell,West
+2024-11-09_Wolverhampton,497519,2024,11,2024-11-09,FINISHED,Wolverhampton Wanderers FC,76,Southampton FC,340,2.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Wolverhampton
+2024-11-09_Brighton,497511,2024,11,2024-11-09,FINISHED,Brighton & Hove Albion FC,397,Manchester City FC,65,2.0,1.0,0.0,1.0,HOME_TEAM,,Sam Barrott,Brighton
+2024-11-09_Liverpool,497514,2024,11,2024-11-09,FINISHED,Liverpool FC,64,Aston Villa FC,58,2.0,0.0,1.0,0.0,HOME_TEAM,,David Coote,Liverpool
+2024-11-10_Manchester,497515,2024,11,2024-11-10,FINISHED,Manchester United FC,66,Leicester City FC,338,3.0,0.0,2.0,0.0,HOME_TEAM,,Peter Bankes,Manchester
+2024-11-10_Nottingham,497516,2024,11,2024-11-10,FINISHED,Nottingham Forest FC,351,Newcastle United FC,67,1.0,3.0,1.0,0.0,AWAY_TEAM,,Anthony Taylor,Nottingham
+2024-11-10_Tottenham,497517,2024,11,2024-11-10,FINISHED,Tottenham Hotspur FC,73,Ipswich Town FC,349,1.0,2.0,0.0,2.0,AWAY_TEAM,,Darren England,Tottenham
+2024-11-10_Chelsea,497512,2024,11,2024-11-10,FINISHED,Chelsea FC,61,Arsenal FC,57,1.0,1.0,0.0,0.0,DRAW,,Michael Oliver,Chelsea
+2024-11-23_Leicester,497526,2024,12,2024-11-23,FINISHED,Leicester City FC,338,Chelsea FC,61,1.0,2.0,0.0,1.0,AWAY_TEAM,,Andy Madley,Leicester
+2024-11-23_Bournemouth,497520,2024,12,2024-11-23,FINISHED,Bournemouth,1044,Brighton & Hove Albion FC,397,1.0,2.0,0.0,1.0,AWAY_TEAM,,Stuart Attwell,Bournemouth
+2024-11-23_Arsenal,497521,2024,12,2024-11-23,FINISHED,Arsenal FC,57,Nottingham Forest FC,351,3.0,0.0,1.0,0.0,HOME_TEAM,,Simon Hooper,Arsenal
+2024-11-23_Aston,497522,2024,12,2024-11-23,FINISHED,Aston Villa FC,58,Crystal Palace FC,354,2.0,2.0,1.0,2.0,DRAW,,Tim Robinson,Aston
+2024-11-23_Everton,497523,2024,12,2024-11-23,FINISHED,Everton FC,62,Brentford FC,402,0.0,0.0,0.0,0.0,DRAW,,Chris Kavanagh,Everton
+2024-11-23_Fulham,497524,2024,12,2024-11-23,FINISHED,Fulham FC,63,Wolverhampton Wanderers FC,76,1.0,4.0,1.0,1.0,AWAY_TEAM,,Robert Jones,Fulham
+2024-11-23_Manchester,497527,2024,12,2024-11-23,FINISHED,Manchester City FC,65,Tottenham Hotspur FC,73,0.0,4.0,0.0,2.0,AWAY_TEAM,,John Brooks,Manchester
+2024-11-24_Southampton,497529,2024,12,2024-11-24,FINISHED,Southampton FC,340,Liverpool FC,64,2.0,3.0,1.0,1.0,AWAY_TEAM,,Sam Barrott,Southampton
+2024-11-24_Ipswich,497525,2024,12,2024-11-24,FINISHED,Ipswich Town FC,349,Manchester United FC,66,1.0,1.0,1.0,1.0,DRAW,,Anthony Taylor,Ipswich
+2024-11-25_Newcastle,497528,2024,12,2024-11-25,FINISHED,Newcastle United FC,67,West Ham United FC,563,0.0,2.0,0.0,1.0,AWAY_TEAM,,Craig Pawson,Newcastle
+2024-11-29_Brighton,497531,2024,13,2024-11-29,FINISHED,Brighton & Hove Albion FC,397,Southampton FC,340,1.0,1.0,1.0,0.0,DRAW,,Robert Jones,Brighton
+2024-11-30_Brentford,497530,2024,13,2024-11-30,FINISHED,Brentford FC,402,Leicester City FC,338,4.0,1.0,3.0,1.0,HOME_TEAM,,Michael Oliver,Brentford
+2024-11-30_Crystal,497533,2024,13,2024-11-30,FINISHED,Crystal Palace FC,354,Newcastle United FC,67,1.0,1.0,0.0,0.0,DRAW,,Darren England,Crystal
+2024-11-30_Nottingham,497536,2024,13,2024-11-30,FINISHED,Nottingham Forest FC,351,Ipswich Town FC,349,1.0,0.0,0.0,0.0,HOME_TEAM,,Tony Harrington,Nottingham
+2024-11-30_Wolverhampton,497539,2024,13,2024-11-30,FINISHED,Wolverhampton Wanderers FC,76,Bournemouth,1044,2.0,4.0,1.0,3.0,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2024-11-30_West,497538,2024,13,2024-11-30,FINISHED,West Ham United FC,563,Arsenal FC,57,2.0,5.0,2.0,5.0,AWAY_TEAM,,Anthony Taylor,West
+2024-12-01_Chelsea,497532,2024,13,2024-12-01,FINISHED,Chelsea FC,61,Aston Villa FC,58,3.0,0.0,2.0,0.0,HOME_TEAM,,Stuart Attwell,Chelsea
+2024-12-01_Manchester,497535,2024,13,2024-12-01,FINISHED,Manchester United FC,66,Everton FC,62,4.0,0.0,2.0,0.0,HOME_TEAM,,John Brooks,Manchester
+2024-12-01_Tottenham,497537,2024,13,2024-12-01,FINISHED,Tottenham Hotspur FC,73,Fulham FC,63,1.0,1.0,0.0,0.0,DRAW,,Darren Bond,Tottenham
+2024-12-01_Liverpool,497534,2024,13,2024-12-01,FINISHED,Liverpool FC,64,Manchester City FC,65,2.0,0.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2024-12-03_Ipswich,497545,2024,14,2024-12-03,FINISHED,Ipswich Town FC,349,Crystal Palace FC,354,0.0,1.0,0.0,0.0,AWAY_TEAM,,Craig Pawson,Ipswich
+2024-12-03_Leicester,497546,2024,14,2024-12-03,FINISHED,Leicester City FC,338,West Ham United FC,563,3.0,1.0,1.0,0.0,HOME_TEAM,,Joshua Smith,Leicester
+2024-12-04_Everton,497543,2024,14,2024-12-04,FINISHED,Everton FC,62,Wolverhampton Wanderers FC,76,4.0,0.0,2.0,0.0,HOME_TEAM,,Michael Salisbury,Everton
+2024-12-04_Manchester,497547,2024,14,2024-12-04,FINISHED,Manchester City FC,65,Nottingham Forest FC,351,3.0,0.0,2.0,0.0,HOME_TEAM,,Michael Oliver,Manchester
+2024-12-04_Newcastle,497548,2024,14,2024-12-04,FINISHED,Newcastle United FC,67,Liverpool FC,64,3.0,3.0,1.0,0.0,DRAW,,Andy Madley,Newcastle
+2024-12-04_Southampton,497549,2024,14,2024-12-04,FINISHED,Southampton FC,340,Chelsea FC,61,1.0,5.0,1.0,3.0,AWAY_TEAM,,Tony Harrington,Southampton
+2024-12-04_Arsenal,497541,2024,14,2024-12-04,FINISHED,Arsenal FC,57,Manchester United FC,66,2.0,0.0,0.0,0.0,HOME_TEAM,,Sam Barrott,Arsenal
+2024-12-04_Aston,497542,2024,14,2024-12-04,FINISHED,Aston Villa FC,58,Brentford FC,402,3.0,1.0,3.0,0.0,HOME_TEAM,,Lewis Smith,Aston
+2024-12-05_Fulham,497544,2024,14,2024-12-05,FINISHED,Fulham FC,63,Brighton & Hove Albion FC,397,3.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Fulham
+2024-12-05_Bournemouth,497540,2024,14,2024-12-05,FINISHED,Bournemouth,1044,Tottenham Hotspur FC,73,1.0,0.0,1.0,0.0,HOME_TEAM,,Simon Hooper,Bournemouth
+2024-12-07_Aston,497550,2024,15,2024-12-07,FINISHED,Aston Villa FC,58,Southampton FC,340,1.0,0.0,1.0,0.0,HOME_TEAM,,Darren Bond,Aston
+2024-12-07_Brentford,497551,2024,15,2024-12-07,FINISHED,Brentford FC,402,Newcastle United FC,67,4.0,2.0,2.0,2.0,HOME_TEAM,,Tim Robinson,Brentford
+2024-12-07_Crystal,497552,2024,15,2024-12-07,FINISHED,Crystal Palace FC,354,Manchester City FC,65,2.0,2.0,1.0,1.0,DRAW,,Robert Jones,Crystal
+2024-12-07_Manchester,497557,2024,15,2024-12-07,FINISHED,Manchester United FC,66,Nottingham Forest FC,351,2.0,3.0,1.0,1.0,AWAY_TEAM,,Darren England,Manchester
+2024-12-08_Fulham,497554,2024,15,2024-12-08,FINISHED,Fulham FC,63,Arsenal FC,57,1.0,1.0,1.0,0.0,DRAW,,Chris Kavanagh,Fulham
+2024-12-08_Ipswich,497555,2024,15,2024-12-08,FINISHED,Ipswich Town FC,349,Bournemouth,1044,1.0,2.0,1.0,0.0,AWAY_TEAM,,Michael Salisbury,Ipswich
+2024-12-08_Leicester,497556,2024,15,2024-12-08,FINISHED,Leicester City FC,338,Brighton & Hove Albion FC,397,2.0,2.0,0.0,1.0,DRAW,,Stuart Attwell,Leicester
+2024-12-08_Tottenham,497558,2024,15,2024-12-08,FINISHED,Tottenham Hotspur FC,73,Chelsea FC,61,3.0,4.0,2.0,1.0,AWAY_TEAM,,Anthony Taylor,Tottenham
+2024-12-09_West,497559,2024,15,2024-12-09,FINISHED,West Ham United FC,563,Wolverhampton Wanderers FC,76,2.0,1.0,0.0,0.0,HOME_TEAM,,John Brooks,West
+2024-12-14_Arsenal,497561,2024,16,2024-12-14,FINISHED,Arsenal FC,57,Everton FC,62,0.0,0.0,0.0,0.0,DRAW,,Craig Pawson,Arsenal
+2024-12-14_Liverpool,497564,2024,16,2024-12-14,FINISHED,Liverpool FC,64,Fulham FC,63,2.0,2.0,0.0,1.0,DRAW,,Tony Harrington,Liverpool
+2024-12-14_Newcastle,497566,2024,16,2024-12-14,FINISHED,Newcastle United FC,67,Leicester City FC,338,4.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Newcastle
+2024-12-14_Wolverhampton,497569,2024,16,2024-12-14,FINISHED,Wolverhampton Wanderers FC,76,Ipswich Town FC,349,1.0,2.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Wolverhampton
+2024-12-14_Nottingham,497567,2024,16,2024-12-14,FINISHED,Nottingham Forest FC,351,Aston Villa FC,58,2.0,1.0,0.0,0.0,HOME_TEAM,,Sam Barrott,Nottingham
+2024-12-15_Brighton,497562,2024,16,2024-12-15,FINISHED,Brighton & Hove Albion FC,397,Crystal Palace FC,354,1.0,3.0,0.0,2.0,AWAY_TEAM,,Michael Oliver,Brighton
+2024-12-15_Manchester,497565,2024,16,2024-12-15,FINISHED,Manchester City FC,65,Manchester United FC,66,1.0,2.0,1.0,0.0,AWAY_TEAM,,Anthony Taylor,Manchester
+2024-12-15_Chelsea,497563,2024,16,2024-12-15,FINISHED,Chelsea FC,61,Brentford FC,402,2.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Chelsea
+2024-12-15_Southampton,497568,2024,16,2024-12-15,FINISHED,Southampton FC,340,Tottenham Hotspur FC,73,0.0,5.0,0.0,5.0,AWAY_TEAM,,Darren England,Southampton
+2024-12-16_Bournemouth,497560,2024,16,2024-12-16,FINISHED,Bournemouth,1044,West Ham United FC,563,1.0,1.0,0.0,0.0,DRAW,,Chris Kavanagh,Bournemouth
+2024-12-21_Aston,497570,2024,17,2024-12-21,FINISHED,Aston Villa FC,58,Manchester City FC,65,2.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Aston
+2024-12-21_Brentford,497571,2024,17,2024-12-21,FINISHED,Brentford FC,402,Nottingham Forest FC,351,0.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Oliver,Brentford
+2024-12-21_Ipswich,497575,2024,17,2024-12-21,FINISHED,Ipswich Town FC,349,Newcastle United FC,67,0.0,4.0,0.0,3.0,AWAY_TEAM,,Stuart Attwell,Ipswich
+2024-12-21_West,497579,2024,17,2024-12-21,FINISHED,West Ham United FC,563,Brighton & Hove Albion FC,397,1.0,1.0,0.0,0.0,DRAW,,Robert Jones,West
+2024-12-21_Crystal,497572,2024,17,2024-12-21,FINISHED,Crystal Palace FC,354,Arsenal FC,57,1.0,5.0,1.0,3.0,AWAY_TEAM,,Simon Hooper,Crystal
+2024-12-22_Everton,497573,2024,17,2024-12-22,FINISHED,Everton FC,62,Chelsea FC,61,0.0,0.0,0.0,0.0,DRAW,,Chris Kavanagh,Everton
+2024-12-22_Fulham,497574,2024,17,2024-12-22,FINISHED,Fulham FC,63,Southampton FC,340,0.0,0.0,0.0,0.0,DRAW,,Tim Robinson,Fulham
+2024-12-22_Leicester,497576,2024,17,2024-12-22,FINISHED,Leicester City FC,338,Wolverhampton Wanderers FC,76,0.0,3.0,0.0,3.0,AWAY_TEAM,,Anthony Taylor,Leicester
+2024-12-22_Manchester,497577,2024,17,2024-12-22,FINISHED,Manchester United FC,66,Bournemouth,1044,0.0,3.0,0.0,1.0,AWAY_TEAM,,Craig Pawson,Manchester
+2024-12-22_Tottenham,497578,2024,17,2024-12-22,FINISHED,Tottenham Hotspur FC,73,Liverpool FC,64,3.0,6.0,1.0,3.0,AWAY_TEAM,,Sam Barrott,Tottenham
+2024-12-26_Manchester,497585,2024,18,2024-12-26,FINISHED,Manchester City FC,65,Everton FC,62,1.0,1.0,1.0,1.0,DRAW,,Simon Hooper,Manchester
+2024-12-26_Bournemouth,497580,2024,18,2024-12-26,FINISHED,Bournemouth,1044,Crystal Palace FC,354,0.0,0.0,0.0,0.0,DRAW,,Thomas Bramall,Bournemouth
+2024-12-26_Chelsea,497583,2024,18,2024-12-26,FINISHED,Chelsea FC,61,Fulham FC,63,1.0,2.0,1.0,0.0,AWAY_TEAM,,Sam Barrott,Chelsea
+2024-12-26_Newcastle,497586,2024,18,2024-12-26,FINISHED,Newcastle United FC,67,Aston Villa FC,58,3.0,0.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Newcastle
+2024-12-26_Nottingham,497587,2024,18,2024-12-26,FINISHED,Nottingham Forest FC,351,Tottenham Hotspur FC,73,1.0,0.0,1.0,0.0,HOME_TEAM,,Craig Pawson,Nottingham
+2024-12-26_Southampton,497588,2024,18,2024-12-26,FINISHED,Southampton FC,340,West Ham United FC,563,0.0,1.0,0.0,0.0,AWAY_TEAM,,Lewis Smith,Southampton
+2024-12-26_Wolverhampton,497589,2024,18,2024-12-26,FINISHED,Wolverhampton Wanderers FC,76,Manchester United FC,66,2.0,0.0,0.0,0.0,HOME_TEAM,,Tony Harrington,Wolverhampton
+2024-12-26_Liverpool,497584,2024,18,2024-12-26,FINISHED,Liverpool FC,64,Leicester City FC,338,3.0,1.0,1.0,1.0,HOME_TEAM,,Darren Bond,Liverpool
+2024-12-27_Brighton,497582,2024,18,2024-12-27,FINISHED,Brighton & Hove Albion FC,397,Brentford FC,402,0.0,0.0,0.0,0.0,DRAW,,Andy Madley,Brighton
+2024-12-27_Arsenal,497581,2024,18,2024-12-27,FINISHED,Arsenal FC,57,Ipswich Town FC,349,1.0,0.0,1.0,0.0,HOME_TEAM,,Darren England,Arsenal
+2024-12-29_Leicester,497596,2024,19,2024-12-29,FINISHED,Leicester City FC,338,Manchester City FC,65,0.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Oliver,Leicester
+2024-12-29_Crystal,497592,2024,19,2024-12-29,FINISHED,Crystal Palace FC,354,Southampton FC,340,2.0,1.0,1.0,1.0,HOME_TEAM,,Michael Salisbury,Crystal
+2024-12-29_Everton,497593,2024,19,2024-12-29,FINISHED,Everton FC,62,Nottingham Forest FC,351,0.0,2.0,0.0,1.0,AWAY_TEAM,,Tony Harrington,Everton
+2024-12-29_Fulham,497594,2024,19,2024-12-29,FINISHED,Fulham FC,63,Bournemouth,1044,2.0,2.0,1.0,0.0,DRAW,,Robert Jones,Fulham
+2024-12-29_Tottenham,497598,2024,19,2024-12-29,FINISHED,Tottenham Hotspur FC,73,Wolverhampton Wanderers FC,76,2.0,2.0,2.0,1.0,DRAW,,Chris Kavanagh,Tottenham
+2024-12-29_West,497599,2024,19,2024-12-29,FINISHED,West Ham United FC,563,Liverpool FC,64,0.0,5.0,0.0,3.0,AWAY_TEAM,,Anthony Taylor,West
+2024-12-30_Aston,497590,2024,19,2024-12-30,FINISHED,Aston Villa FC,58,Brighton & Hove Albion FC,397,2.0,2.0,1.0,1.0,DRAW,,Craig Pawson,Aston
+2024-12-30_Ipswich,497595,2024,19,2024-12-30,FINISHED,Ipswich Town FC,349,Chelsea FC,61,2.0,0.0,1.0,0.0,HOME_TEAM,,John Brooks,Ipswich
+2024-12-30_Manchester,497597,2024,19,2024-12-30,FINISHED,Manchester United FC,66,Newcastle United FC,67,0.0,2.0,0.0,2.0,AWAY_TEAM,,Simon Hooper,Manchester
+2025-01-01_Brentford,497591,2024,19,2025-01-01,FINISHED,Brentford FC,402,Arsenal FC,57,1.0,3.0,1.0,1.0,AWAY_TEAM,,Peter Bankes,Brentford
+2025-01-04_Tottenham,497607,2024,20,2025-01-04,FINISHED,Tottenham Hotspur FC,73,Newcastle United FC,67,1.0,2.0,1.0,2.0,AWAY_TEAM,,Andy Madley,Tottenham
+2025-01-04_Southampton,497601,2024,20,2025-01-04,FINISHED,Southampton FC,340,Brentford FC,402,0.0,5.0,0.0,1.0,AWAY_TEAM,,Stuart Attwell,Southampton
+2025-01-04_Crystal,497602,2024,20,2025-01-04,FINISHED,Crystal Palace FC,354,Chelsea FC,61,1.0,1.0,0.0,1.0,DRAW,,Tim Robinson,Crystal
+2025-01-04_Bournemouth,497603,2024,20,2025-01-04,FINISHED,Bournemouth,1044,Everton FC,62,1.0,0.0,0.0,0.0,HOME_TEAM,,John Brooks,Bournemouth
+2025-01-04_Aston,497605,2024,20,2025-01-04,FINISHED,Aston Villa FC,58,Leicester City FC,338,2.0,1.0,0.0,0.0,HOME_TEAM,,Jarred Gillett,Aston
+2025-01-04_Manchester,497609,2024,20,2025-01-04,FINISHED,Manchester City FC,65,West Ham United FC,563,4.0,1.0,2.0,0.0,HOME_TEAM,,Michael Salisbury,Manchester
+2025-01-04_Brighton,497600,2024,20,2025-01-04,FINISHED,Brighton & Hove Albion FC,397,Arsenal FC,57,1.0,1.0,0.0,1.0,DRAW,,Anthony Taylor,Brighton
+2025-01-05_Fulham,497604,2024,20,2025-01-05,FINISHED,Fulham FC,63,Ipswich Town FC,349,2.0,2.0,0.0,1.0,DRAW,,Darren Bond,Fulham
+2025-01-05_Liverpool,497606,2024,20,2025-01-05,FINISHED,Liverpool FC,64,Manchester United FC,66,2.0,2.0,0.0,0.0,DRAW,,Michael Oliver,Liverpool
+2025-01-06_Wolverhampton,497608,2024,20,2025-01-06,FINISHED,Wolverhampton Wanderers FC,76,Nottingham Forest FC,351,0.0,3.0,0.0,2.0,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2025-01-14_West,497613,2024,21,2025-01-14,FINISHED,West Ham United FC,563,Fulham FC,63,3.0,2.0,2.0,0.0,HOME_TEAM,,Craig Pawson,West
+2025-01-14_Brentford,497615,2024,21,2025-01-14,FINISHED,Brentford FC,402,Manchester City FC,65,2.0,2.0,0.0,0.0,DRAW,,Anthony Taylor,Brentford
+2025-01-14_Chelsea,497617,2024,21,2025-01-14,FINISHED,Chelsea FC,61,Bournemouth,1044,2.0,2.0,1.0,0.0,DRAW,,Robert Jones,Chelsea
+2025-01-14_Nottingham,497614,2024,21,2025-01-14,FINISHED,Nottingham Forest FC,351,Liverpool FC,64,1.0,1.0,1.0,0.0,DRAW,,Chris Kavanagh,Nottingham
+2025-01-15_Everton,497610,2024,21,2025-01-15,FINISHED,Everton FC,62,Aston Villa FC,58,0.0,1.0,0.0,0.0,AWAY_TEAM,,Sam Barrott,Everton
+2025-01-15_Leicester,497612,2024,21,2025-01-15,FINISHED,Leicester City FC,338,Crystal Palace FC,354,0.0,2.0,0.0,0.0,AWAY_TEAM,,Andy Madley,Leicester
+2025-01-15_Newcastle,497619,2024,21,2025-01-15,FINISHED,Newcastle United FC,67,Wolverhampton Wanderers FC,76,3.0,0.0,1.0,0.0,HOME_TEAM,,Darren England,Newcastle
+2025-01-15_Arsenal,497616,2024,21,2025-01-15,FINISHED,Arsenal FC,57,Tottenham Hotspur FC,73,2.0,1.0,2.0,1.0,HOME_TEAM,,Simon Hooper,Arsenal
+2025-01-16_Ipswich,497611,2024,21,2025-01-16,FINISHED,Ipswich Town FC,349,Brighton & Hove Albion FC,397,0.0,2.0,0.0,0.0,AWAY_TEAM,,Tony Harrington,Ipswich
+2025-01-16_Manchester,497618,2024,21,2025-01-16,FINISHED,Manchester United FC,66,Southampton FC,340,3.0,1.0,0.0,1.0,HOME_TEAM,,John Brooks,Manchester
+2025-01-18_Newcastle,497620,2024,22,2025-01-18,FINISHED,Newcastle United FC,67,Bournemouth,1044,1.0,4.0,1.0,2.0,AWAY_TEAM,,Stuart Attwell,Newcastle
+2025-01-18_West,497623,2024,22,2025-01-18,FINISHED,West Ham United FC,563,Crystal Palace FC,354,0.0,2.0,0.0,0.0,AWAY_TEAM,,Thomas Bramall,West
+2025-01-18_Leicester,497624,2024,22,2025-01-18,FINISHED,Leicester City FC,338,Fulham FC,63,0.0,2.0,0.0,0.0,AWAY_TEAM,,Michael Salisbury,Leicester
+2025-01-18_Brentford,497625,2024,22,2025-01-18,FINISHED,Brentford FC,402,Liverpool FC,64,0.0,2.0,0.0,0.0,AWAY_TEAM,,Andy Madley,Brentford
+2025-01-18_Arsenal,497621,2024,22,2025-01-18,FINISHED,Arsenal FC,57,Aston Villa FC,58,2.0,2.0,1.0,0.0,DRAW,,Chris Kavanagh,Arsenal
+2025-01-19_Manchester,497622,2024,22,2025-01-19,FINISHED,Manchester United FC,66,Brighton & Hove Albion FC,397,1.0,3.0,1.0,1.0,AWAY_TEAM,,Peter Bankes,Manchester
+2025-01-19_Nottingham,497627,2024,22,2025-01-19,FINISHED,Nottingham Forest FC,351,Southampton FC,340,3.0,2.0,3.0,0.0,HOME_TEAM,,Anthony Taylor,Nottingham
+2025-01-19_Everton,497628,2024,22,2025-01-19,FINISHED,Everton FC,62,Tottenham Hotspur FC,73,3.0,2.0,3.0,0.0,HOME_TEAM,,Darren England,Everton
+2025-01-19_Ipswich,497626,2024,22,2025-01-19,FINISHED,Ipswich Town FC,349,Manchester City FC,65,0.0,6.0,0.0,3.0,AWAY_TEAM,,Sam Barrott,Ipswich
+2025-01-20_Chelsea,497629,2024,22,2025-01-20,FINISHED,Chelsea FC,61,Wolverhampton Wanderers FC,76,3.0,1.0,1.0,1.0,HOME_TEAM,,Simon Hooper,Chelsea
+2025-01-25_Liverpool,497631,2024,23,2025-01-25,FINISHED,Liverpool FC,64,Ipswich Town FC,349,4.0,1.0,3.0,0.0,HOME_TEAM,,Michael Salisbury,Liverpool
+2025-01-25_Wolverhampton,497632,2024,23,2025-01-25,FINISHED,Wolverhampton Wanderers FC,76,Arsenal FC,57,0.0,1.0,0.0,0.0,AWAY_TEAM,,Michael Oliver,Wolverhampton
+2025-01-25_Brighton,497633,2024,23,2025-01-25,FINISHED,Brighton & Hove Albion FC,397,Everton FC,62,0.0,1.0,0.0,1.0,AWAY_TEAM,,Tim Robinson,Brighton
+2025-01-25_Southampton,497634,2024,23,2025-01-25,FINISHED,Southampton FC,340,Newcastle United FC,67,1.0,3.0,1.0,2.0,AWAY_TEAM,,Sam Barrott,Southampton
+2025-01-25_Bournemouth,497635,2024,23,2025-01-25,FINISHED,Bournemouth,1044,Nottingham Forest FC,351,5.0,0.0,1.0,0.0,HOME_TEAM,,Craig Pawson,Bournemouth
+2025-01-25_Manchester,497638,2024,23,2025-01-25,FINISHED,Manchester City FC,65,Chelsea FC,61,3.0,1.0,1.0,1.0,HOME_TEAM,,John Brooks,Manchester
+2025-01-26_Crystal,497637,2024,23,2025-01-26,FINISHED,Crystal Palace FC,354,Brentford FC,402,1.0,2.0,0.0,0.0,AWAY_TEAM,,Tony Harrington,Crystal
+2025-01-26_Tottenham,497639,2024,23,2025-01-26,FINISHED,Tottenham Hotspur FC,73,Leicester City FC,338,1.0,2.0,1.0,0.0,AWAY_TEAM,,Robert Jones,Tottenham
+2025-01-26_Aston,497636,2024,23,2025-01-26,FINISHED,Aston Villa FC,58,West Ham United FC,563,1.0,1.0,1.0,0.0,DRAW,,Peter Bankes,Aston
+2025-01-26_Fulham,497630,2024,23,2025-01-26,FINISHED,Fulham FC,63,Manchester United FC,66,0.0,1.0,0.0,0.0,AWAY_TEAM,,Anthony Taylor,Fulham
+2025-02-01_Nottingham,497641,2024,24,2025-02-01,FINISHED,Nottingham Forest FC,351,Brighton & Hove Albion FC,397,7.0,0.0,3.0,0.0,HOME_TEAM,,Simon Hooper,Nottingham
+2025-02-01_Newcastle,497643,2024,24,2025-02-01,FINISHED,Newcastle United FC,67,Fulham FC,63,1.0,2.0,1.0,0.0,AWAY_TEAM,,Chris Kavanagh,Newcastle
+2025-02-01_Everton,497644,2024,24,2025-02-01,FINISHED,Everton FC,62,Leicester City FC,338,4.0,0.0,3.0,0.0,HOME_TEAM,,Darren Bond,Everton
+2025-02-01_Bournemouth,497645,2024,24,2025-02-01,FINISHED,Bournemouth,1044,Liverpool FC,64,0.0,2.0,0.0,1.0,AWAY_TEAM,,Darren England,Bournemouth
+2025-02-01_Ipswich,497647,2024,24,2025-02-01,FINISHED,Ipswich Town FC,349,Southampton FC,340,1.0,2.0,1.0,1.0,AWAY_TEAM,,Michael Oliver,Ipswich
+2025-02-01_Wolverhampton,497640,2024,24,2025-02-01,FINISHED,Wolverhampton Wanderers FC,76,Aston Villa FC,58,2.0,0.0,1.0,0.0,HOME_TEAM,,Andy Madley,Wolverhampton
+2025-02-02_Manchester,497642,2024,24,2025-02-02,FINISHED,Manchester United FC,66,Crystal Palace FC,354,0.0,2.0,0.0,0.0,AWAY_TEAM,,John Brooks,Manchester
+2025-02-02_Brentford,497648,2024,24,2025-02-02,FINISHED,Brentford FC,402,Tottenham Hotspur FC,73,0.0,2.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Brentford
+2025-02-02_Arsenal,497646,2024,24,2025-02-02,FINISHED,Arsenal FC,57,Manchester City FC,65,5.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Arsenal
+2025-02-03_Chelsea,497649,2024,24,2025-02-03,FINISHED,Chelsea FC,61,West Ham United FC,563,2.0,1.0,0.0,1.0,HOME_TEAM,,Stuart Attwell,Chelsea
+2025-02-12_Everton,497553,2024,15,2025-02-12,FINISHED,Everton FC,62,Liverpool FC,64,2.0,2.0,1.0,1.0,DRAW,,Michael Oliver,Everton
+2025-02-14_Brighton,497653,2024,25,2025-02-14,FINISHED,Brighton & Hove Albion FC,397,Chelsea FC,61,3.0,0.0,2.0,0.0,HOME_TEAM,,Chris Kavanagh,Brighton
+2025-02-15_Leicester,497651,2024,25,2025-02-15,FINISHED,Leicester City FC,338,Arsenal FC,57,0.0,2.0,0.0,0.0,AWAY_TEAM,,Sam Barrott,Leicester
+2025-02-15_Southampton,497650,2024,25,2025-02-15,FINISHED,Southampton FC,340,Bournemouth,1044,1.0,3.0,0.0,2.0,AWAY_TEAM,,Jarred Gillett,Southampton
+2025-02-15_West,497652,2024,25,2025-02-15,FINISHED,West Ham United FC,563,Brentford FC,402,0.0,1.0,0.0,1.0,AWAY_TEAM,,Darren England,West
+2025-02-15_Aston,497655,2024,25,2025-02-15,FINISHED,Aston Villa FC,58,Ipswich Town FC,349,1.0,1.0,0.0,0.0,DRAW,,Robert Jones,Aston
+2025-02-15_Manchester,497657,2024,25,2025-02-15,FINISHED,Manchester City FC,65,Newcastle United FC,67,4.0,0.0,3.0,0.0,HOME_TEAM,,Andy Madley,Manchester
+2025-02-15_Fulham,497658,2024,25,2025-02-15,FINISHED,Fulham FC,63,Nottingham Forest FC,351,2.0,1.0,1.0,1.0,HOME_TEAM,,Thomas Bramall,Fulham
+2025-02-15_Crystal,497654,2024,25,2025-02-15,FINISHED,Crystal Palace FC,354,Everton FC,62,1.0,2.0,0.0,1.0,AWAY_TEAM,,Anthony Taylor,Crystal
+2025-02-16_Liverpool,497659,2024,25,2025-02-16,FINISHED,Liverpool FC,64,Wolverhampton Wanderers FC,76,2.0,1.0,2.0,0.0,HOME_TEAM,,Simon Hooper,Liverpool
+2025-02-16_Tottenham,497656,2024,25,2025-02-16,FINISHED,Tottenham Hotspur FC,73,Manchester United FC,66,1.0,0.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Tottenham
+2025-02-19_Aston,497692,2024,29,2025-02-19,FINISHED,Aston Villa FC,58,Liverpool FC,64,2.0,2.0,2.0,1.0,DRAW,,Craig Pawson,Aston
+2025-02-21_Leicester,497660,2024,26,2025-02-21,FINISHED,Leicester City FC,338,Brentford FC,402,0.0,4.0,0.0,3.0,AWAY_TEAM,,Tony Harrington,Leicester
+2025-02-22_Everton,497665,2024,26,2025-02-22,FINISHED,Everton FC,62,Manchester United FC,66,2.0,2.0,2.0,0.0,DRAW,,Andy Madley,Everton
+2025-02-22_Ipswich,497666,2024,26,2025-02-22,FINISHED,Ipswich Town FC,349,Tottenham Hotspur FC,73,1.0,4.0,1.0,2.0,AWAY_TEAM,,Tim Robinson,Ipswich
+2025-02-22_Fulham,497667,2024,26,2025-02-22,FINISHED,Fulham FC,63,Crystal Palace FC,354,0.0,2.0,0.0,1.0,AWAY_TEAM,,Robert Jones,Fulham
+2025-02-22_Arsenal,497668,2024,26,2025-02-22,FINISHED,Arsenal FC,57,West Ham United FC,563,0.0,1.0,0.0,1.0,AWAY_TEAM,,Craig Pawson,Arsenal
+2025-02-22_Bournemouth,497669,2024,26,2025-02-22,FINISHED,Bournemouth,1044,Wolverhampton Wanderers FC,76,0.0,1.0,0.0,1.0,AWAY_TEAM,,Michael Salisbury,Bournemouth
+2025-02-22_Southampton,497661,2024,26,2025-02-22,FINISHED,Southampton FC,340,Brighton & Hove Albion FC,397,0.0,4.0,0.0,1.0,AWAY_TEAM,,Darren Bond,Southampton
+2025-02-22_Aston,497662,2024,26,2025-02-22,FINISHED,Aston Villa FC,58,Chelsea FC,61,2.0,1.0,0.0,1.0,HOME_TEAM,,Michael Oliver,Aston
+2025-02-23_Newcastle,497663,2024,26,2025-02-23,FINISHED,Newcastle United FC,67,Nottingham Forest FC,351,4.0,3.0,4.0,1.0,HOME_TEAM,,Jarred Gillett,Newcastle
+2025-02-23_Manchester,497664,2024,26,2025-02-23,FINISHED,Manchester City FC,65,Liverpool FC,64,0.0,2.0,0.0,2.0,AWAY_TEAM,,Anthony Taylor,Manchester
+2025-02-25_Brighton,497670,2024,27,2025-02-25,FINISHED,Brighton & Hove Albion FC,397,Bournemouth,1044,2.0,1.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Brighton
+2025-02-25_Crystal,497672,2024,27,2025-02-25,FINISHED,Crystal Palace FC,354,Aston Villa FC,58,4.0,1.0,1.0,0.0,HOME_TEAM,,Sam Barrott,Crystal
+2025-02-25_Wolverhampton,497674,2024,27,2025-02-25,FINISHED,Wolverhampton Wanderers FC,76,Fulham FC,63,1.0,2.0,1.0,1.0,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2025-02-25_Chelsea,497678,2024,27,2025-02-25,FINISHED,Chelsea FC,61,Southampton FC,340,4.0,0.0,3.0,0.0,HOME_TEAM,,Thomas Bramall,Chelsea
+2025-02-26_Nottingham,497671,2024,27,2025-02-26,FINISHED,Nottingham Forest FC,351,Arsenal FC,57,0.0,0.0,0.0,0.0,DRAW,,Andy Madley,Nottingham
+2025-02-26_Brentford,497673,2024,27,2025-02-26,FINISHED,Brentford FC,402,Everton FC,62,1.0,1.0,1.0,0.0,DRAW,,Simon Hooper,Brentford
+2025-02-26_Tottenham,497675,2024,27,2025-02-26,FINISHED,Tottenham Hotspur FC,73,Manchester City FC,65,0.0,1.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Tottenham
+2025-02-26_Manchester,497677,2024,27,2025-02-26,FINISHED,Manchester United FC,66,Ipswich Town FC,349,3.0,2.0,2.0,2.0,HOME_TEAM,,Darren England,Manchester
+2025-02-26_Liverpool,497679,2024,27,2025-02-26,FINISHED,Liverpool FC,64,Newcastle United FC,67,2.0,0.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2025-02-27_West,497676,2024,27,2025-02-27,FINISHED,West Ham United FC,563,Leicester City FC,338,2.0,0.0,2.0,0.0,HOME_TEAM,,Stuart Attwell,West
+2025-03-08_Nottingham,497687,2024,28,2025-03-08,FINISHED,Nottingham Forest FC,351,Manchester City FC,65,1.0,0.0,0.0,0.0,HOME_TEAM,,Chris Kavanagh,Nottingham
+2025-03-08_Brighton,497684,2024,28,2025-03-08,FINISHED,Brighton & Hove Albion FC,397,Fulham FC,63,2.0,1.0,1.0,1.0,HOME_TEAM,,Sam Barrott,Brighton
+2025-03-08_Crystal,497685,2024,28,2025-03-08,FINISHED,Crystal Palace FC,354,Ipswich Town FC,349,1.0,0.0,0.0,0.0,HOME_TEAM,,Simon Hooper,Crystal
+2025-03-08_Liverpool,497688,2024,28,2025-03-08,FINISHED,Liverpool FC,64,Southampton FC,340,3.0,1.0,0.0,1.0,HOME_TEAM,,Lewis Smith,Liverpool
+2025-03-08_Brentford,497682,2024,28,2025-03-08,FINISHED,Brentford FC,402,Aston Villa FC,58,0.0,1.0,0.0,0.0,AWAY_TEAM,,Jarred Gillett,Brentford
+2025-03-08_Wolverhampton,497683,2024,28,2025-03-08,FINISHED,Wolverhampton Wanderers FC,76,Everton FC,62,1.0,1.0,1.0,1.0,DRAW,,Stuart Attwell,Wolverhampton
+2025-03-09_Tottenham,497680,2024,28,2025-03-09,FINISHED,Tottenham Hotspur FC,73,Bournemouth,1044,2.0,2.0,0.0,1.0,DRAW,,John Brooks,Tottenham
+2025-03-09_Chelsea,497689,2024,28,2025-03-09,FINISHED,Chelsea FC,61,Leicester City FC,338,1.0,0.0,0.0,0.0,HOME_TEAM,,Tim Robinson,Chelsea
+2025-03-09_Manchester,497681,2024,28,2025-03-09,FINISHED,Manchester United FC,66,Arsenal FC,57,1.0,1.0,1.0,0.0,DRAW,,Anthony Taylor,Manchester
+2025-03-10_West,497686,2024,28,2025-03-10,FINISHED,West Ham United FC,563,Newcastle United FC,67,0.0,1.0,0.0,0.0,AWAY_TEAM,,Michael Salisbury,West
+2025-03-15_Everton,497693,2024,29,2025-03-15,FINISHED,Everton FC,62,West Ham United FC,563,1.0,1.0,0.0,0.0,DRAW,,Darren Bond,Everton
+2025-03-15_Ipswich,497695,2024,29,2025-03-15,FINISHED,Ipswich Town FC,349,Nottingham Forest FC,351,2.0,4.0,0.0,3.0,AWAY_TEAM,,Michael Salisbury,Ipswich
+2025-03-15_Manchester,497697,2024,29,2025-03-15,FINISHED,Manchester City FC,65,Brighton & Hove Albion FC,397,2.0,2.0,2.0,1.0,DRAW,,Simon Hooper,Manchester
+2025-03-15_Southampton,497699,2024,29,2025-03-15,FINISHED,Southampton FC,340,Wolverhampton Wanderers FC,76,1.0,2.0,0.0,1.0,AWAY_TEAM,,Robert Jones,Southampton
+2025-03-15_Bournemouth,497690,2024,29,2025-03-15,FINISHED,Bournemouth,1044,Brentford FC,402,1.0,2.0,1.0,1.0,AWAY_TEAM,,Craig Pawson,Bournemouth
+2025-03-16_Arsenal,497691,2024,29,2025-03-16,FINISHED,Arsenal FC,57,Chelsea FC,61,1.0,0.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Arsenal
+2025-03-16_Fulham,497694,2024,29,2025-03-16,FINISHED,Fulham FC,63,Tottenham Hotspur FC,73,2.0,0.0,0.0,0.0,HOME_TEAM,,Andy Madley,Fulham
+2025-03-16_Leicester,497696,2024,29,2025-03-16,FINISHED,Leicester City FC,338,Manchester United FC,66,0.0,3.0,0.0,1.0,AWAY_TEAM,,Thomas Bramall,Leicester
+2025-04-01_Arsenal,497701,2024,30,2025-04-01,FINISHED,Arsenal FC,57,Fulham FC,63,2.0,1.0,1.0,0.0,HOME_TEAM,,John Brooks,Arsenal
+2025-04-01_Wolverhampton,497704,2024,30,2025-04-01,FINISHED,Wolverhampton Wanderers FC,76,West Ham United FC,563,1.0,0.0,1.0,0.0,HOME_TEAM,,Tony Harrington,Wolverhampton
+2025-04-01_Nottingham,497703,2024,30,2025-04-01,FINISHED,Nottingham Forest FC,351,Manchester United FC,66,1.0,0.0,1.0,0.0,HOME_TEAM,,Jarred Gillett,Nottingham
+2025-04-02_Bournemouth,497700,2024,30,2025-04-02,FINISHED,Bournemouth,1044,Ipswich Town FC,349,1.0,2.0,0.0,1.0,AWAY_TEAM,,Robert Jones,Bournemouth
+2025-04-02_Brighton,497702,2024,30,2025-04-02,FINISHED,Brighton & Hove Albion FC,397,Aston Villa FC,58,0.0,3.0,0.0,0.0,AWAY_TEAM,,Stuart Attwell,Brighton
+2025-04-02_Manchester,497706,2024,30,2025-04-02,FINISHED,Manchester City FC,65,Leicester City FC,338,2.0,0.0,2.0,0.0,HOME_TEAM,,Darren England,Manchester
+2025-04-02_Newcastle,497707,2024,30,2025-04-02,FINISHED,Newcastle United FC,67,Brentford FC,402,2.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Newcastle
+2025-04-02_Southampton,497708,2024,30,2025-04-02,FINISHED,Southampton FC,340,Crystal Palace FC,354,1.0,1.0,1.0,0.0,DRAW,,Andy Madley,Southampton
+2025-04-02_Liverpool,497709,2024,30,2025-04-02,FINISHED,Liverpool FC,64,Everton FC,62,1.0,0.0,0.0,0.0,HOME_TEAM,,Sam Barrott,Liverpool
+2025-04-03_Chelsea,497705,2024,30,2025-04-03,FINISHED,Chelsea FC,61,Tottenham Hotspur FC,73,1.0,0.0,0.0,0.0,HOME_TEAM,,Craig Pawson,Chelsea
+2025-04-05_Everton,497713,2024,31,2025-04-05,FINISHED,Everton FC,62,Arsenal FC,57,1.0,1.0,0.0,1.0,DRAW,,Darren England,Everton
+2025-04-05_Crystal,497712,2024,31,2025-04-05,FINISHED,Crystal Palace FC,354,Brighton & Hove Albion FC,397,2.0,1.0,1.0,1.0,HOME_TEAM,,Anthony Taylor,Crystal
+2025-04-05_Ipswich,497715,2024,31,2025-04-05,FINISHED,Ipswich Town FC,349,Wolverhampton Wanderers FC,76,1.0,2.0,1.0,0.0,AWAY_TEAM,,Peter Bankes,Ipswich
+2025-04-05_West,497719,2024,31,2025-04-05,FINISHED,West Ham United FC,563,Bournemouth,1044,2.0,2.0,0.0,1.0,DRAW,,Tim Robinson,West
+2025-04-05_Aston,497710,2024,31,2025-04-05,FINISHED,Aston Villa FC,58,Nottingham Forest FC,351,2.0,1.0,2.0,0.0,HOME_TEAM,,Simon Hooper,Aston
+2025-04-06_Brentford,497711,2024,31,2025-04-06,FINISHED,Brentford FC,402,Chelsea FC,61,0.0,0.0,0.0,0.0,DRAW,,Michael Oliver,Brentford
+2025-04-06_Fulham,497714,2024,31,2025-04-06,FINISHED,Fulham FC,63,Liverpool FC,64,3.0,2.0,3.0,1.0,HOME_TEAM,,Chris Kavanagh,Fulham
+2025-04-06_Tottenham,497718,2024,31,2025-04-06,FINISHED,Tottenham Hotspur FC,73,Southampton FC,340,3.0,1.0,2.0,0.0,HOME_TEAM,,Michael Salisbury,Tottenham
+2025-04-06_Manchester,497717,2024,31,2025-04-06,FINISHED,Manchester United FC,66,Manchester City FC,65,0.0,0.0,0.0,0.0,DRAW,,John Brooks,Manchester
+2025-04-07_Leicester,497716,2024,31,2025-04-07,FINISHED,Leicester City FC,338,Newcastle United FC,67,0.0,3.0,0.0,3.0,AWAY_TEAM,,Robert Jones,Leicester
+2025-04-12_Manchester,497725,2024,32,2025-04-12,FINISHED,Manchester City FC,65,Crystal Palace FC,354,5.0,2.0,2.0,2.0,HOME_TEAM,,Jarred Gillett,Manchester
+2025-04-12_Brighton,497722,2024,32,2025-04-12,FINISHED,Brighton & Hove Albion FC,397,Leicester City FC,338,2.0,2.0,1.0,1.0,DRAW,,Darren Bond,Brighton
+2025-04-12_Nottingham,497727,2024,32,2025-04-12,FINISHED,Nottingham Forest FC,351,Everton FC,62,0.0,1.0,0.0,0.0,AWAY_TEAM,,Craig Pawson,Nottingham
+2025-04-12_Southampton,497728,2024,32,2025-04-12,FINISHED,Southampton FC,340,Aston Villa FC,58,0.0,3.0,0.0,0.0,AWAY_TEAM,,Thomas Bramall,Southampton
+2025-04-12_Arsenal,497721,2024,32,2025-04-12,FINISHED,Arsenal FC,57,Brentford FC,402,1.0,1.0,0.0,0.0,DRAW,,Simon Hooper,Arsenal
+2025-04-13_Chelsea,497723,2024,32,2025-04-13,FINISHED,Chelsea FC,61,Ipswich Town FC,349,2.0,2.0,0.0,2.0,DRAW,,Stuart Attwell,Chelsea
+2025-04-13_Liverpool,497724,2024,32,2025-04-13,FINISHED,Liverpool FC,64,West Ham United FC,563,2.0,1.0,1.0,0.0,HOME_TEAM,,Andy Madley,Liverpool
+2025-04-13_Wolverhampton,497729,2024,32,2025-04-13,FINISHED,Wolverhampton Wanderers FC,76,Tottenham Hotspur FC,73,4.0,2.0,2.0,0.0,HOME_TEAM,,Anthony Taylor,Wolverhampton
+2025-04-13_Newcastle,497726,2024,32,2025-04-13,FINISHED,Newcastle United FC,67,Manchester United FC,66,4.0,1.0,1.0,1.0,HOME_TEAM,,Chris Kavanagh,Newcastle
+2025-04-14_Bournemouth,497720,2024,32,2025-04-14,FINISHED,Bournemouth,1044,Fulham FC,63,1.0,0.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Bournemouth
+2025-04-16_Newcastle,497698,2024,29,2025-04-16,FINISHED,Newcastle United FC,67,Crystal Palace FC,354,5.0,0.0,4.0,0.0,HOME_TEAM,,Darren England,Newcastle
+2025-04-19_Brentford,497731,2024,33,2025-04-19,FINISHED,Brentford FC,402,Brighton & Hove Albion FC,397,4.0,2.0,1.0,1.0,HOME_TEAM,,Tim Robinson,Brentford
+2025-04-19_Crystal,497732,2024,33,2025-04-19,FINISHED,Crystal Palace FC,354,Bournemouth,1044,0.0,0.0,0.0,0.0,DRAW,,Sam Barrott,Crystal
+2025-04-19_Everton,497733,2024,33,2025-04-19,FINISHED,Everton FC,62,Manchester City FC,65,0.0,2.0,0.0,0.0,AWAY_TEAM,,Simon Hooper,Everton
+2025-04-19_West,497739,2024,33,2025-04-19,FINISHED,West Ham United FC,563,Southampton FC,340,1.0,1.0,0.0,0.0,DRAW,,Andrew Kitchen,West
+2025-04-19_Aston,497730,2024,33,2025-04-19,FINISHED,Aston Villa FC,58,Newcastle United FC,67,4.0,1.0,1.0,1.0,HOME_TEAM,,Jarred Gillett,Aston
+2025-04-20_Fulham,497734,2024,33,2025-04-20,FINISHED,Fulham FC,63,Chelsea FC,61,1.0,2.0,1.0,0.0,AWAY_TEAM,,Anthony Taylor,Fulham
+2025-04-20_Ipswich,497735,2024,33,2025-04-20,FINISHED,Ipswich Town FC,349,Arsenal FC,57,0.0,4.0,0.0,2.0,AWAY_TEAM,,Chris Kavanagh,Ipswich
+2025-04-20_Manchester,497737,2024,33,2025-04-20,FINISHED,Manchester United FC,66,Wolverhampton Wanderers FC,76,0.0,1.0,0.0,0.0,AWAY_TEAM,,Robert Jones,Manchester
+2025-04-20_Leicester,497736,2024,33,2025-04-20,FINISHED,Leicester City FC,338,Liverpool FC,64,0.0,1.0,0.0,0.0,AWAY_TEAM,,Stuart Attwell,Leicester
+2025-04-21_Tottenham,497738,2024,33,2025-04-21,FINISHED,Tottenham Hotspur FC,73,Nottingham Forest FC,351,1.0,2.0,0.0,2.0,AWAY_TEAM,,Peter Bankes,Tottenham
+2025-04-22_Manchester,497745,2024,34,2025-04-22,FINISHED,Manchester City FC,65,Aston Villa FC,58,2.0,1.0,1.0,1.0,HOME_TEAM,,Craig Pawson,Manchester
+2025-04-23_Arsenal,497741,2024,34,2025-04-23,FINISHED,Arsenal FC,57,Crystal Palace FC,354,2.0,2.0,2.0,1.0,DRAW,,Michael Salisbury,Arsenal
+2025-04-26_Chelsea,497743,2024,34,2025-04-26,FINISHED,Chelsea FC,61,Everton FC,62,1.0,0.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Chelsea
+2025-04-26_Brighton,497742,2024,34,2025-04-26,FINISHED,Brighton & Hove Albion FC,397,West Ham United FC,563,3.0,2.0,1.0,0.0,HOME_TEAM,,Darren England,Brighton
+2025-04-26_Newcastle,497746,2024,34,2025-04-26,FINISHED,Newcastle United FC,67,Ipswich Town FC,349,3.0,0.0,1.0,0.0,HOME_TEAM,,Michael Salisbury,Newcastle
+2025-04-26_Southampton,497748,2024,34,2025-04-26,FINISHED,Southampton FC,340,Fulham FC,63,1.0,2.0,1.0,0.0,AWAY_TEAM,,Tony Harrington,Southampton
+2025-04-26_Wolverhampton,497749,2024,34,2025-04-26,FINISHED,Wolverhampton Wanderers FC,76,Leicester City FC,338,3.0,0.0,1.0,0.0,HOME_TEAM,,Sam Barrott,Wolverhampton
+2025-04-27_Bournemouth,497740,2024,34,2025-04-27,FINISHED,Bournemouth,1044,Manchester United FC,66,1.0,1.0,1.0,0.0,DRAW,,Peter Bankes,Bournemouth
+2025-04-27_Liverpool,497744,2024,34,2025-04-27,FINISHED,Liverpool FC,64,Tottenham Hotspur FC,73,5.0,1.0,3.0,1.0,HOME_TEAM,,Thomas Bramall,Liverpool
+2025-05-01_Nottingham,497747,2024,34,2025-05-01,FINISHED,Nottingham Forest FC,351,Brentford FC,402,0.0,2.0,0.0,1.0,AWAY_TEAM,,Darren England,Nottingham
+2025-05-02_Manchester,497758,2024,35,2025-05-02,FINISHED,Manchester City FC,65,Wolverhampton Wanderers FC,76,1.0,0.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Manchester
+2025-05-03_Aston,497751,2024,35,2025-05-03,FINISHED,Aston Villa FC,58,Fulham FC,63,1.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Aston
+2025-05-03_Everton,497756,2024,35,2025-05-03,FINISHED,Everton FC,62,Ipswich Town FC,349,2.0,2.0,2.0,1.0,DRAW,,Lewis Smith,Everton
+2025-05-03_Leicester,497757,2024,35,2025-05-03,FINISHED,Leicester City FC,338,Southampton FC,340,2.0,0.0,2.0,0.0,HOME_TEAM,,David Webb,Leicester
+2025-05-03_Arsenal,497750,2024,35,2025-05-03,FINISHED,Arsenal FC,57,Bournemouth,1044,1.0,2.0,1.0,0.0,AWAY_TEAM,,Jarred Gillett,Arsenal
+2025-05-04_Brentford,497752,2024,35,2025-05-04,FINISHED,Brentford FC,402,Manchester United FC,66,4.0,3.0,2.0,1.0,HOME_TEAM,,Anthony Taylor,Brentford
+2025-05-04_Brighton,497753,2024,35,2025-05-04,FINISHED,Brighton & Hove Albion FC,397,Newcastle United FC,67,1.0,1.0,1.0,0.0,DRAW,,Craig Pawson,Brighton
+2025-05-04_West,497759,2024,35,2025-05-04,FINISHED,West Ham United FC,563,Tottenham Hotspur FC,73,1.0,1.0,1.0,1.0,DRAW,,Michael Oliver,West
+2025-05-04_Chelsea,497754,2024,35,2025-05-04,FINISHED,Chelsea FC,61,Liverpool FC,64,3.0,1.0,1.0,0.0,HOME_TEAM,,Simon Hooper,Chelsea
+2025-05-05_Crystal,497755,2024,35,2025-05-05,FINISHED,Crystal Palace FC,354,Nottingham Forest FC,351,1.0,1.0,0.0,0.0,DRAW,,Andy Madley,Crystal
+2025-05-10_Fulham,497761,2024,36,2025-05-10,FINISHED,Fulham FC,63,Everton FC,62,1.0,3.0,1.0,1.0,AWAY_TEAM,,Michael Salisbury,Fulham
+2025-05-10_Ipswich,497762,2024,36,2025-05-10,FINISHED,Ipswich Town FC,349,Brentford FC,402,0.0,1.0,0.0,1.0,AWAY_TEAM,,Sam Barrott,Ipswich
+2025-05-10_Southampton,497767,2024,36,2025-05-10,FINISHED,Southampton FC,340,Manchester City FC,65,0.0,0.0,0.0,0.0,DRAW,,Tim Robinson,Southampton
+2025-05-10_Wolverhampton,497769,2024,36,2025-05-10,FINISHED,Wolverhampton Wanderers FC,76,Brighton & Hove Albion FC,397,0.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Oliver,Wolverhampton
+2025-05-10_Bournemouth,497760,2024,36,2025-05-10,FINISHED,Bournemouth,1044,Aston Villa FC,58,0.0,1.0,0.0,1.0,AWAY_TEAM,,Stuart Attwell,Bournemouth
+2025-05-11_Newcastle,497765,2024,36,2025-05-11,FINISHED,Newcastle United FC,67,Chelsea FC,61,2.0,0.0,1.0,0.0,HOME_TEAM,,John Brooks,Newcastle
+2025-05-11_Manchester,497764,2024,36,2025-05-11,FINISHED,Manchester United FC,66,West Ham United FC,563,0.0,2.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Manchester
+2025-05-11_Nottingham,497766,2024,36,2025-05-11,FINISHED,Nottingham Forest FC,351,Leicester City FC,338,2.0,2.0,1.0,1.0,DRAW,,Tony Harrington,Nottingham
+2025-05-11_Tottenham,497768,2024,36,2025-05-11,FINISHED,Tottenham Hotspur FC,73,Crystal Palace FC,354,0.0,2.0,0.0,1.0,AWAY_TEAM,,Chris Kavanagh,Tottenham
+2025-05-11_Liverpool,497763,2024,36,2025-05-11,FINISHED,Liverpool FC,64,Arsenal FC,57,2.0,2.0,2.0,0.0,DRAW,,Anthony Taylor,Liverpool
+2025-05-16_Aston,497771,2024,37,2025-05-16,FINISHED,Aston Villa FC,58,Tottenham Hotspur FC,73,2.0,0.0,0.0,0.0,HOME_TEAM,,Peter Bankes,Aston
+2025-05-16_Chelsea,497774,2024,37,2025-05-16,FINISHED,Chelsea FC,61,Manchester United FC,66,1.0,0.0,0.0,0.0,HOME_TEAM,,Chris Kavanagh,Chelsea
+2025-05-18_Everton,497776,2024,37,2025-05-18,FINISHED,Everton FC,62,Southampton FC,340,2.0,0.0,2.0,0.0,HOME_TEAM,,Michael Oliver,Everton
+2025-05-18_West,497779,2024,37,2025-05-18,FINISHED,West Ham United FC,563,Nottingham Forest FC,351,1.0,2.0,0.0,1.0,AWAY_TEAM,,Sam Barrott,West
+2025-05-18_Brentford,497772,2024,37,2025-05-18,FINISHED,Brentford FC,402,Fulham FC,63,2.0,3.0,2.0,1.0,AWAY_TEAM,,Jarred Gillett,Brentford
+2025-05-18_Leicester,497777,2024,37,2025-05-18,FINISHED,Leicester City FC,338,Ipswich Town FC,349,2.0,0.0,1.0,0.0,HOME_TEAM,,Andrew Kitchen,Leicester
+2025-05-18_Arsenal,497770,2024,37,2025-05-18,FINISHED,Arsenal FC,57,Newcastle United FC,67,1.0,0.0,0.0,0.0,HOME_TEAM,,Simon Hooper,Arsenal
+2025-05-19_Brighton,497773,2024,37,2025-05-19,FINISHED,Brighton & Hove Albion FC,397,Liverpool FC,64,3.0,2.0,1.0,2.0,HOME_TEAM,,John Brooks,Brighton
+2025-05-20_Crystal,497775,2024,37,2025-05-20,FINISHED,Crystal Palace FC,354,Wolverhampton Wanderers FC,76,4.0,2.0,2.0,1.0,HOME_TEAM,,David Webb,Crystal
+2025-05-20_Manchester,497778,2024,37,2025-05-20,FINISHED,Manchester City FC,65,Bournemouth,1044,3.0,1.0,2.0,0.0,HOME_TEAM,,Thomas Bramall,Manchester
+2025-05-25_Bournemouth,497780,2024,38,2025-05-25,FINISHED,Bournemouth,1044,Leicester City FC,338,2.0,0.0,0.0,0.0,HOME_TEAM,,Lewis Smith,Bournemouth
+2025-05-25_Fulham,497781,2024,38,2025-05-25,FINISHED,Fulham FC,63,Manchester City FC,65,0.0,2.0,0.0,1.0,AWAY_TEAM,,Andy Madley,Fulham
+2025-05-25_Ipswich,497782,2024,38,2025-05-25,FINISHED,Ipswich Town FC,349,West Ham United FC,563,1.0,3.0,0.0,1.0,AWAY_TEAM,,Tim Robinson,Ipswich
+2025-05-25_Liverpool,497783,2024,38,2025-05-25,FINISHED,Liverpool FC,64,Crystal Palace FC,354,1.0,1.0,0.0,1.0,DRAW,,Darren England,Liverpool
+2025-05-25_Manchester,497784,2024,38,2025-05-25,FINISHED,Manchester United FC,66,Aston Villa FC,58,2.0,0.0,0.0,0.0,HOME_TEAM,,Thomas Bramall,Manchester
+2025-05-25_Newcastle,497785,2024,38,2025-05-25,FINISHED,Newcastle United FC,67,Everton FC,62,0.0,1.0,0.0,0.0,AWAY_TEAM,,Tony Harrington,Newcastle
+2025-05-25_Nottingham,497786,2024,38,2025-05-25,FINISHED,Nottingham Forest FC,351,Chelsea FC,61,0.0,1.0,0.0,0.0,AWAY_TEAM,,Anthony Taylor,Nottingham
+2025-05-25_Southampton,497787,2024,38,2025-05-25,FINISHED,Southampton FC,340,Arsenal FC,57,1.0,2.0,0.0,1.0,AWAY_TEAM,,Darren Bond,Southampton
+2025-05-25_Tottenham,497788,2024,38,2025-05-25,FINISHED,Tottenham Hotspur FC,73,Brighton & Hove Albion FC,397,1.0,4.0,1.0,0.0,AWAY_TEAM,,Robert Jones,Tottenham
+2025-05-25_Wolverhampton,497789,2024,38,2025-05-25,FINISHED,Wolverhampton Wanderers FC,76,Brentford FC,402,1.0,1.0,0.0,1.0,DRAW,,Craig Pawson,Wolverhampton
+2025-08-15_Liverpool,537785,2025,1,2025-08-15,FINISHED,Liverpool FC,64,Bournemouth,1044,4.0,2.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Liverpool
+2025-08-16_Aston,537786,2025,1,2025-08-16,FINISHED,Aston Villa FC,58,Newcastle United FC,67,0.0,0.0,0.0,0.0,DRAW,,Craig Pawson,Aston
+2025-08-16_Brighton,537787,2025,1,2025-08-16,FINISHED,Brighton & Hove Albion FC,397,Fulham FC,63,1.0,1.0,0.0,0.0,DRAW,,Sam Barrott,Brighton
+2025-08-16_Sunderland,537789,2025,1,2025-08-16,FINISHED,Sunderland AFC,71,West Ham United FC,563,3.0,0.0,0.0,0.0,HOME_TEAM,,Robert Jones,Sunderland
+2025-08-16_Tottenham,537790,2025,1,2025-08-16,FINISHED,Tottenham Hotspur FC,73,Burnley FC,328,3.0,0.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Tottenham
+2025-08-16_Wolverhampton,537791,2025,1,2025-08-16,FINISHED,Wolverhampton Wanderers FC,76,Manchester City FC,65,0.0,4.0,0.0,2.0,AWAY_TEAM,,Jarred Gillett,Wolverhampton
+2025-08-17_Nottingham,537788,2025,1,2025-08-17,FINISHED,Nottingham Forest FC,351,Brentford FC,402,3.0,1.0,3.0,0.0,HOME_TEAM,,Peter Bankes,Nottingham
+2025-08-17_Chelsea,537792,2025,1,2025-08-17,FINISHED,Chelsea FC,61,Crystal Palace FC,354,0.0,0.0,0.0,0.0,DRAW,,Darren England,Chelsea
+2025-08-17_Manchester,537793,2025,1,2025-08-17,FINISHED,Manchester United FC,66,Arsenal FC,57,0.0,1.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Manchester
+2025-08-18_Leeds,537794,2025,1,2025-08-18,FINISHED,Leeds United FC,341,Everton FC,62,1.0,0.0,0.0,0.0,HOME_TEAM,,Chris Kavanagh,Leeds
+2025-08-22_West,537804,2025,2,2025-08-22,FINISHED,West Ham United FC,563,Chelsea FC,61,1.0,5.0,1.0,3.0,AWAY_TEAM,,Michael Oliver,West
+2025-08-23_Manchester,537802,2025,2,2025-08-23,FINISHED,Manchester City FC,65,Tottenham Hotspur FC,73,0.0,2.0,0.0,2.0,AWAY_TEAM,,Peter Bankes,Manchester
+2025-08-23_Bournemouth,537795,2025,2,2025-08-23,FINISHED,Bournemouth,1044,Wolverhampton Wanderers FC,76,1.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Bournemouth
+2025-08-23_Brentford,537798,2025,2,2025-08-23,FINISHED,Brentford FC,402,Aston Villa FC,58,1.0,0.0,1.0,0.0,HOME_TEAM,,Tony Harrington,Brentford
+2025-08-23_Burnley,537799,2025,2,2025-08-23,FINISHED,Burnley FC,328,Sunderland AFC,71,2.0,0.0,0.0,0.0,HOME_TEAM,,Michael Salisbury,Burnley
+2025-08-23_Arsenal,537797,2025,2,2025-08-23,FINISHED,Arsenal FC,57,Leeds United FC,341,5.0,0.0,2.0,0.0,HOME_TEAM,,Jarred Gillett,Arsenal
+2025-08-24_Crystal,537796,2025,2,2025-08-24,FINISHED,Crystal Palace FC,354,Nottingham Forest FC,351,1.0,1.0,1.0,0.0,DRAW,,Anthony Taylor,Crystal
+2025-08-24_Everton,537800,2025,2,2025-08-24,FINISHED,Everton FC,62,Brighton & Hove Albion FC,397,2.0,0.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Everton
+2025-08-24_Fulham,537801,2025,2,2025-08-24,FINISHED,Fulham FC,63,Manchester United FC,66,1.0,1.0,0.0,0.0,DRAW,,Chris Kavanagh,Fulham
+2025-08-25_Newcastle,537803,2025,2,2025-08-25,FINISHED,Newcastle United FC,67,Liverpool FC,64,2.0,3.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Newcastle
+2025-08-30_Chelsea,537808,2025,3,2025-08-30,FINISHED,Chelsea FC,61,Fulham FC,63,2.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Chelsea
+2025-08-30_Sunderland,537805,2025,3,2025-08-30,FINISHED,Sunderland AFC,71,Brentford FC,402,2.0,1.0,0.0,0.0,HOME_TEAM,,Anthony Taylor,Sunderland
+2025-08-30_Manchester,537811,2025,3,2025-08-30,FINISHED,Manchester United FC,66,Burnley FC,328,3.0,2.0,1.0,0.0,HOME_TEAM,,Sam Barrott,Manchester
+2025-08-30_Tottenham,537813,2025,3,2025-08-30,FINISHED,Tottenham Hotspur FC,73,Bournemouth,1044,0.0,1.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Tottenham
+2025-08-30_Wolverhampton,537814,2025,3,2025-08-30,FINISHED,Wolverhampton Wanderers FC,76,Everton FC,62,2.0,3.0,1.0,2.0,AWAY_TEAM,,Michael Oliver,Wolverhampton
+2025-08-30_Leeds,537810,2025,3,2025-08-30,FINISHED,Leeds United FC,341,Newcastle United FC,67,0.0,0.0,0.0,0.0,DRAW,,Peter Bankes,Leeds
+2025-08-31_Brighton,537807,2025,3,2025-08-31,FINISHED,Brighton & Hove Albion FC,397,Manchester City FC,65,2.0,1.0,0.0,1.0,HOME_TEAM,,Darren England,Brighton
+2025-08-31_Nottingham,537812,2025,3,2025-08-31,FINISHED,Nottingham Forest FC,351,West Ham United FC,563,0.0,3.0,0.0,0.0,AWAY_TEAM,,Craig Pawson,Nottingham
+2025-08-31_Liverpool,537809,2025,3,2025-08-31,FINISHED,Liverpool FC,64,Arsenal FC,57,1.0,0.0,0.0,0.0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2025-08-31_Aston,537806,2025,3,2025-08-31,FINISHED,Aston Villa FC,58,Crystal Palace FC,354,0.0,3.0,0.0,1.0,AWAY_TEAM,,Stuart Attwell,Aston
+2025-09-13_Arsenal,537817,2025,4,2025-09-13,FINISHED,Arsenal FC,57,Nottingham Forest FC,351,3.0,0.0,1.0,0.0,HOME_TEAM,,Darren England,Arsenal
+2025-09-13_Bournemouth,537815,2025,4,2025-09-13,FINISHED,Bournemouth,1044,Brighton & Hove Albion FC,397,2.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Bournemouth
+2025-09-13_Crystal,537816,2025,4,2025-09-13,FINISHED,Crystal Palace FC,354,Sunderland AFC,71,0.0,0.0,0.0,0.0,DRAW,,Thomas Bramall,Crystal
+2025-09-13_Everton,537820,2025,4,2025-09-13,FINISHED,Everton FC,62,Aston Villa FC,58,0.0,0.0,0.0,0.0,DRAW,,Simon Hooper,Everton
+2025-09-13_Fulham,537821,2025,4,2025-09-13,FINISHED,Fulham FC,63,Leeds United FC,341,1.0,0.0,0.0,0.0,HOME_TEAM,,Craig Pawson,Fulham
+2025-09-13_Newcastle,537823,2025,4,2025-09-13,FINISHED,Newcastle United FC,67,Wolverhampton Wanderers FC,76,1.0,0.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Newcastle
+2025-09-13_West,537824,2025,4,2025-09-13,FINISHED,West Ham United FC,563,Tottenham Hotspur FC,73,0.0,3.0,0.0,0.0,AWAY_TEAM,,Jarred Gillett,West
+2025-09-13_Brentford,537818,2025,4,2025-09-13,FINISHED,Brentford FC,402,Chelsea FC,61,2.0,2.0,1.0,0.0,DRAW,,Stuart Attwell,Brentford
+2025-09-14_Burnley,537819,2025,4,2025-09-14,FINISHED,Burnley FC,328,Liverpool FC,64,0.0,1.0,0.0,0.0,AWAY_TEAM,,Michael Oliver,Burnley
+2025-09-14_Manchester,537822,2025,4,2025-09-14,FINISHED,Manchester City FC,65,Manchester United FC,66,3.0,0.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Manchester
+2025-09-20_Liverpool,537831,2025,5,2025-09-20,FINISHED,Liverpool FC,64,Everton FC,62,2.0,1.0,2.0,0.0,HOME_TEAM,,Darren England,Liverpool
+2025-09-20_Brighton,537827,2025,5,2025-09-20,FINISHED,Brighton & Hove Albion FC,397,Tottenham Hotspur FC,73,2.0,2.0,2.0,1.0,DRAW,,Chris Kavanagh,Brighton
+2025-09-20_Burnley,537829,2025,5,2025-09-20,FINISHED,Burnley FC,328,Nottingham Forest FC,351,1.0,1.0,1.0,1.0,DRAW,,Thomas Bramall,Burnley
+2025-09-20_West,537833,2025,5,2025-09-20,FINISHED,West Ham United FC,563,Crystal Palace FC,354,1.0,2.0,0.0,1.0,AWAY_TEAM,,Tony Harrington,West
+2025-09-20_Wolverhampton,537834,2025,5,2025-09-20,FINISHED,Wolverhampton Wanderers FC,76,Leeds United FC,341,1.0,3.0,1.0,3.0,AWAY_TEAM,,Anthony Taylor,Wolverhampton
+2025-09-20_Manchester,537832,2025,5,2025-09-20,FINISHED,Manchester United FC,66,Chelsea FC,61,2.0,1.0,2.0,0.0,HOME_TEAM,,Peter Bankes,Manchester
+2025-09-20_Fulham,537830,2025,5,2025-09-20,FINISHED,Fulham FC,63,Brentford FC,402,3.0,1.0,2.0,1.0,HOME_TEAM,,Michael Oliver,Fulham
+2025-09-21_Bournemouth,537825,2025,5,2025-09-21,FINISHED,Bournemouth,1044,Newcastle United FC,67,0.0,0.0,0.0,0.0,DRAW,,Robert Jones,Bournemouth
+2025-09-21_Sunderland,537826,2025,5,2025-09-21,FINISHED,Sunderland AFC,71,Aston Villa FC,58,1.0,1.0,0.0,0.0,DRAW,,Sam Barrott,Sunderland
+2025-09-21_Arsenal,537828,2025,5,2025-09-21,FINISHED,Arsenal FC,57,Manchester City FC,65,1.0,1.0,0.0,1.0,DRAW,,Stuart Attwell,Arsenal
+2025-09-27_Brentford,537837,2025,6,2025-09-27,FINISHED,Brentford FC,402,Manchester United FC,66,3.0,1.0,2.0,1.0,HOME_TEAM,,Craig Pawson,Brentford
+2025-09-27_Crystal,537836,2025,6,2025-09-27,FINISHED,Crystal Palace FC,354,Liverpool FC,64,2.0,1.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Crystal
+2025-09-27_Chelsea,537838,2025,6,2025-09-27,FINISHED,Chelsea FC,61,Brighton & Hove Albion FC,397,1.0,3.0,1.0,0.0,AWAY_TEAM,,Simon Hooper,Chelsea
+2025-09-27_Leeds,537840,2025,6,2025-09-27,FINISHED,Leeds United FC,341,Bournemouth,1044,2.0,2.0,1.0,1.0,DRAW,,Michael Oliver,Leeds
+2025-09-27_Manchester,537841,2025,6,2025-09-27,FINISHED,Manchester City FC,65,Burnley FC,328,5.0,1.0,1.0,1.0,HOME_TEAM,,Robert Jones,Manchester
+2025-09-27_Nottingham,537843,2025,6,2025-09-27,FINISHED,Nottingham Forest FC,351,Sunderland AFC,71,0.0,1.0,0.0,1.0,AWAY_TEAM,,Tony Harrington,Nottingham
+2025-09-27_Tottenham,537844,2025,6,2025-09-27,FINISHED,Tottenham Hotspur FC,73,Wolverhampton Wanderers FC,76,1.0,1.0,0.0,0.0,DRAW,,Michael Salisbury,Tottenham
+2025-09-28_Aston,537835,2025,6,2025-09-28,FINISHED,Aston Villa FC,58,Fulham FC,63,3.0,1.0,1.0,1.0,HOME_TEAM,,Andy Madley,Aston
+2025-09-28_Newcastle,537842,2025,6,2025-09-28,FINISHED,Newcastle United FC,67,Arsenal FC,57,1.0,2.0,1.0,0.0,AWAY_TEAM,,Jarred Gillett,Newcastle
+2025-09-29_Everton,537839,2025,6,2025-09-29,FINISHED,Everton FC,62,West Ham United FC,563,1.0,1.0,1.0,0.0,DRAW,,Sam Barrott,Everton
+2025-10-03_Bournemouth,537845,2025,7,2025-10-03,FINISHED,Bournemouth,1044,Fulham FC,63,3.0,1.0,0.0,0.0,HOME_TEAM,,Simon Hooper,Bournemouth
+2025-10-04_Leeds,537851,2025,7,2025-10-04,FINISHED,Leeds United FC,341,Tottenham Hotspur FC,73,1.0,2.0,1.0,1.0,AWAY_TEAM,,Thomas Bramall,Leeds
+2025-10-04_Arsenal,537847,2025,7,2025-10-04,FINISHED,Arsenal FC,57,West Ham United FC,563,2.0,0.0,1.0,0.0,HOME_TEAM,,John Brooks,Arsenal
+2025-10-04_Manchester,537852,2025,7,2025-10-04,FINISHED,Manchester United FC,66,Sunderland AFC,71,2.0,0.0,2.0,0.0,HOME_TEAM,,Stuart Attwell,Manchester
+2025-10-04_Chelsea,537849,2025,7,2025-10-04,FINISHED,Chelsea FC,61,Liverpool FC,64,2.0,1.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Chelsea
+2025-10-05_Aston,537846,2025,7,2025-10-05,FINISHED,Aston Villa FC,58,Burnley FC,328,2.0,1.0,1.0,0.0,HOME_TEAM,,Andrew Kitchen,Aston
+2025-10-05_Everton,537850,2025,7,2025-10-05,FINISHED,Everton FC,62,Crystal Palace FC,354,2.0,1.0,0.0,1.0,HOME_TEAM,,Michael Salisbury,Everton
+2025-10-05_Newcastle,537853,2025,7,2025-10-05,FINISHED,Newcastle United FC,67,Nottingham Forest FC,351,2.0,0.0,0.0,0.0,HOME_TEAM,,Peter Bankes,Newcastle
+2025-10-05_Wolverhampton,537854,2025,7,2025-10-05,FINISHED,Wolverhampton Wanderers FC,76,Brighton & Hove Albion FC,397,1.0,1.0,1.0,0.0,DRAW,,Jarred Gillett,Wolverhampton
+2025-10-05_Brentford,537848,2025,7,2025-10-05,FINISHED,Brentford FC,402,Manchester City FC,65,0.0,1.0,0.0,1.0,AWAY_TEAM,,Darren England,Brentford
+2025-10-18_Nottingham,537862,2025,8,2025-10-18,FINISHED,Nottingham Forest FC,351,Chelsea FC,61,0.0,3.0,0.0,0.0,AWAY_TEAM,,Chris Kavanagh,Nottingham
+2025-10-18_Brighton,537856,2025,8,2025-10-18,FINISHED,Brighton & Hove Albion FC,397,Newcastle United FC,67,2.0,1.0,1.0,0.0,HOME_TEAM,,Craig Pawson,Brighton
+2025-10-18_Crystal,537857,2025,8,2025-10-18,FINISHED,Crystal Palace FC,354,Bournemouth,1044,3.0,3.0,0.0,2.0,DRAW,,Jarred Gillett,Crystal
+2025-10-18_Burnley,537858,2025,8,2025-10-18,FINISHED,Burnley FC,328,Leeds United FC,341,2.0,0.0,1.0,0.0,HOME_TEAM,,Tim Robinson,Burnley
+2025-10-18_Manchester,537861,2025,8,2025-10-18,FINISHED,Manchester City FC,65,Everton FC,62,2.0,0.0,0.0,0.0,HOME_TEAM,,Tony Harrington,Manchester
+2025-10-18_Sunderland,537855,2025,8,2025-10-18,FINISHED,Sunderland AFC,71,Wolverhampton Wanderers FC,76,2.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Sunderland
+2025-10-18_Fulham,537859,2025,8,2025-10-18,FINISHED,Fulham FC,63,Arsenal FC,57,0.0,1.0,0.0,0.0,AWAY_TEAM,,Anthony Taylor,Fulham
+2025-10-19_Tottenham,537863,2025,8,2025-10-19,FINISHED,Tottenham Hotspur FC,73,Aston Villa FC,58,1.0,2.0,1.0,1.0,AWAY_TEAM,,Simon Hooper,Tottenham
+2025-10-19_Liverpool,537860,2025,8,2025-10-19,FINISHED,Liverpool FC,64,Manchester United FC,66,1.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Oliver,Liverpool
+2025-10-20_West,537864,2025,8,2025-10-20,FINISHED,West Ham United FC,563,Brentford FC,402,0.0,2.0,0.0,1.0,AWAY_TEAM,,Andy Madley,West
+2025-10-24_Leeds,537871,2025,9,2025-10-24,FINISHED,Leeds United FC,341,West Ham United FC,563,2.0,1.0,2.0,0.0,HOME_TEAM,,Stuart Attwell,Leeds
+2025-10-25_Chelsea,537869,2025,9,2025-10-25,FINISHED,Chelsea FC,61,Sunderland AFC,71,1.0,2.0,1.0,1.0,AWAY_TEAM,,Andy Madley,Chelsea
+2025-10-25_Newcastle,537873,2025,9,2025-10-25,FINISHED,Newcastle United FC,67,Fulham FC,63,2.0,1.0,1.0,0.0,HOME_TEAM,,Tony Harrington,Newcastle
+2025-10-25_Manchester,537872,2025,9,2025-10-25,FINISHED,Manchester United FC,66,Brighton & Hove Albion FC,397,4.0,2.0,2.0,0.0,HOME_TEAM,,Anthony Taylor,Manchester
+2025-10-25_Brentford,537868,2025,9,2025-10-25,FINISHED,Brentford FC,402,Liverpool FC,64,3.0,2.0,2.0,1.0,HOME_TEAM,,Simon Hooper,Brentford
+2025-10-26_Bournemouth,537865,2025,9,2025-10-26,FINISHED,Bournemouth,1044,Nottingham Forest FC,351,2.0,0.0,2.0,0.0,HOME_TEAM,,Sam Barrott,Bournemouth
+2025-10-26_Aston,537866,2025,9,2025-10-26,FINISHED,Aston Villa FC,58,Manchester City FC,65,1.0,0.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Aston
+2025-10-26_Arsenal,537867,2025,9,2025-10-26,FINISHED,Arsenal FC,57,Crystal Palace FC,354,1.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Arsenal
+2025-10-26_Wolverhampton,537874,2025,9,2025-10-26,FINISHED,Wolverhampton Wanderers FC,76,Burnley FC,328,2.0,3.0,2.0,2.0,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2025-10-26_Everton,537870,2025,9,2025-10-26,FINISHED,Everton FC,62,Tottenham Hotspur FC,73,0.0,3.0,0.0,2.0,AWAY_TEAM,,Craig Pawson,Everton
+2025-11-01_Brighton,537876,2025,10,2025-11-01,TIMED,Brighton & Hove Albion FC,397,Leeds United FC,341,,,,,,,,Brighton
+2025-11-01_Crystal,537877,2025,10,2025-11-01,TIMED,Crystal Palace FC,354,Brentford FC,402,,,,,,,,Crystal
+2025-11-01_Burnley,537878,2025,10,2025-11-01,TIMED,Burnley FC,328,Arsenal FC,57,,,,,,,,Burnley
+2025-11-01_Fulham,537879,2025,10,2025-11-01,TIMED,Fulham FC,63,Wolverhampton Wanderers FC,76,,,,,,,,Fulham
+2025-11-01_Nottingham,537882,2025,10,2025-11-01,TIMED,Nottingham Forest FC,351,Manchester United FC,66,,,,,,,,Nottingham
+2025-11-01_Tottenham,537883,2025,10,2025-11-01,TIMED,Tottenham Hotspur FC,73,Chelsea FC,61,,,,,,,,Tottenham
+2025-11-01_Liverpool,537880,2025,10,2025-11-01,TIMED,Liverpool FC,64,Aston Villa FC,58,,,,,,,,Liverpool
+2025-11-02_West,537884,2025,10,2025-11-02,TIMED,West Ham United FC,563,Newcastle United FC,67,,,,,,,,West
+2025-11-02_Manchester,537881,2025,10,2025-11-02,TIMED,Manchester City FC,65,Bournemouth,1044,,,,,,,,Manchester
+2025-11-03_Sunderland,537875,2025,10,2025-11-03,TIMED,Sunderland AFC,71,Everton FC,62,,,,,,,,Sunderland
+2025-11-08_Tottenham,537893,2025,11,2025-11-08,TIMED,Tottenham Hotspur FC,73,Manchester United FC,66,,,,,,,,Tottenham
+2025-11-08_Everton,537890,2025,11,2025-11-08,TIMED,Everton FC,62,Fulham FC,63,,,,,,,,Everton
+2025-11-08_West,537894,2025,11,2025-11-08,TIMED,West Ham United FC,563,Burnley FC,328,,,,,,,,West
+2025-11-08_Sunderland,537885,2025,11,2025-11-08,TIMED,Sunderland AFC,71,Arsenal FC,57,,,,,,,,Sunderland
+2025-11-08_Chelsea,537889,2025,11,2025-11-08,TIMED,Chelsea FC,61,Wolverhampton Wanderers FC,76,,,,,,,,Chelsea
+2025-11-09_Aston,537886,2025,11,2025-11-09,TIMED,Aston Villa FC,58,Bournemouth,1044,,,,,,,,Aston
+2025-11-09_Crystal,537887,2025,11,2025-11-09,TIMED,Crystal Palace FC,354,Brighton & Hove Albion FC,397,,,,,,,,Crystal
+2025-11-09_Brentford,537888,2025,11,2025-11-09,TIMED,Brentford FC,402,Newcastle United FC,67,,,,,,,,Brentford
+2025-11-09_Nottingham,537892,2025,11,2025-11-09,TIMED,Nottingham Forest FC,351,Leeds United FC,341,,,,,,,,Nottingham
+2025-11-09_Manchester,537891,2025,11,2025-11-09,TIMED,Manchester City FC,65,Liverpool FC,64,,,,,,,,Manchester
+2025-11-22_Burnley,537898,2025,12,2025-11-22,TIMED,Burnley FC,328,Chelsea FC,61,,,,,,,,Burnley
+2025-11-22_Bournemouth,537895,2025,12,2025-11-22,TIMED,Bournemouth,1044,West Ham United FC,563,,,,,,,,Bournemouth
+2025-11-22_Brighton,537896,2025,12,2025-11-22,TIMED,Brighton & Hove Albion FC,397,Brentford FC,402,,,,,,,,Brighton
+2025-11-22_Fulham,537899,2025,12,2025-11-22,TIMED,Fulham FC,63,Sunderland AFC,71,,,,,,,,Fulham
+2025-11-22_Liverpool,537900,2025,12,2025-11-22,TIMED,Liverpool FC,64,Nottingham Forest FC,351,,,,,,,,Liverpool
+2025-11-22_Wolverhampton,537904,2025,12,2025-11-22,TIMED,Wolverhampton Wanderers FC,76,Crystal Palace FC,354,,,,,,,,Wolverhampton
+2025-11-22_Newcastle,537903,2025,12,2025-11-22,TIMED,Newcastle United FC,67,Manchester City FC,65,,,,,,,,Newcastle
+2025-11-23_Leeds,537901,2025,12,2025-11-23,TIMED,Leeds United FC,341,Aston Villa FC,58,,,,,,,,Leeds
+2025-11-23_Arsenal,537897,2025,12,2025-11-23,TIMED,Arsenal FC,57,Tottenham Hotspur FC,73,,,,,,,,Arsenal
+2025-11-24_Manchester,537902,2025,12,2025-11-24,TIMED,Manchester United FC,66,Everton FC,62,,,,,,,,Manchester
+2025-11-29_Sunderland,537905,2025,13,2025-11-29,TIMED,Sunderland AFC,71,Bournemouth,1044,,,,,,,,Sunderland
+2025-11-29_Brentford,537908,2025,13,2025-11-29,TIMED,Brentford FC,402,Burnley FC,328,,,,,,,,Brentford
+2025-11-29_Manchester,537911,2025,13,2025-11-29,TIMED,Manchester City FC,65,Leeds United FC,341,,,,,,,,Manchester
+2025-11-29_Everton,537910,2025,13,2025-11-29,TIMED,Everton FC,62,Newcastle United FC,67,,,,,,,,Everton
+2025-11-29_Tottenham,537913,2025,13,2025-11-29,TIMED,Tottenham Hotspur FC,73,Fulham FC,63,,,,,,,,Tottenham
+2025-11-30_Crystal,537907,2025,13,2025-11-30,TIMED,Crystal Palace FC,354,Manchester United FC,66,,,,,,,,Crystal
+2025-11-30_Aston,537906,2025,13,2025-11-30,TIMED,Aston Villa FC,58,Wolverhampton Wanderers FC,76,,,,,,,,Aston
+2025-11-30_Nottingham,537912,2025,13,2025-11-30,TIMED,Nottingham Forest FC,351,Brighton & Hove Albion FC,397,,,,,,,,Nottingham
+2025-11-30_West,537914,2025,13,2025-11-30,TIMED,West Ham United FC,563,Liverpool FC,64,,,,,,,,West
+2025-11-30_Chelsea,537909,2025,13,2025-11-30,TIMED,Chelsea FC,61,Arsenal FC,57,,,,,,,,Chelsea
+2025-12-02_Bournemouth,537915,2025,14,2025-12-02,TIMED,Bournemouth,1044,Everton FC,62,,,,,,,,Bournemouth
+2025-12-02_Fulham,537919,2025,14,2025-12-02,TIMED,Fulham FC,63,Manchester City FC,65,,,,,,,,Fulham
+2025-12-02_Newcastle,537923,2025,14,2025-12-02,TIMED,Newcastle United FC,67,Tottenham Hotspur FC,73,,,,,,,,Newcastle
+2025-12-03_Brighton,537916,2025,14,2025-12-03,TIMED,Brighton & Hove Albion FC,397,Aston Villa FC,58,,,,,,,,Brighton
+2025-12-03_Arsenal,537917,2025,14,2025-12-03,TIMED,Arsenal FC,57,Brentford FC,402,,,,,,,,Arsenal
+2025-12-03_Burnley,537918,2025,14,2025-12-03,TIMED,Burnley FC,328,Crystal Palace FC,354,,,,,,,,Burnley
+2025-12-03_Wolverhampton,537924,2025,14,2025-12-03,TIMED,Wolverhampton Wanderers FC,76,Nottingham Forest FC,351,,,,,,,,Wolverhampton
+2025-12-03_Liverpool,537920,2025,14,2025-12-03,TIMED,Liverpool FC,64,Sunderland AFC,71,,,,,,,,Liverpool
+2025-12-03_Leeds,537921,2025,14,2025-12-03,TIMED,Leeds United FC,341,Chelsea FC,61,,,,,,,,Leeds
+2025-12-04_Manchester,537922,2025,14,2025-12-04,TIMED,Manchester United FC,66,West Ham United FC,563,,,,,,,,Manchester
+2025-12-06_Aston,537926,2025,15,2025-12-06,TIMED,Aston Villa FC,58,Arsenal FC,57,,,,,,,,Aston
+2025-12-06_Bournemouth,537925,2025,15,2025-12-06,TIMED,Bournemouth,1044,Chelsea FC,61,,,,,,,,Bournemouth
+2025-12-06_Everton,537928,2025,15,2025-12-06,TIMED,Everton FC,62,Nottingham Forest FC,351,,,,,,,,Everton
+2025-12-06_Manchester,537931,2025,15,2025-12-06,TIMED,Manchester City FC,65,Sunderland AFC,71,,,,,,,,Manchester
+2025-12-06_Newcastle,537932,2025,15,2025-12-06,TIMED,Newcastle United FC,67,Burnley FC,328,,,,,,,,Newcastle
+2025-12-06_Tottenham,537933,2025,15,2025-12-06,TIMED,Tottenham Hotspur FC,73,Brentford FC,402,,,,,,,,Tottenham
+2025-12-06_Leeds,537930,2025,15,2025-12-06,TIMED,Leeds United FC,341,Liverpool FC,64,,,,,,,,Leeds
+2025-12-07_Brighton,537927,2025,15,2025-12-07,TIMED,Brighton & Hove Albion FC,397,West Ham United FC,563,,,,,,,,Brighton
+2025-12-07_Fulham,537929,2025,15,2025-12-07,TIMED,Fulham FC,63,Crystal Palace FC,354,,,,,,,,Fulham
+2025-12-08_Wolverhampton,537934,2025,15,2025-12-08,TIMED,Wolverhampton Wanderers FC,76,Manchester United FC,66,,,,,,,,Wolverhampton
+2025-12-13_Chelsea,537940,2025,16,2025-12-13,TIMED,Chelsea FC,61,Everton FC,62,,,,,,,,Chelsea
+2025-12-13_Liverpool,537941,2025,16,2025-12-13,TIMED,Liverpool FC,64,Brighton & Hove Albion FC,397,,,,,,,,Liverpool
+2025-12-13_Burnley,537939,2025,16,2025-12-13,TIMED,Burnley FC,328,Fulham FC,63,,,,,,,,Burnley
+2025-12-13_Arsenal,537937,2025,16,2025-12-13,TIMED,Arsenal FC,57,Wolverhampton Wanderers FC,76,,,,,,,,Arsenal
+2025-12-14_Sunderland,537935,2025,16,2025-12-14,TIMED,Sunderland AFC,71,Newcastle United FC,67,,,,,,,,Sunderland
+2025-12-14_Crystal,537936,2025,16,2025-12-14,TIMED,Crystal Palace FC,354,Manchester City FC,65,,,,,,,,Crystal
+2025-12-14_Nottingham,537943,2025,16,2025-12-14,TIMED,Nottingham Forest FC,351,Tottenham Hotspur FC,73,,,,,,,,Nottingham
+2025-12-14_West,537944,2025,16,2025-12-14,TIMED,West Ham United FC,563,Aston Villa FC,58,,,,,,,,West
+2025-12-14_Brentford,537938,2025,16,2025-12-14,TIMED,Brentford FC,402,Leeds United FC,341,,,,,,,,Brentford
+2025-12-15_Manchester,537942,2025,16,2025-12-15,TIMED,Manchester United FC,66,Bournemouth,1044,,,,,,,,Manchester
+2025-12-20_Newcastle,537952,2025,17,2025-12-20,TIMED,Newcastle United FC,67,Chelsea FC,61,,,,,,,,Newcastle
+2025-12-20_Bournemouth,537945,2025,17,2025-12-20,TIMED,Bournemouth,1044,Burnley FC,328,,,,,,,,Bournemouth
+2025-12-20_Brighton,537947,2025,17,2025-12-20,TIMED,Brighton & Hove Albion FC,397,Sunderland AFC,71,,,,,,,,Brighton
+2025-12-20_Manchester,537951,2025,17,2025-12-20,TIMED,Manchester City FC,65,West Ham United FC,563,,,,,,,,Manchester
+2025-12-20_Wolverhampton,537954,2025,17,2025-12-20,TIMED,Wolverhampton Wanderers FC,76,Brentford FC,402,,,,,,,,Wolverhampton
+2025-12-20_Tottenham,537953,2025,17,2025-12-20,TIMED,Tottenham Hotspur FC,73,Liverpool FC,64,,,,,,,,Tottenham
+2025-12-21_Everton,537948,2025,17,2025-12-21,TIMED,Everton FC,62,Arsenal FC,57,,,,,,,,Everton
+2025-12-21_Leeds,537950,2025,17,2025-12-21,TIMED,Leeds United FC,341,Crystal Palace FC,354,,,,,,,,Leeds
+2025-12-21_Aston,537946,2025,17,2025-12-21,TIMED,Aston Villa FC,58,Manchester United FC,66,,,,,,,,Aston
+2025-12-22_Fulham,537949,2025,17,2025-12-22,TIMED,Fulham FC,63,Nottingham Forest FC,351,,,,,,,,Fulham
+2025-12-27_Sunderland,537955,2025,18,2025-12-27,SCHEDULED,Sunderland AFC,71,Leeds United FC,341,,,,,,,,Sunderland
+2025-12-27_Crystal,537956,2025,18,2025-12-27,SCHEDULED,Crystal Palace FC,354,Tottenham Hotspur FC,73,,,,,,,,Crystal
+2025-12-27_Arsenal,537957,2025,18,2025-12-27,SCHEDULED,Arsenal FC,57,Brighton & Hove Albion FC,397,,,,,,,,Arsenal
+2025-12-27_Brentford,537958,2025,18,2025-12-27,SCHEDULED,Brentford FC,402,Bournemouth,1044,,,,,,,,Brentford
+2025-12-27_Burnley,537959,2025,18,2025-12-27,SCHEDULED,Burnley FC,328,Everton FC,62,,,,,,,,Burnley
+2025-12-27_Chelsea,537960,2025,18,2025-12-27,SCHEDULED,Chelsea FC,61,Aston Villa FC,58,,,,,,,,Chelsea
+2025-12-27_Liverpool,537961,2025,18,2025-12-27,SCHEDULED,Liverpool FC,64,Wolverhampton Wanderers FC,76,,,,,,,,Liverpool
+2025-12-27_Manchester,537962,2025,18,2025-12-27,SCHEDULED,Manchester United FC,66,Newcastle United FC,67,,,,,,,,Manchester
+2025-12-27_Nottingham,537963,2025,18,2025-12-27,SCHEDULED,Nottingham Forest FC,351,Manchester City FC,65,,,,,,,,Nottingham
+2025-12-27_West,537964,2025,18,2025-12-27,SCHEDULED,West Ham United FC,563,Fulham FC,63,,,,,,,,West
+2025-12-30_Sunderland,537965,2025,19,2025-12-30,SCHEDULED,Sunderland AFC,71,Manchester City FC,65,,,,,,,,Sunderland
+2025-12-30_Crystal,537966,2025,19,2025-12-30,SCHEDULED,Crystal Palace FC,354,Fulham FC,63,,,,,,,,Crystal
+2025-12-30_Arsenal,537967,2025,19,2025-12-30,SCHEDULED,Arsenal FC,57,Aston Villa FC,58,,,,,,,,Arsenal
+2025-12-30_Brentford,537968,2025,19,2025-12-30,SCHEDULED,Brentford FC,402,Tottenham Hotspur FC,73,,,,,,,,Brentford
+2025-12-30_Burnley,537969,2025,19,2025-12-30,SCHEDULED,Burnley FC,328,Newcastle United FC,67,,,,,,,,Burnley
+2025-12-30_Chelsea,537970,2025,19,2025-12-30,SCHEDULED,Chelsea FC,61,Bournemouth,1044,,,,,,,,Chelsea
+2025-12-30_Liverpool,537971,2025,19,2025-12-30,SCHEDULED,Liverpool FC,64,Leeds United FC,341,,,,,,,,Liverpool
+2025-12-30_Manchester,537972,2025,19,2025-12-30,SCHEDULED,Manchester United FC,66,Wolverhampton Wanderers FC,76,,,,,,,,Manchester
+2025-12-30_Nottingham,537973,2025,19,2025-12-30,SCHEDULED,Nottingham Forest FC,351,Everton FC,62,,,,,,,,Nottingham
+2025-12-30_West,537974,2025,19,2025-12-30,SCHEDULED,West Ham United FC,563,Brighton & Hove Albion FC,397,,,,,,,,West
+2026-01-03_Bournemouth,537975,2025,20,2026-01-03,SCHEDULED,Bournemouth,1044,Arsenal FC,57,,,,,,,,Bournemouth
+2026-01-03_Aston,537976,2025,20,2026-01-03,SCHEDULED,Aston Villa FC,58,Nottingham Forest FC,351,,,,,,,,Aston
+2026-01-03_Brighton,537977,2025,20,2026-01-03,SCHEDULED,Brighton & Hove Albion FC,397,Burnley FC,328,,,,,,,,Brighton
+2026-01-03_Everton,537978,2025,20,2026-01-03,SCHEDULED,Everton FC,62,Brentford FC,402,,,,,,,,Everton
+2026-01-03_Fulham,537979,2025,20,2026-01-03,SCHEDULED,Fulham FC,63,Liverpool FC,64,,,,,,,,Fulham
+2026-01-03_Leeds,537980,2025,20,2026-01-03,SCHEDULED,Leeds United FC,341,Manchester United FC,66,,,,,,,,Leeds
+2026-01-03_Manchester,537981,2025,20,2026-01-03,SCHEDULED,Manchester City FC,65,Chelsea FC,61,,,,,,,,Manchester
+2026-01-03_Newcastle,537982,2025,20,2026-01-03,SCHEDULED,Newcastle United FC,67,Crystal Palace FC,354,,,,,,,,Newcastle
+2026-01-03_Tottenham,537983,2025,20,2026-01-03,SCHEDULED,Tottenham Hotspur FC,73,Sunderland AFC,71,,,,,,,,Tottenham
+2026-01-03_Wolverhampton,537984,2025,20,2026-01-03,SCHEDULED,Wolverhampton Wanderers FC,76,West Ham United FC,563,,,,,,,,Wolverhampton
+2026-01-07_Bournemouth,537985,2025,21,2026-01-07,SCHEDULED,Bournemouth,1044,Tottenham Hotspur FC,73,,,,,,,,Bournemouth
+2026-01-07_Crystal,537986,2025,21,2026-01-07,SCHEDULED,Crystal Palace FC,354,Aston Villa FC,58,,,,,,,,Crystal
+2026-01-07_Arsenal,537987,2025,21,2026-01-07,SCHEDULED,Arsenal FC,57,Liverpool FC,64,,,,,,,,Arsenal
+2026-01-07_Brentford,537988,2025,21,2026-01-07,SCHEDULED,Brentford FC,402,Sunderland AFC,71,,,,,,,,Brentford
+2026-01-07_Burnley,537989,2025,21,2026-01-07,SCHEDULED,Burnley FC,328,Manchester United FC,66,,,,,,,,Burnley
+2026-01-07_Everton,537990,2025,21,2026-01-07,SCHEDULED,Everton FC,62,Wolverhampton Wanderers FC,76,,,,,,,,Everton
+2026-01-07_Fulham,537991,2025,21,2026-01-07,SCHEDULED,Fulham FC,63,Chelsea FC,61,,,,,,,,Fulham
+2026-01-07_Manchester,537992,2025,21,2026-01-07,SCHEDULED,Manchester City FC,65,Brighton & Hove Albion FC,397,,,,,,,,Manchester
+2026-01-07_Newcastle,537993,2025,21,2026-01-07,SCHEDULED,Newcastle United FC,67,Leeds United FC,341,,,,,,,,Newcastle
+2026-01-07_West,537994,2025,21,2026-01-07,SCHEDULED,West Ham United FC,563,Nottingham Forest FC,351,,,,,,,,West
+2026-01-17_Sunderland,537995,2025,22,2026-01-17,SCHEDULED,Sunderland AFC,71,Crystal Palace FC,354,,,,,,,,Sunderland
+2026-01-17_Aston,537996,2025,22,2026-01-17,SCHEDULED,Aston Villa FC,58,Everton FC,62,,,,,,,,Aston
+2026-01-17_Brighton,537997,2025,22,2026-01-17,SCHEDULED,Brighton & Hove Albion FC,397,Bournemouth,1044,,,,,,,,Brighton
+2026-01-17_Chelsea,537998,2025,22,2026-01-17,SCHEDULED,Chelsea FC,61,Brentford FC,402,,,,,,,,Chelsea
+2026-01-17_Liverpool,537999,2025,22,2026-01-17,SCHEDULED,Liverpool FC,64,Burnley FC,328,,,,,,,,Liverpool
+2026-01-17_Leeds,538000,2025,22,2026-01-17,SCHEDULED,Leeds United FC,341,Fulham FC,63,,,,,,,,Leeds
+2026-01-17_Manchester,538001,2025,22,2026-01-17,SCHEDULED,Manchester United FC,66,Manchester City FC,65,,,,,,,,Manchester
+2026-01-17_Nottingham,538002,2025,22,2026-01-17,SCHEDULED,Nottingham Forest FC,351,Arsenal FC,57,,,,,,,,Nottingham
+2026-01-17_Tottenham,538003,2025,22,2026-01-17,SCHEDULED,Tottenham Hotspur FC,73,West Ham United FC,563,,,,,,,,Tottenham
+2026-01-17_Wolverhampton,538004,2025,22,2026-01-17,SCHEDULED,Wolverhampton Wanderers FC,76,Newcastle United FC,67,,,,,,,,Wolverhampton
+2026-01-24_Bournemouth,538005,2025,23,2026-01-24,SCHEDULED,Bournemouth,1044,Liverpool FC,64,,,,,,,,Bournemouth
+2026-01-24_Crystal,538006,2025,23,2026-01-24,SCHEDULED,Crystal Palace FC,354,Chelsea FC,61,,,,,,,,Crystal
+2026-01-24_Arsenal,538007,2025,23,2026-01-24,SCHEDULED,Arsenal FC,57,Manchester United FC,66,,,,,,,,Arsenal
+2026-01-24_Brentford,538008,2025,23,2026-01-24,SCHEDULED,Brentford FC,402,Nottingham Forest FC,351,,,,,,,,Brentford
+2026-01-24_Burnley,538009,2025,23,2026-01-24,SCHEDULED,Burnley FC,328,Tottenham Hotspur FC,73,,,,,,,,Burnley
+2026-01-24_Everton,538010,2025,23,2026-01-24,SCHEDULED,Everton FC,62,Leeds United FC,341,,,,,,,,Everton
+2026-01-24_Fulham,538011,2025,23,2026-01-24,SCHEDULED,Fulham FC,63,Brighton & Hove Albion FC,397,,,,,,,,Fulham
+2026-01-24_Manchester,538012,2025,23,2026-01-24,SCHEDULED,Manchester City FC,65,Wolverhampton Wanderers FC,76,,,,,,,,Manchester
+2026-01-24_Newcastle,538013,2025,23,2026-01-24,SCHEDULED,Newcastle United FC,67,Aston Villa FC,58,,,,,,,,Newcastle
+2026-01-24_West,538014,2025,23,2026-01-24,SCHEDULED,West Ham United FC,563,Sunderland AFC,71,,,,,,,,West
+2026-01-31_Sunderland,538015,2025,24,2026-01-31,SCHEDULED,Sunderland AFC,71,Burnley FC,328,,,,,,,,Sunderland
+2026-01-31_Aston,538016,2025,24,2026-01-31,SCHEDULED,Aston Villa FC,58,Brentford FC,402,,,,,,,,Aston
+2026-01-31_Brighton,538017,2025,24,2026-01-31,SCHEDULED,Brighton & Hove Albion FC,397,Everton FC,62,,,,,,,,Brighton
+2026-01-31_Chelsea,538018,2025,24,2026-01-31,SCHEDULED,Chelsea FC,61,West Ham United FC,563,,,,,,,,Chelsea
+2026-01-31_Liverpool,538019,2025,24,2026-01-31,SCHEDULED,Liverpool FC,64,Newcastle United FC,67,,,,,,,,Liverpool
+2026-01-31_Leeds,538020,2025,24,2026-01-31,SCHEDULED,Leeds United FC,341,Arsenal FC,57,,,,,,,,Leeds
+2026-01-31_Manchester,538021,2025,24,2026-01-31,SCHEDULED,Manchester United FC,66,Fulham FC,63,,,,,,,,Manchester
+2026-01-31_Nottingham,538022,2025,24,2026-01-31,SCHEDULED,Nottingham Forest FC,351,Crystal Palace FC,354,,,,,,,,Nottingham
+2026-01-31_Tottenham,538023,2025,24,2026-01-31,SCHEDULED,Tottenham Hotspur FC,73,Manchester City FC,65,,,,,,,,Tottenham
+2026-01-31_Wolverhampton,538024,2025,24,2026-01-31,SCHEDULED,Wolverhampton Wanderers FC,76,Bournemouth,1044,,,,,,,,Wolverhampton
+2026-02-07_Bournemouth,538025,2025,25,2026-02-07,SCHEDULED,Bournemouth,1044,Aston Villa FC,58,,,,,,,,Bournemouth
+2026-02-07_Brighton,538026,2025,25,2026-02-07,SCHEDULED,Brighton & Hove Albion FC,397,Crystal Palace FC,354,,,,,,,,Brighton
+2026-02-07_Arsenal,538027,2025,25,2026-02-07,SCHEDULED,Arsenal FC,57,Sunderland AFC,71,,,,,,,,Arsenal
+2026-02-07_Burnley,538028,2025,25,2026-02-07,SCHEDULED,Burnley FC,328,West Ham United FC,563,,,,,,,,Burnley
+2026-02-07_Fulham,538029,2025,25,2026-02-07,SCHEDULED,Fulham FC,63,Everton FC,62,,,,,,,,Fulham
+2026-02-07_Liverpool,538030,2025,25,2026-02-07,SCHEDULED,Liverpool FC,64,Manchester City FC,65,,,,,,,,Liverpool
+2026-02-07_Leeds,538031,2025,25,2026-02-07,SCHEDULED,Leeds United FC,341,Nottingham Forest FC,351,,,,,,,,Leeds
+2026-02-07_Manchester,538032,2025,25,2026-02-07,SCHEDULED,Manchester United FC,66,Tottenham Hotspur FC,73,,,,,,,,Manchester
+2026-02-07_Newcastle,538033,2025,25,2026-02-07,SCHEDULED,Newcastle United FC,67,Brentford FC,402,,,,,,,,Newcastle
+2026-02-07_Wolverhampton,538034,2025,25,2026-02-07,SCHEDULED,Wolverhampton Wanderers FC,76,Chelsea FC,61,,,,,,,,Wolverhampton
+2026-02-11_Sunderland,538035,2025,26,2026-02-11,SCHEDULED,Sunderland AFC,71,Liverpool FC,64,,,,,,,,Sunderland
+2026-02-11_Aston,538036,2025,26,2026-02-11,SCHEDULED,Aston Villa FC,58,Brighton & Hove Albion FC,397,,,,,,,,Aston
+2026-02-11_Crystal,538037,2025,26,2026-02-11,SCHEDULED,Crystal Palace FC,354,Burnley FC,328,,,,,,,,Crystal
+2026-02-11_Brentford,538038,2025,26,2026-02-11,SCHEDULED,Brentford FC,402,Arsenal FC,57,,,,,,,,Brentford
+2026-02-11_Chelsea,538039,2025,26,2026-02-11,SCHEDULED,Chelsea FC,61,Leeds United FC,341,,,,,,,,Chelsea
+2026-02-11_Everton,538040,2025,26,2026-02-11,SCHEDULED,Everton FC,62,Bournemouth,1044,,,,,,,,Everton
+2026-02-11_Manchester,538041,2025,26,2026-02-11,SCHEDULED,Manchester City FC,65,Fulham FC,63,,,,,,,,Manchester
+2026-02-11_Nottingham,538042,2025,26,2026-02-11,SCHEDULED,Nottingham Forest FC,351,Wolverhampton Wanderers FC,76,,,,,,,,Nottingham
+2026-02-11_Tottenham,538043,2025,26,2026-02-11,SCHEDULED,Tottenham Hotspur FC,73,Newcastle United FC,67,,,,,,,,Tottenham
+2026-02-11_West,538044,2025,26,2026-02-11,SCHEDULED,West Ham United FC,563,Manchester United FC,66,,,,,,,,West
+2026-02-21_Sunderland,538045,2025,27,2026-02-21,SCHEDULED,Sunderland AFC,71,Fulham FC,63,,,,,,,,Sunderland
+2026-02-21_Aston,538046,2025,27,2026-02-21,SCHEDULED,Aston Villa FC,58,Leeds United FC,341,,,,,,,,Aston
+2026-02-21_Crystal,538047,2025,27,2026-02-21,SCHEDULED,Crystal Palace FC,354,Wolverhampton Wanderers FC,76,,,,,,,,Crystal
+2026-02-21_Brentford,538048,2025,27,2026-02-21,SCHEDULED,Brentford FC,402,Brighton & Hove Albion FC,397,,,,,,,,Brentford
+2026-02-21_Chelsea,538049,2025,27,2026-02-21,SCHEDULED,Chelsea FC,61,Burnley FC,328,,,,,,,,Chelsea
+2026-02-21_Everton,538050,2025,27,2026-02-21,SCHEDULED,Everton FC,62,Manchester United FC,66,,,,,,,,Everton
+2026-02-21_Manchester,538051,2025,27,2026-02-21,SCHEDULED,Manchester City FC,65,Newcastle United FC,67,,,,,,,,Manchester
+2026-02-21_Nottingham,538052,2025,27,2026-02-21,SCHEDULED,Nottingham Forest FC,351,Liverpool FC,64,,,,,,,,Nottingham
+2026-02-21_Tottenham,538053,2025,27,2026-02-21,SCHEDULED,Tottenham Hotspur FC,73,Arsenal FC,57,,,,,,,,Tottenham
+2026-02-21_West,538054,2025,27,2026-02-21,SCHEDULED,West Ham United FC,563,Bournemouth,1044,,,,,,,,West
+2026-02-28_Bournemouth,538055,2025,28,2026-02-28,SCHEDULED,Bournemouth,1044,Sunderland AFC,71,,,,,,,,Bournemouth
+2026-02-28_Brighton,538056,2025,28,2026-02-28,SCHEDULED,Brighton & Hove Albion FC,397,Nottingham Forest FC,351,,,,,,,,Brighton
+2026-02-28_Arsenal,538057,2025,28,2026-02-28,SCHEDULED,Arsenal FC,57,Chelsea FC,61,,,,,,,,Arsenal
+2026-02-28_Burnley,538058,2025,28,2026-02-28,SCHEDULED,Burnley FC,328,Brentford FC,402,,,,,,,,Burnley
+2026-02-28_Fulham,538059,2025,28,2026-02-28,SCHEDULED,Fulham FC,63,Tottenham Hotspur FC,73,,,,,,,,Fulham
+2026-02-28_Liverpool,538060,2025,28,2026-02-28,SCHEDULED,Liverpool FC,64,West Ham United FC,563,,,,,,,,Liverpool
+2026-02-28_Leeds,538061,2025,28,2026-02-28,SCHEDULED,Leeds United FC,341,Manchester City FC,65,,,,,,,,Leeds
+2026-02-28_Manchester,538062,2025,28,2026-02-28,SCHEDULED,Manchester United FC,66,Crystal Palace FC,354,,,,,,,,Manchester
+2026-02-28_Newcastle,538063,2025,28,2026-02-28,SCHEDULED,Newcastle United FC,67,Everton FC,62,,,,,,,,Newcastle
+2026-02-28_Wolverhampton,538064,2025,28,2026-02-28,SCHEDULED,Wolverhampton Wanderers FC,76,Aston Villa FC,58,,,,,,,,Wolverhampton
+2026-03-04_Bournemouth,538065,2025,29,2026-03-04,SCHEDULED,Bournemouth,1044,Brentford FC,402,,,,,,,,Bournemouth
+2026-03-04_Aston,538066,2025,29,2026-03-04,SCHEDULED,Aston Villa FC,58,Chelsea FC,61,,,,,,,,Aston
+2026-03-04_Brighton,538067,2025,29,2026-03-04,SCHEDULED,Brighton & Hove Albion FC,397,Arsenal FC,57,,,,,,,,Brighton
+2026-03-04_Everton,538068,2025,29,2026-03-04,SCHEDULED,Everton FC,62,Burnley FC,328,,,,,,,,Everton
+2026-03-04_Fulham,538069,2025,29,2026-03-04,SCHEDULED,Fulham FC,63,West Ham United FC,563,,,,,,,,Fulham
+2026-03-04_Leeds,538070,2025,29,2026-03-04,SCHEDULED,Leeds United FC,341,Sunderland AFC,71,,,,,,,,Leeds
+2026-03-04_Manchester,538071,2025,29,2026-03-04,SCHEDULED,Manchester City FC,65,Nottingham Forest FC,351,,,,,,,,Manchester
+2026-03-04_Newcastle,538072,2025,29,2026-03-04,SCHEDULED,Newcastle United FC,67,Manchester United FC,66,,,,,,,,Newcastle
+2026-03-04_Tottenham,538073,2025,29,2026-03-04,SCHEDULED,Tottenham Hotspur FC,73,Crystal Palace FC,354,,,,,,,,Tottenham
+2026-03-04_Wolverhampton,538074,2025,29,2026-03-04,SCHEDULED,Wolverhampton Wanderers FC,76,Liverpool FC,64,,,,,,,,Wolverhampton
+2026-03-14_Sunderland,538075,2025,30,2026-03-14,SCHEDULED,Sunderland AFC,71,Brighton & Hove Albion FC,397,,,,,,,,Sunderland
+2026-03-14_Crystal,538076,2025,30,2026-03-14,SCHEDULED,Crystal Palace FC,354,Leeds United FC,341,,,,,,,,Crystal
+2026-03-14_Arsenal,538077,2025,30,2026-03-14,SCHEDULED,Arsenal FC,57,Everton FC,62,,,,,,,,Arsenal
+2026-03-14_Brentford,538078,2025,30,2026-03-14,SCHEDULED,Brentford FC,402,Wolverhampton Wanderers FC,76,,,,,,,,Brentford
+2026-03-14_Burnley,538079,2025,30,2026-03-14,SCHEDULED,Burnley FC,328,Bournemouth,1044,,,,,,,,Burnley
+2026-03-14_Chelsea,538080,2025,30,2026-03-14,SCHEDULED,Chelsea FC,61,Newcastle United FC,67,,,,,,,,Chelsea
+2026-03-14_Liverpool,538081,2025,30,2026-03-14,SCHEDULED,Liverpool FC,64,Tottenham Hotspur FC,73,,,,,,,,Liverpool
+2026-03-14_Manchester,538082,2025,30,2026-03-14,SCHEDULED,Manchester United FC,66,Aston Villa FC,58,,,,,,,,Manchester
+2026-03-14_Nottingham,538083,2025,30,2026-03-14,SCHEDULED,Nottingham Forest FC,351,Fulham FC,63,,,,,,,,Nottingham
+2026-03-14_West,538084,2025,30,2026-03-14,SCHEDULED,West Ham United FC,563,Manchester City FC,65,,,,,,,,West
+2026-03-21_Bournemouth,538085,2025,31,2026-03-21,SCHEDULED,Bournemouth,1044,Manchester United FC,66,,,,,,,,Bournemouth
+2026-03-21_Aston,538086,2025,31,2026-03-21,SCHEDULED,Aston Villa FC,58,West Ham United FC,563,,,,,,,,Aston
+2026-03-21_Brighton,538087,2025,31,2026-03-21,SCHEDULED,Brighton & Hove Albion FC,397,Liverpool FC,64,,,,,,,,Brighton
+2026-03-21_Everton,538088,2025,31,2026-03-21,SCHEDULED,Everton FC,62,Chelsea FC,61,,,,,,,,Everton
+2026-03-21_Fulham,538089,2025,31,2026-03-21,SCHEDULED,Fulham FC,63,Burnley FC,328,,,,,,,,Fulham
+2026-03-21_Leeds,538090,2025,31,2026-03-21,SCHEDULED,Leeds United FC,341,Brentford FC,402,,,,,,,,Leeds
+2026-03-21_Manchester,538091,2025,31,2026-03-21,SCHEDULED,Manchester City FC,65,Crystal Palace FC,354,,,,,,,,Manchester
+2026-03-21_Newcastle,538092,2025,31,2026-03-21,SCHEDULED,Newcastle United FC,67,Sunderland AFC,71,,,,,,,,Newcastle
+2026-03-21_Tottenham,538093,2025,31,2026-03-21,SCHEDULED,Tottenham Hotspur FC,73,Nottingham Forest FC,351,,,,,,,,Tottenham
+2026-03-21_Wolverhampton,538094,2025,31,2026-03-21,SCHEDULED,Wolverhampton Wanderers FC,76,Arsenal FC,57,,,,,,,,Wolverhampton
+2026-04-11_Sunderland,538095,2025,32,2026-04-11,SCHEDULED,Sunderland AFC,71,Tottenham Hotspur FC,73,,,,,,,,Sunderland
+2026-04-11_Crystal,538096,2025,32,2026-04-11,SCHEDULED,Crystal Palace FC,354,Newcastle United FC,67,,,,,,,,Crystal
+2026-04-11_Arsenal,538097,2025,32,2026-04-11,SCHEDULED,Arsenal FC,57,Bournemouth,1044,,,,,,,,Arsenal
+2026-04-11_Brentford,538098,2025,32,2026-04-11,SCHEDULED,Brentford FC,402,Everton FC,62,,,,,,,,Brentford
+2026-04-11_Burnley,538099,2025,32,2026-04-11,SCHEDULED,Burnley FC,328,Brighton & Hove Albion FC,397,,,,,,,,Burnley
+2026-04-11_Chelsea,538100,2025,32,2026-04-11,SCHEDULED,Chelsea FC,61,Manchester City FC,65,,,,,,,,Chelsea
+2026-04-11_Liverpool,538101,2025,32,2026-04-11,SCHEDULED,Liverpool FC,64,Fulham FC,63,,,,,,,,Liverpool
+2026-04-11_Manchester,538102,2025,32,2026-04-11,SCHEDULED,Manchester United FC,66,Leeds United FC,341,,,,,,,,Manchester
+2026-04-11_Nottingham,538103,2025,32,2026-04-11,SCHEDULED,Nottingham Forest FC,351,Aston Villa FC,58,,,,,,,,Nottingham
+2026-04-11_West,538104,2025,32,2026-04-11,SCHEDULED,West Ham United FC,563,Wolverhampton Wanderers FC,76,,,,,,,,West
+2026-04-18_Newcastle,538112,2025,33,2026-04-18,SCHEDULED,Newcastle United FC,67,Bournemouth,1044,,,,,,,,Newcastle
+2026-04-18_Nottingham,538113,2025,33,2026-04-18,SCHEDULED,Nottingham Forest FC,351,Burnley FC,328,,,,,,,,Nottingham
+2026-04-18_Tottenham,538114,2025,33,2026-04-18,SCHEDULED,Tottenham Hotspur FC,73,Brighton & Hove Albion FC,397,,,,,,,,Tottenham
+2026-04-18_Aston,538105,2025,33,2026-04-18,SCHEDULED,Aston Villa FC,58,Sunderland AFC,71,,,,,,,,Aston
+2026-04-18_Crystal,538106,2025,33,2026-04-18,SCHEDULED,Crystal Palace FC,354,West Ham United FC,563,,,,,,,,Crystal
+2026-04-18_Brentford,538107,2025,33,2026-04-18,SCHEDULED,Brentford FC,402,Fulham FC,63,,,,,,,,Brentford
+2026-04-18_Chelsea,538108,2025,33,2026-04-18,SCHEDULED,Chelsea FC,61,Manchester United FC,66,,,,,,,,Chelsea
+2026-04-18_Everton,538109,2025,33,2026-04-18,SCHEDULED,Everton FC,62,Liverpool FC,64,,,,,,,,Everton
+2026-04-18_Leeds,538110,2025,33,2026-04-18,SCHEDULED,Leeds United FC,341,Wolverhampton Wanderers FC,76,,,,,,,,Leeds
+2026-04-18_Manchester,538111,2025,33,2026-04-18,SCHEDULED,Manchester City FC,65,Arsenal FC,57,,,,,,,,Manchester
+2026-04-25_Bournemouth,538115,2025,34,2026-04-25,SCHEDULED,Bournemouth,1044,Leeds United FC,341,,,,,,,,Bournemouth
+2026-04-25_Sunderland,538116,2025,34,2026-04-25,SCHEDULED,Sunderland AFC,71,Nottingham Forest FC,351,,,,,,,,Sunderland
+2026-04-25_Brighton,538117,2025,34,2026-04-25,SCHEDULED,Brighton & Hove Albion FC,397,Chelsea FC,61,,,,,,,,Brighton
+2026-04-25_Arsenal,538118,2025,34,2026-04-25,SCHEDULED,Arsenal FC,57,Newcastle United FC,67,,,,,,,,Arsenal
+2026-04-25_Burnley,538119,2025,34,2026-04-25,SCHEDULED,Burnley FC,328,Manchester City FC,65,,,,,,,,Burnley
+2026-04-25_Fulham,538120,2025,34,2026-04-25,SCHEDULED,Fulham FC,63,Aston Villa FC,58,,,,,,,,Fulham
+2026-04-25_Liverpool,538121,2025,34,2026-04-25,SCHEDULED,Liverpool FC,64,Crystal Palace FC,354,,,,,,,,Liverpool
+2026-04-25_Manchester,538122,2025,34,2026-04-25,SCHEDULED,Manchester United FC,66,Brentford FC,402,,,,,,,,Manchester
+2026-04-25_West,538123,2025,34,2026-04-25,SCHEDULED,West Ham United FC,563,Everton FC,62,,,,,,,,West
+2026-04-25_Wolverhampton,538124,2025,34,2026-04-25,SCHEDULED,Wolverhampton Wanderers FC,76,Tottenham Hotspur FC,73,,,,,,,,Wolverhampton
+2026-05-02_Bournemouth,538125,2025,35,2026-05-02,SCHEDULED,Bournemouth,1044,Crystal Palace FC,354,,,,,,,,Bournemouth
+2026-05-02_Aston,538126,2025,35,2026-05-02,SCHEDULED,Aston Villa FC,58,Tottenham Hotspur FC,73,,,,,,,,Aston
+2026-05-02_Arsenal,538127,2025,35,2026-05-02,SCHEDULED,Arsenal FC,57,Fulham FC,63,,,,,,,,Arsenal
+2026-05-02_Brentford,538128,2025,35,2026-05-02,SCHEDULED,Brentford FC,402,West Ham United FC,563,,,,,,,,Brentford
+2026-05-02_Chelsea,538129,2025,35,2026-05-02,SCHEDULED,Chelsea FC,61,Nottingham Forest FC,351,,,,,,,,Chelsea
+2026-05-02_Everton,538130,2025,35,2026-05-02,SCHEDULED,Everton FC,62,Manchester City FC,65,,,,,,,,Everton
+2026-05-02_Leeds,538131,2025,35,2026-05-02,SCHEDULED,Leeds United FC,341,Burnley FC,328,,,,,,,,Leeds
+2026-05-02_Manchester,538132,2025,35,2026-05-02,SCHEDULED,Manchester United FC,66,Liverpool FC,64,,,,,,,,Manchester
+2026-05-02_Newcastle,538133,2025,35,2026-05-02,SCHEDULED,Newcastle United FC,67,Brighton & Hove Albion FC,397,,,,,,,,Newcastle
+2026-05-02_Wolverhampton,538134,2025,35,2026-05-02,SCHEDULED,Wolverhampton Wanderers FC,76,Sunderland AFC,71,,,,,,,,Wolverhampton
+2026-05-09_Sunderland,538135,2025,36,2026-05-09,SCHEDULED,Sunderland AFC,71,Manchester United FC,66,,,,,,,,Sunderland
+2026-05-09_Brighton,538136,2025,36,2026-05-09,SCHEDULED,Brighton & Hove Albion FC,397,Wolverhampton Wanderers FC,76,,,,,,,,Brighton
+2026-05-09_Crystal,538137,2025,36,2026-05-09,SCHEDULED,Crystal Palace FC,354,Everton FC,62,,,,,,,,Crystal
+2026-05-09_Burnley,538138,2025,36,2026-05-09,SCHEDULED,Burnley FC,328,Aston Villa FC,58,,,,,,,,Burnley
+2026-05-09_Fulham,538139,2025,36,2026-05-09,SCHEDULED,Fulham FC,63,Bournemouth,1044,,,,,,,,Fulham
+2026-05-09_Liverpool,538140,2025,36,2026-05-09,SCHEDULED,Liverpool FC,64,Chelsea FC,61,,,,,,,,Liverpool
+2026-05-09_Manchester,538141,2025,36,2026-05-09,SCHEDULED,Manchester City FC,65,Brentford FC,402,,,,,,,,Manchester
+2026-05-09_Nottingham,538142,2025,36,2026-05-09,SCHEDULED,Nottingham Forest FC,351,Newcastle United FC,67,,,,,,,,Nottingham
+2026-05-09_Tottenham,538143,2025,36,2026-05-09,SCHEDULED,Tottenham Hotspur FC,73,Leeds United FC,341,,,,,,,,Tottenham
+2026-05-09_West,538144,2025,36,2026-05-09,SCHEDULED,West Ham United FC,563,Arsenal FC,57,,,,,,,,West
+2026-05-17_Bournemouth,538145,2025,37,2026-05-17,SCHEDULED,Bournemouth,1044,Manchester City FC,65,,,,,,,,Bournemouth
+2026-05-17_Aston,538146,2025,37,2026-05-17,SCHEDULED,Aston Villa FC,58,Liverpool FC,64,,,,,,,,Aston
+2026-05-17_Arsenal,538147,2025,37,2026-05-17,SCHEDULED,Arsenal FC,57,Burnley FC,328,,,,,,,,Arsenal
+2026-05-17_Brentford,538148,2025,37,2026-05-17,SCHEDULED,Brentford FC,402,Crystal Palace FC,354,,,,,,,,Brentford
+2026-05-17_Chelsea,538149,2025,37,2026-05-17,SCHEDULED,Chelsea FC,61,Tottenham Hotspur FC,73,,,,,,,,Chelsea
+2026-05-17_Everton,538150,2025,37,2026-05-17,SCHEDULED,Everton FC,62,Sunderland AFC,71,,,,,,,,Everton
+2026-05-17_Leeds,538151,2025,37,2026-05-17,SCHEDULED,Leeds United FC,341,Brighton & Hove Albion FC,397,,,,,,,,Leeds
+2026-05-17_Manchester,538152,2025,37,2026-05-17,SCHEDULED,Manchester United FC,66,Nottingham Forest FC,351,,,,,,,,Manchester
+2026-05-17_Newcastle,538153,2025,37,2026-05-17,SCHEDULED,Newcastle United FC,67,West Ham United FC,563,,,,,,,,Newcastle
+2026-05-17_Wolverhampton,538154,2025,37,2026-05-17,SCHEDULED,Wolverhampton Wanderers FC,76,Fulham FC,63,,,,,,,,Wolverhampton
+2026-05-24_Sunderland,538155,2025,38,2026-05-24,SCHEDULED,Sunderland AFC,71,Chelsea FC,61,,,,,,,,Sunderland
+2026-05-24_Brighton,538156,2025,38,2026-05-24,SCHEDULED,Brighton & Hove Albion FC,397,Manchester United FC,66,,,,,,,,Brighton
+2026-05-24_Crystal,538157,2025,38,2026-05-24,SCHEDULED,Crystal Palace FC,354,Arsenal FC,57,,,,,,,,Crystal
+2026-05-24_Burnley,538158,2025,38,2026-05-24,SCHEDULED,Burnley FC,328,Wolverhampton Wanderers FC,76,,,,,,,,Burnley
+2026-05-24_Fulham,538159,2025,38,2026-05-24,SCHEDULED,Fulham FC,63,Newcastle United FC,67,,,,,,,,Fulham
+2026-05-24_Liverpool,538160,2025,38,2026-05-24,SCHEDULED,Liverpool FC,64,Brentford FC,402,,,,,,,,Liverpool
+2026-05-24_Manchester,538161,2025,38,2026-05-24,SCHEDULED,Manchester City FC,65,Aston Villa FC,58,,,,,,,,Manchester
+2026-05-24_Nottingham,538162,2025,38,2026-05-24,SCHEDULED,Nottingham Forest FC,351,Bournemouth,1044,,,,,,,,Nottingham
+2026-05-24_Tottenham,538163,2025,38,2026-05-24,SCHEDULED,Tottenham Hotspur FC,73,Everton FC,62,,,,,,,,Tottenham
+2026-05-24_West,538164,2025,38,2026-05-24,SCHEDULED,West Ham United FC,563,Leeds United FC,341,,,,,,,,West

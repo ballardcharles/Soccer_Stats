@@ -1,0 +1,381 @@
+join_key,match_id,date,home_team,away_team,home_goals,away_goals,home_xg,away_xg,season,Match,home_team_shortened,referee,matchday
+2023-08-11_Burnley,22275,2023-08-11,Burnley,Manchester City,0,3,0.311032,2.40074,2023,Burnley v Manchester City,Burnley,Craig Pawson,1
+2023-08-12_Arsenal,22276,2023-08-12,Arsenal,Nottingham Forest,2,1,0.84262,0.966305,2023,Arsenal v Nottingham Forest,Arsenal,Michael Oliver,1
+2023-08-12_Bournemouth,22277,2023-08-12,Bournemouth,West Ham,1,1,1.51025,1.4834,2023,Bournemouth v West Ham,Bournemouth,Peter Bankes,1
+2023-08-12_Brighton,22278,2023-08-12,Brighton,Luton,4,1,4.36748,1.88594,2023,Brighton v Luton,Brighton,David Coote,1
+2023-08-12_Everton,22279,2023-08-12,Everton,Fulham,0,1,2.59001,1.58144,2023,Everton v Fulham,Everton,Stuart Attwell,1
+2023-08-12_Sheffield,22280,2023-08-12,Sheffield United,Crystal Palace,0,1,0.422704,2.27616,2023,Sheffield United v Crystal Palace,Sheffield,John Brooks,1
+2023-08-12_Newcastle,22281,2023-08-12,Newcastle United,Aston Villa,5,1,4.32208,1.486,2023,Newcastle United v Aston Villa,Newcastle,Andy Madley,1
+2023-08-13_Brentford,22282,2023-08-13,Brentford,Tottenham,2,2,1.90756,1.45316,2023,Brentford v Tottenham,Brentford,Robert Jones,1
+2023-08-13_Chelsea,22283,2023-08-13,Chelsea,Liverpool,1,1,1.93258,1.29994,2023,Chelsea v Liverpool,Chelsea,Anthony Taylor,1
+2023-08-14_Manchester,22284,2023-08-14,Manchester United,Wolverhampton Wanderers,1,0,1.97087,1.72228,2023,Manchester United v Wolverhampton Wanderers,Manchester,Simon Hooper,1
+2023-08-18_Nottingham,22285,2023-08-18,Nottingham Forest,Sheffield United,2,1,1.37181,0.551038,2023,Nottingham Forest v Sheffield United,Nottingham,Peter Bankes,2
+2023-08-19_Wolverhampton,22286,2023-08-19,Wolverhampton Wanderers,Brighton,1,4,2.68821,3.15562,2023,Wolverhampton Wanderers v Brighton,Wolverhampton,Andy Madley,2
+2023-08-19_Fulham,22287,2023-08-19,Fulham,Brentford,0,3,0.399899,3.46888,2023,Fulham v Brentford,Fulham,Darren Bond,2
+2023-08-19_Liverpool,22288,2023-08-19,Liverpool,Bournemouth,3,1,3.25448,1.3867,2023,Liverpool v Bournemouth,Liverpool,Thomas Bramall,2
+2023-08-19_Tottenham,22290,2023-08-19,Tottenham,Manchester United,2,0,2.53904,2.44604,2023,Tottenham v Manchester United,Tottenham,Michael Oliver,2
+2023-08-19_Manchester,22291,2023-08-19,Manchester City,Newcastle United,1,0,1.22528,0.257154,2023,Manchester City v Newcastle United,Manchester,Robert Jones,2
+2023-08-20_Aston,22292,2023-08-20,Aston Villa,Everton,4,0,3.24336,0.721465,2023,Aston Villa v Everton,Aston,Anthony Taylor,2
+2023-08-20_West,22293,2023-08-20,West Ham,Chelsea,3,1,1.71234,1.60916,2023,West Ham v Chelsea,West,John Brooks,2
+2023-08-21_Crystal,22294,2023-08-21,Crystal Palace,Arsenal,0,1,1.06916,2.20593,2023,Crystal Palace v Arsenal,Crystal,David Coote,2
+2023-08-25_Chelsea,22295,2023-08-25,Chelsea,Luton,3,0,3.41419,0.465741,2023,Chelsea v Luton,Chelsea,Robert Jones,3
+2023-08-26_Bournemouth,22296,2023-08-26,Bournemouth,Tottenham,0,2,0.483582,2.26115,2023,Bournemouth v Tottenham,Bournemouth,Tim Robinson,3
+2023-08-26_Arsenal,22297,2023-08-26,Arsenal,Fulham,2,2,3.23088,0.849817,2023,Arsenal v Fulham,Arsenal,Paul Tierney,3
+2023-08-26_Brentford,22298,2023-08-26,Brentford,Crystal Palace,1,1,0.948011,1.06061,2023,Brentford v Crystal Palace,Brentford,Peter Bankes,3
+2023-08-26_Everton,22299,2023-08-26,Everton,Wolverhampton Wanderers,0,1,1.89792,1.40228,2023,Everton v Wolverhampton Wanderers,Everton,Craig Pawson,3
+2023-08-26_Manchester,22300,2023-08-26,Manchester United,Nottingham Forest,3,2,3.02803,0.960354,2023,Manchester United v Nottingham Forest,Manchester,Stuart Attwell,3
+2023-08-26_Brighton,22301,2023-08-26,Brighton,West Ham,1,3,1.3743,2.9527,2023,Brighton v West Ham,Brighton,Anthony Taylor,3
+2023-08-27_Burnley,22302,2023-08-27,Burnley,Aston Villa,1,3,0.630605,2.83691,2023,Burnley v Aston Villa,Burnley,Michael Salisbury,3
+2023-08-27_Sheffield,22303,2023-08-27,Sheffield United,Manchester City,1,2,0.762232,3.84804,2023,Sheffield United v Manchester City,Sheffield,Jarred Gillett,3
+2023-08-27_Newcastle,22304,2023-08-27,Newcastle United,Liverpool,1,2,1.62037,0.856121,2023,Newcastle United v Liverpool,Newcastle,John Brooks,3
+2023-09-01_Luton,21925,2023-09-01,Luton,West Ham,1,2,2.02244,1.22528,2023,Luton v West Ham,Luton,Paul Tierney,4
+2023-09-02_Sheffield,21926,2023-09-02,Sheffield United,Everton,2,2,1.575,2.73871,2023,Sheffield United v Everton,Sheffield,Andy Madley,4
+2023-09-02_Manchester,21927,2023-09-02,Manchester City,Fulham,5,1,2.00152,1.46427,2023,Manchester City v Fulham,Manchester,Michael Oliver,4
+2023-09-02_Brentford,21928,2023-09-02,Brentford,Bournemouth,2,2,3.07185,2.11013,2023,Brentford v Bournemouth,Brentford,Bobby Madley,4
+2023-09-02_Burnley,21929,2023-09-02,Burnley,Tottenham,2,5,1.66604,2.39785,2023,Burnley v Tottenham,Burnley,Darren England,4
+2023-09-02_Chelsea,21930,2023-09-02,Chelsea,Nottingham Forest,0,1,2.28442,1.1505,2023,Chelsea v Nottingham Forest,Chelsea,Tim Robinson,4
+2023-09-02_Brighton,21931,2023-09-02,Brighton,Newcastle United,3,1,1.32258,0.90476,2023,Brighton v Newcastle United,Brighton,Stuart Attwell,4
+2023-09-03_Crystal,21932,2023-09-03,Crystal Palace,Wolverhampton Wanderers,3,2,2.32935,1.13911,2023,Crystal Palace v Wolverhampton Wanderers,Crystal,Robert Jones,4
+2023-09-03_Liverpool,21933,2023-09-03,Liverpool,Aston Villa,3,0,2.73138,0.615503,2023,Liverpool v Aston Villa,Liverpool,Simon Hooper,4
+2023-09-03_Arsenal,21934,2023-09-03,Arsenal,Manchester United,3,1,1.90973,0.966109,2023,Arsenal v Manchester United,Arsenal,Anthony Taylor,4
+2023-09-16_Wolverhampton,21935,2023-09-16,Wolverhampton Wanderers,Liverpool,1,3,0.538833,2.82701,2023,Wolverhampton Wanderers v Liverpool,Wolverhampton,Michael Oliver,5
+2023-09-16_Tottenham,21936,2023-09-16,Tottenham,Sheffield United,2,1,2.15909,0.790655,2023,Tottenham v Sheffield United,Tottenham,Peter Bankes,5
+2023-09-16_West,21937,2023-09-16,West Ham,Manchester City,1,3,0.895632,4.15046,2023,West Ham v Manchester City,West,Andy Madley,5
+2023-09-16_Aston,21938,2023-09-16,Aston Villa,Crystal Palace,3,1,2.31518,1.11696,2023,Aston Villa v Crystal Palace,Aston,Darren England,5
+2023-09-16_Fulham,21939,2023-09-16,Fulham,Luton,1,0,1.75704,1.45705,2023,Fulham v Luton,Fulham,Michael Salisbury,5
+2023-09-16_Manchester,21940,2023-09-16,Manchester United,Brighton,1,3,0.719951,1.93908,2023,Manchester United v Brighton,Manchester,Jarred Gillett,5
+2023-09-16_Newcastle,21943,2023-09-16,Newcastle United,Brentford,1,0,1.50126,0.633678,2023,Newcastle United v Brentford,Newcastle,Craig Pawson,5
+2023-09-17_Bournemouth,21942,2023-09-17,Bournemouth,Chelsea,0,0,1.32515,1.39677,2023,Bournemouth v Chelsea,Bournemouth,David Coote,5
+2023-09-17_Everton,21941,2023-09-17,Everton,Arsenal,0,1,0.28317,0.802605,2023,Everton v Arsenal,Everton,Simon Hooper,5
+2023-09-18_Nottingham,21944,2023-09-18,Nottingham Forest,Burnley,1,1,0.705795,0.807651,2023,Nottingham Forest v Burnley,Nottingham,Robert Jones,5
+2023-09-23_Luton,21945,2023-09-23,Luton,Wolverhampton Wanderers,1,1,2.24101,0.762984,2023,Luton v Wolverhampton Wanderers,Luton,Josh Smith,6
+2023-09-23_Manchester,21946,2023-09-23,Manchester City,Nottingham Forest,2,0,1.33984,0.729109,2023,Manchester City v Nottingham Forest,Manchester,Anthony Taylor,6
+2023-09-23_Crystal,21948,2023-09-23,Crystal Palace,Fulham,0,0,0.37236,0.542678,2023,Crystal Palace v Fulham,Crystal,Paul Tierney,6
+2023-09-23_Brentford,21949,2023-09-23,Brentford,Everton,1,3,1.57402,2.51497,2023,Brentford v Everton,Brentford,Michael Oliver,6
+2023-09-23_Burnley,21950,2023-09-23,Burnley,Manchester United,0,1,0.935444,0.840273,2023,Burnley v Manchester United,Burnley,Tony Harrington,6
+2023-09-24_Chelsea,21947,2023-09-24,Chelsea,Aston Villa,0,1,1.19716,1.13479,2023,Chelsea v Aston Villa,Chelsea,Jarred Gillett,6
+2023-09-24_Brighton,21951,2023-09-24,Brighton,Bournemouth,3,1,2.14533,1.58984,2023,Brighton v Bournemouth,Brighton,John Brooks,6
+2023-09-24_Arsenal,21952,2023-09-24,Arsenal,Tottenham,2,2,2.3429,2.21166,2023,Arsenal v Tottenham,Arsenal,Robert Jones,6
+2023-09-24_Liverpool,21953,2023-09-24,Liverpool,West Ham,3,1,4.14262,1.53878,2023,Liverpool v West Ham,Liverpool,Chris Kavanagh,6
+2023-09-24_Sheffield,21954,2023-09-24,Sheffield United,Newcastle United,0,8,0.579392,5.1082,2023,Sheffield United v Newcastle United,Sheffield,Stuart Attwell,6
+2023-09-30_Aston,21955,2023-09-30,Aston Villa,Brighton,6,1,1.90746,1.72819,2023,Aston Villa v Brighton,Aston,Andy Madley,7
+2023-09-30_Everton,21956,2023-09-30,Everton,Luton,1,2,3.65377,1.5102,2023,Everton v Luton,Everton,Anthony Taylor,7
+2023-09-30_Manchester,21957,2023-09-30,Manchester United,Crystal Palace,0,1,1.55408,1.19015,2023,Manchester United v Crystal Palace,Manchester,Chris Kavanagh,7
+2023-09-30_Newcastle,21958,2023-09-30,Newcastle United,Burnley,2,0,3.08516,0.801849,2023,Newcastle United v Burnley,Newcastle,Thomas Bramall,7
+2023-09-30_Bournemouth,21959,2023-09-30,Bournemouth,Arsenal,0,4,0.644443,4.0742,2023,Bournemouth v Arsenal,Bournemouth,Michael Salisbury,7
+2023-09-30_West,21960,2023-09-30,West Ham,Sheffield United,2,0,3.19753,0.911997,2023,West Ham v Sheffield United,West,Graham Scott,7
+2023-09-30_Wolverhampton,21961,2023-09-30,Wolverhampton Wanderers,Manchester City,2,1,0.673985,0.98075,2023,Wolverhampton Wanderers v Manchester City,Wolverhampton,Craig Pawson,7
+2023-09-30_Tottenham,21962,2023-09-30,Tottenham,Liverpool,2,1,2.18823,1.12299,2023,Tottenham v Liverpool,Tottenham,Simon Hooper,7
+2023-10-01_Nottingham,21963,2023-10-01,Nottingham Forest,Brentford,1,1,0.800317,1.75862,2023,Nottingham Forest v Brentford,Nottingham,Paul Tierney,7
+2023-10-02_Fulham,21964,2023-10-02,Fulham,Chelsea,0,2,0.889383,1.98461,2023,Fulham v Chelsea,Fulham,Tim Robinson,7
+2023-10-03_Luton,22289,2023-10-03,Luton,Burnley,1,2,1.53058,0.920206,2023,Luton v Burnley,Luton,Peter Bankes,2
+2023-10-07_Luton,21971,2023-10-07,Luton,Tottenham,0,1,0.848118,2.37947,2023,Luton v Tottenham,Luton,John Brooks,8
+2023-10-07_Burnley,21967,2023-10-07,Burnley,Chelsea,1,4,0.956642,1.97566,2023,Burnley v Chelsea,Burnley,Stuart Attwell,8
+2023-10-07_Everton,21969,2023-10-07,Everton,Bournemouth,3,0,3.16482,0.981732,2023,Everton v Bournemouth,Everton,David Coote,8
+2023-10-07_Fulham,21970,2023-10-07,Fulham,Sheffield United,3,1,2.26612,0.251809,2023,Fulham v Sheffield United,Fulham,Sam Barrott,8
+2023-10-07_Manchester,21972,2023-10-07,Manchester United,Brentford,2,1,1.29356,1.02509,2023,Manchester United v Brentford,Manchester,Bobby Madley,8
+2023-10-07_Crystal,21968,2023-10-07,Crystal Palace,Nottingham Forest,0,0,0.982452,1.22105,2023,Crystal Palace v Nottingham Forest,Crystal,Craig Pawson,8
+2023-10-08_Brighton,21966,2023-10-08,Brighton,Liverpool,2,2,2.23187,2.51029,2023,Brighton v Liverpool,Brighton,Anthony Taylor,8
+2023-10-08_West,21973,2023-10-08,West Ham,Newcastle United,2,2,0.931345,1.97865,2023,West Ham v Newcastle United,West,Peter Bankes,8
+2023-10-08_Wolverhampton,21974,2023-10-08,Wolverhampton Wanderers,Aston Villa,1,1,1.76232,1.81618,2023,Wolverhampton Wanderers v Aston Villa,Wolverhampton,Robert Jones,8
+2023-10-08_Arsenal,21965,2023-10-08,Arsenal,Manchester City,1,0,0.386558,0.858071,2023,Arsenal v Manchester City,Arsenal,Michael Oliver,8
+2023-10-21_Liverpool,21979,2023-10-21,Liverpool,Everton,2,0,2.28568,0.0937725,2023,Liverpool v Everton,Liverpool,Craig Pawson,9
+2023-10-21_Bournemouth,21975,2023-10-21,Bournemouth,Wolverhampton Wanderers,1,2,1.01839,2.30454,2023,Bournemouth v Wolverhampton Wanderers,Bournemouth,Paul Tierney,9
+2023-10-21_Brentford,21977,2023-10-21,Brentford,Burnley,3,0,3.15685,0.693129,2023,Brentford v Burnley,Brentford,Josh Smith,9
+2023-10-21_Manchester,21980,2023-10-21,Manchester City,Brighton,2,1,0.962509,0.963733,2023,Manchester City v Brighton,Manchester,Robert Jones,9
+2023-10-21_Newcastle,21981,2023-10-21,Newcastle United,Crystal Palace,4,0,3.73336,1.08795,2023,Newcastle United v Crystal Palace,Newcastle,Tim Robinson,9
+2023-10-21_Nottingham,21982,2023-10-21,Nottingham Forest,Luton,2,2,3.27549,1.49555,2023,Nottingham Forest v Luton,Nottingham,Sam Barrott,9
+2023-10-21_Chelsea,21978,2023-10-21,Chelsea,Arsenal,2,2,1.71838,1.05791,2023,Chelsea v Arsenal,Chelsea,Chris Kavanagh,9
+2023-10-21_Sheffield,21983,2023-10-21,Sheffield United,Manchester United,1,2,1.41074,1.46187,2023,Sheffield United v Manchester United,Sheffield,Michael Oliver,9
+2023-10-22_Aston,21976,2023-10-22,Aston Villa,West Ham,4,1,2.34143,0.659622,2023,Aston Villa v West Ham,Aston,David Coote,9
+2023-10-23_Tottenham,21984,2023-10-23,Tottenham,Fulham,2,0,1.63523,0.745838,2023,Tottenham v Fulham,Tottenham,Anthony Taylor,9
+2023-10-27_Crystal,21990,2023-10-27,Crystal Palace,Tottenham,1,2,0.561834,0.989103,2023,Crystal Palace v Tottenham,Crystal,Andy Madley,10
+2023-10-28_Chelsea,21989,2023-10-28,Chelsea,Brentford,0,2,1.71801,2.48137,2023,Chelsea v Brentford,Chelsea,Simon Hooper,10
+2023-10-28_Bournemouth,21985,2023-10-28,Bournemouth,Burnley,2,1,1.10052,0.90255,2023,Bournemouth v Burnley,Bournemouth,Sam Barrott,10
+2023-10-28_Arsenal,21986,2023-10-28,Arsenal,Sheffield United,5,0,3.03496,0.0281554,2023,Arsenal v Sheffield United,Arsenal,Tim Robinson,10
+2023-10-28_Wolverhampton,21994,2023-10-28,Wolverhampton Wanderers,Newcastle United,2,2,0.863393,2.31987,2023,Wolverhampton Wanderers v Newcastle United,Wolverhampton,Anthony Taylor,10
+2023-10-29_West,21993,2023-10-29,West Ham,Everton,0,1,0.618578,0.733813,2023,West Ham v Everton,West,Stuart Attwell,10
+2023-10-29_Aston,21987,2023-10-29,Aston Villa,Luton,3,1,3.07654,0.453117,2023,Aston Villa v Luton,Aston,John Brooks,10
+2023-10-29_Brighton,21988,2023-10-29,Brighton,Fulham,1,1,1.31996,0.552523,2023,Brighton v Fulham,Brighton,Michael Salisbury,10
+2023-10-29_Liverpool,21991,2023-10-29,Liverpool,Nottingham Forest,3,0,2.70428,0.642014,2023,Liverpool v Nottingham Forest,Liverpool,Chris Kavanagh,10
+2023-10-29_Manchester,21992,2023-10-29,Manchester United,Manchester City,0,3,0.714628,4.54595,2023,Manchester United v Manchester City,Manchester,Paul Tierney,10
+2023-11-04_Fulham,21998,2023-11-04,Fulham,Manchester United,0,1,1.18241,0.697095,2023,Fulham v Manchester United,Fulham,John Brooks,11
+2023-11-04_Brentford,21995,2023-11-04,Brentford,West Ham,3,2,1.82944,1.75505,2023,Brentford v West Ham,Brentford,Thomas Bramall,11
+2023-11-04_Burnley,21996,2023-11-04,Burnley,Crystal Palace,0,2,1.4998,1.43653,2023,Burnley v Crystal Palace,Burnley,Peter Bankes,11
+2023-11-04_Everton,21997,2023-11-04,Everton,Brighton,1,1,0.617607,0.442489,2023,Everton v Brighton,Everton,Tim Robinson,11
+2023-11-04_Manchester,22000,2023-11-04,Manchester City,Bournemouth,6,1,2.39949,0.643127,2023,Manchester City v Bournemouth,Manchester,Craig Pawson,11
+2023-11-04_Sheffield,22003,2023-11-04,Sheffield United,Wolverhampton Wanderers,2,1,1.10165,1.14803,2023,Sheffield United v Wolverhampton Wanderers,Sheffield,Robert Jones,11
+2023-11-04_Newcastle,22001,2023-11-04,Newcastle United,Arsenal,1,0,1.12355,0.535473,2023,Newcastle United v Arsenal,Newcastle,Stuart Attwell,11
+2023-11-05_Nottingham,22002,2023-11-05,Nottingham Forest,Aston Villa,2,0,0.592447,1.33116,2023,Nottingham Forest v Aston Villa,Nottingham,Jarred Gillett,11
+2023-11-05_Luton,21999,2023-11-05,Luton,Liverpool,1,1,1.3411,3.03925,2023,Luton v Liverpool,Luton,Andy Madley,11
+2023-11-06_Tottenham,22004,2023-11-06,Tottenham,Chelsea,1,4,0.959108,4.05865,2023,Tottenham v Chelsea,Tottenham,Michael Oliver,11
+2023-11-11_Wolverhampton,22014,2023-11-11,Wolverhampton Wanderers,Tottenham,2,1,1.90884,0.432315,2023,Wolverhampton Wanderers v Tottenham,Wolverhampton,Tim Robinson,12
+2023-11-11_Arsenal,22006,2023-11-11,Arsenal,Burnley,3,1,2.63194,0.327706,2023,Arsenal v Burnley,Arsenal,Michael Oliver,12
+2023-11-11_Crystal,22010,2023-11-11,Crystal Palace,Everton,2,3,1.89194,1.7904,2023,Crystal Palace v Everton,Crystal,Sam Barrott,12
+2023-11-11_Manchester,22012,2023-11-11,Manchester United,Luton,1,0,2.74105,0.408265,2023,Manchester United v Luton,Manchester,Graham Scott,12
+2023-11-11_Bournemouth,22005,2023-11-11,Bournemouth,Newcastle United,2,0,2.78424,0.306141,2023,Bournemouth v Newcastle United,Bournemouth,Chris Kavanagh,12
+2023-11-12_Aston,22007,2023-11-12,Aston Villa,Fulham,3,1,2.86039,0.648745,2023,Aston Villa v Fulham,Aston,Simon Hooper,12
+2023-11-12_Brighton,22008,2023-11-12,Brighton,Sheffield United,1,1,1.08601,0.84434,2023,Brighton v Sheffield United,Brighton,John Brooks,12
+2023-11-12_Liverpool,22011,2023-11-12,Liverpool,Brentford,3,0,1.56004,1.44954,2023,Liverpool v Brentford,Liverpool,Paul Tierney,12
+2023-11-12_West,22013,2023-11-12,West Ham,Nottingham Forest,3,2,2.06402,1.42128,2023,West Ham v Nottingham Forest,West,Michael Salisbury,12
+2023-11-12_Chelsea,22009,2023-11-12,Chelsea,Manchester City,4,4,3.47238,3.19324,2023,Chelsea v Manchester City,Chelsea,Anthony Taylor,12
+2023-11-25_Manchester,22020,2023-11-25,Manchester City,Liverpool,1,1,1.79622,0.766278,2023,Manchester City v Liverpool,Manchester,Chris Kavanagh,13
+2023-11-25_Burnley,22016,2023-11-25,Burnley,West Ham,1,2,1.44228,1.36963,2023,Burnley v West Ham,Burnley,Sam Barrott,13
+2023-11-25_Luton,22019,2023-11-25,Luton,Crystal Palace,2,1,0.996153,1.83546,2023,Luton v Crystal Palace,Luton,Jarred Gillett,13
+2023-11-25_Newcastle,22021,2023-11-25,Newcastle United,Chelsea,4,1,2.15227,0.968061,2023,Newcastle United v Chelsea,Newcastle,Simon Hooper,13
+2023-11-25_Nottingham,22022,2023-11-25,Nottingham Forest,Brighton,2,3,2.22655,1.21792,2023,Nottingham Forest v Brighton,Nottingham,Anthony Taylor,13
+2023-11-25_Sheffield,22023,2023-11-25,Sheffield United,Bournemouth,1,3,0.816227,3.13975,2023,Sheffield United v Bournemouth,Sheffield,Bobby Madley,13
+2023-11-25_Brentford,22015,2023-11-25,Brentford,Arsenal,0,1,1.66315,1.82699,2023,Brentford v Arsenal,Brentford,Tim Robinson,13
+2023-11-26_Tottenham,22024,2023-11-26,Tottenham,Aston Villa,1,2,2.22542,2.39755,2023,Tottenham v Aston Villa,Tottenham,Robert Jones,13
+2023-11-26_Everton,22017,2023-11-26,Everton,Manchester United,0,3,2.49764,2.07334,2023,Everton v Manchester United,Everton,John Brooks,13
+2023-11-27_Fulham,22018,2023-11-27,Fulham,Wolverhampton Wanderers,3,2,2.49057,1.57875,2023,Fulham v Wolverhampton Wanderers,Fulham,Michael Salisbury,13
+2023-12-02_Arsenal,22026,2023-12-02,Arsenal,Wolverhampton Wanderers,2,1,3.30368,1.07886,2023,Arsenal v Wolverhampton Wanderers,Arsenal,Peter Bankes,14
+2023-12-02_Brentford,22027,2023-12-02,Brentford,Luton,3,1,3.25952,0.227176,2023,Brentford v Luton,Brentford,Anthony Taylor,14
+2023-12-02_Burnley,22028,2023-12-02,Burnley,Sheffield United,5,0,2.60469,0.618131,2023,Burnley v Sheffield United,Burnley,Chris Kavanagh,14
+2023-12-02_Nottingham,22033,2023-12-02,Nottingham Forest,Everton,0,1,0.673085,0.623789,2023,Nottingham Forest v Everton,Nottingham,Paul Tierney,14
+2023-12-02_Newcastle,22032,2023-12-02,Newcastle United,Manchester United,1,0,2.90191,0.422674,2023,Newcastle United v Manchester United,Newcastle,Robert Jones,14
+2023-12-03_Bournemouth,22025,2023-12-03,Bournemouth,Aston Villa,2,2,2.54937,0.89511,2023,Bournemouth v Aston Villa,Bournemouth,Thomas Bramall,14
+2023-12-03_Chelsea,22029,2023-12-03,Chelsea,Brighton,3,2,1.66304,0.855058,2023,Chelsea v Brighton,Chelsea,Craig Pawson,14
+2023-12-03_Liverpool,22030,2023-12-03,Liverpool,Fulham,4,3,2.72831,1.51005,2023,Liverpool v Fulham,Liverpool,Stuart Attwell,14
+2023-12-03_West,22034,2023-12-03,West Ham,Crystal Palace,1,1,1.1466,0.987682,2023,West Ham v Crystal Palace,West,Michael Oliver,14
+2023-12-03_Manchester,22031,2023-12-03,Manchester City,Tottenham,3,3,2.90729,0.433077,2023,Manchester City v Tottenham,Manchester,Simon Hooper,14
+2023-12-05_Wolverhampton,22042,2023-12-05,Wolverhampton Wanderers,Burnley,1,0,1.11886,0.781542,2023,Wolverhampton Wanderers v Burnley,Wolverhampton,Jarred Gillett,15
+2023-12-05_Luton,22039,2023-12-05,Luton,Arsenal,3,4,0.526254,2.58815,2023,Luton v Arsenal,Luton,Sam Barrott,15
+2023-12-06_Brighton,22036,2023-12-06,Brighton,Brentford,2,1,1.54099,1.22007,2023,Brighton v Brentford,Brighton,Peter Bankes,15
+2023-12-06_Fulham,22038,2023-12-06,Fulham,Nottingham Forest,5,0,3.09427,0.218659,2023,Fulham v Nottingham Forest,Fulham,Josh Smith,15
+2023-12-06_Sheffield,22040,2023-12-06,Sheffield United,Liverpool,0,2,0.834172,1.80116,2023,Sheffield United v Liverpool,Sheffield,Simon Hooper,15
+2023-12-06_Crystal,22043,2023-12-06,Crystal Palace,Bournemouth,0,2,1.26441,1.79997,2023,Crystal Palace v Bournemouth,Crystal,Craig Pawson,15
+2023-12-06_Aston,22035,2023-12-06,Aston Villa,Manchester City,1,0,2.1922,1.00198,2023,Aston Villa v Manchester City,Aston,John Brooks,15
+2023-12-06_Manchester,22044,2023-12-06,Manchester United,Chelsea,2,1,4.03949,2.3512,2023,Manchester United v Chelsea,Manchester,Chris Kavanagh,15
+2023-12-07_Everton,22037,2023-12-07,Everton,Newcastle United,3,0,2.95393,1.29564,2023,Everton v Newcastle United,Everton,Tim Robinson,15
+2023-12-07_Tottenham,22041,2023-12-07,Tottenham,West Ham,1,2,1.61268,1.7409,2023,Tottenham v West Ham,Tottenham,Michael Salisbury,15
+2023-12-09_Crystal,22047,2023-12-09,Crystal Palace,Liverpool,1,2,1.79152,1.3708,2023,Crystal Palace v Liverpool,Crystal,Andy Madley,16
+2023-12-09_Brighton,22046,2023-12-09,Brighton,Burnley,1,1,2.96247,1.05162,2023,Brighton v Burnley,Brighton,Simon Hooper,16
+2023-12-09_Manchester,22051,2023-12-09,Manchester United,Bournemouth,0,3,1.11296,1.9742,2023,Manchester United v Bournemouth,Manchester,Peter Bankes,16
+2023-12-09_Sheffield,22052,2023-12-09,Sheffield United,Brentford,1,0,0.841976,0.644638,2023,Sheffield United v Brentford,Sheffield,Stuart Attwell,16
+2023-12-09_Wolverhampton,22054,2023-12-09,Wolverhampton Wanderers,Nottingham Forest,1,1,1.02199,1.21801,2023,Wolverhampton Wanderers v Nottingham Forest,Wolverhampton,Sam Barrott,16
+2023-12-09_Aston,22045,2023-12-09,Aston Villa,Arsenal,1,0,0.628499,1.71667,2023,Aston Villa v Arsenal,Aston,Jarred Gillett,16
+2023-12-10_Everton,22048,2023-12-10,Everton,Chelsea,2,0,1.11437,0.885512,2023,Everton v Chelsea,Everton,Michael Oliver,16
+2023-12-10_Fulham,22049,2023-12-10,Fulham,West Ham,5,0,2.1884,0.983,2023,Fulham v West Ham,Fulham,Paul Tierney,16
+2023-12-10_Luton,22050,2023-12-10,Luton,Manchester City,1,2,0.689037,2.23353,2023,Luton v Manchester City,Luton,Tim Robinson,16
+2023-12-10_Tottenham,22053,2023-12-10,Tottenham,Newcastle United,4,1,4.40118,1.61368,2023,Tottenham v Newcastle United,Tottenham,Chris Kavanagh,16
+2023-12-15_Nottingham,22063,2023-12-15,Nottingham Forest,Tottenham,0,2,1.70569,1.60738,2023,Nottingham Forest v Tottenham,Nottingham,Jarred Gillett,17
+2023-12-16_Chelsea,22059,2023-12-16,Chelsea,Sheffield United,2,0,3.27322,0.44014,2023,Chelsea v Sheffield United,Chelsea,Andy Madley,17
+2023-12-16_Manchester,22061,2023-12-16,Manchester City,Crystal Palace,2,2,2.41646,1.64977,2023,Manchester City v Crystal Palace,Manchester,Paul Tierney,17
+2023-12-16_Newcastle,22062,2023-12-16,Newcastle United,Fulham,3,0,4.27933,0.471042,2023,Newcastle United v Fulham,Newcastle,Sam Barrott,17
+2023-12-16_Burnley,22058,2023-12-16,Burnley,Everton,0,2,0.811435,2.22305,2023,Burnley v Everton,Burnley,Anthony Taylor,17
+2023-12-17_Arsenal,22056,2023-12-17,Arsenal,Brighton,2,0,2.76976,0.663054,2023,Arsenal v Brighton,Arsenal,Tim Robinson,17
+2023-12-17_Brentford,22057,2023-12-17,Brentford,Aston Villa,1,2,0.796812,1.4664,2023,Brentford v Aston Villa,Brentford,David Coote,17
+2023-12-17_West,22064,2023-12-17,West Ham,Wolverhampton Wanderers,3,0,1.03828,0.556206,2023,West Ham v Wolverhampton Wanderers,West,Chris Kavanagh,17
+2023-12-17_Liverpool,22060,2023-12-17,Liverpool,Manchester United,0,0,1.97111,0.632715,2023,Liverpool v Manchester United,Liverpool,Michael Oliver,17
+2023-12-21_Crystal,22066,2023-12-21,Crystal Palace,Brighton,1,1,1.65409,1.33653,2023,Crystal Palace v Brighton,Crystal,John Brooks,18
+2023-12-22_Aston,22065,2023-12-22,Aston Villa,Sheffield United,1,1,1.21861,0.646159,2023,Aston Villa v Sheffield United,Aston,Anthony Taylor,18
+2023-12-23_West,22072,2023-12-23,West Ham,Manchester United,2,0,1.51468,0.730496,2023,West Ham v Manchester United,West,Simon Hooper,18
+2023-12-23_Fulham,22067,2023-12-23,Fulham,Burnley,0,2,1.38096,0.41714,2023,Fulham v Burnley,Fulham,Rebecca Welch,18
+2023-12-23_Luton,22069,2023-12-23,Luton,Newcastle United,1,0,1.81844,1.41488,2023,Luton v Newcastle United,Luton,Darren England,18
+2023-12-23_Nottingham,22070,2023-12-23,Nottingham Forest,Bournemouth,2,3,0.791806,1.89067,2023,Nottingham Forest v Bournemouth,Nottingham,Robert Jones,18
+2023-12-23_Tottenham,22071,2023-12-23,Tottenham,Everton,2,1,1.57527,1.98385,2023,Tottenham v Everton,Tottenham,Stuart Attwell,18
+2023-12-23_Liverpool,22068,2023-12-23,Liverpool,Arsenal,1,1,0.982901,0.851681,2023,Liverpool v Arsenal,Liverpool,Chris Kavanagh,18
+2023-12-24_Wolverhampton,22073,2023-12-24,Wolverhampton Wanderers,Chelsea,2,1,1.74626,1.75447,2023,Wolverhampton Wanderers v Chelsea,Wolverhampton,David Coote,18
+2023-12-26_Newcastle,22083,2023-12-26,Newcastle United,Nottingham Forest,1,3,2.79106,3.1074,2023,Newcastle United v Nottingham Forest,Newcastle,Chris Kavanagh,19
+2023-12-26_Bournemouth,22075,2023-12-26,Bournemouth,Fulham,3,0,2.07911,0.324365,2023,Bournemouth v Fulham,Bournemouth,Tim Robinson,19
+2023-12-26_Sheffield,22084,2023-12-26,Sheffield United,Luton,2,3,3.61788,0.715575,2023,Sheffield United v Luton,Sheffield,Samuel Allison,19
+2023-12-26_Burnley,22079,2023-12-26,Burnley,Liverpool,0,2,0.972389,1.68451,2023,Burnley v Liverpool,Burnley,Paul Tierney,19
+2023-12-26_Manchester,22082,2023-12-26,Manchester United,Aston Villa,3,2,1.20104,1.83637,2023,Manchester United v Aston Villa,Manchester,Craig Pawson,19
+2023-12-27_Brentford,22077,2023-12-27,Brentford,Wolverhampton Wanderers,1,4,2.59347,1.89483,2023,Brentford v Wolverhampton Wanderers,Brentford,Andy Madley,19
+2023-12-27_Chelsea,22080,2023-12-27,Chelsea,Crystal Palace,2,1,2.73005,0.958077,2023,Chelsea v Crystal Palace,Chelsea,Michael Salisbury,19
+2023-12-27_Everton,22081,2023-12-27,Everton,Manchester City,1,3,1.23529,2.28321,2023,Everton v Manchester City,Everton,John Brooks,19
+2023-12-28_Brighton,22078,2023-12-28,Brighton,Tottenham,4,2,3.84702,2.06955,2023,Brighton v Tottenham,Brighton,Jarred Gillett,19
+2023-12-28_Arsenal,22076,2023-12-28,Arsenal,West Ham,0,2,2.7884,1.59711,2023,Arsenal v West Ham,Arsenal,Michael Oliver,19
+2023-12-30_Luton,22089,2023-12-30,Luton,Chelsea,2,3,2.64093,1.57463,2023,Luton v Chelsea,Luton,Paul Tierney,20
+2023-12-30_Aston,22085,2023-12-30,Aston Villa,Burnley,3,2,2.92587,1.11923,2023,Aston Villa v Burnley,Aston,Stuart Attwell,20
+2023-12-30_Crystal,22086,2023-12-30,Crystal Palace,Brentford,3,1,1.61057,1.28731,2023,Crystal Palace v Brentford,Crystal,Robert Jones,20
+2023-12-30_Manchester,22090,2023-12-30,Manchester City,Sheffield United,2,0,2.24229,0.263211,2023,Manchester City v Sheffield United,Manchester,David Coote,20
+2023-12-30_Wolverhampton,22094,2023-12-30,Wolverhampton Wanderers,Everton,3,0,2.64477,0.519641,2023,Wolverhampton Wanderers v Everton,Wolverhampton,Thomas Bramall,20
+2023-12-30_Nottingham,22091,2023-12-30,Nottingham Forest,Manchester United,2,1,0.744348,0.651905,2023,Nottingham Forest v Manchester United,Nottingham,Tim Robinson,20
+2023-12-31_Fulham,22087,2023-12-31,Fulham,Arsenal,2,1,1.52829,1.6591,2023,Fulham v Arsenal,Fulham,Peter Bankes,20
+2023-12-31_Tottenham,22092,2023-12-31,Tottenham,Bournemouth,3,1,2.15027,1.58229,2023,Tottenham v Bournemouth,Tottenham,Simon Hooper,20
+2024-01-01_Liverpool,22088,2024-01-01,Liverpool,Newcastle United,4,2,6.67151,0.910974,2023,Liverpool v Newcastle United,Liverpool,Anthony Taylor,20
+2024-01-02_West,22093,2024-01-02,West Ham,Brighton,0,0,0.9831,2.1552,2023,West Ham v Brighton,West,Sam Barrott,20
+2024-01-12_Burnley,22096,2024-01-12,Burnley,Luton,1,1,1.52023,0.965167,2023,Burnley v Luton,Burnley,Tony Harrington,21
+2024-01-13_Chelsea,22097,2024-01-13,Chelsea,Fulham,1,0,2.0456,0.697847,2023,Chelsea v Fulham,Chelsea,Anthony Taylor,21
+2024-01-13_Newcastle,22100,2024-01-13,Newcastle United,Manchester City,2,3,1.23638,2.55452,2023,Newcastle United v Manchester City,Newcastle,Chris Kavanagh,21
+2024-01-14_Everton,22098,2024-01-14,Everton,Aston Villa,0,0,1.03664,1.3435,2023,Everton v Aston Villa,Everton,David Coote,21
+2024-01-14_Manchester,22099,2024-01-14,Manchester United,Tottenham,2,2,0.923233,1.31224,2023,Manchester United v Tottenham,Manchester,John Brooks,21
+2024-01-20_Arsenal,22103,2024-01-20,Arsenal,Crystal Palace,5,0,3.52167,0.288083,2023,Arsenal v Crystal Palace,Arsenal,Paul Tierney,21
+2024-01-20_Brentford,22104,2024-01-20,Brentford,Nottingham Forest,3,2,1.94219,1.22251,2023,Brentford v Nottingham Forest,Brentford,Darren England,21
+2024-01-21_Sheffield,22101,2024-01-21,Sheffield United,West Ham,2,2,2.61362,2.4241,2023,Sheffield United v West Ham,Sheffield,Michael Salisbury,21
+2024-01-21_Bournemouth,22102,2024-01-21,Bournemouth,Liverpool,0,4,0.834585,1.53344,2023,Bournemouth v Liverpool,Bournemouth,Bobby Madley,21
+2024-01-22_Brighton,22095,2024-01-22,Brighton,Wolverhampton Wanderers,0,0,1.3701,1.14116,2023,Brighton v Wolverhampton Wanderers,Brighton,Craig Pawson,21
+2024-01-30_Nottingham,22108,2024-01-30,Nottingham Forest,Arsenal,1,2,0.631618,1.39143,2023,Nottingham Forest v Arsenal,Nottingham,Simon Hooper,22
+2024-01-30_Fulham,22106,2024-01-30,Fulham,Everton,0,0,2.37499,2.83317,2023,Fulham v Everton,Fulham,Thomas Bramall,22
+2024-01-30_Luton,22107,2024-01-30,Luton,Brighton,4,0,3.63312,1.01366,2023,Luton v Brighton,Luton,Robert Jones,22
+2024-01-30_Crystal,22112,2024-01-30,Crystal Palace,Sheffield United,3,2,1.1601,0.768467,2023,Crystal Palace v Sheffield United,Crystal,Tony Harrington,22
+2024-01-30_Aston,22105,2024-01-30,Aston Villa,Newcastle United,1,3,1.44485,3.3224,2023,Aston Villa v Newcastle United,Aston,John Brooks,22
+2024-01-31_Tottenham,22109,2024-01-31,Tottenham,Brentford,3,2,3.36194,1.59637,2023,Tottenham v Brentford,Tottenham,David Coote,22
+2024-01-31_Manchester,22114,2024-01-31,Manchester City,Burnley,3,1,1.84756,1.49114,2023,Manchester City v Burnley,Manchester,Sam Barrott,22
+2024-01-31_Liverpool,22113,2024-01-31,Liverpool,Chelsea,4,1,3.6627,0.477972,2023,Liverpool v Chelsea,Liverpool,Paul Tierney,22
+2024-02-01_West,22110,2024-02-01,West Ham,Bournemouth,1,1,1.3128,1.13487,2023,West Ham v Bournemouth,West,Tim Robinson,22
+2024-02-01_Wolverhampton,22111,2024-02-01,Wolverhampton Wanderers,Manchester United,3,4,2.27609,3.22698,2023,Wolverhampton Wanderers v Manchester United,Wolverhampton,Jarred Gillett,22
+2024-02-03_Everton,22121,2024-02-03,Everton,Tottenham,2,2,3.25881,0.922371,2023,Everton v Tottenham,Everton,Michael Oliver,23
+2024-02-03_Brighton,22118,2024-02-03,Brighton,Crystal Palace,4,1,1.92591,0.241137,2023,Brighton v Crystal Palace,Brighton,Simon Hooper,23
+2024-02-03_Burnley,22119,2024-02-03,Burnley,Fulham,2,2,1.00428,1.28806,2023,Burnley v Fulham,Burnley,Darren Bond,23
+2024-02-03_Newcastle,22123,2024-02-03,Newcastle United,Luton,4,4,2.37353,2.67463,2023,Newcastle United v Luton,Newcastle,Thomas Bramall,23
+2024-02-03_Sheffield,22124,2024-02-03,Sheffield United,Aston Villa,0,5,1.52784,2.99015,2023,Sheffield United v Aston Villa,Sheffield,Paul Tierney,23
+2024-02-04_Bournemouth,22115,2024-02-04,Bournemouth,Nottingham Forest,1,1,1.1895,0.456548,2023,Bournemouth v Nottingham Forest,Bournemouth,Rebecca Welch,23
+2024-02-04_Chelsea,22120,2024-02-04,Chelsea,Wolverhampton Wanderers,2,4,2.35967,2.48996,2023,Chelsea v Wolverhampton Wanderers,Chelsea,Tim Robinson,23
+2024-02-04_Manchester,22122,2024-02-04,Manchester United,West Ham,3,0,0.96721,1.1807,2023,Manchester United v West Ham,Manchester,Andy Madley,23
+2024-02-04_Arsenal,22116,2024-02-04,Arsenal,Liverpool,3,1,2.8526,0.542052,2023,Arsenal v Liverpool,Arsenal,Anthony Taylor,23
+2024-02-05_Brentford,22117,2024-02-05,Brentford,Manchester City,1,3,0.865741,2.10785,2023,Brentford v Manchester City,Brentford,Jarred Gillett,23
+2024-02-10_Manchester,22130,2024-02-10,Manchester City,Everton,2,0,1.58971,0.192072,2023,Manchester City v Everton,Manchester,John Brooks,24
+2024-02-10_Fulham,22127,2024-02-10,Fulham,Bournemouth,3,1,1.7456,2.60612,2023,Fulham v Bournemouth,Fulham,Darren England,24
+2024-02-10_Liverpool,22128,2024-02-10,Liverpool,Burnley,3,1,3.14734,1.11123,2023,Liverpool v Burnley,Liverpool,Tim Robinson,24
+2024-02-10_Luton,22129,2024-02-10,Luton,Sheffield United,1,3,1.76215,1.98283,2023,Luton v Sheffield United,Luton,Chris Kavanagh,24
+2024-02-10_Tottenham,22132,2024-02-10,Tottenham,Brighton,2,1,2.10928,1.49285,2023,Tottenham v Brighton,Tottenham,Sam Barrott,24
+2024-02-10_Wolverhampton,22134,2024-02-10,Wolverhampton Wanderers,Brentford,0,2,1.05781,1.84908,2023,Wolverhampton Wanderers v Brentford,Wolverhampton,Simon Hooper,24
+2024-02-10_Nottingham,22131,2024-02-10,Nottingham Forest,Newcastle United,2,3,0.968075,0.511375,2023,Nottingham Forest v Newcastle United,Nottingham,Anthony Taylor,24
+2024-02-11_West,22133,2024-02-11,West Ham,Arsenal,0,6,0.191065,3.99893,2023,West Ham v Arsenal,West,Craig Pawson,24
+2024-02-11_Aston,22125,2024-02-11,Aston Villa,Manchester United,1,2,2.64675,2.44591,2023,Aston Villa v Manchester United,Aston,Robert Jones,24
+2024-02-12_Crystal,22126,2024-02-12,Crystal Palace,Chelsea,1,3,0.719516,1.26948,2023,Crystal Palace v Chelsea,Crystal,Michael Oliver,24
+2024-02-17_Brentford,22135,2024-02-17,Brentford,Liverpool,1,4,1.69518,3.08952,2023,Brentford v Liverpool,Brentford,Michael Oliver,25
+2024-02-17_Burnley,22136,2024-02-17,Burnley,Arsenal,0,5,0.335143,2.20575,2023,Burnley v Arsenal,Burnley,Jarred Gillett,25
+2024-02-17_Fulham,22138,2024-02-17,Fulham,Aston Villa,1,2,1.41796,1.57297,2023,Fulham v Aston Villa,Fulham,Lewis Smith,25
+2024-02-17_Newcastle,22141,2024-02-17,Newcastle United,Bournemouth,2,2,2.38425,2.08098,2023,Newcastle United v Bournemouth,Newcastle,Michael Salisbury,25
+2024-02-17_Nottingham,22142,2024-02-17,Nottingham Forest,West Ham,2,0,2.66942,0.520016,2023,Nottingham Forest v West Ham,Nottingham,Thomas Bramall,25
+2024-02-17_Tottenham,22144,2024-02-17,Tottenham,Wolverhampton Wanderers,1,2,1.59768,1.77591,2023,Tottenham v Wolverhampton Wanderers,Tottenham,Anthony Taylor,25
+2024-02-17_Manchester,22140,2024-02-17,Manchester City,Chelsea,1,1,2.77713,1.82903,2023,Manchester City v Chelsea,Manchester,Andy Madley,25
+2024-02-18_Sheffield,22143,2024-02-18,Sheffield United,Brighton,0,5,0.586214,3.35549,2023,Sheffield United v Brighton,Sheffield,Stuart Attwell,25
+2024-02-18_Luton,22139,2024-02-18,Luton,Manchester United,1,2,1.57234,3.58973,2023,Luton v Manchester United,Luton,David Coote,25
+2024-02-19_Everton,22137,2024-02-19,Everton,Crystal Palace,1,1,2.44588,0.734685,2023,Everton v Crystal Palace,Everton,Paul Tierney,25
+2024-02-20_Manchester,22074,2024-02-20,Manchester City,Brentford,1,0,2.53766,0.503799,2023,Manchester City v Brentford,Manchester,Darren England,18
+2024-02-21_Liverpool,22151,2024-02-21,Liverpool,Luton,4,1,3.70302,0.956512,2023,Liverpool v Luton,Liverpool,Andy Madley,26
+2024-02-24_Aston,22147,2024-02-24,Aston Villa,Nottingham Forest,4,2,3.48861,2.25569,2023,Aston Villa v Nottingham Forest,Aston,Sam Barrott,26
+2024-02-24_Brighton,22148,2024-02-24,Brighton,Everton,1,1,1.6538,0.286655,2023,Brighton v Everton,Brighton,Tony Harrington,26
+2024-02-24_Crystal,22150,2024-02-24,Crystal Palace,Burnley,3,0,2.41612,0.0760216,2023,Crystal Palace v Burnley,Crystal,Lewis Smith,26
+2024-02-24_Manchester,22152,2024-02-24,Manchester United,Fulham,1,2,1.96036,1.1385,2023,Manchester United v Fulham,Manchester,Michael Oliver,26
+2024-02-24_Bournemouth,22145,2024-02-24,Bournemouth,Manchester City,0,1,0.925889,1.79636,2023,Bournemouth v Manchester City,Bournemouth,Jarred Gillett,26
+2024-02-24_Arsenal,22146,2024-02-24,Arsenal,Newcastle United,4,1,2.59336,0.217373,2023,Arsenal v Newcastle United,Arsenal,Paul Tierney,26
+2024-02-25_Wolverhampton,22154,2024-02-25,Wolverhampton Wanderers,Sheffield United,1,0,1.21618,0.654342,2023,Wolverhampton Wanderers v Sheffield United,Wolverhampton,Darren Bond,26
+2024-02-26_West,22153,2024-02-26,West Ham,Brentford,4,2,2.06873,1.33683,2023,West Ham v Brentford,West,Simon Hooper,26
+2024-03-02_Brentford,22155,2024-03-02,Brentford,Chelsea,2,2,2.4732,2.1523,2023,Brentford v Chelsea,Brentford,Jarred Gillett,27
+2024-03-02_Everton,22157,2024-03-02,Everton,West Ham,1,3,3.12075,2.17948,2023,Everton v West Ham,Everton,Craig Pawson,27
+2024-03-02_Fulham,22158,2024-03-02,Fulham,Brighton,3,0,1.37604,1.15198,2023,Fulham v Brighton,Fulham,Simon Hooper,27
+2024-03-02_Newcastle,22161,2024-03-02,Newcastle United,Wolverhampton Wanderers,3,0,3.33495,0.507769,2023,Newcastle United v Wolverhampton Wanderers,Newcastle,Tim Robinson,27
+2024-03-02_Nottingham,22162,2024-03-02,Nottingham Forest,Liverpool,0,1,0.971466,1.32259,2023,Nottingham Forest v Liverpool,Nottingham,Paul Tierney,27
+2024-03-02_Tottenham,22164,2024-03-02,Tottenham,Crystal Palace,3,1,2.6625,0.277887,2023,Tottenham v Crystal Palace,Tottenham,John Brooks,27
+2024-03-02_Luton,22159,2024-03-02,Luton,Aston Villa,2,3,2.43312,2.08586,2023,Luton v Aston Villa,Luton,Michael Oliver,27
+2024-03-03_Burnley,22156,2024-03-03,Burnley,Bournemouth,0,2,1.60461,1.43616,2023,Burnley v Bournemouth,Burnley,David Coote,27
+2024-03-03_Manchester,22160,2024-03-03,Manchester City,Manchester United,3,1,2.64173,0.153764,2023,Manchester City v Manchester United,Manchester,Andy Madley,27
+2024-03-04_Sheffield,22163,2024-03-04,Sheffield United,Arsenal,0,6,0.201374,2.47294,2023,Sheffield United v Arsenal,Sheffield,Sam Barrott,27
+2024-03-09_Manchester,22172,2024-03-09,Manchester United,Everton,2,0,2.9016,1.8214,2023,Manchester United v Everton,Manchester,Simon Hooper,28
+2024-03-09_Bournemouth,22165,2024-03-09,Bournemouth,Sheffield United,2,2,3.92657,1.91752,2023,Bournemouth v Sheffield United,Bournemouth,Anthony Taylor,28
+2024-03-09_Crystal,22170,2024-03-09,Crystal Palace,Luton,1,1,3.25103,1.08531,2023,Crystal Palace v Luton,Crystal,Sunny Gill,28
+2024-03-09_Wolverhampton,22174,2024-03-09,Wolverhampton Wanderers,Fulham,2,1,1.29589,2.94155,2023,Wolverhampton Wanderers v Fulham,Wolverhampton,Tony Harrington,28
+2024-03-09_Arsenal,22166,2024-03-09,Arsenal,Brentford,2,1,1.59369,0.733239,2023,Arsenal v Brentford,Arsenal,Robert Jones,28
+2024-03-10_Aston,22167,2024-03-10,Aston Villa,Tottenham,0,4,1.23267,2.25381,2023,Aston Villa v Tottenham,Aston,Chris Kavanagh,28
+2024-03-10_Brighton,22168,2024-03-10,Brighton,Nottingham Forest,1,0,0.534518,0.687034,2023,Brighton v Nottingham Forest,Brighton,Michael Salisbury,28
+2024-03-10_West,22173,2024-03-10,West Ham,Burnley,2,2,1.87414,0.88131,2023,West Ham v Burnley,West,Darren England,28
+2024-03-10_Liverpool,22171,2024-03-10,Liverpool,Manchester City,1,1,2.25492,1.37289,2023,Liverpool v Manchester City,Liverpool,Michael Oliver,28
+2024-03-11_Chelsea,22169,2024-03-11,Chelsea,Newcastle United,3,2,1.78315,0.568435,2023,Chelsea v Newcastle United,Chelsea,John Brooks,28
+2024-03-13_Bournemouth,25861,2024-03-13,Bournemouth,Luton,4,3,2.84403,2.79419,2023,Bournemouth v Luton,Bournemouth,Samuel Allison,17
+2024-03-16_Burnley,22177,2024-03-16,Burnley,Brentford,2,1,2.69776,1.25123,2023,Burnley v Brentford,Burnley,Darren Bond,29
+2024-03-16_Luton,22181,2024-03-16,Luton,Nottingham Forest,1,1,0.853782,1.95268,2023,Luton v Nottingham Forest,Luton,Darren England,29
+2024-03-16_Fulham,22180,2024-03-16,Fulham,Tottenham,3,0,2.47234,2.14564,2023,Fulham v Tottenham,Fulham,Robert Jones,29
+2024-03-17_West,22183,2024-03-17,West Ham,Aston Villa,1,1,1.32829,0.911274,2023,West Ham v Aston Villa,West,Jarred Gillett,29
+2024-03-30_Newcastle,22191,2024-03-30,Newcastle United,West Ham,4,3,3.80922,0.994584,2023,Newcastle United v West Ham,Newcastle,Robert Jones,30
+2024-03-30_Bournemouth,22185,2024-03-30,Bournemouth,Everton,2,1,1.39268,0.93378,2023,Bournemouth v Everton,Bournemouth,Sam Barrott,30
+2024-03-30_Chelsea,22188,2024-03-30,Chelsea,Burnley,2,2,4.46643,2.10422,2023,Chelsea v Burnley,Chelsea,Darren England,30
+2024-03-30_Nottingham,22192,2024-03-30,Nottingham Forest,Crystal Palace,1,1,0.784652,0.900972,2023,Nottingham Forest v Crystal Palace,Nottingham,Chris Kavanagh,30
+2024-03-30_Sheffield,22193,2024-03-30,Sheffield United,Fulham,3,3,1.78824,1.10254,2023,Sheffield United v Fulham,Sheffield,Tim Robinson,30
+2024-03-30_Tottenham,22194,2024-03-30,Tottenham,Luton,2,1,2.46523,0.402402,2023,Tottenham v Luton,Tottenham,Jarred Gillett,30
+2024-03-30_Aston,22186,2024-03-30,Aston Villa,Wolverhampton Wanderers,2,0,1.28271,1.66232,2023,Aston Villa v Wolverhampton Wanderers,Aston,Paul Tierney,30
+2024-03-30_Brentford,22187,2024-03-30,Brentford,Manchester United,1,1,3.16487,0.989565,2023,Brentford v Manchester United,Brentford,Simon Hooper,30
+2024-03-31_Liverpool,22189,2024-03-31,Liverpool,Brighton,2,1,3.21149,0.43922,2023,Liverpool v Brighton,Liverpool,David Coote,30
+2024-03-31_Manchester,22190,2024-03-31,Manchester City,Arsenal,0,0,1.22009,0.511402,2023,Manchester City v Arsenal,Manchester,Anthony Taylor,30
+2024-04-02_Nottingham,22198,2024-04-02,Nottingham Forest,Fulham,3,1,1.94619,1.04304,2023,Nottingham Forest v Fulham,Nottingham,Michael Oliver,31
+2024-04-02_Newcastle,22202,2024-04-02,Newcastle United,Everton,1,1,2.65009,1.69834,2023,Newcastle United v Everton,Newcastle,Tony Harrington,31
+2024-04-02_Bournemouth,22195,2024-04-02,Bournemouth,Crystal Palace,1,0,1.30969,0.174389,2023,Bournemouth v Crystal Palace,Bournemouth,Graham Scott,31
+2024-04-02_Burnley,22197,2024-04-02,Burnley,Wolverhampton Wanderers,1,1,1.12581,1.01021,2023,Burnley v Wolverhampton Wanderers,Burnley,Thomas Bramall,31
+2024-04-02_West,22199,2024-04-02,West Ham,Tottenham,1,1,1.47017,1.39423,2023,West Ham v Tottenham,West,John Brooks,31
+2024-04-03_Arsenal,22196,2024-04-03,Arsenal,Luton,2,0,1.14384,0.292082,2023,Arsenal v Luton,Arsenal,Craig Pawson,31
+2024-04-03_Brentford,22200,2024-04-03,Brentford,Brighton,0,0,0.423299,1.22404,2023,Brentford v Brighton,Brentford,Bobby Madley,31
+2024-04-03_Manchester,22204,2024-04-03,Manchester City,Aston Villa,4,1,3.87704,1.18643,2023,Manchester City v Aston Villa,Manchester,Darren England,31
+2024-04-04_Liverpool,22203,2024-04-04,Liverpool,Sheffield United,3,1,2.51772,0.720948,2023,Liverpool v Sheffield United,Liverpool,Stuart Attwell,31
+2024-04-04_Chelsea,22201,2024-04-04,Chelsea,Manchester United,4,3,3.48048,1.56686,2023,Chelsea v Manchester United,Chelsea,Jarred Gillett,31
+2024-04-06_Crystal,22207,2024-04-06,Crystal Palace,Manchester City,2,4,1.49472,2.26381,2023,Crystal Palace v Manchester City,Crystal,Paul Tierney,32
+2024-04-06_Aston,22205,2024-04-06,Aston Villa,Brentford,3,3,1.16333,1.42064,2023,Aston Villa v Brentford,Aston,Michael Salisbury,32
+2024-04-06_Everton,22208,2024-04-06,Everton,Burnley,1,0,0.659844,0.34699,2023,Everton v Burnley,Everton,Michael Oliver,32
+2024-04-06_Fulham,22209,2024-04-06,Fulham,Newcastle United,0,1,0.834564,1.18012,2023,Fulham v Newcastle United,Fulham,Samuel Allison,32
+2024-04-06_Luton,22210,2024-04-06,Luton,Bournemouth,2,1,1.30478,0.616108,2023,Luton v Bournemouth,Luton,Andy Madley,32
+2024-04-06_Wolverhampton,22214,2024-04-06,Wolverhampton Wanderers,West Ham,1,2,1.78341,1.14133,2023,Wolverhampton Wanderers v West Ham,Wolverhampton,Tony Harrington,32
+2024-04-06_Brighton,22206,2024-04-06,Brighton,Arsenal,0,3,0.428514,4.16518,2023,Brighton v Arsenal,Brighton,John Brooks,32
+2024-04-07_Manchester,22211,2024-04-07,Manchester United,Liverpool,2,2,0.814509,4.43457,2023,Manchester United v Liverpool,Manchester,Anthony Taylor,32
+2024-04-07_Sheffield,22212,2024-04-07,Sheffield United,Chelsea,2,2,1.74265,0.521789,2023,Sheffield United v Chelsea,Sheffield,Robert Jones,32
+2024-04-07_Tottenham,22213,2024-04-07,Tottenham,Nottingham Forest,3,1,1.61978,2.00122,2023,Tottenham v Nottingham Forest,Tottenham,Simon Hooper,32
+2024-04-13_Newcastle,22222,2024-04-13,Newcastle United,Tottenham,4,0,3.1483,0.737596,2023,Newcastle United v Tottenham,Newcastle,Tim Robinson,33
+2024-04-13_Brentford,22217,2024-04-13,Brentford,Sheffield United,2,0,1.09071,0.834498,2023,Brentford v Sheffield United,Brentford,Sam Barrott,33
+2024-04-13_Burnley,22218,2024-04-13,Burnley,Brighton,1,1,1.8522,0.889445,2023,Burnley v Brighton,Burnley,Simon Hooper,33
+2024-04-13_Manchester,22221,2024-04-13,Manchester City,Luton,5,1,4.64245,0.809775,2023,Manchester City v Luton,Manchester,John Brooks,33
+2024-04-13_Nottingham,22223,2024-04-13,Nottingham Forest,Wolverhampton Wanderers,2,2,1.76244,1.45688,2023,Nottingham Forest v Wolverhampton Wanderers,Nottingham,Craig Pawson,33
+2024-04-13_Bournemouth,22215,2024-04-13,Bournemouth,Manchester United,2,2,2.38519,1.52274,2023,Bournemouth v Manchester United,Bournemouth,Tony Harrington,33
+2024-04-14_Liverpool,22220,2024-04-14,Liverpool,Crystal Palace,0,1,3.04497,2.12879,2023,Liverpool v Crystal Palace,Liverpool,Chris Kavanagh,33
+2024-04-14_West,22224,2024-04-14,West Ham,Fulham,0,2,1.45307,3.61413,2023,West Ham v Fulham,West,Stuart Attwell,33
+2024-04-14_Arsenal,22216,2024-04-14,Arsenal,Aston Villa,0,2,1.89003,0.929049,2023,Arsenal v Aston Villa,Arsenal,David Coote,33
+2024-04-15_Chelsea,22219,2024-04-15,Chelsea,Everton,6,0,3.37093,1.21791,2023,Chelsea v Everton,Chelsea,Paul Tierney,33
+2024-04-20_Luton,22230,2024-04-20,Luton,Brentford,1,5,0.497799,3.7809,2023,Luton v Brentford,Luton,Jarred Gillett,34
+2024-04-20_Sheffield,22232,2024-04-20,Sheffield United,Burnley,1,4,1.97816,2.42338,2023,Sheffield United v Burnley,Sheffield,Andy Madley,34
+2024-04-20_Wolverhampton,22234,2024-04-20,Wolverhampton Wanderers,Arsenal,0,2,0.164516,1.66179,2023,Wolverhampton Wanderers v Arsenal,Wolverhampton,Paul Tierney,34
+2024-04-21_Everton,22228,2024-04-21,Everton,Nottingham Forest,2,0,0.473233,1.18916,2023,Everton v Nottingham Forest,Everton,Anthony Taylor,34
+2024-04-21_Aston,22225,2024-04-21,Aston Villa,Bournemouth,3,1,2.62687,2.05211,2023,Aston Villa v Bournemouth,Aston,Tim Robinson,34
+2024-04-21_Crystal,22227,2024-04-21,Crystal Palace,West Ham,5,2,3.7185,1.34536,2023,Crystal Palace v West Ham,Crystal,Graham Scott,34
+2024-04-21_Fulham,22229,2024-04-21,Fulham,Liverpool,1,3,0.83885,1.02445,2023,Fulham v Liverpool,Fulham,Craig Pawson,34
+2024-04-23_Arsenal,22175,2024-04-23,Arsenal,Chelsea,5,0,3.45858,1.60343,2023,Arsenal v Chelsea,Arsenal,Simon Hooper,29
+2024-04-24_Wolverhampton,22184,2024-04-24,Wolverhampton Wanderers,Bournemouth,0,1,0.484454,2.40311,2023,Wolverhampton Wanderers v Bournemouth,Wolverhampton,Stuart Attwell,29
+2024-04-24_Crystal,22178,2024-04-24,Crystal Palace,Newcastle United,2,0,1.43661,0.55129,2023,Crystal Palace v Newcastle United,Crystal,Thomas Bramall,29
+2024-04-24_Everton,22179,2024-04-24,Everton,Liverpool,2,0,1.89111,1.87155,2023,Everton v Liverpool,Everton,Andy Madley,29
+2024-04-24_Manchester,22182,2024-04-24,Manchester United,Sheffield United,4,2,3.51311,1.20517,2023,Manchester United v Sheffield United,Manchester,Michael Salisbury,29
+2024-04-25_Brighton,22176,2024-04-25,Brighton,Manchester City,0,4,0.572021,1.90507,2023,Brighton v Manchester City,Brighton,Jarred Gillett,29
+2024-04-27_West,22243,2024-04-27,West Ham,Liverpool,2,2,0.794025,2.29298,2023,West Ham v Liverpool,West,Anthony Taylor,35
+2024-04-27_Fulham,22238,2024-04-27,Fulham,Crystal Palace,1,1,1.39418,1.05387,2023,Fulham v Crystal Palace,Fulham,Stuart Attwell,35
+2024-04-27_Manchester,22239,2024-04-27,Manchester United,Burnley,1,1,3.06197,1.89591,2023,Manchester United v Burnley,Manchester,John Brooks,35
+2024-04-27_Newcastle,22240,2024-04-27,Newcastle United,Sheffield United,5,1,2.93477,1.82408,2023,Newcastle United v Sheffield United,Newcastle,Tony Harrington,35
+2024-04-27_Wolverhampton,22244,2024-04-27,Wolverhampton Wanderers,Luton,2,1,1.49011,0.90435,2023,Wolverhampton Wanderers v Luton,Wolverhampton,David Coote,35
+2024-04-27_Everton,22237,2024-04-27,Everton,Brentford,1,0,1.21399,0.956356,2023,Everton v Brentford,Everton,Darren England,35
+2024-04-27_Aston,22236,2024-04-27,Aston Villa,Chelsea,2,2,0.612257,1.56401,2023,Aston Villa v Chelsea,Aston,Craig Pawson,35
+2024-04-28_Bournemouth,22235,2024-04-28,Bournemouth,Brighton,3,0,2.48132,1.35682,2023,Bournemouth v Brighton,Bournemouth,Paul Tierney,35
+2024-04-28_Tottenham,22241,2024-04-28,Tottenham,Arsenal,2,3,2.60458,1.51469,2023,Tottenham v Arsenal,Tottenham,Michael Oliver,35
+2024-04-28_Nottingham,22242,2024-04-28,Nottingham Forest,Manchester City,0,2,2.17312,0.932063,2023,Nottingham Forest v Manchester City,Nottingham,Simon Hooper,35
+2024-05-02_Chelsea,22149,2024-05-02,Chelsea,Tottenham,2,0,2.22432,1.27064,2023,Chelsea v Tottenham,Chelsea,Robert Jones,26
+2024-05-03_Luton,22252,2024-05-03,Luton,Everton,1,1,0.950391,1.22959,2023,Luton v Everton,Luton,Tim Robinson,36
+2024-05-04_Arsenal,22245,2024-05-04,Arsenal,Bournemouth,3,0,3.91372,0.4687,2023,Arsenal v Bournemouth,Arsenal,David Coote,36
+2024-05-04_Brentford,22246,2024-05-04,Brentford,Fulham,0,0,0.809379,1.45579,2023,Brentford v Fulham,Brentford,Graham Scott,36
+2024-05-04_Burnley,22248,2024-05-04,Burnley,Newcastle United,1,4,1.28632,4.25643,2023,Burnley v Newcastle United,Burnley,Anthony Taylor,36
+2024-05-04_Sheffield,22254,2024-05-04,Sheffield United,Nottingham Forest,1,3,2.48986,1.93818,2023,Sheffield United v Nottingham Forest,Sheffield,Chris Kavanagh,36
+2024-05-04_Manchester,22253,2024-05-04,Manchester City,Wolverhampton Wanderers,5,1,4.52542,0.396887,2023,Manchester City v Wolverhampton Wanderers,Manchester,Craig Pawson,36
+2024-05-05_Brighton,22247,2024-05-05,Brighton,Aston Villa,1,0,2.63566,0.0644055,2023,Brighton v Aston Villa,Brighton,Robert Jones,36
+2024-05-05_Chelsea,22249,2024-05-05,Chelsea,West Ham,5,0,4.21838,0.893899,2023,Chelsea v West Ham,Chelsea,Bobby Madley,36
+2024-05-05_Liverpool,22251,2024-05-05,Liverpool,Tottenham,4,2,3.26222,1.17205,2023,Liverpool v Tottenham,Liverpool,Paul Tierney,36
+2024-05-06_Crystal,22250,2024-05-06,Crystal Palace,Manchester United,4,0,2.0656,0.341417,2023,Crystal Palace v Manchester United,Crystal,Jarred Gillett,36
+2024-05-11_Fulham,22258,2024-05-11,Fulham,Manchester City,0,4,0.0886245,3.15218,2023,Fulham v Manchester City,Fulham,Anthony Taylor,37
+2024-05-11_Bournemouth,22255,2024-05-11,Bournemouth,Brentford,1,2,1.07237,1.92722,2023,Bournemouth v Brentford,Bournemouth,Matt Donohue,37
+2024-05-11_Everton,22257,2024-05-11,Everton,Sheffield United,1,0,1.82411,0.465523,2023,Everton v Sheffield United,Everton,Stuart Attwell,37
+2024-05-11_Newcastle,22260,2024-05-11,Newcastle United,Brighton,1,1,2.45163,1.91556,2023,Newcastle United v Brighton,Newcastle,Darren England,37
+2024-05-11_Tottenham,22262,2024-05-11,Tottenham,Burnley,2,1,3.00238,0.950331,2023,Tottenham v Burnley,Tottenham,Jarred Gillett,37
+2024-05-11_West,22263,2024-05-11,West Ham,Luton,3,1,3.71009,0.640456,2023,West Ham v Luton,West,Michael Oliver,37
+2024-05-11_Wolverhampton,22264,2024-05-11,Wolverhampton Wanderers,Crystal Palace,1,3,1.1561,2.51452,2023,Wolverhampton Wanderers v Crystal Palace,Wolverhampton,Thomas Bramall,37
+2024-05-11_Nottingham,22261,2024-05-11,Nottingham Forest,Chelsea,2,3,2.44569,2.41068,2023,Nottingham Forest v Chelsea,Nottingham,Tony Harrington,37
+2024-05-12_Manchester,22259,2024-05-12,Manchester United,Arsenal,0,1,0.551669,1.73104,2023,Manchester United v Arsenal,Manchester,Paul Tierney,37
+2024-05-13_Aston,22256,2024-05-13,Aston Villa,Liverpool,3,3,2.71655,1.89968,2023,Aston Villa v Liverpool,Aston,Simon Hooper,37
+2024-05-14_Tottenham,22233,2024-05-14,Tottenham,Manchester City,0,2,1.84285,2.70331,2023,Tottenham v Manchester City,Tottenham,Chris Kavanagh,34
+2024-05-15_Brighton,22226,2024-05-15,Brighton,Chelsea,1,2,1.32423,1.544,2023,Brighton v Chelsea,Brighton,Michael Salisbury,34
+2024-05-15_Manchester,22231,2024-05-15,Manchester United,Newcastle United,3,2,1.49706,2.27657,2023,Manchester United v Newcastle United,Manchester,Robert Jones,34
+2024-05-19_Arsenal,22265,2024-05-19,Arsenal,Everton,2,1,3.2117,0.664904,2023,Arsenal v Everton,Arsenal,Michael Oliver,38
+2024-05-19_Brentford,22266,2024-05-19,Brentford,Newcastle United,2,4,1.70157,3.65044,2023,Brentford v Newcastle United,Brentford,Simon Hooper,38
+2024-05-19_Brighton,22267,2024-05-19,Brighton,Manchester United,0,2,1.9717,1.00404,2023,Brighton v Manchester United,Brighton,Craig Pawson,38
+2024-05-19_Burnley,22268,2024-05-19,Burnley,Nottingham Forest,1,2,1.08222,1.57962,2023,Burnley v Nottingham Forest,Burnley,Graham Scott,38
+2024-05-19_Chelsea,22269,2024-05-19,Chelsea,Bournemouth,2,1,1.59771,2.002,2023,Chelsea v Bournemouth,Chelsea,Anthony Taylor,38
+2024-05-19_Crystal,22270,2024-05-19,Crystal Palace,Aston Villa,5,0,2.23189,0.598846,2023,Crystal Palace v Aston Villa,Crystal,Darren Bond,38
+2024-05-19_Liverpool,22271,2024-05-19,Liverpool,Wolverhampton Wanderers,2,0,5.65937,0.731254,2023,Liverpool v Wolverhampton Wanderers,Liverpool,Chris Kavanagh,38
+2024-05-19_Luton,22272,2024-05-19,Luton,Fulham,2,4,2.06743,1.11598,2023,Luton v Fulham,Luton,Matt Donohue,38
+2024-05-19_Manchester,22273,2024-05-19,Manchester City,West Ham,3,1,2.31504,0.240159,2023,Manchester City v West Ham,Manchester,John Brooks,38
+2024-05-19_Sheffield,22274,2024-05-19,Sheffield United,Tottenham,0,3,0.697312,3.19675,2023,Sheffield United v Tottenham,Sheffield,Bobby Madley,38
