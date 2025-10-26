@@ -1,8 +1,7 @@
-matplotlib==3.10.3
+streamlit==1.24.1
 pandas==2.3.1
-requests==2.32.4
-requests-toolbelt==1.0.0
+numpy==1.25.0
+matplotlib==3.10.3
 seaborn==0.13.2
-soccerdata==1.8.7
-lxml==4.9.3
+mplsoccer==0.3.4
 
