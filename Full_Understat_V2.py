@@ -119,19 +119,19 @@ def get_football_data_standings(season):
         
         for position in table:
             standings_list.append({
-                'position': position.get('position'),
-                'team': position['team']['name'],
-                'team_id': position['team']['id'],
-                'playedGames': position.get('playedGames'),
-                'won': position.get('won'),
-                'draw': position.get('draw'),
-                'lost': position.get('lost'),
-                'points': position.get('points'),
-                'goalsFor': position.get('goalsFor'),
-                'goalsAgainst': position.get('goalsAgainst'),
-                'goalDifference': position.get('goalDifference'),
-                'form': position.get('form'),
-                'season': season
+                'Position': position.get('position'),
+                'Team': position['team']['name'],
+                # 'team_id': position['team']['id'],
+                'Games Played': position.get('playedGames'),
+                'Won': position.get('won'),
+                'Draw': position.get('draw'),
+                'Lost': position.get('lost'),
+                'Points': position.get('points'),
+                'Goals For': position.get('goalsFor'),
+                'Goals Against': position.get('goalsAgainst'),
+                'Goal Difference': position.get('goalDifference'),
+                'Form': position.get('form'),
+                'Season': season
             })
         
         return pd.DataFrame(standings_list)
@@ -150,36 +150,36 @@ def get_football_data_matches(season):
         for match in matches_data['matches']:
             matches_list.append({
                 'id': match.get('id'),
-                'season': season,
+                'Season': season,
                 'Match Week': match.get('matchday'),
-                'date': match.get('utcDate'),
-                'status': match.get('status'),
-                'home_team': match['homeTeam']['name'],
-                'home_team_id': match['homeTeam']['id'],
-                'away_team': match['awayTeam']['name'],
-                'away_team_id': match['awayTeam']['id'],
-                'home_score': match['score']['fullTime']['home'],
-                'away_score': match['score']['fullTime']['away'],
-                'home_ht_score': match['score']['halfTime']['home'],
-                'away_ht_score': match['score']['halfTime']['away'],
-                'winner': match['score'].get('winner'),
-                'venue': match.get('venue'),
-                'referee': match['referees'][0]['name'] if match.get('referees') else None
+                'Date': match.get('utcDate'),
+                'Status': match.get('status'),
+                'Home Team': match['homeTeam']['name'],
+                # 'home_team_id': match['homeTeam']['id'],
+                'Away Team': match['awayTeam']['name'],
+                # 'away_team_id': match['awayTeam']['id'],
+                'Home Score': match['score']['fullTime']['home'],
+                'Away Score': match['score']['fullTime']['away'],
+                'Home HT Score': match['score']['halfTime']['home'],
+                'Away HT Score': match['score']['halfTime']['away'],
+                'Winner': match['score'].get('winner'),
+                'Venue': match.get('venue'),
+                'Referee': match['referees'][0]['name'] if match.get('referees') else None
             })
         
         df = pd.DataFrame(matches_list)
         
         # Convert date to YYYY-MM-DD format
-        df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
+        df['Date'] = pd.to_datetime(df['Date']).dt.strftime('%Y-%m-%d')
         
         # Clean team names
-        df.loc[df['home_team'] == 'AFC Bournemouth', 'home_team'] = 'Bournemouth'
-        df.loc[df['away_team'] == 'AFC Bournemouth', 'away_team'] = 'Bournemouth'
+        df.loc[df['Home Team'] == 'AFC Bournemouth', 'Home Team'] = 'Bournemouth'
+        df.loc[df['Away Team'] == 'AFC Bournemouth', 'Away Team'] = 'Bournemouth'
         
-        df['home_team_shortened'] = df['home_team'].str.split().str[0]
+        df['home_team_shortened'] = df['Home Team'].str.split().str[0]
         
         # Create join key
-        df['join_key'] = df['date'] + '_' + df['home_team_shortened']
+        df['join_key'] = df['Date'] + '_' + df['home_team_shortened']
         df = df[['join_key'] + [col for col in df.columns if col != 'join_key']]
         
         return df
@@ -197,16 +197,16 @@ def get_football_data_scorers(season):
         
         for scorer in scorers_data['scorers']:
             scorers_list.append({
-                'player_name': scorer['player']['name'],
-                'player_id': scorer['player']['id'],
-                'team': scorer['team']['name'],
-                'team_id': scorer['team']['id'],
-                'goals': scorer['goals'],
-                'assists': scorer.get('assists'),
-                'penalties': scorer.get('penalties'),
-                'nationality': scorer['player'].get('nationality'),
-                'position': scorer['player'].get('position'),
-                'season': season
+                'Player': scorer['player']['name'],
+                # 'player_id': scorer['player']['id'],
+                'Team': scorer['team']['name'],
+                # 'team_id': scorer['team']['id'],
+                'Goals': scorer['goals'],
+                'Assists': scorer.get('assists'),
+                'Penalties': scorer.get('penalties'),
+                'Nationality': scorer['player'].get('nationality'),
+                'Position': scorer['player'].get('position'),
+                'Season': season
             })
         
         return pd.DataFrame(scorers_list)
@@ -224,17 +224,17 @@ def get_football_data_teams(season):
         
         for team in teams_data['teams']:
             teams_list.append({
-                'id': team.get('id'),
-                'name': team.get('name'),
-                'shortName': team.get('shortName'),
+                # 'id': team.get('id'),
+                'Name': team.get('name'),
+                'Short Name': team.get('shortName'),
                 'tla': team.get('tla'),
-                'crest': team.get('crest'),
-                'address': team.get('address'),
-                'website': team.get('website'),
-                'founded': team.get('founded'),
-                'clubColors': team.get('clubColors'),
-                'venue': team.get('venue'),
-                'season': season
+                'Crest': team.get('crest'),
+                'Address': team.get('address'),
+                'Website': team.get('website'),
+                'Founded': team.get('founded'),
+                'Club Colors': team.get('clubColors'),
+                'Venue': team.get('venue'),
+                'Season': season
             })
         
         return pd.DataFrame(teams_list)
@@ -288,13 +288,13 @@ for season in FOOTBALL_DATA_SEASONS:
     time.sleep(6)
     
     # Top Scorers
-    print("  • Top Scorers...", end=" ")
-    scorers = get_football_data_scorers(season)
-    if scorers is not None:
-        save_dataframe(scorers, f"top_scorers_{season}.csv", "football_data")
-    else:
-        print("✗ Failed")
-    time.sleep(6)
+    # print("  • Top Scorers...", end=" ")
+    # scorers = get_football_data_scorers(season)
+    # if scorers is not None:
+    #     save_dataframe(scorers, f"top_scorers_{season}.csv", "football_data")
+    # else:
+    #     print("✗ Failed")
+    # time.sleep(6)
     
     # Teams
     print("  • Teams...", end=" ")
