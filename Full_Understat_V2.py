@@ -58,7 +58,8 @@ def generate_season_list(start_year=2014):
     return fd_seasons, sd_seasons
 
 # Generate seasons from 2014 to current
-FOOTBALL_DATA_SEASONS, SOCCERDATA_SEASONS = generate_season_list(start_year=2014)
+FOOTBALL_DATA_SEASONS, SOCCERDATA_SEASONS = generate_season_list(start_year=2023)
+
 
 # Output directories
 OUTPUT_DIR = "premier_league_combined_data"
@@ -334,15 +335,15 @@ try:
     # Standardize date format and create join key
     if 'date' in matches_xg.columns:
         matches_xg['date'] = pd.to_datetime(matches_xg['date']).dt.strftime('%Y-%m-%d')
-        matches_xg['home_team_shortened'] = matches_xg['hometeam'].str.split().str[0]
+        matches_xg['home_team_shortened'] = matches_xg['home_team'].str.split().str[0]
         matches_xg['join_key'] = matches_xg['date'] + '_' + matches_xg['home_team_shortened']
         matches_xg = matches_xg[['join_key'] + [col for col in matches_xg.columns if col != 'join_key']]
     
     # Rename key columns to standard names
-    matches_xg = matches_xg.rename(columns={
-        'hometeam': 'home_team',
-        'awayteam': 'away_team'
-    })
+    # matches_xg = matches_xg.rename(columns={
+    #     'hometeam': 'home_team',
+    #     'awayteam': 'away_team'
+    # })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
@@ -489,7 +490,7 @@ for idx, fd_season in enumerate(FOOTBALL_DATA_SEASONS):
         # Merge on join_key
         merged = pd.merge(
             us_df,
-            fd_df[['join_key', 'referee', 'Match Week', 'status']],
+            fd_df[['join_key', 'Referee', 'Match Week', 'Status']],
             on='join_key',
             how='left',
             suffixes=('', '_fd')
@@ -498,7 +499,7 @@ for idx, fd_season in enumerate(FOOTBALL_DATA_SEASONS):
         save_dataframe(merged, f"matches_merged_{fd_season}.csv")
         
         # Report matching success
-        matched = merged['referee'].notna().sum()
+        matched = merged['Referee'].notna().sum()
         total = len(merged)
         print(f"  ✓ Merged {fd_season}: {matched}/{total} matches joined successfully")
     else:
