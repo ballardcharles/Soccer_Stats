@@ -3,5 +3,5 @@ pandas==2.3.1
 numpy==1.26.0
 matplotlib==3.10.3
 seaborn==0.13.2
-mplsoccer==0.3.4
+mplsoccer==1.6.0
 
