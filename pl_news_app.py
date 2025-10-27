@@ -181,13 +181,13 @@ else:
             for col, article in zip(cols, row):
                 with col:
                     st.markdown(
-                        "<div style='border:1px solid #ddd; border-radius:8px; padding:10px; margin-bottom:20px; background:#f9f9f9;'>",
+                        "<div style='border:1px solid #ddd; border-radius:8px; padding:2px; margin-bottom:10px; background:#f9f9f9;'>",
                         unsafe_allow_html=True
                     )
                     # Image on top (square aspect forced)
                     if article['image']:
                         try:
-                            st.image(article['image'], use_container_width=True)
+                            st.image(article['image'], use_container_width=False)
                         except Exception:
                             st.info("Image unavailable")
                     else:

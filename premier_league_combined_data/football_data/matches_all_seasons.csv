@@ -1,4 +1,4 @@
-join_key,id,season,matchday,date,status,home_team,home_team_id,away_team,away_team_id,home_score,away_score,home_ht_score,away_ht_score,winner,venue,referee,home_team_shortened
+join_key,id,season,Match Week,date,status,home_team,home_team_id,away_team,away_team_id,home_score,away_score,home_ht_score,away_ht_score,winner,venue,referee,home_team_shortened
 2023-08-11_Burnley,435943,2023,1,2023-08-11,FINISHED,Burnley FC,328,Manchester City FC,65,0.0,3.0,0.0,2.0,AWAY_TEAM,,Craig Pawson,Burnley
 2023-08-12_Arsenal,435944,2023,1,2023-08-12,FINISHED,Arsenal FC,57,Nottingham Forest FC,351,2.0,1.0,2.0,0.0,HOME_TEAM,,Michael Oliver,Arsenal
 2023-08-12_Bournemouth,435945,2023,1,2023-08-12,FINISHED,Bournemouth,1044,West Ham United FC,563,1.0,1.0,0.0,0.0,DRAW,,Peter Bankes,Bournemouth

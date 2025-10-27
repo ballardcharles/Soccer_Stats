@@ -1,4 +1,4 @@
-join_key,id,season,matchday,date,status,home_team,home_team_id,away_team,away_team_id,home_score,away_score,home_ht_score,away_ht_score,winner,venue,referee,home_team_shortened
+join_key,id,season,Match Week,date,status,home_team,home_team_id,away_team,away_team_id,home_score,away_score,home_ht_score,away_ht_score,winner,venue,referee,home_team_shortened
 2025-08-15_Liverpool,537785,2025,1,2025-08-15,FINISHED,Liverpool FC,64,Bournemouth,1044,4.0,2.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Liverpool
 2025-08-16_Aston,537786,2025,1,2025-08-16,FINISHED,Aston Villa FC,58,Newcastle United FC,67,0.0,0.0,0.0,0.0,DRAW,,Craig Pawson,Aston
 2025-08-16_Brighton,537787,2025,1,2025-08-16,FINISHED,Brighton & Hove Albion FC,397,Fulham FC,63,1.0,1.0,0.0,0.0,DRAW,,Sam Barrott,Brighton

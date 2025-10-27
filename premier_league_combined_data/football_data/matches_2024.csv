@@ -1,4 +1,4 @@
-join_key,id,season,matchday,date,status,home_team,home_team_id,away_team,away_team_id,home_score,away_score,home_ht_score,away_ht_score,winner,venue,referee,home_team_shortened
+join_key,id,season,Match Week,date,status,home_team,home_team_id,away_team,away_team_id,home_score,away_score,home_ht_score,away_ht_score,winner,venue,referee,home_team_shortened
 2024-08-16_Manchester,497410,2024,1,2024-08-16,FINISHED,Manchester United FC,66,Fulham FC,63,1,0,0,0,HOME_TEAM,,Robert Jones,Manchester
 2024-08-17_Ipswich,497411,2024,1,2024-08-17,FINISHED,Ipswich Town FC,349,Liverpool FC,64,0,2,0,0,AWAY_TEAM,,Tim Robinson,Ipswich
 2024-08-17_Arsenal,497412,2024,1,2024-08-17,FINISHED,Arsenal FC,57,Wolverhampton Wanderers FC,76,2,0,1,0,HOME_TEAM,,Jarred Gillett,Arsenal

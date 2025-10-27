@@ -61,7 +61,7 @@ def generate_season_list(start_year=2014):
 FOOTBALL_DATA_SEASONS, SOCCERDATA_SEASONS = generate_season_list(start_year=2014)
 
 # Output directories
-OUTPUT_DIR = "premier_league_combined_data_v2"
+OUTPUT_DIR = "premier_league_combined_data"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "football_data"), exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "understat"), exist_ok=True)
@@ -323,15 +323,26 @@ try:
     print("\n[1/5] Extracting match schedule with xG...")
     matches_xg = understat.read_schedule()
     
-    # Reset index to make multi-index columns regular columns
+    # Flatten multi-index columns and reset index
+    if isinstance(matches_xg.columns, pd.MultiIndex):
+        matches_xg.columns = ['_'.join(col).strip() if col[1] else col[0] for col in matches_xg.columns.values]
     matches_xg = matches_xg.reset_index()
+    
+    # Clean column names - remove any remaining multi-index artifacts
+    matches_xg.columns = [str(col).replace('_', '').lower() if '_' not in str(col) else str(col).lower() for col in matches_xg.columns]
     
     # Standardize date format and create join key
     if 'date' in matches_xg.columns:
         matches_xg['date'] = pd.to_datetime(matches_xg['date']).dt.strftime('%Y-%m-%d')
-        matches_xg['home_team_shortened'] = matches_xg['home_team'].str.split().str[0]
+        matches_xg['home_team_shortened'] = matches_xg['hometeam'].str.split().str[0]
         matches_xg['join_key'] = matches_xg['date'] + '_' + matches_xg['home_team_shortened']
         matches_xg = matches_xg[['join_key'] + [col for col in matches_xg.columns if col != 'join_key']]
+    
+    # Rename key columns to standard names
+    matches_xg = matches_xg.rename(columns={
+        'hometeam': 'home_team',
+        'awayteam': 'away_team'
+    })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
@@ -346,7 +357,14 @@ try:
     # 2. Team match stats
     print("\n[2/5] Extracting team match stats...")
     team_stats = understat.read_team_match_stats()
+    
+    # Flatten multi-index columns and reset index
+    if isinstance(team_stats.columns, pd.MultiIndex):
+        team_stats.columns = ['_'.join(col).strip() if col[1] else col[0] for col in team_stats.columns.values]
     team_stats = team_stats.reset_index()
+    
+    # Clean column names
+    team_stats.columns = [str(col).lower().replace(' ', '_') for col in team_stats.columns]
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
@@ -360,7 +378,14 @@ try:
     # 3. Shot events
     print("\n[3/5] Extracting shot events with xG...")
     shots = understat.read_shot_events()
+    
+    # Flatten multi-index columns and reset index
+    if isinstance(shots.columns, pd.MultiIndex):
+        shots.columns = ['_'.join(col).strip() if col[1] else col[0] for col in shots.columns.values]
     shots = shots.reset_index()
+    
+    # Clean column names
+    shots.columns = [str(col).lower().replace(' ', '_') for col in shots.columns]
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
@@ -374,7 +399,14 @@ try:
     # 4. Player season stats
     print("\n[4/5] Extracting player season stats...")
     player_season = understat.read_player_season_stats()
+    
+    # Flatten multi-index columns and reset index
+    if isinstance(player_season.columns, pd.MultiIndex):
+        player_season.columns = ['_'.join(col).strip() if col[1] else col[0] for col in player_season.columns.values]
     player_season = player_season.reset_index()
+    
+    # Clean column names
+    player_season.columns = [str(col).lower().replace(' ', '_') for col in player_season.columns]
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
@@ -388,7 +420,14 @@ try:
     # 5. Player match stats
     print("\n[5/5] Extracting player match stats...")
     player_match = understat.read_player_match_stats()
+    
+    # Flatten multi-index columns and reset index
+    if isinstance(player_match.columns, pd.MultiIndex):
+        player_match.columns = ['_'.join(col).strip() if col[1] else col[0] for col in player_match.columns.values]
     player_match = player_match.reset_index()
+    
+    # Clean column names
+    player_match.columns = [str(col).lower().replace(' ', '_') for col in player_match.columns]
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
