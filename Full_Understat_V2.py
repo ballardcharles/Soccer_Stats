@@ -330,7 +330,7 @@ try:
     matches_xg = matches_xg.reset_index()
     
     # Clean column names - remove any remaining multi-index artifacts
-    matches_xg.columns = [str(col).replace('_', '').lower() if '_' not in str(col) else str(col).lower() for col in matches_xg.columns]
+    matches_xg.columns = [str(col).replace('_', '') if '_' not in str(col) else str(col) for col in matches_xg.columns]
     
     # Standardize date format and create join key
     if 'date' in matches_xg.columns:
@@ -340,14 +340,25 @@ try:
         matches_xg = matches_xg[['join_key'] + [col for col in matches_xg.columns if col != 'join_key']]
     
     # Rename key columns to standard names
-    # matches_xg = matches_xg.rename(columns={
-    #     'hometeam': 'home_team',
-    #     'awayteam': 'away_team'
-    # })
+    matches_xg = matches_xg.rename(columns={
+        'home_team': 'Home Team',
+        'away_team': 'Away Team',
+        'date': 'Date',
+        'season': 'Season',
+        'home_xg': 'Home xG',
+        'away_xg': 'Away xG',
+        'home_goals': 'Home Goals',
+        'away_goals': 'Away Goals',
+
+    })
+
+    # Drop specific columns (example: 'some_column_1', 'some_column_2')
+    cols_to_drop = ['game', 'game_id','season_id', 'home_team_id', 'away_team_id', 'league', 'is_result', 'has_data', 'url']  # Specify columns to drop here
+    matches_xg = matches_xg.drop(columns=[col for col in cols_to_drop if col in matches_xg.columns])
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
-        season_data = matches_xg[matches_xg['season'] == season]
+        season_data = matches_xg[matches_xg['Season'] == season]
         if not season_data.empty:
             save_dataframe(season_data, f"matches_xG_{season}.csv", "understat")
     
