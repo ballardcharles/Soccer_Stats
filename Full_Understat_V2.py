@@ -343,23 +343,35 @@ try:
     team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
 
     # Drop specific columns (example: 'some_column_1', 'some_column_2')
-    team_stats_drop = ['game', 'season', 'home_team_id', 'away_team_id', 'home_team_shortened']  # Specify columns to drop here
+    team_stats_drop = ['game', 'game_id', 'league_id', 'league', 'home_team_id', 'away_team_id', 'home_team_shortened', 'away_expected_points', 'home_expected_points']  # Specify columns to drop here
     team_stats = team_stats.drop(columns=[col for col in team_stats_drop if col in team_stats.columns])
 
     # Rename Columns
     team_stats = team_stats.rename(columns={
         'season_id': 'Season',
+        'season': 'season_id',
+        'date': 'Date',
         'home_team': 'Home Team',
         'away_team': 'Away Team',
+        'away_team_code': 'Away Team Code',
+        'home_team_code': 'Home Team Code',
+        'away_points': 'Away Points',
+        'home_points': 'Home Points',
         'home_xg': 'Home xG',
         'away_xg': 'Away xG',
         'home_goals': 'Home Goals',
         'away_goals': 'Away Goals',
+        'away_np_xg': 'Away Non-Penalty xG',
+        'home_np_xg': 'Home Non-Penalty xG',
+        'away_deep_completions': 'Away Deep Completions',
+        'home_deep_completions': 'Home Deep Completions',
+        'away_ppda': 'Away PPDA',
+        'home_ppda': 'Home PPDA',
     })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
-        season_data = team_stats[team_stats['season'] == season]
+        season_data = team_stats[team_stats['season_id'] == season]
         if not season_data.empty:
             save_dataframe(season_data, f"team_stats_{season}.csv", "understat")
     
