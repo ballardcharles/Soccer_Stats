@@ -320,54 +320,8 @@ try:
     print(f"\nInitializing Understat for seasons: {SOCCERDATA_SEASONS[0]}-{SOCCERDATA_SEASONS[-1]}")
     understat = sd.Understat(leagues=['ENG-Premier League'], seasons=SOCCERDATA_SEASONS)
     
-    # 1. Match schedule with xG
-    print("\n[1/5] Extracting match schedule with xG...")
-    matches_xg = understat.read_schedule()
-    
-    # Flatten multi-index columns and reset index
-    if isinstance(matches_xg.columns, pd.MultiIndex):
-        matches_xg.columns = ['_'.join(col).strip() if col[1] else col[0] for col in matches_xg.columns.values]
-    matches_xg = matches_xg.reset_index()
-    
-    # Clean column names - remove any remaining multi-index artifacts
-    matches_xg.columns = [str(col).replace('_', '') if '_' not in str(col) else str(col) for col in matches_xg.columns]
-    
-    # Standardize date format and create join key
-    if 'date' in matches_xg.columns:
-        matches_xg['date'] = pd.to_datetime(matches_xg['date']).dt.strftime('%Y-%m-%d')
-        matches_xg['home_team_shortened'] = matches_xg['home_team'].str.split().str[0]
-        matches_xg['join_key'] = matches_xg['date'] + '_' + matches_xg['home_team_shortened']
-        matches_xg = matches_xg[['join_key'] + [col for col in matches_xg.columns if col != 'join_key']]
-    
-    # Rename key columns to standard names
-    matches_xg = matches_xg.rename(columns={
-        'home_team': 'Home Team',
-        'away_team': 'Away Team',
-        'date': 'Date',
-        'season': 'Season',
-        'home_xg': 'Home xG',
-        'away_xg': 'Away xG',
-        'home_goals': 'Home Goals',
-        'away_goals': 'Away Goals',
-
-    })
-
-    # Drop specific columns (example: 'some_column_1', 'some_column_2')
-    cols_to_drop = ['game', 'game_id','season_id', 'home_team_id', 'away_team_id', 'league', 'is_result', 'has_data', 'url']  # Specify columns to drop here
-    matches_xg = matches_xg.drop(columns=[col for col in cols_to_drop if col in matches_xg.columns])
-    
-    # Save by season
-    for season in SOCCERDATA_SEASONS:
-        season_data = matches_xg[matches_xg['Season'] == season]
-        if not season_data.empty:
-            save_dataframe(season_data, f"matches_xG_{season}.csv", "understat")
-    
-    # Save all seasons
-    save_dataframe(matches_xg, "matches_xG_all_seasons.csv", "understat")
-    print(f"  ✓ Saved {len(matches_xg)} matches")
-    
-    # 2. Team match stats
-    print("\n[2/5] Extracting team match stats...")
+    # 1. Team match stats
+    print("\n[1/4] Extracting team match stats...")
     team_stats = understat.read_team_match_stats()
     
     # Flatten multi-index columns and reset index
@@ -377,6 +331,31 @@ try:
     
     # Clean column names
     team_stats.columns = [str(col).lower().replace(' ', '_') for col in team_stats.columns]
+
+    # Standardize date format and create join key
+    if 'date' in team_stats.columns:
+        team_stats['date'] = pd.to_datetime(team_stats['date']).dt.strftime('%Y-%m-%d')
+        team_stats['home_team_shortened'] = team_stats['home_team'].str.split().str[0]
+        team_stats['join_key'] = team_stats['date'] + '_' + team_stats['home_team_shortened']
+        team_stats = team_stats[['join_key'] + [col for col in team_stats.columns if col != 'join_key']]
+
+    # Change League Name
+    team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
+
+    # Drop specific columns (example: 'some_column_1', 'some_column_2')
+    team_stats_drop = ['game', 'season', 'home_team_id', 'away_team_id', 'home_team_shortened']  # Specify columns to drop here
+    team_stats = team_stats.drop(columns=[col for col in team_stats_drop if col in team_stats.columns])
+
+    # Rename Columns
+    team_stats = team_stats.rename(columns={
+        'season_id': 'Season',
+        'home_team': 'Home Team',
+        'away_team': 'Away Team',
+        'home_xg': 'Home xG',
+        'away_xg': 'Away xG',
+        'home_goals': 'Home Goals',
+        'away_goals': 'Away Goals',
+    })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
@@ -387,8 +366,8 @@ try:
     save_dataframe(team_stats, "team_stats_all_seasons.csv", "understat")
     print(f"  ✓ Saved {len(team_stats)} records")
     
-    # 3. Shot events
-    print("\n[3/5] Extracting shot events with xG...")
+    # 2. Shot events
+    print("\n[2/4] Extracting shot events with xG...")
     shots = understat.read_shot_events()
     
     # Flatten multi-index columns and reset index
@@ -408,8 +387,8 @@ try:
     save_dataframe(shots, "shots_all_seasons.csv", "understat")
     print(f"  ✓ Saved {len(shots)} shots")
     
-    # 4. Player season stats
-    print("\n[4/5] Extracting player season stats...")
+    # 3. Player season stats
+    print("\n[3/4] Extracting player season stats...")
     player_season = understat.read_player_season_stats()
     
     # Flatten multi-index columns and reset index
@@ -429,8 +408,8 @@ try:
     save_dataframe(player_season, "player_season_all_seasons.csv", "understat")
     print(f"  ✓ Saved {len(player_season)} records")
     
-    # 5. Player match stats
-    print("\n[5/5] Extracting player match stats...")
+    # 4. Player match stats
+    print("\n[4/4] Extracting player match stats...")
     player_match = understat.read_player_match_stats()
     
     # Flatten multi-index columns and reset index
@@ -492,7 +471,7 @@ for idx, fd_season in enumerate(FOOTBALL_DATA_SEASONS):
     sd_season = SOCCERDATA_SEASONS[idx]
     
     fd_matches_file = os.path.join(OUTPUT_DIR, "football_data", f"matches_{fd_season}.csv")
-    us_matches_file = os.path.join(OUTPUT_DIR, "understat", f"matches_xG_{sd_season}.csv")
+    us_matches_file = os.path.join(OUTPUT_DIR, "understat", f"team_stats_{sd_season}.csv")
     
     if os.path.exists(fd_matches_file) and os.path.exists(us_matches_file):
         fd_df = pd.read_csv(fd_matches_file)
