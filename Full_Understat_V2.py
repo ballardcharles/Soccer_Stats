@@ -342,14 +342,19 @@ try:
     # Change League Name
     team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
 
+    # Remove the date and space, replace '-' with ' v '
+    team_stats['game'] = team_stats['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
+
     # Drop specific columns (example: 'some_column_1', 'some_column_2')
-    team_stats_drop = ['game', 'game_id', 'league_id', 'league', 'home_team_id', 'away_team_id', 'home_team_shortened', 'away_expected_points', 'home_expected_points']  # Specify columns to drop here
+    team_stats_drop = ['game_id', 'league_id','home_team_id', 'away_team_id', 'home_team_shortened', 'away_expected_points', 'home_expected_points']  # Specify columns to drop here
     team_stats = team_stats.drop(columns=[col for col in team_stats_drop if col in team_stats.columns])
 
     # Rename Columns
     team_stats = team_stats.rename(columns={
+        'game': 'Game',
         'season_id': 'Season',
         'season': 'season_id',
+        'league': 'League',
         'date': 'Date',
         'home_team': 'Home Team',
         'away_team': 'Away Team',
@@ -389,6 +394,38 @@ try:
     
     # Clean column names
     shots.columns = [str(col).lower().replace(' ', '_') for col in shots.columns]
+
+    # Standardize date format and create join key
+    if 'date' in shots.columns:
+        shots['date'] = pd.to_datetime(shots['date']).dt.strftime('%Y-%m-%d')
+
+    # Drop specific columns (example: 'some_column_1', 'some_column_2')
+    shots_drop = ['game_id', 'league_id','player_id', 'assist_player_id', 'team_id']  # Specify columns to drop here
+    shots = shots.drop(columns=[col for col in shots_drop if col in shots.columns])
+
+    # Rename Columns
+    # shots = shots.rename(columns={
+    #     'season_id': 'Season',
+    #     'season': 'season_id',
+    #     'league': 'League',
+    #     'date': 'Date',
+    #     'home_team': 'Home Team',
+    #     'away_team': 'Away Team',
+    #     'away_team_code': 'Away Team Code',
+    #     'home_team_code': 'Home Team Code',
+    #     'away_points': 'Away Points',
+    #     'home_points': 'Home Points',
+    #     'home_xg': 'Home xG',
+    #     'away_xg': 'Away xG',
+    #     'home_goals': 'Home Goals',
+    #     'away_goals': 'Away Goals',
+    #     'away_np_xg': 'Away Non-Penalty xG',
+    #     'home_np_xg': 'Home Non-Penalty xG',
+    #     'away_deep_completions': 'Away Deep Completions',
+    #     'home_deep_completions': 'Home Deep Completions',
+    #     'away_ppda': 'Away PPDA',
+    #     'home_ppda': 'Home PPDA',
+    # })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
