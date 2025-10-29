@@ -399,37 +399,37 @@ try:
     if 'date' in shots.columns:
         shots['date'] = pd.to_datetime(shots['date']).dt.strftime('%Y-%m-%d')
 
+    # Change League Name
+    team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
+
+    # Remove the date and space, replace '-' with ' v '
+    team_stats['game'] = team_stats['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
+
     # Drop specific columns (example: 'some_column_1', 'some_column_2')
     shots_drop = ['game_id', 'league_id','player_id', 'assist_player_id', 'team_id']  # Specify columns to drop here
     shots = shots.drop(columns=[col for col in shots_drop if col in shots.columns])
 
     # Rename Columns
-    # shots = shots.rename(columns={
-    #     'season_id': 'Season',
-    #     'season': 'season_id',
-    #     'league': 'League',
-    #     'date': 'Date',
-    #     'home_team': 'Home Team',
-    #     'away_team': 'Away Team',
-    #     'away_team_code': 'Away Team Code',
-    #     'home_team_code': 'Home Team Code',
-    #     'away_points': 'Away Points',
-    #     'home_points': 'Home Points',
-    #     'home_xg': 'Home xG',
-    #     'away_xg': 'Away xG',
-    #     'home_goals': 'Home Goals',
-    #     'away_goals': 'Away Goals',
-    #     'away_np_xg': 'Away Non-Penalty xG',
-    #     'home_np_xg': 'Home Non-Penalty xG',
-    #     'away_deep_completions': 'Away Deep Completions',
-    #     'home_deep_completions': 'Home Deep Completions',
-    #     'away_ppda': 'Away PPDA',
-    #     'home_ppda': 'Home PPDA',
-    # })
+    shots = shots.rename(columns={
+        'season_id': 'Season',
+        'season': 'season_id',
+        'league': 'League',
+        'game': 'Game',
+        'date': 'Date',
+        'team': 'Team',
+        'player': 'Player',
+        'assist_player': 'Assist Player',
+        'xg': 'xG',
+        'location_x': 'x',
+        'location_y': 'y',
+        'minute': 'Minute',
+        'situation': 'Situation',
+        'result': 'Result',
+    })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
-        season_data = shots[shots['season'] == season]
+        season_data = shots[shots['season_id'] == season]
         if not season_data.empty:
             save_dataframe(season_data, f"shots_{season}.csv", "understat")
     
@@ -447,7 +447,36 @@ try:
     
     # Clean column names
     player_season.columns = [str(col).lower().replace(' ', '_') for col in player_season.columns]
+
+    # Change League Name
+    team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
     
+    # Drop specific columns (example: 'some_column_1', 'some_column_2')
+    player_season_drop = ['league_id','player_id','team_id']  # Specify columns to drop here
+    player_season = player_season.drop(columns=[col for col in player_season_drop if col in player_season.columns])
+
+    # Rename columns
+    player_season = player_season.rename(columns={
+        'season_id': 'Season',
+        'season': 'season_id',
+        'league': 'League',
+        'player': 'Player',
+        'team': 'Team',
+        'minutes': 'Minutes',
+        'matches': 'Matches',
+        'goals': 'Goals',
+        'xg': 'xG',
+        'np_goals': 'Non-Penalty Goals',
+        'np_xg': 'Non-Penalty xG',
+        'assists': 'Assists',
+        'xa': 'xA',
+        'shots': 'Shots',
+        'key_passes': 'Key Passes',
+        'passes': 'Total Passes',
+        'yellow_cards': 'Yellow Cards',
+        'red_cards': 'Red Cards',        
+    })
+
     # Save by season
     for season in SOCCERDATA_SEASONS:
         season_data = player_season[player_season['season'] == season]
@@ -468,6 +497,18 @@ try:
     
     # Clean column names
     player_match.columns = [str(col).lower().replace(' ', '_') for col in player_match.columns]
+
+    # Drop specific columns (example: 'some_column_1', 'some_column_2')
+    player_match_drop = ['league_id','player_id','team_id']  # Specify columns to drop here
+    player_match = player_match.drop(columns=[col for col in player_match_drop if col in player_match.columns])
+
+    # Rename columns
+    player_match = player_match.rename(columns={
+        'season_id': 'Season',
+        'season': 'season_id',
+        'league': 'League',
+        
+    })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
