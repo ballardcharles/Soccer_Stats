@@ -400,13 +400,13 @@ try:
         shots['date'] = pd.to_datetime(shots['date']).dt.strftime('%Y-%m-%d')
 
     # Change League Name
-    team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
+    shots['league'] = shots['league'].replace('ENG-Premier League', 'Premier League')
 
     # Remove the date and space, replace '-' with ' v '
-    team_stats['game'] = team_stats['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
+    shots['game'] = shots['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
 
     # Drop specific columns (example: 'some_column_1', 'some_column_2')
-    shots_drop = ['game_id', 'league_id','player_id', 'assist_player_id', 'team_id']  # Specify columns to drop here
+    shots_drop = ['league_id','player_id', 'assist_player_id', 'team_id']  # Specify columns to drop here
     shots = shots.drop(columns=[col for col in shots_drop if col in shots.columns])
 
     # Rename Columns
@@ -449,7 +449,7 @@ try:
     player_season.columns = [str(col).lower().replace(' ', '_') for col in player_season.columns]
 
     # Change League Name
-    team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
+    player_season['league'] = player_season['league'].replace('ENG-Premier League', 'Premier League')
     
     # Drop specific columns (example: 'some_column_1', 'some_column_2')
     player_season_drop = ['league_id','player_id','team_id']  # Specify columns to drop here
@@ -479,7 +479,7 @@ try:
 
     # Save by season
     for season in SOCCERDATA_SEASONS:
-        season_data = player_season[player_season['season'] == season]
+        season_data = player_season[player_season['season_id'] == season]
         if not season_data.empty:
             save_dataframe(season_data, f"player_season_{season}.csv", "understat")
     
@@ -498,6 +498,9 @@ try:
     # Clean column names
     player_match.columns = [str(col).lower().replace(' ', '_') for col in player_match.columns]
 
+    # Remove the date and space, replace '-' with ' v '
+    player_match['game'] = player_match['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
+
     # Drop specific columns (example: 'some_column_1', 'some_column_2')
     player_match_drop = ['league_id','player_id','team_id']  # Specify columns to drop here
     player_match = player_match.drop(columns=[col for col in player_match_drop if col in player_match.columns])
@@ -507,12 +510,29 @@ try:
         'season_id': 'Season',
         'season': 'season_id',
         'league': 'League',
-        
+        'game': 'Game',
+        'team': 'Team',
+        'player': 'Player',
+        'minutes': 'Minutes',
+        'position': 'Position',
+        'goals': 'Goals',
+        'xg': 'xG',
+        'shots': 'Shots',
+        'key_passes': 'Key Passes',
+        'own_goals': 'Own Goals',
+        'assists': 'Assists',
+        'xa': 'xA',
+        'position_id': 'Position ID',
+        'yellow_cards': 'Yellow Cards',
+        'red_cards': 'Red Cards',        
     })
     
     # Save by season
     for season in SOCCERDATA_SEASONS:
-        season_data = player_match[player_match['season'] == season]
+        season_data = player_match[player_match['season_id'] == season]
+        game_date = shots[shots['season_id'] == season][['game_id','Date']].drop_duplicates(keep='first').reset_index(drop=True)
+
+        season_data = season_data.merge(game_date, how='left', on='game_id')
         if not season_data.empty:
             save_dataframe(season_data, f"player_match_{season}.csv", "understat")
     
