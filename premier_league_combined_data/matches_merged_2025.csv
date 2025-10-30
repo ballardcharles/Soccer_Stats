@@ -1,91 +1,91 @@
-join_key,match_id,date,home_team,away_team,home_goals,away_goals,home_xg,away_xg,season,Match,home_team_shortened,referee,matchday
-2025-08-15_Liverpool,28778,2025-08-15,Liverpool,Bournemouth,4,2,2.33007,1.57303,2025,Liverpool v Bournemouth,Liverpool,Anthony Taylor,1
-2025-08-16_Aston,28779,2025-08-16,Aston Villa,Newcastle United,0,0,0.318601,1.40098,2025,Aston Villa v Newcastle United,Aston,Craig Pawson,1
-2025-08-16_Brighton,28780,2025-08-16,Brighton,Fulham,1,1,1.44008,0.902883,2025,Brighton v Fulham,Brighton,Sam Barrott,1
-2025-08-16_Sunderland,28781,2025-08-16,Sunderland,West Ham,3,0,0.724368,0.558948,2025,Sunderland v West Ham,Sunderland,Robert Jones,1
-2025-08-16_Tottenham,28782,2025-08-16,Tottenham,Burnley,3,0,1.97858,0.734138,2025,Tottenham v Burnley,Tottenham,Michael Oliver,1
-2025-08-16_Wolverhampton,28783,2025-08-16,Wolverhampton Wanderers,Manchester City,0,4,0.519436,2.29903,2025,Wolverhampton Wanderers v Manchester City,Wolverhampton,Jarred Gillett,1
-2025-08-17_Chelsea,28784,2025-08-17,Chelsea,Crystal Palace,0,0,1.36793,1.03414,2025,Chelsea v Crystal Palace,Chelsea,Darren England,1
-2025-08-17_Nottingham,28785,2025-08-17,Nottingham Forest,Brentford,3,1,1.7555,1.32516,2025,Nottingham Forest v Brentford,Nottingham,Peter Bankes,1
-2025-08-17_Manchester,28786,2025-08-17,Manchester United,Arsenal,0,1,1.37653,1.3304,2025,Manchester United v Arsenal,Manchester,Simon Hooper,1
-2025-08-18_Leeds,28787,2025-08-18,Leeds,Everton,1,0,2.3812,0.674338,2025,Leeds v Everton,Leeds,Chris Kavanagh,1
-2025-08-22_West,28788,2025-08-22,West Ham,Chelsea,1,5,0.978572,3.94997,2025,West Ham v Chelsea,West,Michael Oliver,2
-2025-08-23_Manchester,28789,2025-08-23,Manchester City,Tottenham,0,2,1.2475,1.28015,2025,Manchester City v Tottenham,Manchester,Peter Bankes,2
-2025-08-23_Brentford,28790,2025-08-23,Brentford,Aston Villa,1,0,1.12964,0.976852,2025,Brentford v Aston Villa,Brentford,Tony Harrington,2
-2025-08-23_Burnley,28791,2025-08-23,Burnley,Sunderland,2,0,1.00381,1.12127,2025,Burnley v Sunderland,Burnley,Michael Salisbury,2
-2025-08-23_Bournemouth,28792,2025-08-23,Bournemouth,Wolverhampton Wanderers,1,0,1.78462,0.373367,2025,Bournemouth v Wolverhampton Wanderers,Bournemouth,Thomas Bramall,2
-2025-08-23_Arsenal,28793,2025-08-23,Arsenal,Leeds,5,0,2.73761,0.156761,2025,Arsenal v Leeds,Arsenal,Jarred Gillett,2
-2025-08-24_Crystal,28794,2025-08-24,Crystal Palace,Nottingham Forest,1,1,1.10188,1.32987,2025,Crystal Palace v Nottingham Forest,Crystal,Anthony Taylor,2
-2025-08-24_Everton,28795,2025-08-24,Everton,Brighton,2,0,1.80116,2.08487,2025,Everton v Brighton,Everton,Stuart Attwell,2
-2025-08-24_Fulham,28796,2025-08-24,Fulham,Manchester United,1,1,1.65333,1.54603,2025,Fulham v Manchester United,Fulham,Chris Kavanagh,2
-2025-08-25_Newcastle,28797,2025-08-25,Newcastle United,Liverpool,2,3,1.96342,0.646559,2025,Newcastle United v Liverpool,Newcastle,Simon Hooper,2
-2025-08-30_Chelsea,28798,2025-08-30,Chelsea,Fulham,2,0,2.4324,0.736228,2025,Chelsea v Fulham,Chelsea,Robert Jones,3
-2025-08-30_Tottenham,28799,2025-08-30,Tottenham,Bournemouth,0,1,0.17067,2.1201,2025,Tottenham v Bournemouth,Tottenham,Simon Hooper,3
-2025-08-30_Wolverhampton,28800,2025-08-30,Wolverhampton Wanderers,Everton,2,3,0.943257,2.03791,2025,Wolverhampton Wanderers v Everton,Wolverhampton,Michael Oliver,3
-2025-08-30_Sunderland,28801,2025-08-30,Sunderland,Brentford,2,1,1.57127,1.44604,2025,Sunderland v Brentford,Sunderland,Anthony Taylor,3
-2025-08-30_Manchester,28802,2025-08-30,Manchester United,Burnley,3,2,4.02237,1.32618,2025,Manchester United v Burnley,Manchester,Sam Barrott,3
-2025-08-30_Leeds,28803,2025-08-30,Leeds,Newcastle United,0,0,0.6773,0.303635,2025,Leeds v Newcastle United,Leeds,Peter Bankes,3
-2025-08-31_Nottingham,28804,2025-08-31,Nottingham Forest,West Ham,0,3,0.716018,2.236,2025,Nottingham Forest v West Ham,Nottingham,Craig Pawson,3
-2025-08-31_Brighton,28805,2025-08-31,Brighton,Manchester City,2,1,2.20864,2.13418,2025,Brighton v Manchester City,Brighton,Darren England,3
-2025-08-31_Liverpool,28806,2025-08-31,Liverpool,Arsenal,1,0,0.481404,0.485679,2025,Liverpool v Arsenal,Liverpool,Chris Kavanagh,3
-2025-08-31_Aston,28807,2025-08-31,Aston Villa,Crystal Palace,0,3,1.20586,2.59713,2025,Aston Villa v Crystal Palace,Aston,Stuart Attwell,3
-2025-09-13_Arsenal,28808,2025-09-13,Arsenal,Nottingham Forest,3,0,2.8817,0.293681,2025,Arsenal v Nottingham Forest,Arsenal,Darren England,4
-2025-09-13_Newcastle,28809,2025-09-13,Newcastle United,Wolverhampton Wanderers,1,0,1.19186,0.375942,2025,Newcastle United v Wolverhampton Wanderers,Newcastle,Chris Kavanagh,4
-2025-09-13_Bournemouth,28810,2025-09-13,Bournemouth,Brighton,2,1,1.44187,0.624923,2025,Bournemouth v Brighton,Bournemouth,Peter Bankes,4
-2025-09-13_Crystal,28811,2025-09-13,Crystal Palace,Sunderland,0,0,1.75805,0.354129,2025,Crystal Palace v Sunderland,Crystal,Thomas Bramall,4
-2025-09-13_Everton,28812,2025-09-13,Everton,Aston Villa,0,0,1.8927,0.354327,2025,Everton v Aston Villa,Everton,Simon Hooper,4
-2025-09-13_Fulham,28813,2025-09-13,Fulham,Leeds,1,0,1.13979,0.830398,2025,Fulham v Leeds,Fulham,Craig Pawson,4
-2025-09-13_West,28814,2025-09-13,West Ham,Tottenham,0,3,0.793248,1.51402,2025,West Ham v Tottenham,West,Jarred Gillett,4
-2025-09-13_Brentford,28815,2025-09-13,Brentford,Chelsea,2,2,1.17533,0.755999,2025,Brentford v Chelsea,Brentford,Stuart Attwell,4
-2025-09-14_Burnley,28816,2025-09-14,Burnley,Liverpool,0,1,0.168041,2.79492,2025,Burnley v Liverpool,Burnley,Michael Oliver,4
-2025-09-14_Manchester,28817,2025-09-14,Manchester City,Manchester United,3,0,1.99725,1.51915,2025,Manchester City v Manchester United,Manchester,Anthony Taylor,4
-2025-09-20_Liverpool,28818,2025-09-20,Liverpool,Everton,2,1,1.06166,0.721371,2025,Liverpool v Everton,Liverpool,Darren England,5
-2025-09-20_West,28819,2025-09-20,West Ham,Crystal Palace,1,2,0.466365,2.33565,2025,West Ham v Crystal Palace,West,Tony Harrington,5
-2025-09-20_Wolverhampton,28820,2025-09-20,Wolverhampton Wanderers,Leeds,1,3,1.5661,0.456988,2025,Wolverhampton Wanderers v Leeds,Wolverhampton,Anthony Taylor,5
-2025-09-20_Brighton,28821,2025-09-20,Brighton,Tottenham,2,2,1.40466,1.19181,2025,Brighton v Tottenham,Brighton,Chris Kavanagh,5
-2025-09-20_Burnley,28822,2025-09-20,Burnley,Nottingham Forest,1,1,1.14159,0.830779,2025,Burnley v Nottingham Forest,Burnley,Thomas Bramall,5
-2025-09-20_Manchester,28824,2025-09-20,Manchester United,Chelsea,2,1,1.34458,0.469843,2025,Manchester United v Chelsea,Manchester,Peter Bankes,5
-2025-09-20_Fulham,28825,2025-09-20,Fulham,Brentford,3,1,1.52431,0.826556,2025,Fulham v Brentford,Fulham,Michael Oliver,5
-2025-09-21_Bournemouth,28823,2025-09-21,Bournemouth,Newcastle United,0,0,0.55066,0.153629,2025,Bournemouth v Newcastle United,Bournemouth,Robert Jones,5
-2025-09-21_Sunderland,28826,2025-09-21,Sunderland,Aston Villa,1,1,0.938312,0.939354,2025,Sunderland v Aston Villa,Sunderland,Sam Barrott,5
-2025-09-21_Arsenal,28827,2025-09-21,Arsenal,Manchester City,1,1,0.718575,1.1227,2025,Arsenal v Manchester City,Arsenal,Stuart Attwell,5
-2025-09-27_Brentford,28828,2025-09-27,Brentford,Manchester United,3,1,2.78726,2.23609,2025,Brentford v Manchester United,Brentford,Craig Pawson,6
-2025-09-27_Chelsea,28829,2025-09-27,Chelsea,Brighton,1,3,2.02653,2.4751,2025,Chelsea v Brighton,Chelsea,Simon Hooper,6
-2025-09-27_Crystal,28830,2025-09-27,Crystal Palace,Liverpool,2,1,3.53323,3.10176,2025,Crystal Palace v Liverpool,Crystal,Chris Kavanagh,6
-2025-09-27_Leeds,28832,2025-09-27,Leeds,Bournemouth,2,2,2.04728,1.06033,2025,Leeds v Bournemouth,Leeds,Michael Oliver,6
-2025-09-27_Manchester,28833,2025-09-27,Manchester City,Burnley,5,1,3.22133,0.509491,2025,Manchester City v Burnley,Manchester,Robert Jones,6
-2025-09-27_Nottingham,28834,2025-09-27,Nottingham Forest,Sunderland,0,1,1.4203,1.94154,2025,Nottingham Forest v Sunderland,Nottingham,Tony Harrington,6
-2025-09-27_Tottenham,28835,2025-09-27,Tottenham,Wolverhampton Wanderers,1,1,0.818711,1.15951,2025,Tottenham v Wolverhampton Wanderers,Tottenham,Michael Salisbury,6
-2025-09-28_Aston,28831,2025-09-28,Aston Villa,Fulham,3,1,1.36575,0.952612,2025,Aston Villa v Fulham,Aston,Andy Madley,6
-2025-09-28_Newcastle,28836,2025-09-28,Newcastle United,Arsenal,1,2,0.739851,2.07048,2025,Newcastle United v Arsenal,Newcastle,Jarred Gillett,6
-2025-09-29_Everton,28837,2025-09-29,Everton,West Ham,1,1,0.909703,0.775766,2025,Everton v West Ham,Everton,Sam Barrott,6
-2025-10-03_Bournemouth,28838,2025-10-03,Bournemouth,Fulham,3,1,1.33458,0.84335,2025,Bournemouth v Fulham,Bournemouth,Simon Hooper,7
-2025-10-04_Leeds,28844,2025-10-04,Leeds,Tottenham,1,2,1.48051,0.688198,2025,Leeds v Tottenham,Leeds,Thomas Bramall,7
-2025-10-04_Arsenal,28839,2025-10-04,Arsenal,West Ham,2,0,3.0585,0.864549,2025,Arsenal v West Ham,Arsenal,John Brooks,7
-2025-10-04_Manchester,28845,2025-10-04,Manchester United,Sunderland,2,0,1.9298,0.807119,2025,Manchester United v Sunderland,Manchester,Stuart Attwell,7
-2025-10-04_Chelsea,28842,2025-10-04,Chelsea,Liverpool,2,1,1.23721,2.05981,2025,Chelsea v Liverpool,Chelsea,Anthony Taylor,7
-2025-10-05_Aston,28840,2025-10-05,Aston Villa,Burnley,2,1,1.73572,0.502292,2025,Aston Villa v Burnley,Aston,Andrew Kitchen,7
-2025-10-05_Everton,28843,2025-10-05,Everton,Crystal Palace,2,1,2.13876,2.17789,2025,Everton v Crystal Palace,Everton,Michael Salisbury,7
-2025-10-05_Newcastle,28846,2025-10-05,Newcastle United,Nottingham Forest,2,0,3.81662,0.337689,2025,Newcastle United v Nottingham Forest,Newcastle,Peter Bankes,7
-2025-10-05_Wolverhampton,28847,2025-10-05,Wolverhampton Wanderers,Brighton,1,1,0.369404,1.39158,2025,Wolverhampton Wanderers v Brighton,Wolverhampton,Jarred Gillett,7
-2025-10-05_Brentford,28841,2025-10-05,Brentford,Manchester City,0,1,0.693758,1.09647,2025,Brentford v Manchester City,Brentford,Darren England,7
-2025-10-18_Nottingham,28854,2025-10-18,Nottingham Forest,Chelsea,0,3,2.0555,2.5583,2025,Nottingham Forest v Chelsea,Nottingham,Chris Kavanagh,8
-2025-10-18_Brighton,28848,2025-10-18,Brighton,Newcastle United,2,1,0.857104,1.28313,2025,Brighton v Newcastle United,Brighton,Craig Pawson,8
-2025-10-18_Burnley,28849,2025-10-18,Burnley,Leeds,2,0,0.509647,2.33152,2025,Burnley v Leeds,Burnley,Tim Robinson,8
-2025-10-18_Crystal,28850,2025-10-18,Crystal Palace,Bournemouth,3,3,4.56284,2.0471,2025,Crystal Palace v Bournemouth,Crystal,Jarred Gillett,8
-2025-10-18_Manchester,28853,2025-10-18,Manchester City,Everton,2,0,2.4799,0.794622,2025,Manchester City v Everton,Manchester,Tony Harrington,8
-2025-10-18_Sunderland,28855,2025-10-18,Sunderland,Wolverhampton Wanderers,2,0,1.02481,0.676323,2025,Sunderland v Wolverhampton Wanderers,Sunderland,Robert Jones,8
-2025-10-18_Fulham,28851,2025-10-18,Fulham,Arsenal,0,1,0.502332,2.07823,2025,Fulham v Arsenal,Fulham,Anthony Taylor,8
-2025-10-19_Tottenham,28856,2025-10-19,Tottenham,Aston Villa,1,2,1.51461,0.352231,2025,Tottenham v Aston Villa,Tottenham,Simon Hooper,8
-2025-10-19_Liverpool,28852,2025-10-19,Liverpool,Manchester United,1,2,2.60972,2.53117,2025,Liverpool v Manchester United,Liverpool,Michael Oliver,8
-2025-10-20_West,28857,2025-10-20,West Ham,Brentford,0,2,0.260251,3.46635,2025,West Ham v Brentford,West,Andy Madley,8
-2025-10-24_Leeds,28864,2025-10-24,Leeds,West Ham,2,1,2.2214,0.498653,2025,Leeds v West Ham,Leeds,Stuart Attwell,9
-2025-10-25_Chelsea,28862,2025-10-25,Chelsea,Sunderland,1,2,1.21332,1.5506,2025,Chelsea v Sunderland,Chelsea,Andy Madley,9
-2025-10-25_Newcastle,28866,2025-10-25,Newcastle United,Fulham,2,1,2.76806,1.52001,2025,Newcastle United v Fulham,Newcastle,Tony Harrington,9
-2025-10-25_Manchester,28865,2025-10-25,Manchester United,Brighton,4,2,1.96231,0.947154,2025,Manchester United v Brighton,Manchester,Anthony Taylor,9
-2025-10-25_Brentford,28861,2025-10-25,Brentford,Liverpool,3,2,3.27126,2.11838,2025,Brentford v Liverpool,Brentford,Simon Hooper,9
-2025-10-26_Bournemouth,28858,2025-10-26,Bournemouth,Nottingham Forest,2,0,0.656601,0.305493,2025,Bournemouth v Nottingham Forest,Bournemouth,Sam Barrott,9
-2025-10-26_Arsenal,28859,2025-10-26,Arsenal,Crystal Palace,1,0,0.856175,0.350534,2025,Arsenal v Crystal Palace,Arsenal,Thomas Bramall,9
-2025-10-26_Aston,28860,2025-10-26,Aston Villa,Manchester City,1,0,0.843906,1.36914,2025,Aston Villa v Manchester City,Aston,Michael Oliver,9
-2025-10-26_Wolverhampton,28867,2025-10-26,Wolverhampton Wanderers,Burnley,2,3,2.58132,1.54544,2025,Wolverhampton Wanderers v Burnley,Wolverhampton,Peter Bankes,9
-2025-10-26_Everton,28863,2025-10-26,Everton,Tottenham,0,3,1.4032,2.09327,2025,Everton v Tottenham,Everton,Craig Pawson,9
+join_key,League,season_id,Game,Season,Date,Home Team,Away Team,Away Team Code,Home Team Code,Away Points,Away Goals,Away xG,Away Non-Penalty xG,away_np_xg_difference,Away PPDA,Away Deep Completions,Home Points,Home Goals,Home xG,Home Non-Penalty xG,home_np_xg_difference,Home PPDA,Home Deep Completions,Referee,Match Week,Status
+2025-08-15_Liverpool,Premier League,2526,Liverpool v Bournemouth,2025,2025-08-15,Liverpool,Bournemouth,BOU,LIV,0,2,1.57303,1.57303,-0.7570400000000002,11.583333333333334,8,3,4,2.33007,2.33007,0.7570400000000002,8.764705882352942,9,Anthony Taylor,1,FINISHED
+2025-08-16_Aston,Premier League,2526,Aston Villa v Newcastle United,2025,2025-08-16,Aston Villa,Newcastle United,NEW,AVL,1,0,1.40098,1.40098,1.082379,6.083333333333333,6,1,0,0.318601,0.318601,-1.082379,18.916666666666668,2,Craig Pawson,1,FINISHED
+2025-08-16_Brighton,Premier League,2526,Brighton v Fulham,2025,2025-08-16,Brighton,Fulham,FLH,BRI,1,1,0.902883,0.902883,0.223974,16.22222222222222,6,1,1,1.44008,0.678909,-0.223974,8.928571428571429,5,Sam Barrott,1,FINISHED
+2025-08-16_Sunderland,Premier League,2526,Sunderland v West Ham,2025,2025-08-16,Sunderland,West Ham,WHU,SUN,0,0,0.558948,0.558948,-0.16542,11.0,8,3,3,0.724368,0.724368,0.16542,20.785714285714285,2,Robert Jones,1,FINISHED
+2025-08-16_Tottenham,Premier League,2526,Tottenham v Burnley,2025,2025-08-16,Tottenham,Burnley,BUR,TOT,0,0,0.734138,0.734138,-1.244442,17.352941176470587,6,3,3,1.97858,1.97858,1.244442,6.352941176470588,7,Michael Oliver,1,FINISHED
+2025-08-16_Wolverhampton,Premier League,2526,Wolverhampton Wanderers v Manchester City,2025,2025-08-16,Wolverhampton Wanderers,Manchester City,MCI,WOL,3,4,2.29903,2.29903,1.779594,11.8,8,0,0,0.519436,0.519436,-1.779594,12.10344827586207,4,Jarred Gillett,1,FINISHED
+2025-08-17_Chelsea,Premier League,2526,Chelsea v Crystal Palace,2025,2025-08-17,Chelsea,Crystal Palace,CRY,CHE,1,0,1.03414,1.03414,-0.33379,17.63157894736842,2,1,0,1.36793,1.36793,0.33379,5.869565217391305,7,Darren England,1,FINISHED
+2025-08-17_Manchester,Premier League,2526,Manchester United v Arsenal,2025,2025-08-17,Manchester United,Arsenal,ARS,MUN,3,1,1.3304,1.3304,-0.04613,11.26086956521739,3,0,0,1.37653,1.37653,0.04613,7.904761904761905,7,Simon Hooper,1,FINISHED
+2025-08-17_Nottingham,Premier League,2526,Nottingham Forest v Brentford,2025,2025-08-17,Nottingham Forest,Brentford,BRE,NOT,0,1,1.32516,0.563994,-1.191506,9.823529411764708,3,3,3,1.7555,1.7555,1.191506,11.142857142857142,6,Peter Bankes,1,FINISHED
+2025-08-18_Leeds,Premier League,2526,Leeds v Everton,2025,2025-08-18,Leeds,Everton,EVE,LED,0,0,0.674338,0.674338,-0.945692,27.5,2,3,1,2.3812,1.62003,0.945692,15.6875,5,Chris Kavanagh,1,FINISHED
+2025-08-22_West,Premier League,2526,West Ham v Chelsea,2025,2025-08-22,West Ham,Chelsea,CHE,WHU,3,5,3.94997,3.94997,2.971398,11.947368421052632,5,0,1,0.978572,0.978572,-2.971398,26.307692307692307,6,Michael Oliver,2,FINISHED
+2025-08-23_Arsenal,Premier League,2526,Arsenal v Leeds,2025,2025-08-23,Arsenal,Leeds,LED,ARS,0,0,0.156761,0.156761,-1.819679,27.866666666666667,1,3,5,2.73761,1.97644,1.819679,7.954545454545454,5,Jarred Gillett,2,FINISHED
+2025-08-23_Bournemouth,Premier League,2526,Bournemouth v Wolverhampton Wanderers,2025,2025-08-23,Bournemouth,Wolverhampton Wanderers,WOL,BOU,0,0,0.373367,0.373367,-1.411253,10.428571428571429,3,3,1,1.78462,1.78462,1.411253,5.88,6,Thomas Bramall,2,FINISHED
+2025-08-23_Brentford,Premier League,2526,Brentford v Aston Villa,2025,2025-08-23,Brentford,Aston Villa,AVL,BRE,0,0,0.976852,0.976852,-0.1527879999999999,5.411764705882353,14,3,1,1.12964,1.12964,0.1527879999999999,10.785714285714286,2,Tony Harrington,2,FINISHED
+2025-08-23_Burnley,Premier League,2526,Burnley v Sunderland,2025,2025-08-23,Burnley,Sunderland,SUN,BUR,0,0,1.12127,1.12127,0.1174599999999999,20.58333333333333,4,3,2,1.00381,1.00381,-0.1174599999999999,15.428571428571429,4,Michael Salisbury,2,FINISHED
+2025-08-23_Manchester,Premier League,2526,Manchester City v Tottenham,2025,2025-08-23,Manchester City,Tottenham,TOT,MCI,3,2,1.28015,1.28015,0.0326499999999998,13.272727272727272,4,0,0,1.2475,1.2475,-0.0326499999999998,10.444444444444445,8,Peter Bankes,2,FINISHED
+2025-08-24_Crystal,Premier League,2526,Crystal Palace v Nottingham Forest,2025,2025-08-24,Crystal Palace,Nottingham Forest,NOT,CRY,1,1,1.32987,1.32987,0.2279900000000001,10.36842105263158,4,1,1,1.10188,1.10188,-0.2279900000000001,12.782608695652174,6,Anthony Taylor,2,FINISHED
+2025-08-24_Everton,Premier League,2526,Everton v Brighton,2025,2025-08-24,Everton,Brighton,BRI,EVE,0,0,2.08487,1.3237,-0.47746,8.68421052631579,8,3,2,1.80116,1.80116,0.47746,17.705882352941178,5,Stuart Attwell,2,FINISHED
+2025-08-24_Fulham,Premier League,2526,Fulham v Manchester United,2025,2025-08-24,Fulham,Manchester United,MUN,FLH,1,1,1.54603,0.784858,-0.868472,10.88888888888889,11,1,1,1.65333,1.65333,0.868472,9.909090909090908,11,Chris Kavanagh,2,FINISHED
+2025-08-25_Newcastle,Premier League,2526,Newcastle United v Liverpool,2025,2025-08-25,Newcastle United,Liverpool,LIV,NEW,3,3,0.646559,0.646559,-1.3168609999999998,7.571428571428571,6,0,2,1.96342,1.96342,1.3168609999999998,12.045454545454543,3,Simon Hooper,2,FINISHED
+2025-08-30_Chelsea,Premier League,2526,Chelsea v Fulham,2025,2025-08-30,Chelsea,Fulham,FLH,CHE,0,0,0.736228,0.736228,-0.935002,10.851851851851851,9,3,2,2.4324,1.67123,0.935002,9.32,4,Robert Jones,3,FINISHED
+2025-08-30_Leeds,Premier League,2526,Leeds v Newcastle United,2025,2025-08-30,Leeds,Newcastle United,NEW,LED,1,0,0.303635,0.303635,-0.373665,11.238095238095235,5,1,0,0.6773,0.6773,0.373665,14.863636363636363,5,Peter Bankes,3,FINISHED
+2025-08-30_Manchester,Premier League,2526,Manchester United v Burnley,2025,2025-08-30,Manchester United,Burnley,BUR,MUN,0,2,1.32618,1.32618,-1.93502,16.0,3,3,3,4.02237,3.2612,1.93502,15.181818181818182,8,Sam Barrott,3,FINISHED
+2025-08-30_Sunderland,Premier League,2526,Sunderland v Brentford,2025,2025-08-30,Sunderland,Brentford,BRE,SUN,0,1,1.44604,0.684874,-0.125225,21.545454545454547,4,3,2,1.57127,0.810099,0.125225,5.184210526315789,2,Anthony Taylor,3,FINISHED
+2025-08-30_Tottenham,Premier League,2526,Tottenham v Bournemouth,2025,2025-08-30,Tottenham,Bournemouth,BOU,TOT,3,1,2.1201,2.1201,1.94943,7.146341463414634,11,0,0,0.17067,0.17067,-1.94943,5.2,4,Simon Hooper,3,FINISHED
+2025-08-30_Wolverhampton,Premier League,2526,Wolverhampton Wanderers v Everton,2025,2025-08-30,Wolverhampton Wanderers,Everton,EVE,WOL,3,3,2.03791,2.03791,1.094653,11.961538461538462,11,0,2,0.943257,0.943257,-1.094653,5.851851851851852,5,Michael Oliver,3,FINISHED
+2025-08-31_Aston,Premier League,2526,Aston Villa v Crystal Palace,2025,2025-08-31,Aston Villa,Crystal Palace,CRY,AVL,3,3,2.59713,1.83596,0.6301000000000001,19.2,5,0,0,1.20586,1.20586,-0.6301000000000001,10.571428571428571,6,Stuart Attwell,3,FINISHED
+2025-08-31_Brighton,Premier League,2526,Brighton v Manchester City,2025,2025-08-31,Brighton,Manchester City,MCI,BRI,0,1,2.13418,2.13418,0.6867100000000002,11.933333333333334,9,3,2,2.20864,1.44747,-0.6867100000000002,11.814814814814817,4,Darren England,3,FINISHED
+2025-08-31_Liverpool,Premier League,2526,Liverpool v Arsenal,2025,2025-08-31,Liverpool,Arsenal,ARS,LIV,0,0,0.485679,0.485679,0.004275,12.869565217391305,5,3,1,0.481404,0.481404,-0.004275,15.066666666666666,4,Chris Kavanagh,3,FINISHED
+2025-08-31_Nottingham,Premier League,2526,Nottingham Forest v West Ham,2025,2025-08-31,Nottingham Forest,West Ham,WHU,NOT,3,3,2.236,1.47483,0.758812,21.46153846153846,5,0,0,0.716018,0.716018,-0.758812,9.846153846153848,6,Craig Pawson,3,FINISHED
+2025-09-13_Arsenal,Premier League,2526,Arsenal v Nottingham Forest,2025,2025-09-13,Arsenal,Nottingham Forest,NOT,ARS,0,0,0.293681,0.293681,-2.588019,14.55,1,3,3,2.8817,2.8817,2.588019,10.95,10,Darren England,4,FINISHED
+2025-09-13_Bournemouth,Premier League,2526,Bournemouth v Brighton,2025,2025-09-13,Bournemouth,Brighton,BRI,BOU,0,1,0.624923,0.624923,-0.055783,8.695652173913043,3,3,2,1.44187,0.680706,0.055783,10.833333333333334,5,Peter Bankes,4,FINISHED
+2025-09-13_Brentford,Premier League,2526,Brentford v Chelsea,2025,2025-09-13,Brentford,Chelsea,CHE,BRE,1,2,0.755999,0.755999,-0.419331,5.206896551724138,12,1,2,1.17533,1.17533,0.419331,20.1875,8,Stuart Attwell,4,FINISHED
+2025-09-13_Crystal,Premier League,2526,Crystal Palace v Sunderland,2025,2025-09-13,Crystal Palace,Sunderland,SUN,CRY,1,0,0.354129,0.354129,-1.403921,17.77777777777778,4,1,0,1.75805,1.75805,1.403921,13.555555555555555,8,Thomas Bramall,4,FINISHED
+2025-09-13_Everton,Premier League,2526,Everton v Aston Villa,2025,2025-09-13,Everton,Aston Villa,AVL,EVE,1,0,0.354327,0.354327,-1.538373,8.368421052631579,3,1,0,1.8927,1.8927,1.538373,7.074074074074074,10,Simon Hooper,4,FINISHED
+2025-09-13_Fulham,Premier League,2526,Fulham v Leeds,2025,2025-09-13,Fulham,Leeds,LED,FLH,0,0,0.830398,0.830398,-0.3093920000000001,13.444444444444445,5,3,1,1.13979,1.13979,0.3093920000000001,9.478260869565217,4,Craig Pawson,4,FINISHED
+2025-09-13_Newcastle,Premier League,2526,Newcastle United v Wolverhampton Wanderers,2025,2025-09-13,Newcastle United,Wolverhampton Wanderers,WOL,NEW,0,0,0.375942,0.375942,-0.8159179999999999,9.041666666666666,3,3,1,1.19186,1.19186,0.8159179999999999,10.5625,12,Chris Kavanagh,4,FINISHED
+2025-09-13_West,Premier League,2526,West Ham v Tottenham,2025,2025-09-13,West Ham,Tottenham,TOT,WHU,3,3,1.51402,1.51402,0.720772,10.857142857142858,8,0,0,0.793248,0.793248,-0.720772,17.555555555555557,2,Jarred Gillett,4,FINISHED
+2025-09-14_Burnley,Premier League,2526,Burnley v Liverpool,2025,2025-09-14,Burnley,Liverpool,LIV,BUR,3,1,2.79492,2.03375,1.865709,4.142857142857143,17,0,0,0.168041,0.168041,-1.865709,11.090909090909092,0,Michael Oliver,4,FINISHED
+2025-09-14_Manchester,Premier League,2526,Manchester City v Manchester United,2025,2025-09-14,Manchester City,Manchester United,MUN,MCI,0,0,1.51915,1.51915,-0.4780999999999999,9.23076923076923,8,3,3,1.99725,1.99725,0.4780999999999999,19.214285714285715,8,Anthony Taylor,4,FINISHED
+2025-09-20_Brighton,Premier League,2526,Brighton v Tottenham,2025,2025-09-20,Brighton,Tottenham,TOT,BRI,1,2,1.19181,1.19181,-0.2128499999999999,4.84375,14,1,2,1.40466,1.40466,0.2128499999999999,11.48,4,Chris Kavanagh,5,FINISHED
+2025-09-20_Burnley,Premier League,2526,Burnley v Nottingham Forest,2025,2025-09-20,Burnley,Nottingham Forest,NOT,BUR,1,1,0.830779,0.830779,-0.310811,9.095238095238097,10,1,1,1.14159,1.14159,0.310811,18.88888888888889,4,Thomas Bramall,5,FINISHED
+2025-09-20_Fulham,Premier League,2526,Fulham v Brentford,2025,2025-09-20,Fulham,Brentford,BRE,FLH,0,1,0.826556,0.826556,-0.6977540000000001,13.476190476190476,3,3,3,1.52431,1.52431,0.6977540000000001,19.846153846153847,5,Michael Oliver,5,FINISHED
+2025-09-20_Liverpool,Premier League,2526,Liverpool v Everton,2025,2025-09-20,Liverpool,Everton,EVE,LIV,0,1,0.721371,0.721371,-0.340289,11.304347826086955,9,3,2,1.06166,1.06166,0.340289,5.884615384615385,12,Darren England,5,FINISHED
+2025-09-20_Manchester,Premier League,2526,Manchester United v Chelsea,2025,2025-09-20,Manchester United,Chelsea,CHE,MUN,0,1,0.469843,0.469843,-0.8747370000000001,13.142857142857142,5,3,2,1.34458,1.34458,0.8747370000000001,12.961538461538462,4,Peter Bankes,5,FINISHED
+2025-09-20_West,Premier League,2526,West Ham v Crystal Palace,2025,2025-09-20,West Ham,Crystal Palace,CRY,WHU,3,2,2.33565,2.33565,1.869285,23.818181818181817,7,0,1,0.466365,0.466365,-1.869285,8.565217391304348,5,Tony Harrington,5,FINISHED
+2025-09-20_Wolverhampton,Premier League,2526,Wolverhampton Wanderers v Leeds,2025,2025-09-20,Wolverhampton Wanderers,Leeds,LED,WOL,3,3,0.456988,0.456988,-1.109112,13.19047619047619,7,0,1,1.5661,1.5661,1.109112,10.96,10,Anthony Taylor,5,FINISHED
+2025-09-21_Arsenal,Premier League,2526,Arsenal v Manchester City,2025,2025-09-21,Arsenal,Manchester City,MCI,ARS,1,1,1.1227,1.1227,0.404125,17.0,3,1,1,0.718575,0.718575,-0.404125,6.818181818181818,10,Stuart Attwell,5,FINISHED
+2025-09-21_Bournemouth,Premier League,2526,Bournemouth v Newcastle United,2025,2025-09-21,Bournemouth,Newcastle United,NEW,BOU,1,0,0.153629,0.153629,-0.397031,16.41176470588235,6,1,0,0.55066,0.55066,0.397031,8.363636363636363,4,Robert Jones,5,FINISHED
+2025-09-21_Sunderland,Premier League,2526,Sunderland v Aston Villa,2025,2025-09-21,Sunderland,Aston Villa,AVL,SUN,1,1,0.939354,0.939354,0.0010419999999999,7.0,16,1,1,0.938312,0.938312,-0.0010419999999999,9.869565217391305,4,Sam Barrott,5,FINISHED
+2025-09-27_Brentford,Premier League,2526,Brentford v Manchester United,2025,2025-09-27,Brentford,Manchester United,MUN,BRE,0,1,2.23609,1.47492,-1.3123399999999998,12.125,1,3,3,2.78726,2.78726,1.3123399999999998,11.72,6,Craig Pawson,6,FINISHED
+2025-09-27_Chelsea,Premier League,2526,Chelsea v Brighton,2025,2025-09-27,Chelsea,Brighton,BRI,CHE,3,3,2.4751,2.4751,0.4485699999999997,9.172413793103448,8,0,1,2.02653,2.02653,-0.4485699999999997,8.526315789473685,4,Simon Hooper,6,FINISHED
+2025-09-27_Crystal,Premier League,2526,Crystal Palace v Liverpool,2025,2025-09-27,Crystal Palace,Liverpool,LIV,CRY,0,1,3.10176,3.10176,-0.43147,8.571428571428571,5,3,2,3.53323,3.53323,0.43147,24.375,12,Chris Kavanagh,6,FINISHED
+2025-09-27_Leeds,Premier League,2526,Leeds v Bournemouth,2025,2025-09-27,Leeds,Bournemouth,BOU,LED,1,2,1.06033,1.06033,-0.9869500000000002,8.4,9,1,2,2.04728,2.04728,0.9869500000000002,10.076923076923077,3,Michael Oliver,6,FINISHED
+2025-09-27_Manchester,Premier League,2526,Manchester City v Burnley,2025,2025-09-27,Manchester City,Burnley,BUR,MCI,0,1,0.509491,0.509491,-2.711839,17.1875,4,3,5,3.22133,3.22133,2.711839,16.0,15,Robert Jones,6,FINISHED
+2025-09-27_Nottingham,Premier League,2526,Nottingham Forest v Sunderland,2025,2025-09-27,Nottingham Forest,Sunderland,SUN,NOT,3,1,1.94154,1.94154,0.5212400000000001,29.5,3,0,0,1.4203,1.4203,-0.5212400000000001,9.3,6,Tony Harrington,6,FINISHED
+2025-09-27_Tottenham,Premier League,2526,Tottenham v Wolverhampton Wanderers,2025,2025-09-27,Tottenham,Wolverhampton Wanderers,WOL,TOT,1,1,1.15951,1.15951,0.3407990000000001,9.5,4,1,1,0.818711,0.818711,-0.3407990000000001,16.928571428571427,5,Michael Salisbury,6,FINISHED
+2025-09-28_Aston,Premier League,2526,Aston Villa v Fulham,2025,2025-09-28,Aston Villa,Fulham,FLH,AVL,0,1,0.952612,0.952612,-0.413138,13.833333333333334,4,3,3,1.36575,1.36575,0.413138,17.357142857142858,6,Andy Madley,6,FINISHED
+2025-09-28_Newcastle,Premier League,2526,Newcastle United v Arsenal,2025,2025-09-28,Newcastle United,Arsenal,ARS,NEW,3,2,2.07048,2.07048,1.3306289999999998,7.25,13,0,1,0.739851,0.739851,-1.3306289999999998,16.466666666666665,4,Jarred Gillett,6,FINISHED
+2025-09-29_Everton,Premier League,2526,Everton v West Ham,2025,2025-09-29,Everton,West Ham,WHU,EVE,1,1,0.775766,0.775766,-0.133937,13.5,7,1,1,0.909703,0.909703,0.133937,12.764705882352942,12,Sam Barrott,6,FINISHED
+2025-10-03_Bournemouth,Premier League,2526,Bournemouth v Fulham,2025,2025-10-03,Bournemouth,Fulham,FLH,BOU,0,1,0.84335,0.84335,-0.49123,19.142857142857142,10,3,3,1.33458,1.33458,0.49123,13.823529411764708,13,Simon Hooper,7,FINISHED
+2025-10-04_Arsenal,Premier League,2526,Arsenal v West Ham,2025,2025-10-04,Arsenal,West Ham,WHU,ARS,0,0,0.864549,0.864549,-1.432781,25.07692307692308,3,3,2,3.0585,2.29733,1.432781,4.212121212121212,17,John Brooks,7,FINISHED
+2025-10-04_Chelsea,Premier League,2526,Chelsea v Liverpool,2025,2025-10-04,Chelsea,Liverpool,LIV,CHE,0,1,2.05981,2.05981,0.8226000000000002,17.125,9,3,2,1.23721,1.23721,-0.8226000000000002,13.3,6,Anthony Taylor,7,FINISHED
+2025-10-04_Leeds,Premier League,2526,Leeds v Tottenham,2025,2025-10-04,Leeds,Tottenham,TOT,LED,3,2,0.688198,0.688198,-0.792312,15.0,4,0,1,1.48051,1.48051,0.792312,10.833333333333334,6,Thomas Bramall,7,FINISHED
+2025-10-04_Manchester,Premier League,2526,Manchester United v Sunderland,2025,2025-10-04,Manchester United,Sunderland,SUN,MUN,0,0,0.807119,0.807119,-1.122681,9.76,3,3,2,1.9298,1.9298,1.122681,10.173913043478262,7,Stuart Attwell,7,FINISHED
+2025-10-05_Aston,Premier League,2526,Aston Villa v Burnley,2025,2025-10-05,Aston Villa,Burnley,BUR,AVL,0,1,0.502292,0.502292,-1.233428,7.809523809523809,1,3,2,1.73572,1.73572,1.233428,12.72222222222222,8,Andrew Kitchen,7,FINISHED
+2025-10-05_Brentford,Premier League,2526,Brentford v Manchester City,2025,2025-10-05,Brentford,Manchester City,MCI,BRE,3,1,1.09647,1.09647,0.402712,13.5,9,0,0,0.693758,0.693758,-0.402712,13.3,2,Darren England,7,FINISHED
+2025-10-05_Everton,Premier League,2526,Everton v Crystal Palace,2025,2025-10-05,Everton,Crystal Palace,CRY,EVE,0,1,2.17789,2.17789,0.8003,6.805555555555555,6,3,2,2.13876,1.37759,-0.8003,9.275862068965518,5,Michael Salisbury,7,FINISHED
+2025-10-05_Newcastle,Premier League,2526,Newcastle United v Nottingham Forest,2025,2025-10-05,Newcastle United,Nottingham Forest,NOT,NEW,0,0,0.337689,0.337689,-2.717761,11.047619047619047,4,3,2,3.81662,3.05545,2.717761,8.0,13,Peter Bankes,7,FINISHED
+2025-10-05_Wolverhampton,Premier League,2526,Wolverhampton Wanderers v Brighton,2025,2025-10-05,Wolverhampton Wanderers,Brighton,BRI,WOL,1,1,1.39158,1.39158,1.022176,9.818181818181818,2,1,1,0.369404,0.369404,-1.022176,13.571428571428571,2,Jarred Gillett,7,FINISHED
+2025-10-18_Brighton,Premier League,2526,Brighton v Newcastle United,2025,2025-10-18,Brighton,Newcastle United,NEW,BRI,0,1,1.28313,1.28313,0.4260260000000001,9.64,9,3,2,0.857104,0.857104,-0.4260260000000001,13.409090909090908,8,Craig Pawson,8,FINISHED
+2025-10-18_Burnley,Premier League,2526,Burnley v Leeds,2025,2025-10-18,Burnley,Leeds,LED,BUR,0,0,2.33152,2.33152,1.821873,7.809523809523809,8,3,2,0.509647,0.509647,-1.821873,15.80952380952381,2,Tim Robinson,8,FINISHED
+2025-10-18_Crystal,Premier League,2526,Crystal Palace v Bournemouth,2025,2025-10-18,Crystal Palace,Bournemouth,BOU,CRY,1,3,2.0471,2.0471,-1.7545700000000002,8.11111111111111,6,1,3,4.56284,3.80167,1.7545700000000002,7.84,14,Jarred Gillett,8,FINISHED
+2025-10-18_Fulham,Premier League,2526,Fulham v Arsenal,2025,2025-10-18,Fulham,Arsenal,ARS,FLH,3,1,2.07823,2.07823,1.575898,30.0,14,0,0,0.502332,0.502332,-1.575898,18.1875,3,Anthony Taylor,8,FINISHED
+2025-10-18_Manchester,Premier League,2526,Manchester City v Everton,2025,2025-10-18,Manchester City,Everton,EVE,MCI,0,0,0.794622,0.794622,-1.6852780000000005,16.692307692307693,4,3,2,2.4799,2.4799,1.6852780000000005,8.722222222222221,15,Tony Harrington,8,FINISHED
+2025-10-18_Nottingham,Premier League,2526,Nottingham Forest v Chelsea,2025,2025-10-18,Nottingham Forest,Chelsea,CHE,NOT,3,3,2.5583,2.5583,0.5028000000000001,8.482758620689655,6,0,0,2.0555,2.0555,-0.5028000000000001,14.842105263157896,9,Chris Kavanagh,8,FINISHED
+2025-10-18_Sunderland,Premier League,2526,Sunderland v Wolverhampton Wanderers,2025,2025-10-18,Sunderland,Wolverhampton Wanderers,WOL,SUN,0,0,0.676323,0.676323,-0.348487,5.233333333333333,11,3,2,1.02481,1.02481,0.348487,36.42857142857143,6,Robert Jones,8,FINISHED
+2025-10-19_Liverpool,Premier League,2526,Liverpool v Manchester United,2025,2025-10-19,Liverpool,Manchester United,MUN,LIV,3,2,2.53117,2.53117,-0.0785499999999999,17.428571428571427,6,0,1,2.60972,2.60972,0.0785499999999999,7.625,10,Michael Oliver,8,FINISHED
+2025-10-19_Tottenham,Premier League,2526,Tottenham v Aston Villa,2025,2025-10-19,Tottenham,Aston Villa,AVL,TOT,3,2,0.352231,0.352231,-1.162379,12.88888888888889,2,0,1,1.51461,1.51461,1.162379,7.592592592592593,5,Simon Hooper,8,FINISHED
+2025-10-20_West,Premier League,2526,West Ham v Brentford,2025,2025-10-20,West Ham,Brentford,BRE,WHU,3,2,3.46635,3.46635,3.206099,12.466666666666669,11,0,0,0.260251,0.260251,-3.206099,14.77777777777778,4,Andy Madley,8,FINISHED
+2025-10-24_Leeds,Premier League,2526,Leeds v West Ham,2025,2025-10-24,Leeds,West Ham,WHU,LED,0,1,0.498653,0.498653,-1.722747,9.576923076923077,4,3,2,2.2214,2.2214,1.722747,10.814814814814817,1,Stuart Attwell,9,FINISHED
+2025-10-25_Brentford,Premier League,2526,Brentford v Liverpool,2025,2025-10-25,Brentford,Liverpool,LIV,BRE,0,2,2.11838,2.11838,-0.3917199999999998,6.2,10,3,3,3.27126,2.5101,0.3917199999999998,14.0,5,Simon Hooper,9,FINISHED
+2025-10-25_Chelsea,Premier League,2526,Chelsea v Sunderland,2025,2025-10-25,Chelsea,Sunderland,SUN,CHE,3,2,1.5506,1.5506,0.33728,21.647058823529413,6,0,1,1.21332,1.21332,-0.33728,9.333333333333334,11,Andy Madley,9,FINISHED
+2025-10-25_Manchester,Premier League,2526,Manchester United v Brighton,2025,2025-10-25,Manchester United,Brighton,BRI,MUN,0,2,0.947154,0.947154,-1.015156,6.333333333333333,5,3,4,1.96231,1.96231,1.015156,13.964285714285714,9,Anthony Taylor,9,FINISHED
+2025-10-25_Newcastle,Premier League,2526,Newcastle United v Fulham,2025,2025-10-25,Newcastle United,Fulham,FLH,NEW,0,1,1.52001,1.52001,-1.24805,9.551724137931034,3,3,2,2.76806,2.76806,1.24805,9.035714285714286,7,Tony Harrington,9,FINISHED
+2025-10-26_Arsenal,Premier League,2526,Arsenal v Crystal Palace,2025,2025-10-26,Arsenal,Crystal Palace,CRY,ARS,0,0,0.350534,0.350534,-0.505641,28.272727272727277,1,3,1,0.856175,0.856175,0.505641,12.411764705882351,5,Thomas Bramall,9,FINISHED
+2025-10-26_Aston,Premier League,2526,Aston Villa v Manchester City,2025,2025-10-26,Aston Villa,Manchester City,MCI,AVL,0,0,1.36914,1.36914,0.525234,10.25,11,3,1,0.843906,0.843906,-0.525234,22.363636363636363,8,Michael Oliver,9,FINISHED
+2025-10-26_Bournemouth,Premier League,2526,Bournemouth v Nottingham Forest,2025,2025-10-26,Bournemouth,Nottingham Forest,NOT,BOU,0,0,0.305493,0.305493,-0.351108,11.75,4,3,2,0.656601,0.656601,0.351108,8.04,7,Sam Barrott,9,FINISHED
+2025-10-26_Everton,Premier League,2526,Everton v Tottenham,2025,2025-10-26,Everton,Tottenham,TOT,EVE,3,3,2.09327,2.09327,0.69007,17.0,3,0,0,1.4032,1.4032,-0.69007,13.421052631578949,6,Craig Pawson,9,FINISHED
+2025-10-26_Wolverhampton,Premier League,2526,Wolverhampton Wanderers v Burnley,2025,2025-10-26,Wolverhampton Wanderers,Burnley,BUR,WOL,3,3,1.54544,1.54544,-0.27471,14.555555555555555,5,0,2,2.58132,1.82015,0.27471,8.875,10,Peter Bankes,9,FINISHED
