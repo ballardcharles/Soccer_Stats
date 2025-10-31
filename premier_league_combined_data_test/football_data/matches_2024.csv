@@ -1,0 +1,381 @@
+join_key,id,Season,Match Week,Date,Status,Home Team,Away Team,Home Score,Away Score,Home HT Score,Away HT Score,Winner,Venue,Referee,home_team_shortened
+2024-08-16_Manchester,497410,2024,1,2024-08-16,FINISHED,Manchester United FC,Fulham FC,1,0,0,0,HOME_TEAM,,Robert Jones,Manchester
+2024-08-17_Ipswich,497411,2024,1,2024-08-17,FINISHED,Ipswich Town FC,Liverpool FC,0,2,0,0,AWAY_TEAM,,Tim Robinson,Ipswich
+2024-08-17_Arsenal,497412,2024,1,2024-08-17,FINISHED,Arsenal FC,Wolverhampton Wanderers FC,2,0,1,0,HOME_TEAM,,Jarred Gillett,Arsenal
+2024-08-17_Everton,497413,2024,1,2024-08-17,FINISHED,Everton FC,Brighton & Hove Albion FC,0,3,0,1,AWAY_TEAM,,Simon Hooper,Everton
+2024-08-17_Newcastle,497414,2024,1,2024-08-17,FINISHED,Newcastle United FC,Southampton FC,1,0,1,0,HOME_TEAM,,Craig Pawson,Newcastle
+2024-08-17_Nottingham,497415,2024,1,2024-08-17,FINISHED,Nottingham Forest FC,Bournemouth,1,1,1,0,DRAW,,Michael Oliver,Nottingham
+2024-08-17_West,497416,2024,1,2024-08-17,FINISHED,West Ham United FC,Aston Villa FC,1,2,1,1,AWAY_TEAM,,Tony Harrington,West
+2024-08-18_Brentford,497417,2024,1,2024-08-18,FINISHED,Brentford FC,Crystal Palace FC,2,1,1,0,HOME_TEAM,,Sam Barrott,Brentford
+2024-08-18_Chelsea,497418,2024,1,2024-08-18,FINISHED,Chelsea FC,Manchester City FC,0,2,0,1,AWAY_TEAM,,Anthony Taylor,Chelsea
+2024-08-19_Leicester,497419,2024,1,2024-08-19,FINISHED,Leicester City FC,Tottenham Hotspur FC,1,1,0,1,DRAW,,Chris Kavanagh,Leicester
+2024-08-24_Brighton,497422,2024,2,2024-08-24,FINISHED,Brighton & Hove Albion FC,Manchester United FC,2,1,1,0,HOME_TEAM,,Craig Pawson,Brighton
+2024-08-24_Crystal,497423,2024,2,2024-08-24,FINISHED,Crystal Palace FC,West Ham United FC,0,2,0,0,AWAY_TEAM,,Robert Jones,Crystal
+2024-08-24_Fulham,497424,2024,2,2024-08-24,FINISHED,Fulham FC,Leicester City FC,2,1,1,1,HOME_TEAM,,Darren Bond,Fulham
+2024-08-24_Manchester,497426,2024,2,2024-08-24,FINISHED,Manchester City FC,Ipswich Town FC,4,1,3,1,HOME_TEAM,,Michael Salisbury,Manchester
+2024-08-24_Southampton,497427,2024,2,2024-08-24,FINISHED,Southampton FC,Nottingham Forest FC,0,1,0,0,AWAY_TEAM,,Sam Barrott,Southampton
+2024-08-24_Tottenham,497428,2024,2,2024-08-24,FINISHED,Tottenham Hotspur FC,Everton FC,4,0,2,0,HOME_TEAM,,Anthony Taylor,Tottenham
+2024-08-24_Aston,497421,2024,2,2024-08-24,FINISHED,Aston Villa FC,Arsenal FC,0,2,0,0,AWAY_TEAM,,Michael Oliver,Aston
+2024-08-25_Bournemouth,497420,2024,2,2024-08-25,FINISHED,Bournemouth,Newcastle United FC,1,1,1,0,DRAW,,David Coote,Bournemouth
+2024-08-25_Wolverhampton,497429,2024,2,2024-08-25,FINISHED,Wolverhampton Wanderers FC,Chelsea FC,2,6,2,2,AWAY_TEAM,,Darren England,Wolverhampton
+2024-08-25_Liverpool,497425,2024,2,2024-08-25,FINISHED,Liverpool FC,Brentford FC,2,0,1,0,HOME_TEAM,,Stuart Attwell,Liverpool
+2024-08-31_Arsenal,497430,2024,3,2024-08-31,FINISHED,Arsenal FC,Brighton & Hove Albion FC,1,1,1,0,DRAW,,Chris Kavanagh,Arsenal
+2024-08-31_Brentford,497431,2024,3,2024-08-31,FINISHED,Brentford FC,Southampton FC,3,1,1,0,HOME_TEAM,,Joshua Smith,Brentford
+2024-08-31_Everton,497433,2024,3,2024-08-31,FINISHED,Everton FC,Bournemouth,2,3,0,0,AWAY_TEAM,,Stuart Attwell,Everton
+2024-08-31_Ipswich,497434,2024,3,2024-08-31,FINISHED,Ipswich Town FC,Fulham FC,1,1,1,1,DRAW,,Lewis Smith,Ipswich
+2024-08-31_Leicester,497435,2024,3,2024-08-31,FINISHED,Leicester City FC,Aston Villa FC,1,2,0,1,AWAY_TEAM,,David Coote,Leicester
+2024-08-31_Nottingham,497438,2024,3,2024-08-31,FINISHED,Nottingham Forest FC,Wolverhampton Wanderers FC,1,1,1,1,DRAW,,Simon Hooper,Nottingham
+2024-08-31_West,497439,2024,3,2024-08-31,FINISHED,West Ham United FC,Manchester City FC,1,3,1,2,AWAY_TEAM,,Michael Oliver,West
+2024-09-01_Chelsea,497432,2024,3,2024-09-01,FINISHED,Chelsea FC,Crystal Palace FC,1,1,1,0,DRAW,,Jarred Gillett,Chelsea
+2024-09-01_Newcastle,497437,2024,3,2024-09-01,FINISHED,Newcastle United FC,Tottenham Hotspur FC,2,1,1,0,HOME_TEAM,,Robert Jones,Newcastle
+2024-09-01_Manchester,497436,2024,3,2024-09-01,FINISHED,Manchester United FC,Liverpool FC,0,3,0,2,AWAY_TEAM,,Anthony Taylor,Manchester
+2024-09-14_Southampton,497447,2024,4,2024-09-14,FINISHED,Southampton FC,Manchester United FC,0,3,0,2,AWAY_TEAM,,Stuart Attwell,Southampton
+2024-09-14_Brighton,497442,2024,4,2024-09-14,FINISHED,Brighton & Hove Albion FC,Ipswich Town FC,0,0,0,0,DRAW,,Sam Barrott,Brighton
+2024-09-14_Crystal,497443,2024,4,2024-09-14,FINISHED,Crystal Palace FC,Leicester City FC,2,2,0,1,DRAW,,Tony Harrington,Crystal
+2024-09-14_Fulham,497444,2024,4,2024-09-14,FINISHED,Fulham FC,West Ham United FC,1,1,1,0,DRAW,,Tim Robinson,Fulham
+2024-09-14_Liverpool,497445,2024,4,2024-09-14,FINISHED,Liverpool FC,Nottingham Forest FC,0,1,0,0,AWAY_TEAM,,Michael Oliver,Liverpool
+2024-09-14_Manchester,497446,2024,4,2024-09-14,FINISHED,Manchester City FC,Brentford FC,2,1,2,1,HOME_TEAM,,Darren Bond,Manchester
+2024-09-14_Aston,497441,2024,4,2024-09-14,FINISHED,Aston Villa FC,Everton FC,3,2,1,2,HOME_TEAM,,Craig Pawson,Aston
+2024-09-14_Bournemouth,497440,2024,4,2024-09-14,FINISHED,Bournemouth,Chelsea FC,0,1,0,0,AWAY_TEAM,,Anthony Taylor,Bournemouth
+2024-09-15_Tottenham,497448,2024,4,2024-09-15,FINISHED,Tottenham Hotspur FC,Arsenal FC,0,1,0,0,AWAY_TEAM,,Jarred Gillett,Tottenham
+2024-09-15_Wolverhampton,497449,2024,4,2024-09-15,FINISHED,Wolverhampton Wanderers FC,Newcastle United FC,1,2,1,0,AWAY_TEAM,,Chris Kavanagh,Wolverhampton
+2024-09-21_West,497459,2024,5,2024-09-21,FINISHED,West Ham United FC,Chelsea FC,0,3,0,2,AWAY_TEAM,,Sam Barrott,West
+2024-09-21_Aston,497450,2024,5,2024-09-21,FINISHED,Aston Villa FC,Wolverhampton Wanderers FC,3,1,0,1,HOME_TEAM,,Tim Robinson,Aston
+2024-09-21_Fulham,497453,2024,5,2024-09-21,FINISHED,Fulham FC,Newcastle United FC,3,1,2,0,HOME_TEAM,,Peter Bankes,Fulham
+2024-09-21_Leicester,497454,2024,5,2024-09-21,FINISHED,Leicester City FC,Everton FC,1,1,0,1,DRAW,,Darren England,Leicester
+2024-09-21_Liverpool,497455,2024,5,2024-09-21,FINISHED,Liverpool FC,Bournemouth,3,0,3,0,HOME_TEAM,,Tony Harrington,Liverpool
+2024-09-21_Southampton,497457,2024,5,2024-09-21,FINISHED,Southampton FC,Ipswich Town FC,1,1,1,0,DRAW,,Samuel Allison,Southampton
+2024-09-21_Tottenham,497458,2024,5,2024-09-21,FINISHED,Tottenham Hotspur FC,Brentford FC,3,1,2,1,HOME_TEAM,,John Brooks,Tottenham
+2024-09-21_Crystal,497452,2024,5,2024-09-21,FINISHED,Crystal Palace FC,Manchester United FC,0,0,0,0,DRAW,,David Coote,Crystal
+2024-09-22_Brighton,497451,2024,5,2024-09-22,FINISHED,Brighton & Hove Albion FC,Nottingham Forest FC,2,2,2,1,DRAW,,Robert Jones,Brighton
+2024-09-22_Manchester,497456,2024,5,2024-09-22,FINISHED,Manchester City FC,Arsenal FC,2,2,1,2,DRAW,,Michael Oliver,Manchester
+2024-09-28_Newcastle,497467,2024,6,2024-09-28,FINISHED,Newcastle United FC,Manchester City FC,1,1,0,1,DRAW,,Jarred Gillett,Newcastle
+2024-09-28_Arsenal,497461,2024,6,2024-09-28,FINISHED,Arsenal FC,Leicester City FC,4,2,2,0,HOME_TEAM,,Sam Barrott,Arsenal
+2024-09-28_Brentford,497462,2024,6,2024-09-28,FINISHED,Brentford FC,West Ham United FC,1,1,1,0,DRAW,,Simon Hooper,Brentford
+2024-09-28_Chelsea,497463,2024,6,2024-09-28,FINISHED,Chelsea FC,Brighton & Hove Albion FC,4,2,4,2,HOME_TEAM,,Peter Bankes,Chelsea
+2024-09-28_Everton,497464,2024,6,2024-09-28,FINISHED,Everton FC,Crystal Palace FC,2,1,0,1,HOME_TEAM,,Andy Madley,Everton
+2024-09-28_Nottingham,497468,2024,6,2024-09-28,FINISHED,Nottingham Forest FC,Fulham FC,0,1,0,0,AWAY_TEAM,,Joshua Smith,Nottingham
+2024-09-28_Wolverhampton,497469,2024,6,2024-09-28,FINISHED,Wolverhampton Wanderers FC,Liverpool FC,1,2,0,1,AWAY_TEAM,,Anthony Taylor,Wolverhampton
+2024-09-29_Ipswich,497465,2024,6,2024-09-29,FINISHED,Ipswich Town FC,Aston Villa FC,2,2,1,2,DRAW,,Stuart Attwell,Ipswich
+2024-09-29_Manchester,497466,2024,6,2024-09-29,FINISHED,Manchester United FC,Tottenham Hotspur FC,0,3,0,1,AWAY_TEAM,,Chris Kavanagh,Manchester
+2024-09-30_Bournemouth,497460,2024,6,2024-09-30,FINISHED,Bournemouth,Southampton FC,3,1,3,0,HOME_TEAM,,Michael Oliver,Bournemouth
+2024-10-05_Crystal,497475,2024,7,2024-10-05,FINISHED,Crystal Palace FC,Liverpool FC,0,1,0,1,AWAY_TEAM,,Simon Hooper,Crystal
+2024-10-05_Arsenal,497470,2024,7,2024-10-05,FINISHED,Arsenal FC,Southampton FC,3,1,0,0,HOME_TEAM,,Tony Harrington,Arsenal
+2024-10-05_Brentford,497472,2024,7,2024-10-05,FINISHED,Brentford FC,Wolverhampton Wanderers FC,5,3,4,2,HOME_TEAM,,Andy Madley,Brentford
+2024-10-05_Leicester,497477,2024,7,2024-10-05,FINISHED,Leicester City FC,Bournemouth,1,0,1,0,HOME_TEAM,,Darren Bond,Leicester
+2024-10-05_Manchester,497478,2024,7,2024-10-05,FINISHED,Manchester City FC,Fulham FC,3,2,1,1,HOME_TEAM,,Peter Bankes,Manchester
+2024-10-05_West,497479,2024,7,2024-10-05,FINISHED,West Ham United FC,Ipswich Town FC,4,1,2,1,HOME_TEAM,,Anthony Taylor,West
+2024-10-05_Everton,497476,2024,7,2024-10-05,FINISHED,Everton FC,Newcastle United FC,0,0,0,0,DRAW,,Craig Pawson,Everton
+2024-10-06_Aston,497471,2024,7,2024-10-06,FINISHED,Aston Villa FC,Manchester United FC,0,0,0,0,DRAW,,Robert Jones,Aston
+2024-10-06_Chelsea,497474,2024,7,2024-10-06,FINISHED,Chelsea FC,Nottingham Forest FC,1,1,0,0,DRAW,,Chris Kavanagh,Chelsea
+2024-10-06_Brighton,497473,2024,7,2024-10-06,FINISHED,Brighton & Hove Albion FC,Tottenham Hotspur FC,3,2,0,2,HOME_TEAM,,David Coote,Brighton
+2024-10-19_Tottenham,497488,2024,8,2024-10-19,FINISHED,Tottenham Hotspur FC,West Ham United FC,4,1,1,1,HOME_TEAM,,Andy Madley,Tottenham
+2024-10-19_Fulham,497481,2024,8,2024-10-19,FINISHED,Fulham FC,Aston Villa FC,1,3,1,1,AWAY_TEAM,,Darren England,Fulham
+2024-10-19_Ipswich,497482,2024,8,2024-10-19,FINISHED,Ipswich Town FC,Everton FC,0,2,0,2,AWAY_TEAM,,Michael Oliver,Ipswich
+2024-10-19_Manchester,497484,2024,8,2024-10-19,FINISHED,Manchester United FC,Brentford FC,2,1,0,1,HOME_TEAM,,Sam Barrott,Manchester
+2024-10-19_Newcastle,497485,2024,8,2024-10-19,FINISHED,Newcastle United FC,Brighton & Hove Albion FC,0,1,0,1,AWAY_TEAM,,Peter Bankes,Newcastle
+2024-10-19_Southampton,497487,2024,8,2024-10-19,FINISHED,Southampton FC,Leicester City FC,2,3,2,0,AWAY_TEAM,,Anthony Taylor,Southampton
+2024-10-19_Bournemouth,497480,2024,8,2024-10-19,FINISHED,Bournemouth,Arsenal FC,2,0,0,0,HOME_TEAM,,Robert Jones,Bournemouth
+2024-10-20_Wolverhampton,497489,2024,8,2024-10-20,FINISHED,Wolverhampton Wanderers FC,Manchester City FC,1,2,1,1,AWAY_TEAM,,Chris Kavanagh,Wolverhampton
+2024-10-20_Liverpool,497483,2024,8,2024-10-20,FINISHED,Liverpool FC,Chelsea FC,2,1,1,0,HOME_TEAM,,John Brooks,Liverpool
+2024-10-21_Nottingham,497486,2024,8,2024-10-21,FINISHED,Nottingham Forest FC,Crystal Palace FC,1,0,0,0,HOME_TEAM,,Tim Robinson,Nottingham
+2024-10-25_Leicester,497497,2024,9,2024-10-25,FINISHED,Leicester City FC,Nottingham Forest FC,1,3,1,1,AWAY_TEAM,,Craig Pawson,Leicester
+2024-10-26_Aston,497491,2024,9,2024-10-26,FINISHED,Aston Villa FC,Bournemouth,1,1,0,0,DRAW,,Andy Madley,Aston
+2024-10-26_Brentford,497492,2024,9,2024-10-26,FINISHED,Brentford FC,Ipswich Town FC,4,3,2,2,HOME_TEAM,,Lewis Smith,Brentford
+2024-10-26_Brighton,497493,2024,9,2024-10-26,FINISHED,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,2,2,1,0,DRAW,,Michael Oliver,Brighton
+2024-10-26_Manchester,497498,2024,9,2024-10-26,FINISHED,Manchester City FC,Southampton FC,1,0,1,0,HOME_TEAM,,Tony Harrington,Manchester
+2024-10-26_Everton,497496,2024,9,2024-10-26,FINISHED,Everton FC,Fulham FC,1,1,0,0,DRAW,,John Brooks,Everton
+2024-10-27_Chelsea,497494,2024,9,2024-10-27,FINISHED,Chelsea FC,Newcastle United FC,2,1,1,1,HOME_TEAM,,Simon Hooper,Chelsea
+2024-10-27_Crystal,497495,2024,9,2024-10-27,FINISHED,Crystal Palace FC,Tottenham Hotspur FC,1,0,1,0,HOME_TEAM,,Darren Bond,Crystal
+2024-10-27_West,497499,2024,9,2024-10-27,FINISHED,West Ham United FC,Manchester United FC,2,1,0,0,HOME_TEAM,,David Coote,West
+2024-10-27_Arsenal,497490,2024,9,2024-10-27,FINISHED,Arsenal FC,Liverpool FC,2,2,2,1,DRAW,,Anthony Taylor,Arsenal
+2024-11-02_Newcastle,497505,2024,10,2024-11-02,FINISHED,Newcastle United FC,Arsenal FC,1,0,1,0,HOME_TEAM,,John Brooks,Newcastle
+2024-11-02_Bournemouth,497500,2024,10,2024-11-02,FINISHED,Bournemouth,Manchester City FC,2,1,1,0,HOME_TEAM,,Michael Oliver,Bournemouth
+2024-11-02_Ipswich,497502,2024,10,2024-11-02,FINISHED,Ipswich Town FC,Leicester City FC,1,1,0,0,DRAW,,Tim Robinson,Ipswich
+2024-11-02_Liverpool,497503,2024,10,2024-11-02,FINISHED,Liverpool FC,Brighton & Hove Albion FC,2,1,0,1,HOME_TEAM,,Tony Harrington,Liverpool
+2024-11-02_Nottingham,497506,2024,10,2024-11-02,FINISHED,Nottingham Forest FC,West Ham United FC,3,0,1,0,HOME_TEAM,,Peter Bankes,Nottingham
+2024-11-02_Southampton,497507,2024,10,2024-11-02,FINISHED,Southampton FC,Everton FC,1,0,0,0,HOME_TEAM,,Andy Madley,Southampton
+2024-11-02_Wolverhampton,497509,2024,10,2024-11-02,FINISHED,Wolverhampton Wanderers FC,Crystal Palace FC,2,2,0,0,DRAW,,Anthony Taylor,Wolverhampton
+2024-11-03_Tottenham,497508,2024,10,2024-11-03,FINISHED,Tottenham Hotspur FC,Aston Villa FC,4,1,0,1,HOME_TEAM,,Craig Pawson,Tottenham
+2024-11-03_Manchester,497504,2024,10,2024-11-03,FINISHED,Manchester United FC,Chelsea FC,1,1,0,0,DRAW,,Robert Jones,Manchester
+2024-11-04_Fulham,497501,2024,10,2024-11-04,FINISHED,Fulham FC,Brentford FC,2,1,0,1,HOME_TEAM,,Stuart Attwell,Fulham
+2024-11-09_Brentford,497510,2024,11,2024-11-09,FINISHED,Brentford FC,Bournemouth,3,2,1,1,HOME_TEAM,,Darren Bond,Brentford
+2024-11-09_Crystal,497513,2024,11,2024-11-09,FINISHED,Crystal Palace FC,Fulham FC,0,2,0,1,AWAY_TEAM,,Michael Salisbury,Crystal
+2024-11-09_West,497518,2024,11,2024-11-09,FINISHED,West Ham United FC,Everton FC,0,0,0,0,DRAW,,Stuart Attwell,West
+2024-11-09_Wolverhampton,497519,2024,11,2024-11-09,FINISHED,Wolverhampton Wanderers FC,Southampton FC,2,0,1,0,HOME_TEAM,,Thomas Bramall,Wolverhampton
+2024-11-09_Brighton,497511,2024,11,2024-11-09,FINISHED,Brighton & Hove Albion FC,Manchester City FC,2,1,0,1,HOME_TEAM,,Sam Barrott,Brighton
+2024-11-09_Liverpool,497514,2024,11,2024-11-09,FINISHED,Liverpool FC,Aston Villa FC,2,0,1,0,HOME_TEAM,,David Coote,Liverpool
+2024-11-10_Manchester,497515,2024,11,2024-11-10,FINISHED,Manchester United FC,Leicester City FC,3,0,2,0,HOME_TEAM,,Peter Bankes,Manchester
+2024-11-10_Nottingham,497516,2024,11,2024-11-10,FINISHED,Nottingham Forest FC,Newcastle United FC,1,3,1,0,AWAY_TEAM,,Anthony Taylor,Nottingham
+2024-11-10_Tottenham,497517,2024,11,2024-11-10,FINISHED,Tottenham Hotspur FC,Ipswich Town FC,1,2,0,2,AWAY_TEAM,,Darren England,Tottenham
+2024-11-10_Chelsea,497512,2024,11,2024-11-10,FINISHED,Chelsea FC,Arsenal FC,1,1,0,0,DRAW,,Michael Oliver,Chelsea
+2024-11-23_Leicester,497526,2024,12,2024-11-23,FINISHED,Leicester City FC,Chelsea FC,1,2,0,1,AWAY_TEAM,,Andy Madley,Leicester
+2024-11-23_Bournemouth,497520,2024,12,2024-11-23,FINISHED,Bournemouth,Brighton & Hove Albion FC,1,2,0,1,AWAY_TEAM,,Stuart Attwell,Bournemouth
+2024-11-23_Arsenal,497521,2024,12,2024-11-23,FINISHED,Arsenal FC,Nottingham Forest FC,3,0,1,0,HOME_TEAM,,Simon Hooper,Arsenal
+2024-11-23_Aston,497522,2024,12,2024-11-23,FINISHED,Aston Villa FC,Crystal Palace FC,2,2,1,2,DRAW,,Tim Robinson,Aston
+2024-11-23_Everton,497523,2024,12,2024-11-23,FINISHED,Everton FC,Brentford FC,0,0,0,0,DRAW,,Chris Kavanagh,Everton
+2024-11-23_Fulham,497524,2024,12,2024-11-23,FINISHED,Fulham FC,Wolverhampton Wanderers FC,1,4,1,1,AWAY_TEAM,,Robert Jones,Fulham
+2024-11-23_Manchester,497527,2024,12,2024-11-23,FINISHED,Manchester City FC,Tottenham Hotspur FC,0,4,0,2,AWAY_TEAM,,John Brooks,Manchester
+2024-11-24_Southampton,497529,2024,12,2024-11-24,FINISHED,Southampton FC,Liverpool FC,2,3,1,1,AWAY_TEAM,,Sam Barrott,Southampton
+2024-11-24_Ipswich,497525,2024,12,2024-11-24,FINISHED,Ipswich Town FC,Manchester United FC,1,1,1,1,DRAW,,Anthony Taylor,Ipswich
+2024-11-25_Newcastle,497528,2024,12,2024-11-25,FINISHED,Newcastle United FC,West Ham United FC,0,2,0,1,AWAY_TEAM,,Craig Pawson,Newcastle
+2024-11-29_Brighton,497531,2024,13,2024-11-29,FINISHED,Brighton & Hove Albion FC,Southampton FC,1,1,1,0,DRAW,,Robert Jones,Brighton
+2024-11-30_Brentford,497530,2024,13,2024-11-30,FINISHED,Brentford FC,Leicester City FC,4,1,3,1,HOME_TEAM,,Michael Oliver,Brentford
+2024-11-30_Crystal,497533,2024,13,2024-11-30,FINISHED,Crystal Palace FC,Newcastle United FC,1,1,0,0,DRAW,,Darren England,Crystal
+2024-11-30_Nottingham,497536,2024,13,2024-11-30,FINISHED,Nottingham Forest FC,Ipswich Town FC,1,0,0,0,HOME_TEAM,,Tony Harrington,Nottingham
+2024-11-30_Wolverhampton,497539,2024,13,2024-11-30,FINISHED,Wolverhampton Wanderers FC,Bournemouth,2,4,1,3,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2024-11-30_West,497538,2024,13,2024-11-30,FINISHED,West Ham United FC,Arsenal FC,2,5,2,5,AWAY_TEAM,,Anthony Taylor,West
+2024-12-01_Chelsea,497532,2024,13,2024-12-01,FINISHED,Chelsea FC,Aston Villa FC,3,0,2,0,HOME_TEAM,,Stuart Attwell,Chelsea
+2024-12-01_Manchester,497535,2024,13,2024-12-01,FINISHED,Manchester United FC,Everton FC,4,0,2,0,HOME_TEAM,,John Brooks,Manchester
+2024-12-01_Tottenham,497537,2024,13,2024-12-01,FINISHED,Tottenham Hotspur FC,Fulham FC,1,1,0,0,DRAW,,Darren Bond,Tottenham
+2024-12-01_Liverpool,497534,2024,13,2024-12-01,FINISHED,Liverpool FC,Manchester City FC,2,0,1,0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2024-12-03_Ipswich,497545,2024,14,2024-12-03,FINISHED,Ipswich Town FC,Crystal Palace FC,0,1,0,0,AWAY_TEAM,,Craig Pawson,Ipswich
+2024-12-03_Leicester,497546,2024,14,2024-12-03,FINISHED,Leicester City FC,West Ham United FC,3,1,1,0,HOME_TEAM,,Joshua Smith,Leicester
+2024-12-04_Everton,497543,2024,14,2024-12-04,FINISHED,Everton FC,Wolverhampton Wanderers FC,4,0,2,0,HOME_TEAM,,Michael Salisbury,Everton
+2024-12-04_Manchester,497547,2024,14,2024-12-04,FINISHED,Manchester City FC,Nottingham Forest FC,3,0,2,0,HOME_TEAM,,Michael Oliver,Manchester
+2024-12-04_Newcastle,497548,2024,14,2024-12-04,FINISHED,Newcastle United FC,Liverpool FC,3,3,1,0,DRAW,,Andy Madley,Newcastle
+2024-12-04_Southampton,497549,2024,14,2024-12-04,FINISHED,Southampton FC,Chelsea FC,1,5,1,3,AWAY_TEAM,,Tony Harrington,Southampton
+2024-12-04_Arsenal,497541,2024,14,2024-12-04,FINISHED,Arsenal FC,Manchester United FC,2,0,0,0,HOME_TEAM,,Sam Barrott,Arsenal
+2024-12-04_Aston,497542,2024,14,2024-12-04,FINISHED,Aston Villa FC,Brentford FC,3,1,3,0,HOME_TEAM,,Lewis Smith,Aston
+2024-12-05_Fulham,497544,2024,14,2024-12-05,FINISHED,Fulham FC,Brighton & Hove Albion FC,3,1,1,0,HOME_TEAM,,Peter Bankes,Fulham
+2024-12-05_Bournemouth,497540,2024,14,2024-12-05,FINISHED,Bournemouth,Tottenham Hotspur FC,1,0,1,0,HOME_TEAM,,Simon Hooper,Bournemouth
+2024-12-07_Aston,497550,2024,15,2024-12-07,FINISHED,Aston Villa FC,Southampton FC,1,0,1,0,HOME_TEAM,,Darren Bond,Aston
+2024-12-07_Brentford,497551,2024,15,2024-12-07,FINISHED,Brentford FC,Newcastle United FC,4,2,2,2,HOME_TEAM,,Tim Robinson,Brentford
+2024-12-07_Crystal,497552,2024,15,2024-12-07,FINISHED,Crystal Palace FC,Manchester City FC,2,2,1,1,DRAW,,Robert Jones,Crystal
+2024-12-07_Manchester,497557,2024,15,2024-12-07,FINISHED,Manchester United FC,Nottingham Forest FC,2,3,1,1,AWAY_TEAM,,Darren England,Manchester
+2024-12-08_Fulham,497554,2024,15,2024-12-08,FINISHED,Fulham FC,Arsenal FC,1,1,1,0,DRAW,,Chris Kavanagh,Fulham
+2024-12-08_Ipswich,497555,2024,15,2024-12-08,FINISHED,Ipswich Town FC,Bournemouth,1,2,1,0,AWAY_TEAM,,Michael Salisbury,Ipswich
+2024-12-08_Leicester,497556,2024,15,2024-12-08,FINISHED,Leicester City FC,Brighton & Hove Albion FC,2,2,0,1,DRAW,,Stuart Attwell,Leicester
+2024-12-08_Tottenham,497558,2024,15,2024-12-08,FINISHED,Tottenham Hotspur FC,Chelsea FC,3,4,2,1,AWAY_TEAM,,Anthony Taylor,Tottenham
+2024-12-09_West,497559,2024,15,2024-12-09,FINISHED,West Ham United FC,Wolverhampton Wanderers FC,2,1,0,0,HOME_TEAM,,John Brooks,West
+2024-12-14_Arsenal,497561,2024,16,2024-12-14,FINISHED,Arsenal FC,Everton FC,0,0,0,0,DRAW,,Craig Pawson,Arsenal
+2024-12-14_Liverpool,497564,2024,16,2024-12-14,FINISHED,Liverpool FC,Fulham FC,2,2,0,1,DRAW,,Tony Harrington,Liverpool
+2024-12-14_Newcastle,497566,2024,16,2024-12-14,FINISHED,Newcastle United FC,Leicester City FC,4,0,1,0,HOME_TEAM,,Thomas Bramall,Newcastle
+2024-12-14_Wolverhampton,497569,2024,16,2024-12-14,FINISHED,Wolverhampton Wanderers FC,Ipswich Town FC,1,2,0,1,AWAY_TEAM,,Simon Hooper,Wolverhampton
+2024-12-14_Nottingham,497567,2024,16,2024-12-14,FINISHED,Nottingham Forest FC,Aston Villa FC,2,1,0,0,HOME_TEAM,,Sam Barrott,Nottingham
+2024-12-15_Brighton,497562,2024,16,2024-12-15,FINISHED,Brighton & Hove Albion FC,Crystal Palace FC,1,3,0,2,AWAY_TEAM,,Michael Oliver,Brighton
+2024-12-15_Manchester,497565,2024,16,2024-12-15,FINISHED,Manchester City FC,Manchester United FC,1,2,1,0,AWAY_TEAM,,Anthony Taylor,Manchester
+2024-12-15_Chelsea,497563,2024,16,2024-12-15,FINISHED,Chelsea FC,Brentford FC,2,1,1,0,HOME_TEAM,,Peter Bankes,Chelsea
+2024-12-15_Southampton,497568,2024,16,2024-12-15,FINISHED,Southampton FC,Tottenham Hotspur FC,0,5,0,5,AWAY_TEAM,,Darren England,Southampton
+2024-12-16_Bournemouth,497560,2024,16,2024-12-16,FINISHED,Bournemouth,West Ham United FC,1,1,0,0,DRAW,,Chris Kavanagh,Bournemouth
+2024-12-21_Aston,497570,2024,17,2024-12-21,FINISHED,Aston Villa FC,Manchester City FC,2,1,1,0,HOME_TEAM,,Peter Bankes,Aston
+2024-12-21_Brentford,497571,2024,17,2024-12-21,FINISHED,Brentford FC,Nottingham Forest FC,0,2,0,1,AWAY_TEAM,,Michael Oliver,Brentford
+2024-12-21_Ipswich,497575,2024,17,2024-12-21,FINISHED,Ipswich Town FC,Newcastle United FC,0,4,0,3,AWAY_TEAM,,Stuart Attwell,Ipswich
+2024-12-21_West,497579,2024,17,2024-12-21,FINISHED,West Ham United FC,Brighton & Hove Albion FC,1,1,0,0,DRAW,,Robert Jones,West
+2024-12-21_Crystal,497572,2024,17,2024-12-21,FINISHED,Crystal Palace FC,Arsenal FC,1,5,1,3,AWAY_TEAM,,Simon Hooper,Crystal
+2024-12-22_Everton,497573,2024,17,2024-12-22,FINISHED,Everton FC,Chelsea FC,0,0,0,0,DRAW,,Chris Kavanagh,Everton
+2024-12-22_Fulham,497574,2024,17,2024-12-22,FINISHED,Fulham FC,Southampton FC,0,0,0,0,DRAW,,Tim Robinson,Fulham
+2024-12-22_Leicester,497576,2024,17,2024-12-22,FINISHED,Leicester City FC,Wolverhampton Wanderers FC,0,3,0,3,AWAY_TEAM,,Anthony Taylor,Leicester
+2024-12-22_Manchester,497577,2024,17,2024-12-22,FINISHED,Manchester United FC,Bournemouth,0,3,0,1,AWAY_TEAM,,Craig Pawson,Manchester
+2024-12-22_Tottenham,497578,2024,17,2024-12-22,FINISHED,Tottenham Hotspur FC,Liverpool FC,3,6,1,3,AWAY_TEAM,,Sam Barrott,Tottenham
+2024-12-26_Manchester,497585,2024,18,2024-12-26,FINISHED,Manchester City FC,Everton FC,1,1,1,1,DRAW,,Simon Hooper,Manchester
+2024-12-26_Bournemouth,497580,2024,18,2024-12-26,FINISHED,Bournemouth,Crystal Palace FC,0,0,0,0,DRAW,,Thomas Bramall,Bournemouth
+2024-12-26_Chelsea,497583,2024,18,2024-12-26,FINISHED,Chelsea FC,Fulham FC,1,2,1,0,AWAY_TEAM,,Sam Barrott,Chelsea
+2024-12-26_Newcastle,497586,2024,18,2024-12-26,FINISHED,Newcastle United FC,Aston Villa FC,3,0,1,0,HOME_TEAM,,Anthony Taylor,Newcastle
+2024-12-26_Nottingham,497587,2024,18,2024-12-26,FINISHED,Nottingham Forest FC,Tottenham Hotspur FC,1,0,1,0,HOME_TEAM,,Craig Pawson,Nottingham
+2024-12-26_Southampton,497588,2024,18,2024-12-26,FINISHED,Southampton FC,West Ham United FC,0,1,0,0,AWAY_TEAM,,Lewis Smith,Southampton
+2024-12-26_Wolverhampton,497589,2024,18,2024-12-26,FINISHED,Wolverhampton Wanderers FC,Manchester United FC,2,0,0,0,HOME_TEAM,,Tony Harrington,Wolverhampton
+2024-12-26_Liverpool,497584,2024,18,2024-12-26,FINISHED,Liverpool FC,Leicester City FC,3,1,1,1,HOME_TEAM,,Darren Bond,Liverpool
+2024-12-27_Brighton,497582,2024,18,2024-12-27,FINISHED,Brighton & Hove Albion FC,Brentford FC,0,0,0,0,DRAW,,Andy Madley,Brighton
+2024-12-27_Arsenal,497581,2024,18,2024-12-27,FINISHED,Arsenal FC,Ipswich Town FC,1,0,1,0,HOME_TEAM,,Darren England,Arsenal
+2024-12-29_Leicester,497596,2024,19,2024-12-29,FINISHED,Leicester City FC,Manchester City FC,0,2,0,1,AWAY_TEAM,,Michael Oliver,Leicester
+2024-12-29_Crystal,497592,2024,19,2024-12-29,FINISHED,Crystal Palace FC,Southampton FC,2,1,1,1,HOME_TEAM,,Michael Salisbury,Crystal
+2024-12-29_Everton,497593,2024,19,2024-12-29,FINISHED,Everton FC,Nottingham Forest FC,0,2,0,1,AWAY_TEAM,,Tony Harrington,Everton
+2024-12-29_Fulham,497594,2024,19,2024-12-29,FINISHED,Fulham FC,Bournemouth,2,2,1,0,DRAW,,Robert Jones,Fulham
+2024-12-29_Tottenham,497598,2024,19,2024-12-29,FINISHED,Tottenham Hotspur FC,Wolverhampton Wanderers FC,2,2,2,1,DRAW,,Chris Kavanagh,Tottenham
+2024-12-29_West,497599,2024,19,2024-12-29,FINISHED,West Ham United FC,Liverpool FC,0,5,0,3,AWAY_TEAM,,Anthony Taylor,West
+2024-12-30_Aston,497590,2024,19,2024-12-30,FINISHED,Aston Villa FC,Brighton & Hove Albion FC,2,2,1,1,DRAW,,Craig Pawson,Aston
+2024-12-30_Ipswich,497595,2024,19,2024-12-30,FINISHED,Ipswich Town FC,Chelsea FC,2,0,1,0,HOME_TEAM,,John Brooks,Ipswich
+2024-12-30_Manchester,497597,2024,19,2024-12-30,FINISHED,Manchester United FC,Newcastle United FC,0,2,0,2,AWAY_TEAM,,Simon Hooper,Manchester
+2025-01-01_Brentford,497591,2024,19,2025-01-01,FINISHED,Brentford FC,Arsenal FC,1,3,1,1,AWAY_TEAM,,Peter Bankes,Brentford
+2025-01-04_Tottenham,497607,2024,20,2025-01-04,FINISHED,Tottenham Hotspur FC,Newcastle United FC,1,2,1,2,AWAY_TEAM,,Andy Madley,Tottenham
+2025-01-04_Southampton,497601,2024,20,2025-01-04,FINISHED,Southampton FC,Brentford FC,0,5,0,1,AWAY_TEAM,,Stuart Attwell,Southampton
+2025-01-04_Crystal,497602,2024,20,2025-01-04,FINISHED,Crystal Palace FC,Chelsea FC,1,1,0,1,DRAW,,Tim Robinson,Crystal
+2025-01-04_Bournemouth,497603,2024,20,2025-01-04,FINISHED,Bournemouth,Everton FC,1,0,0,0,HOME_TEAM,,John Brooks,Bournemouth
+2025-01-04_Aston,497605,2024,20,2025-01-04,FINISHED,Aston Villa FC,Leicester City FC,2,1,0,0,HOME_TEAM,,Jarred Gillett,Aston
+2025-01-04_Manchester,497609,2024,20,2025-01-04,FINISHED,Manchester City FC,West Ham United FC,4,1,2,0,HOME_TEAM,,Michael Salisbury,Manchester
+2025-01-04_Brighton,497600,2024,20,2025-01-04,FINISHED,Brighton & Hove Albion FC,Arsenal FC,1,1,0,1,DRAW,,Anthony Taylor,Brighton
+2025-01-05_Fulham,497604,2024,20,2025-01-05,FINISHED,Fulham FC,Ipswich Town FC,2,2,0,1,DRAW,,Darren Bond,Fulham
+2025-01-05_Liverpool,497606,2024,20,2025-01-05,FINISHED,Liverpool FC,Manchester United FC,2,2,0,0,DRAW,,Michael Oliver,Liverpool
+2025-01-06_Wolverhampton,497608,2024,20,2025-01-06,FINISHED,Wolverhampton Wanderers FC,Nottingham Forest FC,0,3,0,2,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2025-01-14_West,497613,2024,21,2025-01-14,FINISHED,West Ham United FC,Fulham FC,3,2,2,0,HOME_TEAM,,Craig Pawson,West
+2025-01-14_Brentford,497615,2024,21,2025-01-14,FINISHED,Brentford FC,Manchester City FC,2,2,0,0,DRAW,,Anthony Taylor,Brentford
+2025-01-14_Chelsea,497617,2024,21,2025-01-14,FINISHED,Chelsea FC,Bournemouth,2,2,1,0,DRAW,,Robert Jones,Chelsea
+2025-01-14_Nottingham,497614,2024,21,2025-01-14,FINISHED,Nottingham Forest FC,Liverpool FC,1,1,1,0,DRAW,,Chris Kavanagh,Nottingham
+2025-01-15_Everton,497610,2024,21,2025-01-15,FINISHED,Everton FC,Aston Villa FC,0,1,0,0,AWAY_TEAM,,Sam Barrott,Everton
+2025-01-15_Leicester,497612,2024,21,2025-01-15,FINISHED,Leicester City FC,Crystal Palace FC,0,2,0,0,AWAY_TEAM,,Andy Madley,Leicester
+2025-01-15_Newcastle,497619,2024,21,2025-01-15,FINISHED,Newcastle United FC,Wolverhampton Wanderers FC,3,0,1,0,HOME_TEAM,,Darren England,Newcastle
+2025-01-15_Arsenal,497616,2024,21,2025-01-15,FINISHED,Arsenal FC,Tottenham Hotspur FC,2,1,2,1,HOME_TEAM,,Simon Hooper,Arsenal
+2025-01-16_Ipswich,497611,2024,21,2025-01-16,FINISHED,Ipswich Town FC,Brighton & Hove Albion FC,0,2,0,0,AWAY_TEAM,,Tony Harrington,Ipswich
+2025-01-16_Manchester,497618,2024,21,2025-01-16,FINISHED,Manchester United FC,Southampton FC,3,1,0,1,HOME_TEAM,,John Brooks,Manchester
+2025-01-18_Newcastle,497620,2024,22,2025-01-18,FINISHED,Newcastle United FC,Bournemouth,1,4,1,2,AWAY_TEAM,,Stuart Attwell,Newcastle
+2025-01-18_West,497623,2024,22,2025-01-18,FINISHED,West Ham United FC,Crystal Palace FC,0,2,0,0,AWAY_TEAM,,Thomas Bramall,West
+2025-01-18_Leicester,497624,2024,22,2025-01-18,FINISHED,Leicester City FC,Fulham FC,0,2,0,0,AWAY_TEAM,,Michael Salisbury,Leicester
+2025-01-18_Brentford,497625,2024,22,2025-01-18,FINISHED,Brentford FC,Liverpool FC,0,2,0,0,AWAY_TEAM,,Andy Madley,Brentford
+2025-01-18_Arsenal,497621,2024,22,2025-01-18,FINISHED,Arsenal FC,Aston Villa FC,2,2,1,0,DRAW,,Chris Kavanagh,Arsenal
+2025-01-19_Manchester,497622,2024,22,2025-01-19,FINISHED,Manchester United FC,Brighton & Hove Albion FC,1,3,1,1,AWAY_TEAM,,Peter Bankes,Manchester
+2025-01-19_Nottingham,497627,2024,22,2025-01-19,FINISHED,Nottingham Forest FC,Southampton FC,3,2,3,0,HOME_TEAM,,Anthony Taylor,Nottingham
+2025-01-19_Everton,497628,2024,22,2025-01-19,FINISHED,Everton FC,Tottenham Hotspur FC,3,2,3,0,HOME_TEAM,,Darren England,Everton
+2025-01-19_Ipswich,497626,2024,22,2025-01-19,FINISHED,Ipswich Town FC,Manchester City FC,0,6,0,3,AWAY_TEAM,,Sam Barrott,Ipswich
+2025-01-20_Chelsea,497629,2024,22,2025-01-20,FINISHED,Chelsea FC,Wolverhampton Wanderers FC,3,1,1,1,HOME_TEAM,,Simon Hooper,Chelsea
+2025-01-25_Liverpool,497631,2024,23,2025-01-25,FINISHED,Liverpool FC,Ipswich Town FC,4,1,3,0,HOME_TEAM,,Michael Salisbury,Liverpool
+2025-01-25_Wolverhampton,497632,2024,23,2025-01-25,FINISHED,Wolverhampton Wanderers FC,Arsenal FC,0,1,0,0,AWAY_TEAM,,Michael Oliver,Wolverhampton
+2025-01-25_Brighton,497633,2024,23,2025-01-25,FINISHED,Brighton & Hove Albion FC,Everton FC,0,1,0,1,AWAY_TEAM,,Tim Robinson,Brighton
+2025-01-25_Southampton,497634,2024,23,2025-01-25,FINISHED,Southampton FC,Newcastle United FC,1,3,1,2,AWAY_TEAM,,Sam Barrott,Southampton
+2025-01-25_Bournemouth,497635,2024,23,2025-01-25,FINISHED,Bournemouth,Nottingham Forest FC,5,0,1,0,HOME_TEAM,,Craig Pawson,Bournemouth
+2025-01-25_Manchester,497638,2024,23,2025-01-25,FINISHED,Manchester City FC,Chelsea FC,3,1,1,1,HOME_TEAM,,John Brooks,Manchester
+2025-01-26_Crystal,497637,2024,23,2025-01-26,FINISHED,Crystal Palace FC,Brentford FC,1,2,0,0,AWAY_TEAM,,Tony Harrington,Crystal
+2025-01-26_Tottenham,497639,2024,23,2025-01-26,FINISHED,Tottenham Hotspur FC,Leicester City FC,1,2,1,0,AWAY_TEAM,,Robert Jones,Tottenham
+2025-01-26_Aston,497636,2024,23,2025-01-26,FINISHED,Aston Villa FC,West Ham United FC,1,1,1,0,DRAW,,Peter Bankes,Aston
+2025-01-26_Fulham,497630,2024,23,2025-01-26,FINISHED,Fulham FC,Manchester United FC,0,1,0,0,AWAY_TEAM,,Anthony Taylor,Fulham
+2025-02-01_Nottingham,497641,2024,24,2025-02-01,FINISHED,Nottingham Forest FC,Brighton & Hove Albion FC,7,0,3,0,HOME_TEAM,,Simon Hooper,Nottingham
+2025-02-01_Newcastle,497643,2024,24,2025-02-01,FINISHED,Newcastle United FC,Fulham FC,1,2,1,0,AWAY_TEAM,,Chris Kavanagh,Newcastle
+2025-02-01_Everton,497644,2024,24,2025-02-01,FINISHED,Everton FC,Leicester City FC,4,0,3,0,HOME_TEAM,,Darren Bond,Everton
+2025-02-01_Bournemouth,497645,2024,24,2025-02-01,FINISHED,Bournemouth,Liverpool FC,0,2,0,1,AWAY_TEAM,,Darren England,Bournemouth
+2025-02-01_Ipswich,497647,2024,24,2025-02-01,FINISHED,Ipswich Town FC,Southampton FC,1,2,1,1,AWAY_TEAM,,Michael Oliver,Ipswich
+2025-02-01_Wolverhampton,497640,2024,24,2025-02-01,FINISHED,Wolverhampton Wanderers FC,Aston Villa FC,2,0,1,0,HOME_TEAM,,Andy Madley,Wolverhampton
+2025-02-02_Manchester,497642,2024,24,2025-02-02,FINISHED,Manchester United FC,Crystal Palace FC,0,2,0,0,AWAY_TEAM,,John Brooks,Manchester
+2025-02-02_Brentford,497648,2024,24,2025-02-02,FINISHED,Brentford FC,Tottenham Hotspur FC,0,2,0,1,AWAY_TEAM,,Jarred Gillett,Brentford
+2025-02-02_Arsenal,497646,2024,24,2025-02-02,FINISHED,Arsenal FC,Manchester City FC,5,1,1,0,HOME_TEAM,,Peter Bankes,Arsenal
+2025-02-03_Chelsea,497649,2024,24,2025-02-03,FINISHED,Chelsea FC,West Ham United FC,2,1,0,1,HOME_TEAM,,Stuart Attwell,Chelsea
+2025-02-12_Everton,497553,2024,15,2025-02-12,FINISHED,Everton FC,Liverpool FC,2,2,1,1,DRAW,,Michael Oliver,Everton
+2025-02-14_Brighton,497653,2024,25,2025-02-14,FINISHED,Brighton & Hove Albion FC,Chelsea FC,3,0,2,0,HOME_TEAM,,Chris Kavanagh,Brighton
+2025-02-15_Leicester,497651,2024,25,2025-02-15,FINISHED,Leicester City FC,Arsenal FC,0,2,0,0,AWAY_TEAM,,Sam Barrott,Leicester
+2025-02-15_Southampton,497650,2024,25,2025-02-15,FINISHED,Southampton FC,Bournemouth,1,3,0,2,AWAY_TEAM,,Jarred Gillett,Southampton
+2025-02-15_West,497652,2024,25,2025-02-15,FINISHED,West Ham United FC,Brentford FC,0,1,0,1,AWAY_TEAM,,Darren England,West
+2025-02-15_Aston,497655,2024,25,2025-02-15,FINISHED,Aston Villa FC,Ipswich Town FC,1,1,0,0,DRAW,,Robert Jones,Aston
+2025-02-15_Manchester,497657,2024,25,2025-02-15,FINISHED,Manchester City FC,Newcastle United FC,4,0,3,0,HOME_TEAM,,Andy Madley,Manchester
+2025-02-15_Fulham,497658,2024,25,2025-02-15,FINISHED,Fulham FC,Nottingham Forest FC,2,1,1,1,HOME_TEAM,,Thomas Bramall,Fulham
+2025-02-15_Crystal,497654,2024,25,2025-02-15,FINISHED,Crystal Palace FC,Everton FC,1,2,0,1,AWAY_TEAM,,Anthony Taylor,Crystal
+2025-02-16_Liverpool,497659,2024,25,2025-02-16,FINISHED,Liverpool FC,Wolverhampton Wanderers FC,2,1,2,0,HOME_TEAM,,Simon Hooper,Liverpool
+2025-02-16_Tottenham,497656,2024,25,2025-02-16,FINISHED,Tottenham Hotspur FC,Manchester United FC,1,0,1,0,HOME_TEAM,,Peter Bankes,Tottenham
+2025-02-19_Aston,497692,2024,29,2025-02-19,FINISHED,Aston Villa FC,Liverpool FC,2,2,2,1,DRAW,,Craig Pawson,Aston
+2025-02-21_Leicester,497660,2024,26,2025-02-21,FINISHED,Leicester City FC,Brentford FC,0,4,0,3,AWAY_TEAM,,Tony Harrington,Leicester
+2025-02-22_Everton,497665,2024,26,2025-02-22,FINISHED,Everton FC,Manchester United FC,2,2,2,0,DRAW,,Andy Madley,Everton
+2025-02-22_Ipswich,497666,2024,26,2025-02-22,FINISHED,Ipswich Town FC,Tottenham Hotspur FC,1,4,1,2,AWAY_TEAM,,Tim Robinson,Ipswich
+2025-02-22_Fulham,497667,2024,26,2025-02-22,FINISHED,Fulham FC,Crystal Palace FC,0,2,0,1,AWAY_TEAM,,Robert Jones,Fulham
+2025-02-22_Arsenal,497668,2024,26,2025-02-22,FINISHED,Arsenal FC,West Ham United FC,0,1,0,1,AWAY_TEAM,,Craig Pawson,Arsenal
+2025-02-22_Bournemouth,497669,2024,26,2025-02-22,FINISHED,Bournemouth,Wolverhampton Wanderers FC,0,1,0,1,AWAY_TEAM,,Michael Salisbury,Bournemouth
+2025-02-22_Southampton,497661,2024,26,2025-02-22,FINISHED,Southampton FC,Brighton & Hove Albion FC,0,4,0,1,AWAY_TEAM,,Darren Bond,Southampton
+2025-02-22_Aston,497662,2024,26,2025-02-22,FINISHED,Aston Villa FC,Chelsea FC,2,1,0,1,HOME_TEAM,,Michael Oliver,Aston
+2025-02-23_Newcastle,497663,2024,26,2025-02-23,FINISHED,Newcastle United FC,Nottingham Forest FC,4,3,4,1,HOME_TEAM,,Jarred Gillett,Newcastle
+2025-02-23_Manchester,497664,2024,26,2025-02-23,FINISHED,Manchester City FC,Liverpool FC,0,2,0,2,AWAY_TEAM,,Anthony Taylor,Manchester
+2025-02-25_Brighton,497670,2024,27,2025-02-25,FINISHED,Brighton & Hove Albion FC,Bournemouth,2,1,1,0,HOME_TEAM,,Michael Oliver,Brighton
+2025-02-25_Crystal,497672,2024,27,2025-02-25,FINISHED,Crystal Palace FC,Aston Villa FC,4,1,1,0,HOME_TEAM,,Sam Barrott,Crystal
+2025-02-25_Wolverhampton,497674,2024,27,2025-02-25,FINISHED,Wolverhampton Wanderers FC,Fulham FC,1,2,1,1,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2025-02-25_Chelsea,497678,2024,27,2025-02-25,FINISHED,Chelsea FC,Southampton FC,4,0,3,0,HOME_TEAM,,Thomas Bramall,Chelsea
+2025-02-26_Nottingham,497671,2024,27,2025-02-26,FINISHED,Nottingham Forest FC,Arsenal FC,0,0,0,0,DRAW,,Andy Madley,Nottingham
+2025-02-26_Brentford,497673,2024,27,2025-02-26,FINISHED,Brentford FC,Everton FC,1,1,1,0,DRAW,,Simon Hooper,Brentford
+2025-02-26_Tottenham,497675,2024,27,2025-02-26,FINISHED,Tottenham Hotspur FC,Manchester City FC,0,1,0,1,AWAY_TEAM,,Jarred Gillett,Tottenham
+2025-02-26_Manchester,497677,2024,27,2025-02-26,FINISHED,Manchester United FC,Ipswich Town FC,3,2,2,2,HOME_TEAM,,Darren England,Manchester
+2025-02-26_Liverpool,497679,2024,27,2025-02-26,FINISHED,Liverpool FC,Newcastle United FC,2,0,1,0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2025-02-27_West,497676,2024,27,2025-02-27,FINISHED,West Ham United FC,Leicester City FC,2,0,2,0,HOME_TEAM,,Stuart Attwell,West
+2025-03-08_Nottingham,497687,2024,28,2025-03-08,FINISHED,Nottingham Forest FC,Manchester City FC,1,0,0,0,HOME_TEAM,,Chris Kavanagh,Nottingham
+2025-03-08_Brighton,497684,2024,28,2025-03-08,FINISHED,Brighton & Hove Albion FC,Fulham FC,2,1,1,1,HOME_TEAM,,Sam Barrott,Brighton
+2025-03-08_Crystal,497685,2024,28,2025-03-08,FINISHED,Crystal Palace FC,Ipswich Town FC,1,0,0,0,HOME_TEAM,,Simon Hooper,Crystal
+2025-03-08_Liverpool,497688,2024,28,2025-03-08,FINISHED,Liverpool FC,Southampton FC,3,1,0,1,HOME_TEAM,,Lewis Smith,Liverpool
+2025-03-08_Brentford,497682,2024,28,2025-03-08,FINISHED,Brentford FC,Aston Villa FC,0,1,0,0,AWAY_TEAM,,Jarred Gillett,Brentford
+2025-03-08_Wolverhampton,497683,2024,28,2025-03-08,FINISHED,Wolverhampton Wanderers FC,Everton FC,1,1,1,1,DRAW,,Stuart Attwell,Wolverhampton
+2025-03-09_Tottenham,497680,2024,28,2025-03-09,FINISHED,Tottenham Hotspur FC,Bournemouth,2,2,0,1,DRAW,,John Brooks,Tottenham
+2025-03-09_Chelsea,497689,2024,28,2025-03-09,FINISHED,Chelsea FC,Leicester City FC,1,0,0,0,HOME_TEAM,,Tim Robinson,Chelsea
+2025-03-09_Manchester,497681,2024,28,2025-03-09,FINISHED,Manchester United FC,Arsenal FC,1,1,1,0,DRAW,,Anthony Taylor,Manchester
+2025-03-10_West,497686,2024,28,2025-03-10,FINISHED,West Ham United FC,Newcastle United FC,0,1,0,0,AWAY_TEAM,,Michael Salisbury,West
+2025-03-15_Everton,497693,2024,29,2025-03-15,FINISHED,Everton FC,West Ham United FC,1,1,0,0,DRAW,,Darren Bond,Everton
+2025-03-15_Ipswich,497695,2024,29,2025-03-15,FINISHED,Ipswich Town FC,Nottingham Forest FC,2,4,0,3,AWAY_TEAM,,Michael Salisbury,Ipswich
+2025-03-15_Manchester,497697,2024,29,2025-03-15,FINISHED,Manchester City FC,Brighton & Hove Albion FC,2,2,2,1,DRAW,,Simon Hooper,Manchester
+2025-03-15_Southampton,497699,2024,29,2025-03-15,FINISHED,Southampton FC,Wolverhampton Wanderers FC,1,2,0,1,AWAY_TEAM,,Robert Jones,Southampton
+2025-03-15_Bournemouth,497690,2024,29,2025-03-15,FINISHED,Bournemouth,Brentford FC,1,2,1,1,AWAY_TEAM,,Craig Pawson,Bournemouth
+2025-03-16_Arsenal,497691,2024,29,2025-03-16,FINISHED,Arsenal FC,Chelsea FC,1,0,1,0,HOME_TEAM,,Chris Kavanagh,Arsenal
+2025-03-16_Fulham,497694,2024,29,2025-03-16,FINISHED,Fulham FC,Tottenham Hotspur FC,2,0,0,0,HOME_TEAM,,Andy Madley,Fulham
+2025-03-16_Leicester,497696,2024,29,2025-03-16,FINISHED,Leicester City FC,Manchester United FC,0,3,0,1,AWAY_TEAM,,Thomas Bramall,Leicester
+2025-04-01_Arsenal,497701,2024,30,2025-04-01,FINISHED,Arsenal FC,Fulham FC,2,1,1,0,HOME_TEAM,,John Brooks,Arsenal
+2025-04-01_Wolverhampton,497704,2024,30,2025-04-01,FINISHED,Wolverhampton Wanderers FC,West Ham United FC,1,0,1,0,HOME_TEAM,,Tony Harrington,Wolverhampton
+2025-04-01_Nottingham,497703,2024,30,2025-04-01,FINISHED,Nottingham Forest FC,Manchester United FC,1,0,1,0,HOME_TEAM,,Jarred Gillett,Nottingham
+2025-04-02_Bournemouth,497700,2024,30,2025-04-02,FINISHED,Bournemouth,Ipswich Town FC,1,2,0,1,AWAY_TEAM,,Robert Jones,Bournemouth
+2025-04-02_Brighton,497702,2024,30,2025-04-02,FINISHED,Brighton & Hove Albion FC,Aston Villa FC,0,3,0,0,AWAY_TEAM,,Stuart Attwell,Brighton
+2025-04-02_Manchester,497706,2024,30,2025-04-02,FINISHED,Manchester City FC,Leicester City FC,2,0,2,0,HOME_TEAM,,Darren England,Manchester
+2025-04-02_Newcastle,497707,2024,30,2025-04-02,FINISHED,Newcastle United FC,Brentford FC,2,1,1,0,HOME_TEAM,,Peter Bankes,Newcastle
+2025-04-02_Southampton,497708,2024,30,2025-04-02,FINISHED,Southampton FC,Crystal Palace FC,1,1,1,0,DRAW,,Andy Madley,Southampton
+2025-04-02_Liverpool,497709,2024,30,2025-04-02,FINISHED,Liverpool FC,Everton FC,1,0,0,0,HOME_TEAM,,Sam Barrott,Liverpool
+2025-04-03_Chelsea,497705,2024,30,2025-04-03,FINISHED,Chelsea FC,Tottenham Hotspur FC,1,0,0,0,HOME_TEAM,,Craig Pawson,Chelsea
+2025-04-05_Everton,497713,2024,31,2025-04-05,FINISHED,Everton FC,Arsenal FC,1,1,0,1,DRAW,,Darren England,Everton
+2025-04-05_Crystal,497712,2024,31,2025-04-05,FINISHED,Crystal Palace FC,Brighton & Hove Albion FC,2,1,1,1,HOME_TEAM,,Anthony Taylor,Crystal
+2025-04-05_Ipswich,497715,2024,31,2025-04-05,FINISHED,Ipswich Town FC,Wolverhampton Wanderers FC,1,2,1,0,AWAY_TEAM,,Peter Bankes,Ipswich
+2025-04-05_West,497719,2024,31,2025-04-05,FINISHED,West Ham United FC,Bournemouth,2,2,0,1,DRAW,,Tim Robinson,West
+2025-04-05_Aston,497710,2024,31,2025-04-05,FINISHED,Aston Villa FC,Nottingham Forest FC,2,1,2,0,HOME_TEAM,,Simon Hooper,Aston
+2025-04-06_Brentford,497711,2024,31,2025-04-06,FINISHED,Brentford FC,Chelsea FC,0,0,0,0,DRAW,,Michael Oliver,Brentford
+2025-04-06_Fulham,497714,2024,31,2025-04-06,FINISHED,Fulham FC,Liverpool FC,3,2,3,1,HOME_TEAM,,Chris Kavanagh,Fulham
+2025-04-06_Tottenham,497718,2024,31,2025-04-06,FINISHED,Tottenham Hotspur FC,Southampton FC,3,1,2,0,HOME_TEAM,,Michael Salisbury,Tottenham
+2025-04-06_Manchester,497717,2024,31,2025-04-06,FINISHED,Manchester United FC,Manchester City FC,0,0,0,0,DRAW,,John Brooks,Manchester
+2025-04-07_Leicester,497716,2024,31,2025-04-07,FINISHED,Leicester City FC,Newcastle United FC,0,3,0,3,AWAY_TEAM,,Robert Jones,Leicester
+2025-04-12_Manchester,497725,2024,32,2025-04-12,FINISHED,Manchester City FC,Crystal Palace FC,5,2,2,2,HOME_TEAM,,Jarred Gillett,Manchester
+2025-04-12_Brighton,497722,2024,32,2025-04-12,FINISHED,Brighton & Hove Albion FC,Leicester City FC,2,2,1,1,DRAW,,Darren Bond,Brighton
+2025-04-12_Nottingham,497727,2024,32,2025-04-12,FINISHED,Nottingham Forest FC,Everton FC,0,1,0,0,AWAY_TEAM,,Craig Pawson,Nottingham
+2025-04-12_Southampton,497728,2024,32,2025-04-12,FINISHED,Southampton FC,Aston Villa FC,0,3,0,0,AWAY_TEAM,,Thomas Bramall,Southampton
+2025-04-12_Arsenal,497721,2024,32,2025-04-12,FINISHED,Arsenal FC,Brentford FC,1,1,0,0,DRAW,,Simon Hooper,Arsenal
+2025-04-13_Chelsea,497723,2024,32,2025-04-13,FINISHED,Chelsea FC,Ipswich Town FC,2,2,0,2,DRAW,,Stuart Attwell,Chelsea
+2025-04-13_Liverpool,497724,2024,32,2025-04-13,FINISHED,Liverpool FC,West Ham United FC,2,1,1,0,HOME_TEAM,,Andy Madley,Liverpool
+2025-04-13_Wolverhampton,497729,2024,32,2025-04-13,FINISHED,Wolverhampton Wanderers FC,Tottenham Hotspur FC,4,2,2,0,HOME_TEAM,,Anthony Taylor,Wolverhampton
+2025-04-13_Newcastle,497726,2024,32,2025-04-13,FINISHED,Newcastle United FC,Manchester United FC,4,1,1,1,HOME_TEAM,,Chris Kavanagh,Newcastle
+2025-04-14_Bournemouth,497720,2024,32,2025-04-14,FINISHED,Bournemouth,Fulham FC,1,0,1,0,HOME_TEAM,,Michael Oliver,Bournemouth
+2025-04-16_Newcastle,497698,2024,29,2025-04-16,FINISHED,Newcastle United FC,Crystal Palace FC,5,0,4,0,HOME_TEAM,,Darren England,Newcastle
+2025-04-19_Brentford,497731,2024,33,2025-04-19,FINISHED,Brentford FC,Brighton & Hove Albion FC,4,2,1,1,HOME_TEAM,,Tim Robinson,Brentford
+2025-04-19_Crystal,497732,2024,33,2025-04-19,FINISHED,Crystal Palace FC,Bournemouth,0,0,0,0,DRAW,,Sam Barrott,Crystal
+2025-04-19_Everton,497733,2024,33,2025-04-19,FINISHED,Everton FC,Manchester City FC,0,2,0,0,AWAY_TEAM,,Simon Hooper,Everton
+2025-04-19_West,497739,2024,33,2025-04-19,FINISHED,West Ham United FC,Southampton FC,1,1,0,0,DRAW,,Andrew Kitchen,West
+2025-04-19_Aston,497730,2024,33,2025-04-19,FINISHED,Aston Villa FC,Newcastle United FC,4,1,1,1,HOME_TEAM,,Jarred Gillett,Aston
+2025-04-20_Fulham,497734,2024,33,2025-04-20,FINISHED,Fulham FC,Chelsea FC,1,2,1,0,AWAY_TEAM,,Anthony Taylor,Fulham
+2025-04-20_Ipswich,497735,2024,33,2025-04-20,FINISHED,Ipswich Town FC,Arsenal FC,0,4,0,2,AWAY_TEAM,,Chris Kavanagh,Ipswich
+2025-04-20_Manchester,497737,2024,33,2025-04-20,FINISHED,Manchester United FC,Wolverhampton Wanderers FC,0,1,0,0,AWAY_TEAM,,Robert Jones,Manchester
+2025-04-20_Leicester,497736,2024,33,2025-04-20,FINISHED,Leicester City FC,Liverpool FC,0,1,0,0,AWAY_TEAM,,Stuart Attwell,Leicester
+2025-04-21_Tottenham,497738,2024,33,2025-04-21,FINISHED,Tottenham Hotspur FC,Nottingham Forest FC,1,2,0,2,AWAY_TEAM,,Peter Bankes,Tottenham
+2025-04-22_Manchester,497745,2024,34,2025-04-22,FINISHED,Manchester City FC,Aston Villa FC,2,1,1,1,HOME_TEAM,,Craig Pawson,Manchester
+2025-04-23_Arsenal,497741,2024,34,2025-04-23,FINISHED,Arsenal FC,Crystal Palace FC,2,2,2,1,DRAW,,Michael Salisbury,Arsenal
+2025-04-26_Chelsea,497743,2024,34,2025-04-26,FINISHED,Chelsea FC,Everton FC,1,0,1,0,HOME_TEAM,,Chris Kavanagh,Chelsea
+2025-04-26_Brighton,497742,2024,34,2025-04-26,FINISHED,Brighton & Hove Albion FC,West Ham United FC,3,2,1,0,HOME_TEAM,,Darren England,Brighton
+2025-04-26_Newcastle,497746,2024,34,2025-04-26,FINISHED,Newcastle United FC,Ipswich Town FC,3,0,1,0,HOME_TEAM,,Michael Salisbury,Newcastle
+2025-04-26_Southampton,497748,2024,34,2025-04-26,FINISHED,Southampton FC,Fulham FC,1,2,1,0,AWAY_TEAM,,Tony Harrington,Southampton
+2025-04-26_Wolverhampton,497749,2024,34,2025-04-26,FINISHED,Wolverhampton Wanderers FC,Leicester City FC,3,0,1,0,HOME_TEAM,,Sam Barrott,Wolverhampton
+2025-04-27_Bournemouth,497740,2024,34,2025-04-27,FINISHED,Bournemouth,Manchester United FC,1,1,1,0,DRAW,,Peter Bankes,Bournemouth
+2025-04-27_Liverpool,497744,2024,34,2025-04-27,FINISHED,Liverpool FC,Tottenham Hotspur FC,5,1,3,1,HOME_TEAM,,Thomas Bramall,Liverpool
+2025-05-01_Nottingham,497747,2024,34,2025-05-01,FINISHED,Nottingham Forest FC,Brentford FC,0,2,0,1,AWAY_TEAM,,Darren England,Nottingham
+2025-05-02_Manchester,497758,2024,35,2025-05-02,FINISHED,Manchester City FC,Wolverhampton Wanderers FC,1,0,1,0,HOME_TEAM,,Peter Bankes,Manchester
+2025-05-03_Aston,497751,2024,35,2025-05-03,FINISHED,Aston Villa FC,Fulham FC,1,0,1,0,HOME_TEAM,,Robert Jones,Aston
+2025-05-03_Everton,497756,2024,35,2025-05-03,FINISHED,Everton FC,Ipswich Town FC,2,2,2,1,DRAW,,Lewis Smith,Everton
+2025-05-03_Leicester,497757,2024,35,2025-05-03,FINISHED,Leicester City FC,Southampton FC,2,0,2,0,HOME_TEAM,,David Webb,Leicester
+2025-05-03_Arsenal,497750,2024,35,2025-05-03,FINISHED,Arsenal FC,Bournemouth,1,2,1,0,AWAY_TEAM,,Jarred Gillett,Arsenal
+2025-05-04_Brentford,497752,2024,35,2025-05-04,FINISHED,Brentford FC,Manchester United FC,4,3,2,1,HOME_TEAM,,Anthony Taylor,Brentford
+2025-05-04_Brighton,497753,2024,35,2025-05-04,FINISHED,Brighton & Hove Albion FC,Newcastle United FC,1,1,1,0,DRAW,,Craig Pawson,Brighton
+2025-05-04_West,497759,2024,35,2025-05-04,FINISHED,West Ham United FC,Tottenham Hotspur FC,1,1,1,1,DRAW,,Michael Oliver,West
+2025-05-04_Chelsea,497754,2024,35,2025-05-04,FINISHED,Chelsea FC,Liverpool FC,3,1,1,0,HOME_TEAM,,Simon Hooper,Chelsea
+2025-05-05_Crystal,497755,2024,35,2025-05-05,FINISHED,Crystal Palace FC,Nottingham Forest FC,1,1,0,0,DRAW,,Andy Madley,Crystal
+2025-05-10_Fulham,497761,2024,36,2025-05-10,FINISHED,Fulham FC,Everton FC,1,3,1,1,AWAY_TEAM,,Michael Salisbury,Fulham
+2025-05-10_Ipswich,497762,2024,36,2025-05-10,FINISHED,Ipswich Town FC,Brentford FC,0,1,0,1,AWAY_TEAM,,Sam Barrott,Ipswich
+2025-05-10_Southampton,497767,2024,36,2025-05-10,FINISHED,Southampton FC,Manchester City FC,0,0,0,0,DRAW,,Tim Robinson,Southampton
+2025-05-10_Wolverhampton,497769,2024,36,2025-05-10,FINISHED,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,0,2,0,1,AWAY_TEAM,,Michael Oliver,Wolverhampton
+2025-05-10_Bournemouth,497760,2024,36,2025-05-10,FINISHED,Bournemouth,Aston Villa FC,0,1,0,1,AWAY_TEAM,,Stuart Attwell,Bournemouth
+2025-05-11_Newcastle,497765,2024,36,2025-05-11,FINISHED,Newcastle United FC,Chelsea FC,2,0,1,0,HOME_TEAM,,John Brooks,Newcastle
+2025-05-11_Manchester,497764,2024,36,2025-05-11,FINISHED,Manchester United FC,West Ham United FC,0,2,0,1,AWAY_TEAM,,Jarred Gillett,Manchester
+2025-05-11_Nottingham,497766,2024,36,2025-05-11,FINISHED,Nottingham Forest FC,Leicester City FC,2,2,1,1,DRAW,,Tony Harrington,Nottingham
+2025-05-11_Tottenham,497768,2024,36,2025-05-11,FINISHED,Tottenham Hotspur FC,Crystal Palace FC,0,2,0,1,AWAY_TEAM,,Chris Kavanagh,Tottenham
+2025-05-11_Liverpool,497763,2024,36,2025-05-11,FINISHED,Liverpool FC,Arsenal FC,2,2,2,0,DRAW,,Anthony Taylor,Liverpool
+2025-05-16_Aston,497771,2024,37,2025-05-16,FINISHED,Aston Villa FC,Tottenham Hotspur FC,2,0,0,0,HOME_TEAM,,Peter Bankes,Aston
+2025-05-16_Chelsea,497774,2024,37,2025-05-16,FINISHED,Chelsea FC,Manchester United FC,1,0,0,0,HOME_TEAM,,Chris Kavanagh,Chelsea
+2025-05-18_Everton,497776,2024,37,2025-05-18,FINISHED,Everton FC,Southampton FC,2,0,2,0,HOME_TEAM,,Michael Oliver,Everton
+2025-05-18_West,497779,2024,37,2025-05-18,FINISHED,West Ham United FC,Nottingham Forest FC,1,2,0,1,AWAY_TEAM,,Sam Barrott,West
+2025-05-18_Brentford,497772,2024,37,2025-05-18,FINISHED,Brentford FC,Fulham FC,2,3,2,1,AWAY_TEAM,,Jarred Gillett,Brentford
+2025-05-18_Leicester,497777,2024,37,2025-05-18,FINISHED,Leicester City FC,Ipswich Town FC,2,0,1,0,HOME_TEAM,,Andrew Kitchen,Leicester
+2025-05-18_Arsenal,497770,2024,37,2025-05-18,FINISHED,Arsenal FC,Newcastle United FC,1,0,0,0,HOME_TEAM,,Simon Hooper,Arsenal
+2025-05-19_Brighton,497773,2024,37,2025-05-19,FINISHED,Brighton & Hove Albion FC,Liverpool FC,3,2,1,2,HOME_TEAM,,John Brooks,Brighton
+2025-05-20_Crystal,497775,2024,37,2025-05-20,FINISHED,Crystal Palace FC,Wolverhampton Wanderers FC,4,2,2,1,HOME_TEAM,,David Webb,Crystal
+2025-05-20_Manchester,497778,2024,37,2025-05-20,FINISHED,Manchester City FC,Bournemouth,3,1,2,0,HOME_TEAM,,Thomas Bramall,Manchester
+2025-05-25_Bournemouth,497780,2024,38,2025-05-25,FINISHED,Bournemouth,Leicester City FC,2,0,0,0,HOME_TEAM,,Lewis Smith,Bournemouth
+2025-05-25_Fulham,497781,2024,38,2025-05-25,FINISHED,Fulham FC,Manchester City FC,0,2,0,1,AWAY_TEAM,,Andy Madley,Fulham
+2025-05-25_Ipswich,497782,2024,38,2025-05-25,FINISHED,Ipswich Town FC,West Ham United FC,1,3,0,1,AWAY_TEAM,,Tim Robinson,Ipswich
+2025-05-25_Liverpool,497783,2024,38,2025-05-25,FINISHED,Liverpool FC,Crystal Palace FC,1,1,0,1,DRAW,,Darren England,Liverpool
+2025-05-25_Manchester,497784,2024,38,2025-05-25,FINISHED,Manchester United FC,Aston Villa FC,2,0,0,0,HOME_TEAM,,Thomas Bramall,Manchester
+2025-05-25_Newcastle,497785,2024,38,2025-05-25,FINISHED,Newcastle United FC,Everton FC,0,1,0,0,AWAY_TEAM,,Tony Harrington,Newcastle
+2025-05-25_Nottingham,497786,2024,38,2025-05-25,FINISHED,Nottingham Forest FC,Chelsea FC,0,1,0,0,AWAY_TEAM,,Anthony Taylor,Nottingham
+2025-05-25_Southampton,497787,2024,38,2025-05-25,FINISHED,Southampton FC,Arsenal FC,1,2,0,1,AWAY_TEAM,,Darren Bond,Southampton
+2025-05-25_Tottenham,497788,2024,38,2025-05-25,FINISHED,Tottenham Hotspur FC,Brighton & Hove Albion FC,1,4,1,0,AWAY_TEAM,,Robert Jones,Tottenham
+2025-05-25_Wolverhampton,497789,2024,38,2025-05-25,FINISHED,Wolverhampton Wanderers FC,Brentford FC,1,1,0,1,DRAW,,Craig Pawson,Wolverhampton

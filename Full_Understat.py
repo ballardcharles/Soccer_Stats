@@ -41,7 +41,7 @@ SEASONS = [2023, 2024, 2025]  # Football-Data uses year format
 UNDERSTAT_SEASONS = ['2023', '2024', '2025']  # Understat uses string format
 
 # Output directories
-OUTPUT_DIR = "premier_league_combined_data"
+OUTPUT_DIR = "premier_league_combined_data_test"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "football_data"), exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "understat"), exist_ok=True)
@@ -226,7 +226,7 @@ def get_football_data_teams(season):
         
         for team in teams_data['teams']:
             teams_list.append({
-                 'id': team.get('id'),
+                'id': team.get('id'),
                 'name': team.get('name'),
                 'shortName': team.get('shortName'),
                 'tla': team.get('tla'),

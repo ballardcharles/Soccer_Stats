@@ -1,0 +1,381 @@
+join_key,id,Season,Match Week,Date,Status,Home Team,Away Team,Home Score,Away Score,Home HT Score,Away HT Score,Winner,Venue,Referee,home_team_shortened
+2025-08-15_Liverpool,537785,2025,1,2025-08-15,FINISHED,Liverpool FC,Bournemouth,4.0,2.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Liverpool
+2025-08-16_Aston,537786,2025,1,2025-08-16,FINISHED,Aston Villa FC,Newcastle United FC,0.0,0.0,0.0,0.0,DRAW,,Craig Pawson,Aston
+2025-08-16_Brighton,537787,2025,1,2025-08-16,FINISHED,Brighton & Hove Albion FC,Fulham FC,1.0,1.0,0.0,0.0,DRAW,,Sam Barrott,Brighton
+2025-08-16_Sunderland,537789,2025,1,2025-08-16,FINISHED,Sunderland AFC,West Ham United FC,3.0,0.0,0.0,0.0,HOME_TEAM,,Robert Jones,Sunderland
+2025-08-16_Tottenham,537790,2025,1,2025-08-16,FINISHED,Tottenham Hotspur FC,Burnley FC,3.0,0.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Tottenham
+2025-08-16_Wolverhampton,537791,2025,1,2025-08-16,FINISHED,Wolverhampton Wanderers FC,Manchester City FC,0.0,4.0,0.0,2.0,AWAY_TEAM,,Jarred Gillett,Wolverhampton
+2025-08-17_Nottingham,537788,2025,1,2025-08-17,FINISHED,Nottingham Forest FC,Brentford FC,3.0,1.0,3.0,0.0,HOME_TEAM,,Peter Bankes,Nottingham
+2025-08-17_Chelsea,537792,2025,1,2025-08-17,FINISHED,Chelsea FC,Crystal Palace FC,0.0,0.0,0.0,0.0,DRAW,,Darren England,Chelsea
+2025-08-17_Manchester,537793,2025,1,2025-08-17,FINISHED,Manchester United FC,Arsenal FC,0.0,1.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Manchester
+2025-08-18_Leeds,537794,2025,1,2025-08-18,FINISHED,Leeds United FC,Everton FC,1.0,0.0,0.0,0.0,HOME_TEAM,,Chris Kavanagh,Leeds
+2025-08-22_West,537804,2025,2,2025-08-22,FINISHED,West Ham United FC,Chelsea FC,1.0,5.0,1.0,3.0,AWAY_TEAM,,Michael Oliver,West
+2025-08-23_Manchester,537802,2025,2,2025-08-23,FINISHED,Manchester City FC,Tottenham Hotspur FC,0.0,2.0,0.0,2.0,AWAY_TEAM,,Peter Bankes,Manchester
+2025-08-23_Bournemouth,537795,2025,2,2025-08-23,FINISHED,Bournemouth,Wolverhampton Wanderers FC,1.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Bournemouth
+2025-08-23_Brentford,537798,2025,2,2025-08-23,FINISHED,Brentford FC,Aston Villa FC,1.0,0.0,1.0,0.0,HOME_TEAM,,Tony Harrington,Brentford
+2025-08-23_Burnley,537799,2025,2,2025-08-23,FINISHED,Burnley FC,Sunderland AFC,2.0,0.0,0.0,0.0,HOME_TEAM,,Michael Salisbury,Burnley
+2025-08-23_Arsenal,537797,2025,2,2025-08-23,FINISHED,Arsenal FC,Leeds United FC,5.0,0.0,2.0,0.0,HOME_TEAM,,Jarred Gillett,Arsenal
+2025-08-24_Crystal,537796,2025,2,2025-08-24,FINISHED,Crystal Palace FC,Nottingham Forest FC,1.0,1.0,1.0,0.0,DRAW,,Anthony Taylor,Crystal
+2025-08-24_Everton,537800,2025,2,2025-08-24,FINISHED,Everton FC,Brighton & Hove Albion FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Everton
+2025-08-24_Fulham,537801,2025,2,2025-08-24,FINISHED,Fulham FC,Manchester United FC,1.0,1.0,0.0,0.0,DRAW,,Chris Kavanagh,Fulham
+2025-08-25_Newcastle,537803,2025,2,2025-08-25,FINISHED,Newcastle United FC,Liverpool FC,2.0,3.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Newcastle
+2025-08-30_Chelsea,537808,2025,3,2025-08-30,FINISHED,Chelsea FC,Fulham FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Chelsea
+2025-08-30_Sunderland,537805,2025,3,2025-08-30,FINISHED,Sunderland AFC,Brentford FC,2.0,1.0,0.0,0.0,HOME_TEAM,,Anthony Taylor,Sunderland
+2025-08-30_Manchester,537811,2025,3,2025-08-30,FINISHED,Manchester United FC,Burnley FC,3.0,2.0,1.0,0.0,HOME_TEAM,,Sam Barrott,Manchester
+2025-08-30_Tottenham,537813,2025,3,2025-08-30,FINISHED,Tottenham Hotspur FC,Bournemouth,0.0,1.0,0.0,1.0,AWAY_TEAM,,Simon Hooper,Tottenham
+2025-08-30_Wolverhampton,537814,2025,3,2025-08-30,FINISHED,Wolverhampton Wanderers FC,Everton FC,2.0,3.0,1.0,2.0,AWAY_TEAM,,Michael Oliver,Wolverhampton
+2025-08-30_Leeds,537810,2025,3,2025-08-30,FINISHED,Leeds United FC,Newcastle United FC,0.0,0.0,0.0,0.0,DRAW,,Peter Bankes,Leeds
+2025-08-31_Brighton,537807,2025,3,2025-08-31,FINISHED,Brighton & Hove Albion FC,Manchester City FC,2.0,1.0,0.0,1.0,HOME_TEAM,,Darren England,Brighton
+2025-08-31_Nottingham,537812,2025,3,2025-08-31,FINISHED,Nottingham Forest FC,West Ham United FC,0.0,3.0,0.0,0.0,AWAY_TEAM,,Craig Pawson,Nottingham
+2025-08-31_Liverpool,537809,2025,3,2025-08-31,FINISHED,Liverpool FC,Arsenal FC,1.0,0.0,0.0,0.0,HOME_TEAM,,Chris Kavanagh,Liverpool
+2025-08-31_Aston,537806,2025,3,2025-08-31,FINISHED,Aston Villa FC,Crystal Palace FC,0.0,3.0,0.0,1.0,AWAY_TEAM,,Stuart Attwell,Aston
+2025-09-13_Arsenal,537817,2025,4,2025-09-13,FINISHED,Arsenal FC,Nottingham Forest FC,3.0,0.0,1.0,0.0,HOME_TEAM,,Darren England,Arsenal
+2025-09-13_Bournemouth,537815,2025,4,2025-09-13,FINISHED,Bournemouth,Brighton & Hove Albion FC,2.0,1.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Bournemouth
+2025-09-13_Crystal,537816,2025,4,2025-09-13,FINISHED,Crystal Palace FC,Sunderland AFC,0.0,0.0,0.0,0.0,DRAW,,Thomas Bramall,Crystal
+2025-09-13_Everton,537820,2025,4,2025-09-13,FINISHED,Everton FC,Aston Villa FC,0.0,0.0,0.0,0.0,DRAW,,Simon Hooper,Everton
+2025-09-13_Fulham,537821,2025,4,2025-09-13,FINISHED,Fulham FC,Leeds United FC,1.0,0.0,0.0,0.0,HOME_TEAM,,Craig Pawson,Fulham
+2025-09-13_Newcastle,537823,2025,4,2025-09-13,FINISHED,Newcastle United FC,Wolverhampton Wanderers FC,1.0,0.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Newcastle
+2025-09-13_West,537824,2025,4,2025-09-13,FINISHED,West Ham United FC,Tottenham Hotspur FC,0.0,3.0,0.0,0.0,AWAY_TEAM,,Jarred Gillett,West
+2025-09-13_Brentford,537818,2025,4,2025-09-13,FINISHED,Brentford FC,Chelsea FC,2.0,2.0,1.0,0.0,DRAW,,Stuart Attwell,Brentford
+2025-09-14_Burnley,537819,2025,4,2025-09-14,FINISHED,Burnley FC,Liverpool FC,0.0,1.0,0.0,0.0,AWAY_TEAM,,Michael Oliver,Burnley
+2025-09-14_Manchester,537822,2025,4,2025-09-14,FINISHED,Manchester City FC,Manchester United FC,3.0,0.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Manchester
+2025-09-20_Liverpool,537831,2025,5,2025-09-20,FINISHED,Liverpool FC,Everton FC,2.0,1.0,2.0,0.0,HOME_TEAM,,Darren England,Liverpool
+2025-09-20_Brighton,537827,2025,5,2025-09-20,FINISHED,Brighton & Hove Albion FC,Tottenham Hotspur FC,2.0,2.0,2.0,1.0,DRAW,,Chris Kavanagh,Brighton
+2025-09-20_Burnley,537829,2025,5,2025-09-20,FINISHED,Burnley FC,Nottingham Forest FC,1.0,1.0,1.0,1.0,DRAW,,Thomas Bramall,Burnley
+2025-09-20_West,537833,2025,5,2025-09-20,FINISHED,West Ham United FC,Crystal Palace FC,1.0,2.0,0.0,1.0,AWAY_TEAM,,Tony Harrington,West
+2025-09-20_Wolverhampton,537834,2025,5,2025-09-20,FINISHED,Wolverhampton Wanderers FC,Leeds United FC,1.0,3.0,1.0,3.0,AWAY_TEAM,,Anthony Taylor,Wolverhampton
+2025-09-20_Manchester,537832,2025,5,2025-09-20,FINISHED,Manchester United FC,Chelsea FC,2.0,1.0,2.0,0.0,HOME_TEAM,,Peter Bankes,Manchester
+2025-09-20_Fulham,537830,2025,5,2025-09-20,FINISHED,Fulham FC,Brentford FC,3.0,1.0,2.0,1.0,HOME_TEAM,,Michael Oliver,Fulham
+2025-09-21_Bournemouth,537825,2025,5,2025-09-21,FINISHED,Bournemouth,Newcastle United FC,0.0,0.0,0.0,0.0,DRAW,,Robert Jones,Bournemouth
+2025-09-21_Sunderland,537826,2025,5,2025-09-21,FINISHED,Sunderland AFC,Aston Villa FC,1.0,1.0,0.0,0.0,DRAW,,Sam Barrott,Sunderland
+2025-09-21_Arsenal,537828,2025,5,2025-09-21,FINISHED,Arsenal FC,Manchester City FC,1.0,1.0,0.0,1.0,DRAW,,Stuart Attwell,Arsenal
+2025-09-27_Brentford,537837,2025,6,2025-09-27,FINISHED,Brentford FC,Manchester United FC,3.0,1.0,2.0,1.0,HOME_TEAM,,Craig Pawson,Brentford
+2025-09-27_Crystal,537836,2025,6,2025-09-27,FINISHED,Crystal Palace FC,Liverpool FC,2.0,1.0,1.0,0.0,HOME_TEAM,,Chris Kavanagh,Crystal
+2025-09-27_Chelsea,537838,2025,6,2025-09-27,FINISHED,Chelsea FC,Brighton & Hove Albion FC,1.0,3.0,1.0,0.0,AWAY_TEAM,,Simon Hooper,Chelsea
+2025-09-27_Leeds,537840,2025,6,2025-09-27,FINISHED,Leeds United FC,Bournemouth,2.0,2.0,1.0,1.0,DRAW,,Michael Oliver,Leeds
+2025-09-27_Manchester,537841,2025,6,2025-09-27,FINISHED,Manchester City FC,Burnley FC,5.0,1.0,1.0,1.0,HOME_TEAM,,Robert Jones,Manchester
+2025-09-27_Nottingham,537843,2025,6,2025-09-27,FINISHED,Nottingham Forest FC,Sunderland AFC,0.0,1.0,0.0,1.0,AWAY_TEAM,,Tony Harrington,Nottingham
+2025-09-27_Tottenham,537844,2025,6,2025-09-27,FINISHED,Tottenham Hotspur FC,Wolverhampton Wanderers FC,1.0,1.0,0.0,0.0,DRAW,,Michael Salisbury,Tottenham
+2025-09-28_Aston,537835,2025,6,2025-09-28,FINISHED,Aston Villa FC,Fulham FC,3.0,1.0,1.0,1.0,HOME_TEAM,,Andy Madley,Aston
+2025-09-28_Newcastle,537842,2025,6,2025-09-28,FINISHED,Newcastle United FC,Arsenal FC,1.0,2.0,1.0,0.0,AWAY_TEAM,,Jarred Gillett,Newcastle
+2025-09-29_Everton,537839,2025,6,2025-09-29,FINISHED,Everton FC,West Ham United FC,1.0,1.0,1.0,0.0,DRAW,,Sam Barrott,Everton
+2025-10-03_Bournemouth,537845,2025,7,2025-10-03,FINISHED,Bournemouth,Fulham FC,3.0,1.0,0.0,0.0,HOME_TEAM,,Simon Hooper,Bournemouth
+2025-10-04_Leeds,537851,2025,7,2025-10-04,FINISHED,Leeds United FC,Tottenham Hotspur FC,1.0,2.0,1.0,1.0,AWAY_TEAM,,Thomas Bramall,Leeds
+2025-10-04_Arsenal,537847,2025,7,2025-10-04,FINISHED,Arsenal FC,West Ham United FC,2.0,0.0,1.0,0.0,HOME_TEAM,,John Brooks,Arsenal
+2025-10-04_Manchester,537852,2025,7,2025-10-04,FINISHED,Manchester United FC,Sunderland AFC,2.0,0.0,2.0,0.0,HOME_TEAM,,Stuart Attwell,Manchester
+2025-10-04_Chelsea,537849,2025,7,2025-10-04,FINISHED,Chelsea FC,Liverpool FC,2.0,1.0,1.0,0.0,HOME_TEAM,,Anthony Taylor,Chelsea
+2025-10-05_Aston,537846,2025,7,2025-10-05,FINISHED,Aston Villa FC,Burnley FC,2.0,1.0,1.0,0.0,HOME_TEAM,,Andrew Kitchen,Aston
+2025-10-05_Everton,537850,2025,7,2025-10-05,FINISHED,Everton FC,Crystal Palace FC,2.0,1.0,0.0,1.0,HOME_TEAM,,Michael Salisbury,Everton
+2025-10-05_Newcastle,537853,2025,7,2025-10-05,FINISHED,Newcastle United FC,Nottingham Forest FC,2.0,0.0,0.0,0.0,HOME_TEAM,,Peter Bankes,Newcastle
+2025-10-05_Wolverhampton,537854,2025,7,2025-10-05,FINISHED,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,1.0,1.0,1.0,0.0,DRAW,,Jarred Gillett,Wolverhampton
+2025-10-05_Brentford,537848,2025,7,2025-10-05,FINISHED,Brentford FC,Manchester City FC,0.0,1.0,0.0,1.0,AWAY_TEAM,,Darren England,Brentford
+2025-10-18_Nottingham,537862,2025,8,2025-10-18,FINISHED,Nottingham Forest FC,Chelsea FC,0.0,3.0,0.0,0.0,AWAY_TEAM,,Chris Kavanagh,Nottingham
+2025-10-18_Brighton,537856,2025,8,2025-10-18,FINISHED,Brighton & Hove Albion FC,Newcastle United FC,2.0,1.0,1.0,0.0,HOME_TEAM,,Craig Pawson,Brighton
+2025-10-18_Crystal,537857,2025,8,2025-10-18,FINISHED,Crystal Palace FC,Bournemouth,3.0,3.0,0.0,2.0,DRAW,,Jarred Gillett,Crystal
+2025-10-18_Burnley,537858,2025,8,2025-10-18,FINISHED,Burnley FC,Leeds United FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Tim Robinson,Burnley
+2025-10-18_Manchester,537861,2025,8,2025-10-18,FINISHED,Manchester City FC,Everton FC,2.0,0.0,0.0,0.0,HOME_TEAM,,Tony Harrington,Manchester
+2025-10-18_Sunderland,537855,2025,8,2025-10-18,FINISHED,Sunderland AFC,Wolverhampton Wanderers FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Robert Jones,Sunderland
+2025-10-18_Fulham,537859,2025,8,2025-10-18,FINISHED,Fulham FC,Arsenal FC,0.0,1.0,0.0,0.0,AWAY_TEAM,,Anthony Taylor,Fulham
+2025-10-19_Tottenham,537863,2025,8,2025-10-19,FINISHED,Tottenham Hotspur FC,Aston Villa FC,1.0,2.0,1.0,1.0,AWAY_TEAM,,Simon Hooper,Tottenham
+2025-10-19_Liverpool,537860,2025,8,2025-10-19,FINISHED,Liverpool FC,Manchester United FC,1.0,2.0,0.0,1.0,AWAY_TEAM,,Michael Oliver,Liverpool
+2025-10-20_West,537864,2025,8,2025-10-20,FINISHED,West Ham United FC,Brentford FC,0.0,2.0,0.0,1.0,AWAY_TEAM,,Andy Madley,West
+2025-10-24_Leeds,537871,2025,9,2025-10-24,FINISHED,Leeds United FC,West Ham United FC,2.0,1.0,2.0,0.0,HOME_TEAM,,Stuart Attwell,Leeds
+2025-10-25_Chelsea,537869,2025,9,2025-10-25,FINISHED,Chelsea FC,Sunderland AFC,1.0,2.0,1.0,1.0,AWAY_TEAM,,Andy Madley,Chelsea
+2025-10-25_Newcastle,537873,2025,9,2025-10-25,FINISHED,Newcastle United FC,Fulham FC,2.0,1.0,1.0,0.0,HOME_TEAM,,Tony Harrington,Newcastle
+2025-10-25_Manchester,537872,2025,9,2025-10-25,FINISHED,Manchester United FC,Brighton & Hove Albion FC,4.0,2.0,2.0,0.0,HOME_TEAM,,Anthony Taylor,Manchester
+2025-10-25_Brentford,537868,2025,9,2025-10-25,FINISHED,Brentford FC,Liverpool FC,3.0,2.0,2.0,1.0,HOME_TEAM,,Simon Hooper,Brentford
+2025-10-26_Bournemouth,537865,2025,9,2025-10-26,FINISHED,Bournemouth,Nottingham Forest FC,2.0,0.0,2.0,0.0,HOME_TEAM,,Sam Barrott,Bournemouth
+2025-10-26_Aston,537866,2025,9,2025-10-26,FINISHED,Aston Villa FC,Manchester City FC,1.0,0.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Aston
+2025-10-26_Arsenal,537867,2025,9,2025-10-26,FINISHED,Arsenal FC,Crystal Palace FC,1.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Arsenal
+2025-10-26_Wolverhampton,537874,2025,9,2025-10-26,FINISHED,Wolverhampton Wanderers FC,Burnley FC,2.0,3.0,2.0,2.0,AWAY_TEAM,,Peter Bankes,Wolverhampton
+2025-10-26_Everton,537870,2025,9,2025-10-26,FINISHED,Everton FC,Tottenham Hotspur FC,0.0,3.0,0.0,2.0,AWAY_TEAM,,Craig Pawson,Everton
+2025-11-01_Brighton,537876,2025,10,2025-11-01,TIMED,Brighton & Hove Albion FC,Leeds United FC,,,,,,,,Brighton
+2025-11-01_Crystal,537877,2025,10,2025-11-01,TIMED,Crystal Palace FC,Brentford FC,,,,,,,,Crystal
+2025-11-01_Burnley,537878,2025,10,2025-11-01,TIMED,Burnley FC,Arsenal FC,,,,,,,,Burnley
+2025-11-01_Fulham,537879,2025,10,2025-11-01,TIMED,Fulham FC,Wolverhampton Wanderers FC,,,,,,,,Fulham
+2025-11-01_Nottingham,537882,2025,10,2025-11-01,TIMED,Nottingham Forest FC,Manchester United FC,,,,,,,,Nottingham
+2025-11-01_Tottenham,537883,2025,10,2025-11-01,TIMED,Tottenham Hotspur FC,Chelsea FC,,,,,,,,Tottenham
+2025-11-01_Liverpool,537880,2025,10,2025-11-01,TIMED,Liverpool FC,Aston Villa FC,,,,,,,,Liverpool
+2025-11-02_West,537884,2025,10,2025-11-02,TIMED,West Ham United FC,Newcastle United FC,,,,,,,,West
+2025-11-02_Manchester,537881,2025,10,2025-11-02,TIMED,Manchester City FC,Bournemouth,,,,,,,,Manchester
+2025-11-03_Sunderland,537875,2025,10,2025-11-03,TIMED,Sunderland AFC,Everton FC,,,,,,,,Sunderland
+2025-11-08_Tottenham,537893,2025,11,2025-11-08,TIMED,Tottenham Hotspur FC,Manchester United FC,,,,,,,,Tottenham
+2025-11-08_Everton,537890,2025,11,2025-11-08,TIMED,Everton FC,Fulham FC,,,,,,,,Everton
+2025-11-08_West,537894,2025,11,2025-11-08,TIMED,West Ham United FC,Burnley FC,,,,,,,,West
+2025-11-08_Sunderland,537885,2025,11,2025-11-08,TIMED,Sunderland AFC,Arsenal FC,,,,,,,,Sunderland
+2025-11-08_Chelsea,537889,2025,11,2025-11-08,TIMED,Chelsea FC,Wolverhampton Wanderers FC,,,,,,,,Chelsea
+2025-11-09_Aston,537886,2025,11,2025-11-09,TIMED,Aston Villa FC,Bournemouth,,,,,,,,Aston
+2025-11-09_Crystal,537887,2025,11,2025-11-09,TIMED,Crystal Palace FC,Brighton & Hove Albion FC,,,,,,,,Crystal
+2025-11-09_Brentford,537888,2025,11,2025-11-09,TIMED,Brentford FC,Newcastle United FC,,,,,,,,Brentford
+2025-11-09_Nottingham,537892,2025,11,2025-11-09,TIMED,Nottingham Forest FC,Leeds United FC,,,,,,,,Nottingham
+2025-11-09_Manchester,537891,2025,11,2025-11-09,TIMED,Manchester City FC,Liverpool FC,,,,,,,,Manchester
+2025-11-22_Burnley,537898,2025,12,2025-11-22,TIMED,Burnley FC,Chelsea FC,,,,,,,,Burnley
+2025-11-22_Bournemouth,537895,2025,12,2025-11-22,TIMED,Bournemouth,West Ham United FC,,,,,,,,Bournemouth
+2025-11-22_Brighton,537896,2025,12,2025-11-22,TIMED,Brighton & Hove Albion FC,Brentford FC,,,,,,,,Brighton
+2025-11-22_Fulham,537899,2025,12,2025-11-22,TIMED,Fulham FC,Sunderland AFC,,,,,,,,Fulham
+2025-11-22_Liverpool,537900,2025,12,2025-11-22,TIMED,Liverpool FC,Nottingham Forest FC,,,,,,,,Liverpool
+2025-11-22_Wolverhampton,537904,2025,12,2025-11-22,TIMED,Wolverhampton Wanderers FC,Crystal Palace FC,,,,,,,,Wolverhampton
+2025-11-22_Newcastle,537903,2025,12,2025-11-22,TIMED,Newcastle United FC,Manchester City FC,,,,,,,,Newcastle
+2025-11-23_Leeds,537901,2025,12,2025-11-23,TIMED,Leeds United FC,Aston Villa FC,,,,,,,,Leeds
+2025-11-23_Arsenal,537897,2025,12,2025-11-23,TIMED,Arsenal FC,Tottenham Hotspur FC,,,,,,,,Arsenal
+2025-11-24_Manchester,537902,2025,12,2025-11-24,TIMED,Manchester United FC,Everton FC,,,,,,,,Manchester
+2025-11-29_Sunderland,537905,2025,13,2025-11-29,TIMED,Sunderland AFC,Bournemouth,,,,,,,,Sunderland
+2025-11-29_Brentford,537908,2025,13,2025-11-29,TIMED,Brentford FC,Burnley FC,,,,,,,,Brentford
+2025-11-29_Manchester,537911,2025,13,2025-11-29,TIMED,Manchester City FC,Leeds United FC,,,,,,,,Manchester
+2025-11-29_Everton,537910,2025,13,2025-11-29,TIMED,Everton FC,Newcastle United FC,,,,,,,,Everton
+2025-11-29_Tottenham,537913,2025,13,2025-11-29,TIMED,Tottenham Hotspur FC,Fulham FC,,,,,,,,Tottenham
+2025-11-30_Crystal,537907,2025,13,2025-11-30,TIMED,Crystal Palace FC,Manchester United FC,,,,,,,,Crystal
+2025-11-30_Aston,537906,2025,13,2025-11-30,TIMED,Aston Villa FC,Wolverhampton Wanderers FC,,,,,,,,Aston
+2025-11-30_Nottingham,537912,2025,13,2025-11-30,TIMED,Nottingham Forest FC,Brighton & Hove Albion FC,,,,,,,,Nottingham
+2025-11-30_West,537914,2025,13,2025-11-30,TIMED,West Ham United FC,Liverpool FC,,,,,,,,West
+2025-11-30_Chelsea,537909,2025,13,2025-11-30,TIMED,Chelsea FC,Arsenal FC,,,,,,,,Chelsea
+2025-12-02_Bournemouth,537915,2025,14,2025-12-02,TIMED,Bournemouth,Everton FC,,,,,,,,Bournemouth
+2025-12-02_Fulham,537919,2025,14,2025-12-02,TIMED,Fulham FC,Manchester City FC,,,,,,,,Fulham
+2025-12-02_Newcastle,537923,2025,14,2025-12-02,TIMED,Newcastle United FC,Tottenham Hotspur FC,,,,,,,,Newcastle
+2025-12-03_Brighton,537916,2025,14,2025-12-03,TIMED,Brighton & Hove Albion FC,Aston Villa FC,,,,,,,,Brighton
+2025-12-03_Arsenal,537917,2025,14,2025-12-03,TIMED,Arsenal FC,Brentford FC,,,,,,,,Arsenal
+2025-12-03_Burnley,537918,2025,14,2025-12-03,TIMED,Burnley FC,Crystal Palace FC,,,,,,,,Burnley
+2025-12-03_Wolverhampton,537924,2025,14,2025-12-03,TIMED,Wolverhampton Wanderers FC,Nottingham Forest FC,,,,,,,,Wolverhampton
+2025-12-03_Liverpool,537920,2025,14,2025-12-03,TIMED,Liverpool FC,Sunderland AFC,,,,,,,,Liverpool
+2025-12-03_Leeds,537921,2025,14,2025-12-03,TIMED,Leeds United FC,Chelsea FC,,,,,,,,Leeds
+2025-12-04_Manchester,537922,2025,14,2025-12-04,TIMED,Manchester United FC,West Ham United FC,,,,,,,,Manchester
+2025-12-06_Aston,537926,2025,15,2025-12-06,TIMED,Aston Villa FC,Arsenal FC,,,,,,,,Aston
+2025-12-06_Bournemouth,537925,2025,15,2025-12-06,TIMED,Bournemouth,Chelsea FC,,,,,,,,Bournemouth
+2025-12-06_Everton,537928,2025,15,2025-12-06,TIMED,Everton FC,Nottingham Forest FC,,,,,,,,Everton
+2025-12-06_Manchester,537931,2025,15,2025-12-06,TIMED,Manchester City FC,Sunderland AFC,,,,,,,,Manchester
+2025-12-06_Newcastle,537932,2025,15,2025-12-06,TIMED,Newcastle United FC,Burnley FC,,,,,,,,Newcastle
+2025-12-06_Tottenham,537933,2025,15,2025-12-06,TIMED,Tottenham Hotspur FC,Brentford FC,,,,,,,,Tottenham
+2025-12-06_Leeds,537930,2025,15,2025-12-06,TIMED,Leeds United FC,Liverpool FC,,,,,,,,Leeds
+2025-12-07_Brighton,537927,2025,15,2025-12-07,TIMED,Brighton & Hove Albion FC,West Ham United FC,,,,,,,,Brighton
+2025-12-07_Fulham,537929,2025,15,2025-12-07,TIMED,Fulham FC,Crystal Palace FC,,,,,,,,Fulham
+2025-12-08_Wolverhampton,537934,2025,15,2025-12-08,TIMED,Wolverhampton Wanderers FC,Manchester United FC,,,,,,,,Wolverhampton
+2025-12-13_Chelsea,537940,2025,16,2025-12-13,TIMED,Chelsea FC,Everton FC,,,,,,,,Chelsea
+2025-12-13_Liverpool,537941,2025,16,2025-12-13,TIMED,Liverpool FC,Brighton & Hove Albion FC,,,,,,,,Liverpool
+2025-12-13_Burnley,537939,2025,16,2025-12-13,TIMED,Burnley FC,Fulham FC,,,,,,,,Burnley
+2025-12-13_Arsenal,537937,2025,16,2025-12-13,TIMED,Arsenal FC,Wolverhampton Wanderers FC,,,,,,,,Arsenal
+2025-12-14_Sunderland,537935,2025,16,2025-12-14,TIMED,Sunderland AFC,Newcastle United FC,,,,,,,,Sunderland
+2025-12-14_Crystal,537936,2025,16,2025-12-14,TIMED,Crystal Palace FC,Manchester City FC,,,,,,,,Crystal
+2025-12-14_Nottingham,537943,2025,16,2025-12-14,TIMED,Nottingham Forest FC,Tottenham Hotspur FC,,,,,,,,Nottingham
+2025-12-14_West,537944,2025,16,2025-12-14,TIMED,West Ham United FC,Aston Villa FC,,,,,,,,West
+2025-12-14_Brentford,537938,2025,16,2025-12-14,TIMED,Brentford FC,Leeds United FC,,,,,,,,Brentford
+2025-12-15_Manchester,537942,2025,16,2025-12-15,TIMED,Manchester United FC,Bournemouth,,,,,,,,Manchester
+2025-12-20_Newcastle,537952,2025,17,2025-12-20,TIMED,Newcastle United FC,Chelsea FC,,,,,,,,Newcastle
+2025-12-20_Bournemouth,537945,2025,17,2025-12-20,TIMED,Bournemouth,Burnley FC,,,,,,,,Bournemouth
+2025-12-20_Brighton,537947,2025,17,2025-12-20,TIMED,Brighton & Hove Albion FC,Sunderland AFC,,,,,,,,Brighton
+2025-12-20_Manchester,537951,2025,17,2025-12-20,TIMED,Manchester City FC,West Ham United FC,,,,,,,,Manchester
+2025-12-20_Wolverhampton,537954,2025,17,2025-12-20,TIMED,Wolverhampton Wanderers FC,Brentford FC,,,,,,,,Wolverhampton
+2025-12-20_Tottenham,537953,2025,17,2025-12-20,TIMED,Tottenham Hotspur FC,Liverpool FC,,,,,,,,Tottenham
+2025-12-21_Everton,537948,2025,17,2025-12-21,TIMED,Everton FC,Arsenal FC,,,,,,,,Everton
+2025-12-21_Leeds,537950,2025,17,2025-12-21,TIMED,Leeds United FC,Crystal Palace FC,,,,,,,,Leeds
+2025-12-21_Aston,537946,2025,17,2025-12-21,TIMED,Aston Villa FC,Manchester United FC,,,,,,,,Aston
+2025-12-22_Fulham,537949,2025,17,2025-12-22,TIMED,Fulham FC,Nottingham Forest FC,,,,,,,,Fulham
+2025-12-27_Sunderland,537955,2025,18,2025-12-27,SCHEDULED,Sunderland AFC,Leeds United FC,,,,,,,,Sunderland
+2025-12-27_Crystal,537956,2025,18,2025-12-27,SCHEDULED,Crystal Palace FC,Tottenham Hotspur FC,,,,,,,,Crystal
+2025-12-27_Arsenal,537957,2025,18,2025-12-27,SCHEDULED,Arsenal FC,Brighton & Hove Albion FC,,,,,,,,Arsenal
+2025-12-27_Brentford,537958,2025,18,2025-12-27,SCHEDULED,Brentford FC,Bournemouth,,,,,,,,Brentford
+2025-12-27_Burnley,537959,2025,18,2025-12-27,SCHEDULED,Burnley FC,Everton FC,,,,,,,,Burnley
+2025-12-27_Chelsea,537960,2025,18,2025-12-27,SCHEDULED,Chelsea FC,Aston Villa FC,,,,,,,,Chelsea
+2025-12-27_Liverpool,537961,2025,18,2025-12-27,SCHEDULED,Liverpool FC,Wolverhampton Wanderers FC,,,,,,,,Liverpool
+2025-12-27_Manchester,537962,2025,18,2025-12-27,SCHEDULED,Manchester United FC,Newcastle United FC,,,,,,,,Manchester
+2025-12-27_Nottingham,537963,2025,18,2025-12-27,SCHEDULED,Nottingham Forest FC,Manchester City FC,,,,,,,,Nottingham
+2025-12-27_West,537964,2025,18,2025-12-27,SCHEDULED,West Ham United FC,Fulham FC,,,,,,,,West
+2025-12-30_Sunderland,537965,2025,19,2025-12-30,SCHEDULED,Sunderland AFC,Manchester City FC,,,,,,,,Sunderland
+2025-12-30_Crystal,537966,2025,19,2025-12-30,SCHEDULED,Crystal Palace FC,Fulham FC,,,,,,,,Crystal
+2025-12-30_Arsenal,537967,2025,19,2025-12-30,SCHEDULED,Arsenal FC,Aston Villa FC,,,,,,,,Arsenal
+2025-12-30_Brentford,537968,2025,19,2025-12-30,SCHEDULED,Brentford FC,Tottenham Hotspur FC,,,,,,,,Brentford
+2025-12-30_Burnley,537969,2025,19,2025-12-30,SCHEDULED,Burnley FC,Newcastle United FC,,,,,,,,Burnley
+2025-12-30_Chelsea,537970,2025,19,2025-12-30,SCHEDULED,Chelsea FC,Bournemouth,,,,,,,,Chelsea
+2025-12-30_Liverpool,537971,2025,19,2025-12-30,SCHEDULED,Liverpool FC,Leeds United FC,,,,,,,,Liverpool
+2025-12-30_Manchester,537972,2025,19,2025-12-30,SCHEDULED,Manchester United FC,Wolverhampton Wanderers FC,,,,,,,,Manchester
+2025-12-30_Nottingham,537973,2025,19,2025-12-30,SCHEDULED,Nottingham Forest FC,Everton FC,,,,,,,,Nottingham
+2025-12-30_West,537974,2025,19,2025-12-30,SCHEDULED,West Ham United FC,Brighton & Hove Albion FC,,,,,,,,West
+2026-01-03_Bournemouth,537975,2025,20,2026-01-03,SCHEDULED,Bournemouth,Arsenal FC,,,,,,,,Bournemouth
+2026-01-03_Aston,537976,2025,20,2026-01-03,SCHEDULED,Aston Villa FC,Nottingham Forest FC,,,,,,,,Aston
+2026-01-03_Brighton,537977,2025,20,2026-01-03,SCHEDULED,Brighton & Hove Albion FC,Burnley FC,,,,,,,,Brighton
+2026-01-03_Everton,537978,2025,20,2026-01-03,SCHEDULED,Everton FC,Brentford FC,,,,,,,,Everton
+2026-01-03_Fulham,537979,2025,20,2026-01-03,SCHEDULED,Fulham FC,Liverpool FC,,,,,,,,Fulham
+2026-01-03_Leeds,537980,2025,20,2026-01-03,SCHEDULED,Leeds United FC,Manchester United FC,,,,,,,,Leeds
+2026-01-03_Manchester,537981,2025,20,2026-01-03,SCHEDULED,Manchester City FC,Chelsea FC,,,,,,,,Manchester
+2026-01-03_Newcastle,537982,2025,20,2026-01-03,SCHEDULED,Newcastle United FC,Crystal Palace FC,,,,,,,,Newcastle
+2026-01-03_Tottenham,537983,2025,20,2026-01-03,SCHEDULED,Tottenham Hotspur FC,Sunderland AFC,,,,,,,,Tottenham
+2026-01-03_Wolverhampton,537984,2025,20,2026-01-03,SCHEDULED,Wolverhampton Wanderers FC,West Ham United FC,,,,,,,,Wolverhampton
+2026-01-07_Bournemouth,537985,2025,21,2026-01-07,SCHEDULED,Bournemouth,Tottenham Hotspur FC,,,,,,,,Bournemouth
+2026-01-07_Crystal,537986,2025,21,2026-01-07,SCHEDULED,Crystal Palace FC,Aston Villa FC,,,,,,,,Crystal
+2026-01-07_Arsenal,537987,2025,21,2026-01-07,SCHEDULED,Arsenal FC,Liverpool FC,,,,,,,,Arsenal
+2026-01-07_Brentford,537988,2025,21,2026-01-07,SCHEDULED,Brentford FC,Sunderland AFC,,,,,,,,Brentford
+2026-01-07_Burnley,537989,2025,21,2026-01-07,SCHEDULED,Burnley FC,Manchester United FC,,,,,,,,Burnley
+2026-01-07_Everton,537990,2025,21,2026-01-07,SCHEDULED,Everton FC,Wolverhampton Wanderers FC,,,,,,,,Everton
+2026-01-07_Fulham,537991,2025,21,2026-01-07,SCHEDULED,Fulham FC,Chelsea FC,,,,,,,,Fulham
+2026-01-07_Manchester,537992,2025,21,2026-01-07,SCHEDULED,Manchester City FC,Brighton & Hove Albion FC,,,,,,,,Manchester
+2026-01-07_Newcastle,537993,2025,21,2026-01-07,SCHEDULED,Newcastle United FC,Leeds United FC,,,,,,,,Newcastle
+2026-01-07_West,537994,2025,21,2026-01-07,SCHEDULED,West Ham United FC,Nottingham Forest FC,,,,,,,,West
+2026-01-17_Sunderland,537995,2025,22,2026-01-17,SCHEDULED,Sunderland AFC,Crystal Palace FC,,,,,,,,Sunderland
+2026-01-17_Aston,537996,2025,22,2026-01-17,SCHEDULED,Aston Villa FC,Everton FC,,,,,,,,Aston
+2026-01-17_Brighton,537997,2025,22,2026-01-17,SCHEDULED,Brighton & Hove Albion FC,Bournemouth,,,,,,,,Brighton
+2026-01-17_Chelsea,537998,2025,22,2026-01-17,SCHEDULED,Chelsea FC,Brentford FC,,,,,,,,Chelsea
+2026-01-17_Liverpool,537999,2025,22,2026-01-17,SCHEDULED,Liverpool FC,Burnley FC,,,,,,,,Liverpool
+2026-01-17_Leeds,538000,2025,22,2026-01-17,SCHEDULED,Leeds United FC,Fulham FC,,,,,,,,Leeds
+2026-01-17_Manchester,538001,2025,22,2026-01-17,SCHEDULED,Manchester United FC,Manchester City FC,,,,,,,,Manchester
+2026-01-17_Nottingham,538002,2025,22,2026-01-17,SCHEDULED,Nottingham Forest FC,Arsenal FC,,,,,,,,Nottingham
+2026-01-17_Tottenham,538003,2025,22,2026-01-17,SCHEDULED,Tottenham Hotspur FC,West Ham United FC,,,,,,,,Tottenham
+2026-01-17_Wolverhampton,538004,2025,22,2026-01-17,SCHEDULED,Wolverhampton Wanderers FC,Newcastle United FC,,,,,,,,Wolverhampton
+2026-01-24_Bournemouth,538005,2025,23,2026-01-24,SCHEDULED,Bournemouth,Liverpool FC,,,,,,,,Bournemouth
+2026-01-24_Crystal,538006,2025,23,2026-01-24,SCHEDULED,Crystal Palace FC,Chelsea FC,,,,,,,,Crystal
+2026-01-24_Arsenal,538007,2025,23,2026-01-24,SCHEDULED,Arsenal FC,Manchester United FC,,,,,,,,Arsenal
+2026-01-24_Brentford,538008,2025,23,2026-01-24,SCHEDULED,Brentford FC,Nottingham Forest FC,,,,,,,,Brentford
+2026-01-24_Burnley,538009,2025,23,2026-01-24,SCHEDULED,Burnley FC,Tottenham Hotspur FC,,,,,,,,Burnley
+2026-01-24_Everton,538010,2025,23,2026-01-24,SCHEDULED,Everton FC,Leeds United FC,,,,,,,,Everton
+2026-01-24_Fulham,538011,2025,23,2026-01-24,SCHEDULED,Fulham FC,Brighton & Hove Albion FC,,,,,,,,Fulham
+2026-01-24_Manchester,538012,2025,23,2026-01-24,SCHEDULED,Manchester City FC,Wolverhampton Wanderers FC,,,,,,,,Manchester
+2026-01-24_Newcastle,538013,2025,23,2026-01-24,SCHEDULED,Newcastle United FC,Aston Villa FC,,,,,,,,Newcastle
+2026-01-24_West,538014,2025,23,2026-01-24,SCHEDULED,West Ham United FC,Sunderland AFC,,,,,,,,West
+2026-01-31_Sunderland,538015,2025,24,2026-01-31,SCHEDULED,Sunderland AFC,Burnley FC,,,,,,,,Sunderland
+2026-01-31_Aston,538016,2025,24,2026-01-31,SCHEDULED,Aston Villa FC,Brentford FC,,,,,,,,Aston
+2026-01-31_Brighton,538017,2025,24,2026-01-31,SCHEDULED,Brighton & Hove Albion FC,Everton FC,,,,,,,,Brighton
+2026-01-31_Chelsea,538018,2025,24,2026-01-31,SCHEDULED,Chelsea FC,West Ham United FC,,,,,,,,Chelsea
+2026-01-31_Liverpool,538019,2025,24,2026-01-31,SCHEDULED,Liverpool FC,Newcastle United FC,,,,,,,,Liverpool
+2026-01-31_Leeds,538020,2025,24,2026-01-31,SCHEDULED,Leeds United FC,Arsenal FC,,,,,,,,Leeds
+2026-01-31_Manchester,538021,2025,24,2026-01-31,SCHEDULED,Manchester United FC,Fulham FC,,,,,,,,Manchester
+2026-01-31_Nottingham,538022,2025,24,2026-01-31,SCHEDULED,Nottingham Forest FC,Crystal Palace FC,,,,,,,,Nottingham
+2026-01-31_Tottenham,538023,2025,24,2026-01-31,SCHEDULED,Tottenham Hotspur FC,Manchester City FC,,,,,,,,Tottenham
+2026-01-31_Wolverhampton,538024,2025,24,2026-01-31,SCHEDULED,Wolverhampton Wanderers FC,Bournemouth,,,,,,,,Wolverhampton
+2026-02-07_Bournemouth,538025,2025,25,2026-02-07,SCHEDULED,Bournemouth,Aston Villa FC,,,,,,,,Bournemouth
+2026-02-07_Brighton,538026,2025,25,2026-02-07,SCHEDULED,Brighton & Hove Albion FC,Crystal Palace FC,,,,,,,,Brighton
+2026-02-07_Arsenal,538027,2025,25,2026-02-07,SCHEDULED,Arsenal FC,Sunderland AFC,,,,,,,,Arsenal
+2026-02-07_Burnley,538028,2025,25,2026-02-07,SCHEDULED,Burnley FC,West Ham United FC,,,,,,,,Burnley
+2026-02-07_Fulham,538029,2025,25,2026-02-07,SCHEDULED,Fulham FC,Everton FC,,,,,,,,Fulham
+2026-02-07_Liverpool,538030,2025,25,2026-02-07,SCHEDULED,Liverpool FC,Manchester City FC,,,,,,,,Liverpool
+2026-02-07_Leeds,538031,2025,25,2026-02-07,SCHEDULED,Leeds United FC,Nottingham Forest FC,,,,,,,,Leeds
+2026-02-07_Manchester,538032,2025,25,2026-02-07,SCHEDULED,Manchester United FC,Tottenham Hotspur FC,,,,,,,,Manchester
+2026-02-07_Newcastle,538033,2025,25,2026-02-07,SCHEDULED,Newcastle United FC,Brentford FC,,,,,,,,Newcastle
+2026-02-07_Wolverhampton,538034,2025,25,2026-02-07,SCHEDULED,Wolverhampton Wanderers FC,Chelsea FC,,,,,,,,Wolverhampton
+2026-02-11_Sunderland,538035,2025,26,2026-02-11,SCHEDULED,Sunderland AFC,Liverpool FC,,,,,,,,Sunderland
+2026-02-11_Aston,538036,2025,26,2026-02-11,SCHEDULED,Aston Villa FC,Brighton & Hove Albion FC,,,,,,,,Aston
+2026-02-11_Crystal,538037,2025,26,2026-02-11,SCHEDULED,Crystal Palace FC,Burnley FC,,,,,,,,Crystal
+2026-02-11_Brentford,538038,2025,26,2026-02-11,SCHEDULED,Brentford FC,Arsenal FC,,,,,,,,Brentford
+2026-02-11_Chelsea,538039,2025,26,2026-02-11,SCHEDULED,Chelsea FC,Leeds United FC,,,,,,,,Chelsea
+2026-02-11_Everton,538040,2025,26,2026-02-11,SCHEDULED,Everton FC,Bournemouth,,,,,,,,Everton
+2026-02-11_Manchester,538041,2025,26,2026-02-11,SCHEDULED,Manchester City FC,Fulham FC,,,,,,,,Manchester
+2026-02-11_Nottingham,538042,2025,26,2026-02-11,SCHEDULED,Nottingham Forest FC,Wolverhampton Wanderers FC,,,,,,,,Nottingham
+2026-02-11_Tottenham,538043,2025,26,2026-02-11,SCHEDULED,Tottenham Hotspur FC,Newcastle United FC,,,,,,,,Tottenham
+2026-02-11_West,538044,2025,26,2026-02-11,SCHEDULED,West Ham United FC,Manchester United FC,,,,,,,,West
+2026-02-21_Sunderland,538045,2025,27,2026-02-21,SCHEDULED,Sunderland AFC,Fulham FC,,,,,,,,Sunderland
+2026-02-21_Aston,538046,2025,27,2026-02-21,SCHEDULED,Aston Villa FC,Leeds United FC,,,,,,,,Aston
+2026-02-21_Crystal,538047,2025,27,2026-02-21,SCHEDULED,Crystal Palace FC,Wolverhampton Wanderers FC,,,,,,,,Crystal
+2026-02-21_Brentford,538048,2025,27,2026-02-21,SCHEDULED,Brentford FC,Brighton & Hove Albion FC,,,,,,,,Brentford
+2026-02-21_Chelsea,538049,2025,27,2026-02-21,SCHEDULED,Chelsea FC,Burnley FC,,,,,,,,Chelsea
+2026-02-21_Everton,538050,2025,27,2026-02-21,SCHEDULED,Everton FC,Manchester United FC,,,,,,,,Everton
+2026-02-21_Manchester,538051,2025,27,2026-02-21,SCHEDULED,Manchester City FC,Newcastle United FC,,,,,,,,Manchester
+2026-02-21_Nottingham,538052,2025,27,2026-02-21,SCHEDULED,Nottingham Forest FC,Liverpool FC,,,,,,,,Nottingham
+2026-02-21_Tottenham,538053,2025,27,2026-02-21,SCHEDULED,Tottenham Hotspur FC,Arsenal FC,,,,,,,,Tottenham
+2026-02-21_West,538054,2025,27,2026-02-21,SCHEDULED,West Ham United FC,Bournemouth,,,,,,,,West
+2026-02-28_Bournemouth,538055,2025,28,2026-02-28,SCHEDULED,Bournemouth,Sunderland AFC,,,,,,,,Bournemouth
+2026-02-28_Brighton,538056,2025,28,2026-02-28,SCHEDULED,Brighton & Hove Albion FC,Nottingham Forest FC,,,,,,,,Brighton
+2026-02-28_Arsenal,538057,2025,28,2026-02-28,SCHEDULED,Arsenal FC,Chelsea FC,,,,,,,,Arsenal
+2026-02-28_Burnley,538058,2025,28,2026-02-28,SCHEDULED,Burnley FC,Brentford FC,,,,,,,,Burnley
+2026-02-28_Fulham,538059,2025,28,2026-02-28,SCHEDULED,Fulham FC,Tottenham Hotspur FC,,,,,,,,Fulham
+2026-02-28_Liverpool,538060,2025,28,2026-02-28,SCHEDULED,Liverpool FC,West Ham United FC,,,,,,,,Liverpool
+2026-02-28_Leeds,538061,2025,28,2026-02-28,SCHEDULED,Leeds United FC,Manchester City FC,,,,,,,,Leeds
+2026-02-28_Manchester,538062,2025,28,2026-02-28,SCHEDULED,Manchester United FC,Crystal Palace FC,,,,,,,,Manchester
+2026-02-28_Newcastle,538063,2025,28,2026-02-28,SCHEDULED,Newcastle United FC,Everton FC,,,,,,,,Newcastle
+2026-02-28_Wolverhampton,538064,2025,28,2026-02-28,SCHEDULED,Wolverhampton Wanderers FC,Aston Villa FC,,,,,,,,Wolverhampton
+2026-03-04_Bournemouth,538065,2025,29,2026-03-04,SCHEDULED,Bournemouth,Brentford FC,,,,,,,,Bournemouth
+2026-03-04_Aston,538066,2025,29,2026-03-04,SCHEDULED,Aston Villa FC,Chelsea FC,,,,,,,,Aston
+2026-03-04_Brighton,538067,2025,29,2026-03-04,SCHEDULED,Brighton & Hove Albion FC,Arsenal FC,,,,,,,,Brighton
+2026-03-04_Everton,538068,2025,29,2026-03-04,SCHEDULED,Everton FC,Burnley FC,,,,,,,,Everton
+2026-03-04_Fulham,538069,2025,29,2026-03-04,SCHEDULED,Fulham FC,West Ham United FC,,,,,,,,Fulham
+2026-03-04_Leeds,538070,2025,29,2026-03-04,SCHEDULED,Leeds United FC,Sunderland AFC,,,,,,,,Leeds
+2026-03-04_Manchester,538071,2025,29,2026-03-04,SCHEDULED,Manchester City FC,Nottingham Forest FC,,,,,,,,Manchester
+2026-03-04_Newcastle,538072,2025,29,2026-03-04,SCHEDULED,Newcastle United FC,Manchester United FC,,,,,,,,Newcastle
+2026-03-04_Tottenham,538073,2025,29,2026-03-04,SCHEDULED,Tottenham Hotspur FC,Crystal Palace FC,,,,,,,,Tottenham
+2026-03-04_Wolverhampton,538074,2025,29,2026-03-04,SCHEDULED,Wolverhampton Wanderers FC,Liverpool FC,,,,,,,,Wolverhampton
+2026-03-14_Sunderland,538075,2025,30,2026-03-14,SCHEDULED,Sunderland AFC,Brighton & Hove Albion FC,,,,,,,,Sunderland
+2026-03-14_Crystal,538076,2025,30,2026-03-14,SCHEDULED,Crystal Palace FC,Leeds United FC,,,,,,,,Crystal
+2026-03-14_Arsenal,538077,2025,30,2026-03-14,SCHEDULED,Arsenal FC,Everton FC,,,,,,,,Arsenal
+2026-03-14_Brentford,538078,2025,30,2026-03-14,SCHEDULED,Brentford FC,Wolverhampton Wanderers FC,,,,,,,,Brentford
+2026-03-14_Burnley,538079,2025,30,2026-03-14,SCHEDULED,Burnley FC,Bournemouth,,,,,,,,Burnley
+2026-03-14_Chelsea,538080,2025,30,2026-03-14,SCHEDULED,Chelsea FC,Newcastle United FC,,,,,,,,Chelsea
+2026-03-14_Liverpool,538081,2025,30,2026-03-14,SCHEDULED,Liverpool FC,Tottenham Hotspur FC,,,,,,,,Liverpool
+2026-03-14_Manchester,538082,2025,30,2026-03-14,SCHEDULED,Manchester United FC,Aston Villa FC,,,,,,,,Manchester
+2026-03-14_Nottingham,538083,2025,30,2026-03-14,SCHEDULED,Nottingham Forest FC,Fulham FC,,,,,,,,Nottingham
+2026-03-14_West,538084,2025,30,2026-03-14,SCHEDULED,West Ham United FC,Manchester City FC,,,,,,,,West
+2026-03-21_Bournemouth,538085,2025,31,2026-03-21,SCHEDULED,Bournemouth,Manchester United FC,,,,,,,,Bournemouth
+2026-03-21_Aston,538086,2025,31,2026-03-21,SCHEDULED,Aston Villa FC,West Ham United FC,,,,,,,,Aston
+2026-03-21_Brighton,538087,2025,31,2026-03-21,SCHEDULED,Brighton & Hove Albion FC,Liverpool FC,,,,,,,,Brighton
+2026-03-21_Everton,538088,2025,31,2026-03-21,SCHEDULED,Everton FC,Chelsea FC,,,,,,,,Everton
+2026-03-21_Fulham,538089,2025,31,2026-03-21,SCHEDULED,Fulham FC,Burnley FC,,,,,,,,Fulham
+2026-03-21_Leeds,538090,2025,31,2026-03-21,SCHEDULED,Leeds United FC,Brentford FC,,,,,,,,Leeds
+2026-03-21_Manchester,538091,2025,31,2026-03-21,SCHEDULED,Manchester City FC,Crystal Palace FC,,,,,,,,Manchester
+2026-03-21_Newcastle,538092,2025,31,2026-03-21,SCHEDULED,Newcastle United FC,Sunderland AFC,,,,,,,,Newcastle
+2026-03-21_Tottenham,538093,2025,31,2026-03-21,SCHEDULED,Tottenham Hotspur FC,Nottingham Forest FC,,,,,,,,Tottenham
+2026-03-21_Wolverhampton,538094,2025,31,2026-03-21,SCHEDULED,Wolverhampton Wanderers FC,Arsenal FC,,,,,,,,Wolverhampton
+2026-04-11_Sunderland,538095,2025,32,2026-04-11,SCHEDULED,Sunderland AFC,Tottenham Hotspur FC,,,,,,,,Sunderland
+2026-04-11_Crystal,538096,2025,32,2026-04-11,SCHEDULED,Crystal Palace FC,Newcastle United FC,,,,,,,,Crystal
+2026-04-11_Arsenal,538097,2025,32,2026-04-11,SCHEDULED,Arsenal FC,Bournemouth,,,,,,,,Arsenal
+2026-04-11_Brentford,538098,2025,32,2026-04-11,SCHEDULED,Brentford FC,Everton FC,,,,,,,,Brentford
+2026-04-11_Burnley,538099,2025,32,2026-04-11,SCHEDULED,Burnley FC,Brighton & Hove Albion FC,,,,,,,,Burnley
+2026-04-11_Chelsea,538100,2025,32,2026-04-11,SCHEDULED,Chelsea FC,Manchester City FC,,,,,,,,Chelsea
+2026-04-11_Liverpool,538101,2025,32,2026-04-11,SCHEDULED,Liverpool FC,Fulham FC,,,,,,,,Liverpool
+2026-04-11_Manchester,538102,2025,32,2026-04-11,SCHEDULED,Manchester United FC,Leeds United FC,,,,,,,,Manchester
+2026-04-11_Nottingham,538103,2025,32,2026-04-11,SCHEDULED,Nottingham Forest FC,Aston Villa FC,,,,,,,,Nottingham
+2026-04-11_West,538104,2025,32,2026-04-11,SCHEDULED,West Ham United FC,Wolverhampton Wanderers FC,,,,,,,,West
+2026-04-18_Newcastle,538112,2025,33,2026-04-18,SCHEDULED,Newcastle United FC,Bournemouth,,,,,,,,Newcastle
+2026-04-18_Nottingham,538113,2025,33,2026-04-18,SCHEDULED,Nottingham Forest FC,Burnley FC,,,,,,,,Nottingham
+2026-04-18_Tottenham,538114,2025,33,2026-04-18,SCHEDULED,Tottenham Hotspur FC,Brighton & Hove Albion FC,,,,,,,,Tottenham
+2026-04-18_Aston,538105,2025,33,2026-04-18,SCHEDULED,Aston Villa FC,Sunderland AFC,,,,,,,,Aston
+2026-04-18_Crystal,538106,2025,33,2026-04-18,SCHEDULED,Crystal Palace FC,West Ham United FC,,,,,,,,Crystal
+2026-04-18_Brentford,538107,2025,33,2026-04-18,SCHEDULED,Brentford FC,Fulham FC,,,,,,,,Brentford
+2026-04-18_Chelsea,538108,2025,33,2026-04-18,SCHEDULED,Chelsea FC,Manchester United FC,,,,,,,,Chelsea
+2026-04-18_Everton,538109,2025,33,2026-04-18,SCHEDULED,Everton FC,Liverpool FC,,,,,,,,Everton
+2026-04-18_Leeds,538110,2025,33,2026-04-18,SCHEDULED,Leeds United FC,Wolverhampton Wanderers FC,,,,,,,,Leeds
+2026-04-18_Manchester,538111,2025,33,2026-04-18,SCHEDULED,Manchester City FC,Arsenal FC,,,,,,,,Manchester
+2026-04-25_Bournemouth,538115,2025,34,2026-04-25,SCHEDULED,Bournemouth,Leeds United FC,,,,,,,,Bournemouth
+2026-04-25_Sunderland,538116,2025,34,2026-04-25,SCHEDULED,Sunderland AFC,Nottingham Forest FC,,,,,,,,Sunderland
+2026-04-25_Brighton,538117,2025,34,2026-04-25,SCHEDULED,Brighton & Hove Albion FC,Chelsea FC,,,,,,,,Brighton
+2026-04-25_Arsenal,538118,2025,34,2026-04-25,SCHEDULED,Arsenal FC,Newcastle United FC,,,,,,,,Arsenal
+2026-04-25_Burnley,538119,2025,34,2026-04-25,SCHEDULED,Burnley FC,Manchester City FC,,,,,,,,Burnley
+2026-04-25_Fulham,538120,2025,34,2026-04-25,SCHEDULED,Fulham FC,Aston Villa FC,,,,,,,,Fulham
+2026-04-25_Liverpool,538121,2025,34,2026-04-25,SCHEDULED,Liverpool FC,Crystal Palace FC,,,,,,,,Liverpool
+2026-04-25_Manchester,538122,2025,34,2026-04-25,SCHEDULED,Manchester United FC,Brentford FC,,,,,,,,Manchester
+2026-04-25_West,538123,2025,34,2026-04-25,SCHEDULED,West Ham United FC,Everton FC,,,,,,,,West
+2026-04-25_Wolverhampton,538124,2025,34,2026-04-25,SCHEDULED,Wolverhampton Wanderers FC,Tottenham Hotspur FC,,,,,,,,Wolverhampton
+2026-05-02_Bournemouth,538125,2025,35,2026-05-02,SCHEDULED,Bournemouth,Crystal Palace FC,,,,,,,,Bournemouth
+2026-05-02_Aston,538126,2025,35,2026-05-02,SCHEDULED,Aston Villa FC,Tottenham Hotspur FC,,,,,,,,Aston
+2026-05-02_Arsenal,538127,2025,35,2026-05-02,SCHEDULED,Arsenal FC,Fulham FC,,,,,,,,Arsenal
+2026-05-02_Brentford,538128,2025,35,2026-05-02,SCHEDULED,Brentford FC,West Ham United FC,,,,,,,,Brentford
+2026-05-02_Chelsea,538129,2025,35,2026-05-02,SCHEDULED,Chelsea FC,Nottingham Forest FC,,,,,,,,Chelsea
+2026-05-02_Everton,538130,2025,35,2026-05-02,SCHEDULED,Everton FC,Manchester City FC,,,,,,,,Everton
+2026-05-02_Leeds,538131,2025,35,2026-05-02,SCHEDULED,Leeds United FC,Burnley FC,,,,,,,,Leeds
+2026-05-02_Manchester,538132,2025,35,2026-05-02,SCHEDULED,Manchester United FC,Liverpool FC,,,,,,,,Manchester
+2026-05-02_Newcastle,538133,2025,35,2026-05-02,SCHEDULED,Newcastle United FC,Brighton & Hove Albion FC,,,,,,,,Newcastle
+2026-05-02_Wolverhampton,538134,2025,35,2026-05-02,SCHEDULED,Wolverhampton Wanderers FC,Sunderland AFC,,,,,,,,Wolverhampton
+2026-05-09_Sunderland,538135,2025,36,2026-05-09,SCHEDULED,Sunderland AFC,Manchester United FC,,,,,,,,Sunderland
+2026-05-09_Brighton,538136,2025,36,2026-05-09,SCHEDULED,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,,,,,,,,Brighton
+2026-05-09_Crystal,538137,2025,36,2026-05-09,SCHEDULED,Crystal Palace FC,Everton FC,,,,,,,,Crystal
+2026-05-09_Burnley,538138,2025,36,2026-05-09,SCHEDULED,Burnley FC,Aston Villa FC,,,,,,,,Burnley
+2026-05-09_Fulham,538139,2025,36,2026-05-09,SCHEDULED,Fulham FC,Bournemouth,,,,,,,,Fulham
+2026-05-09_Liverpool,538140,2025,36,2026-05-09,SCHEDULED,Liverpool FC,Chelsea FC,,,,,,,,Liverpool
+2026-05-09_Manchester,538141,2025,36,2026-05-09,SCHEDULED,Manchester City FC,Brentford FC,,,,,,,,Manchester
+2026-05-09_Nottingham,538142,2025,36,2026-05-09,SCHEDULED,Nottingham Forest FC,Newcastle United FC,,,,,,,,Nottingham
+2026-05-09_Tottenham,538143,2025,36,2026-05-09,SCHEDULED,Tottenham Hotspur FC,Leeds United FC,,,,,,,,Tottenham
+2026-05-09_West,538144,2025,36,2026-05-09,SCHEDULED,West Ham United FC,Arsenal FC,,,,,,,,West
+2026-05-17_Bournemouth,538145,2025,37,2026-05-17,SCHEDULED,Bournemouth,Manchester City FC,,,,,,,,Bournemouth
+2026-05-17_Aston,538146,2025,37,2026-05-17,SCHEDULED,Aston Villa FC,Liverpool FC,,,,,,,,Aston
+2026-05-17_Arsenal,538147,2025,37,2026-05-17,SCHEDULED,Arsenal FC,Burnley FC,,,,,,,,Arsenal
+2026-05-17_Brentford,538148,2025,37,2026-05-17,SCHEDULED,Brentford FC,Crystal Palace FC,,,,,,,,Brentford
+2026-05-17_Chelsea,538149,2025,37,2026-05-17,SCHEDULED,Chelsea FC,Tottenham Hotspur FC,,,,,,,,Chelsea
+2026-05-17_Everton,538150,2025,37,2026-05-17,SCHEDULED,Everton FC,Sunderland AFC,,,,,,,,Everton
+2026-05-17_Leeds,538151,2025,37,2026-05-17,SCHEDULED,Leeds United FC,Brighton & Hove Albion FC,,,,,,,,Leeds
+2026-05-17_Manchester,538152,2025,37,2026-05-17,SCHEDULED,Manchester United FC,Nottingham Forest FC,,,,,,,,Manchester
+2026-05-17_Newcastle,538153,2025,37,2026-05-17,SCHEDULED,Newcastle United FC,West Ham United FC,,,,,,,,Newcastle
+2026-05-17_Wolverhampton,538154,2025,37,2026-05-17,SCHEDULED,Wolverhampton Wanderers FC,Fulham FC,,,,,,,,Wolverhampton
+2026-05-24_Sunderland,538155,2025,38,2026-05-24,SCHEDULED,Sunderland AFC,Chelsea FC,,,,,,,,Sunderland
+2026-05-24_Brighton,538156,2025,38,2026-05-24,SCHEDULED,Brighton & Hove Albion FC,Manchester United FC,,,,,,,,Brighton
+2026-05-24_Crystal,538157,2025,38,2026-05-24,SCHEDULED,Crystal Palace FC,Arsenal FC,,,,,,,,Crystal
+2026-05-24_Burnley,538158,2025,38,2026-05-24,SCHEDULED,Burnley FC,Wolverhampton Wanderers FC,,,,,,,,Burnley
+2026-05-24_Fulham,538159,2025,38,2026-05-24,SCHEDULED,Fulham FC,Newcastle United FC,,,,,,,,Fulham
+2026-05-24_Liverpool,538160,2025,38,2026-05-24,SCHEDULED,Liverpool FC,Brentford FC,,,,,,,,Liverpool
+2026-05-24_Manchester,538161,2025,38,2026-05-24,SCHEDULED,Manchester City FC,Aston Villa FC,,,,,,,,Manchester
+2026-05-24_Nottingham,538162,2025,38,2026-05-24,SCHEDULED,Nottingham Forest FC,Bournemouth,,,,,,,,Nottingham
+2026-05-24_Tottenham,538163,2025,38,2026-05-24,SCHEDULED,Tottenham Hotspur FC,Everton FC,,,,,,,,Tottenham
+2026-05-24_West,538164,2025,38,2026-05-24,SCHEDULED,West Ham United FC,Leeds United FC,,,,,,,,West
