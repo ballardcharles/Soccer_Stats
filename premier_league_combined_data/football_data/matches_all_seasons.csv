@@ -849,13 +849,13 @@ join_key,id,Season,Match Week,Date,Status,Home Team,Away Team,Home Score,Away Sc
 2025-10-26_Arsenal,537867,2025,9,2025-10-26,FINISHED,Arsenal FC,Crystal Palace FC,1.0,0.0,1.0,0.0,HOME_TEAM,,Thomas Bramall,Arsenal
 2025-10-26_Wolverhampton,537874,2025,9,2025-10-26,FINISHED,Wolverhampton Wanderers FC,Burnley FC,2.0,3.0,2.0,2.0,AWAY_TEAM,,Peter Bankes,Wolverhampton
 2025-10-26_Everton,537870,2025,9,2025-10-26,FINISHED,Everton FC,Tottenham Hotspur FC,0.0,3.0,0.0,2.0,AWAY_TEAM,,Craig Pawson,Everton
-2025-11-01_Brighton,537876,2025,10,2025-11-01,TIMED,Brighton & Hove Albion FC,Leeds United FC,,,,,,,,Brighton
-2025-11-01_Crystal,537877,2025,10,2025-11-01,TIMED,Crystal Palace FC,Brentford FC,,,,,,,,Crystal
-2025-11-01_Burnley,537878,2025,10,2025-11-01,TIMED,Burnley FC,Arsenal FC,,,,,,,,Burnley
-2025-11-01_Fulham,537879,2025,10,2025-11-01,TIMED,Fulham FC,Wolverhampton Wanderers FC,,,,,,,,Fulham
-2025-11-01_Nottingham,537882,2025,10,2025-11-01,TIMED,Nottingham Forest FC,Manchester United FC,,,,,,,,Nottingham
-2025-11-01_Tottenham,537883,2025,10,2025-11-01,TIMED,Tottenham Hotspur FC,Chelsea FC,,,,,,,,Tottenham
-2025-11-01_Liverpool,537880,2025,10,2025-11-01,TIMED,Liverpool FC,Aston Villa FC,,,,,,,,Liverpool
+2025-11-01_Brighton,537876,2025,10,2025-11-01,FINISHED,Brighton & Hove Albion FC,Leeds United FC,3.0,0.0,1.0,0.0,HOME_TEAM,,Michael Oliver,Brighton
+2025-11-01_Crystal,537877,2025,10,2025-11-01,FINISHED,Crystal Palace FC,Brentford FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Peter Bankes,Crystal
+2025-11-01_Burnley,537878,2025,10,2025-11-01,FINISHED,Burnley FC,Arsenal FC,0.0,2.0,0.0,2.0,AWAY_TEAM,,Chris Kavanagh,Burnley
+2025-11-01_Fulham,537879,2025,10,2025-11-01,FINISHED,Fulham FC,Wolverhampton Wanderers FC,3.0,0.0,1.0,0.0,HOME_TEAM,,John Brooks,Fulham
+2025-11-01_Nottingham,537882,2025,10,2025-11-01,FINISHED,Nottingham Forest FC,Manchester United FC,2.0,2.0,0.0,1.0,DRAW,,Darren England,Nottingham
+2025-11-01_Tottenham,537883,2025,10,2025-11-01,FINISHED,Tottenham Hotspur FC,Chelsea FC,0.0,1.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Tottenham
+2025-11-01_Liverpool,537880,2025,10,2025-11-01,FINISHED,Liverpool FC,Aston Villa FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Liverpool
 2025-11-02_West,537884,2025,10,2025-11-02,TIMED,West Ham United FC,Newcastle United FC,,,,,,,,West
 2025-11-02_Manchester,537881,2025,10,2025-11-02,TIMED,Manchester City FC,Bournemouth,,,,,,,,Manchester
 2025-11-03_Sunderland,537875,2025,10,2025-11-03,TIMED,Sunderland AFC,Everton FC,,,,,,,,Sunderland

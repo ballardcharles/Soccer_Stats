@@ -1,3 +1,17 @@
+"""
+Current Season Premier League Data Extractor - Comprehensive Version
+Pulls only the most recent season data from Football-Data.org and Understat
+Includes web scraping for detailed shot data (Shot Type, Last Action, etc.)
+
+Data Sources:
+1. Football-Data.org API: Basic match data, standings, teams, scorers
+2. Understat (via soccerdata library): Advanced xG stats, team analytics, player stats
+3. Understat (via web scraping): Detailed shot data with Shot Type and Last Action
+
+Installation Required:
+    pip install soccerdata beautifulsoup4
+"""
+
 import requests
 import pandas as pd
 import json
@@ -24,47 +38,41 @@ FOOTBALL_DATA_HEADERS = {'X-Auth-Token': FOOTBALL_DATA_API_KEY}
 PREMIER_LEAGUE_CODE = "PL"
 
 # Understat Web Scraping Configuration
-MAX_WORKERS = 3
+MAX_WORKERS = 4
 REQUEST_DELAY = 0.5
 rate_limit_lock = threading.Lock()
 last_request_time = {'time': 0}
 
-# Function to generate season list dynamically
-def generate_season_list(start_year=2014):
-    """Generate season list from start_year to current season"""
+def get_current_season():
+    """Determine the current Premier League season"""
     current_date = datetime.now()
     current_year = current_date.year
     current_month = current_date.month
     
-    # Determine current season based on August cutoff
+    # Premier League season starts in August
     if current_month < 8:
-        current_season_end = current_year
+        season_start = current_year - 1
     else:
-        current_season_end = current_year + 1
+        season_start = current_year
     
     # Football-Data.org format (year)
-    fd_seasons = list(range(start_year, current_season_end))
+    fd_season = season_start
     
-    # Soccerdata format (YXYY - e.g., 1415 for 2014-15)
-    sd_seasons = []
-    for year in range(start_year, current_season_end):
-        next_year = year + 1
-        season_str = f"{str(year)[-2:]}{str(next_year)[-2:]}"
-        sd_seasons.append(season_str)
+    # Soccerdata format (YXYY - e.g., 2425 for 2024-25)
+    next_year = season_start + 1
+    sd_season = f"{str(season_start)[-2:]}{str(next_year)[-2:]}"
     
-    # Understat full year format (e.g., 2023 for 2023-24 season)
-    understat_years = list(range(start_year, current_season_end))
+    # Understat full year format (e.g., 2024 for 2024-25 season)
+    understat_year = season_start
     
-    return fd_seasons, sd_seasons, understat_years
+    return fd_season, sd_season, understat_year
 
-# Generate seasons from 2023 to current
-FOOTBALL_DATA_SEASONS, SOCCERDATA_SEASONS, UNDERSTAT_YEARS = generate_season_list(start_year=2023)
+# Get current season
+FD_SEASON, SD_SEASON, UNDERSTAT_YEAR = get_current_season()
 
-# Output directories
+# Output directory
 OUTPUT_DIR = "premier_league_combined_data"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-os.makedirs(os.path.join(OUTPUT_DIR, "football_data"), exist_ok=True)
-os.makedirs(os.path.join(OUTPUT_DIR, "understat"), exist_ok=True)
 
 # ============================================================================
 # UTILITY FUNCTIONS
@@ -84,10 +92,12 @@ def make_football_data_request(endpoint, params=None):
     url = f"{FOOTBALL_DATA_BASE_URL}/{endpoint}"
     try:
         response = requests.get(url, headers=FOOTBALL_DATA_HEADERS, params=params)
+        
         if response.status_code == 429:
             print(f"  ⚠️  Rate limit reached. Waiting 60 seconds...")
             time.sleep(60)
             response = requests.get(url, headers=FOOTBALL_DATA_HEADERS, params=params)
+        
         response.raise_for_status()
         return response.json()
     except requests.exceptions.HTTPError as e:
@@ -95,6 +105,7 @@ def make_football_data_request(endpoint, params=None):
             print(f"  ✗ Access forbidden - may not be available in free tier")
         return None
     except Exception as e:
+        print(f"  ✗ Error: {e}")
         return None
 
 def make_understat_request(url):
@@ -110,13 +121,10 @@ def make_understat_request(url):
     except Exception as e:
         return None
 
-def save_dataframe(df, filename, subdir=None):
+def save_dataframe(df, filename):
     """Save dataframe as CSV"""
     if df is not None and not df.empty:
-        if subdir:
-            filepath = os.path.join(OUTPUT_DIR, subdir, filename)
-        else:
-            filepath = os.path.join(OUTPUT_DIR, filename)
+        filepath = os.path.join(OUTPUT_DIR, filename)
         df.to_csv(filepath, index=False)
         print(f"  ✓ Saved: {filename} ({len(df)} rows)")
         return True
@@ -136,6 +144,7 @@ def get_football_data_standings(season):
     if standings_data and 'standings' in standings_data:
         table = standings_data['standings'][0]['table']
         standings_list = []
+        
         for position in table:
             standings_list.append({
                 'Position': position.get('position'),
@@ -151,6 +160,7 @@ def get_football_data_standings(season):
                 'Form': position.get('form'),
                 'Season': season
             })
+        
         return pd.DataFrame(standings_list)
     return None
 
@@ -163,6 +173,7 @@ def get_football_data_matches(season):
     
     if matches_data and 'matches' in matches_data:
         matches_list = []
+        
         for match in matches_data['matches']:
             matches_list.append({
                 'id': match.get('id'),
@@ -180,6 +191,7 @@ def get_football_data_matches(season):
                 'Venue': match.get('venue'),
                 'Referee': match['referees'][0]['name'] if match.get('referees') else None
             })
+        
         df = pd.DataFrame(matches_list)
         
         # Convert date to YYYY-MM-DD format
@@ -188,6 +200,7 @@ def get_football_data_matches(season):
         # Clean team names
         df.loc[df['Home Team'] == 'AFC Bournemouth', 'Home Team'] = 'Bournemouth'
         df.loc[df['Away Team'] == 'AFC Bournemouth', 'Away Team'] = 'Bournemouth'
+        
         df['home_team_shortened'] = df['Home Team'].str.split().str[0]
         
         # Create join key
@@ -206,6 +219,7 @@ def get_football_data_scorers(season):
     
     if scorers_data and 'scorers' in scorers_data:
         scorers_list = []
+        
         for scorer in scorers_data['scorers']:
             scorers_list.append({
                 'Player': scorer['player']['name'],
@@ -217,6 +231,7 @@ def get_football_data_scorers(season):
                 'Position': scorer['player'].get('position'),
                 'Season': season
             })
+        
         return pd.DataFrame(scorers_list)
     return None
 
@@ -229,11 +244,12 @@ def get_football_data_teams(season):
     
     if teams_data and 'teams' in teams_data:
         teams_list = []
+        
         for team in teams_data['teams']:
             teams_list.append({
                 'Name': team.get('name'),
                 'Short Name': team.get('shortName'),
-                'tla': team.get('tla'),
+                'TLA': team.get('tla'),
                 'Crest': team.get('crest'),
                 'Address': team.get('address'),
                 'Website': team.get('website'),
@@ -242,6 +258,7 @@ def get_football_data_teams(season):
                 'Venue': team.get('venue'),
                 'Season': season
             })
+        
         return pd.DataFrame(teams_list)
     return None
 
@@ -253,7 +270,7 @@ def get_understat_matches_with_ids(season_year):
     """Get matches from Understat with match IDs using web scraping
     
     Args:
-        season_year: Full year format (e.g., 2023 for 2023-24 season)
+        season_year: Full year format (e.g., 2024 for 2024-25 season)
     
     Returns:
         DataFrame with match_id, date, home_team, away_team, etc.
@@ -365,115 +382,18 @@ def get_match_shots_detailed(match_id):
         return None
 
 # ============================================================================
-# NEW: xG DIFFERENCE CALCULATION FUNCTIONS
-# ============================================================================
-
-def calculate_match_xg_difference(df):
-    """Calculate xG difference (Home xG - Away xG) for each match
-    
-    Args:
-        df: DataFrame with 'Home xG' and 'Away xG' columns
-    
-    Returns:
-        DataFrame with added 'xG Difference' column
-    """
-    if 'Home xG' in df.columns and 'Away xG' in df.columns:
-        df['xG Difference'] = df['Home xG'] - df['Away xG']
-        df['xG Difference'] = df['xG Difference'].round(2)
-    return df
-
-def calculate_team_season_xg_stats(team_stats_df):
-    """Calculate season-level xG statistics per team
-    
-    Args:
-        team_stats_df: DataFrame with match-level team stats
-    
-    Returns:
-        DataFrame with aggregated season stats per team
-    """
-    if team_stats_df is None or team_stats_df.empty:
-        return None
-    
-    # Home games stats
-    home_stats = team_stats_df.groupby(['Season', 'Home Team']).agg({
-        'Home xG': 'sum',
-        'Away xG': 'sum',
-        'Home Goals': 'sum',
-        'Away Goals': 'sum',
-        'Game': 'count'
-    }).reset_index()
-    
-    home_stats = home_stats.rename(columns={
-        'Home Team': 'Team',
-        'Home xG': 'xG For (Home)',
-        'Away xG': 'xG Against (Home)',
-        'Home Goals': 'Goals For (Home)',
-        'Away Goals': 'Goals Against (Home)',
-        'Game': 'Home Games'
-    })
-    
-    # Away games stats
-    away_stats = team_stats_df.groupby(['Season', 'Away Team']).agg({
-        'Away xG': 'sum',
-        'Home xG': 'sum',
-        'Away Goals': 'sum',
-        'Home Goals': 'sum',
-        'Game': 'count'
-    }).reset_index()
-    
-    away_stats = away_stats.rename(columns={
-        'Away Team': 'Team',
-        'Away xG': 'xG For (Away)',
-        'Home xG': 'xG Against (Away)',
-        'Away Goals': 'Goals For (Away)',
-        'Home Goals': 'Goals Against (Away)',
-        'Game': 'Away Games'
-    })
-    
-    # Merge home and away
-    season_stats = pd.merge(home_stats, away_stats, on=['Season', 'Team'], how='outer')
-    
-    # Calculate totals
-    season_stats['Total Games'] = season_stats['Home Games'].fillna(0) + season_stats['Away Games'].fillna(0)
-    season_stats['Total xG For'] = season_stats['xG For (Home)'].fillna(0) + season_stats['xG For (Away)'].fillna(0)
-    season_stats['Total xG Against'] = season_stats['xG Against (Home)'].fillna(0) + season_stats['xG Against (Away)'].fillna(0)
-    season_stats['xG Difference'] = season_stats['Total xG For'] - season_stats['Total xG Against']
-    season_stats['Total Goals For'] = season_stats['Goals For (Home)'].fillna(0) + season_stats['Goals For (Away)'].fillna(0)
-    season_stats['Total Goals Against'] = season_stats['Goals Against (Home)'].fillna(0) + season_stats['Goals Against (Away)'].fillna(0)
-    season_stats['Goal Difference'] = season_stats['Total Goals For'] - season_stats['Total Goals Against']
-    
-    # Calculate per game averages
-    season_stats['xG For per Game'] = (season_stats['Total xG For'] / season_stats['Total Games']).round(2)
-    season_stats['xG Against per Game'] = (season_stats['Total xG Against'] / season_stats['Total Games']).round(2)
-    season_stats['xG Difference per Game'] = (season_stats['xG Difference'] / season_stats['Total Games']).round(2)
-    
-    # Round xG columns
-    xg_cols = ['Total xG For', 'Total xG Against', 'xG Difference', 
-               'xG For (Home)', 'xG Against (Home)', 'xG For (Away)', 'xG Against (Away)']
-    for col in xg_cols:
-        if col in season_stats.columns:
-            season_stats[col] = season_stats[col].round(2)
-    
-    # Sort by xG Difference
-    season_stats = season_stats.sort_values(['Season', 'xG Difference'], ascending=[True, False])
-    
-    return season_stats
-
-# ============================================================================
 # MAIN EXTRACTION PROCESS
 # ============================================================================
 
 print("=" * 70)
-print("COMBINED PREMIER LEAGUE DATA EXTRACTOR - HYBRID VERSION")
+print("CURRENT SEASON PREMIER LEAGUE DATA EXTRACTOR - COMPREHENSIVE")
 print("=" * 70)
-print(f"\nSeasons: {FOOTBALL_DATA_SEASONS[0]}-{FOOTBALL_DATA_SEASONS[-1]+1}")
-print(f"Total seasons: {len(FOOTBALL_DATA_SEASONS)}")
+print(f"\nCurrent Season: {FD_SEASON}-{FD_SEASON+1}")
 print(f"Sources: Football-Data.org API + Understat (soccerdata + web scraping)")
 print(f"Output directory: {OUTPUT_DIR}\n")
-print("✨ NEW: xG Difference calculations per match and season")
 
 # Test API connection
-print("\nTesting Football-Data.org API...")
+print("Testing Football-Data.org API...")
 test = make_football_data_request("competitions")
 if test:
     print("  ✓ Football-Data.org API connected")
@@ -484,39 +404,45 @@ print("\n" + "=" * 70)
 print("PART 1: FOOTBALL-DATA.ORG EXTRACTION")
 print("=" * 70)
 
-for season in FOOTBALL_DATA_SEASONS:
-    print(f"\n{'=' * 70}")
-    print(f"SEASON {season}-{season+1}")
-    print(f"{'=' * 70}")
-    
-    # Standings
-    print("  • Standings...", end=" ")
-    standings = get_football_data_standings(season)
-    if standings is not None:
-        save_dataframe(standings, f"standings_{season}.csv", "football_data")
-    else:
-        print("✗ Failed")
-    time.sleep(6)
-    
-    # Matches
-    print("  • Matches...", end=" ")
-    fd_matches = get_football_data_matches(season)
-    if fd_matches is not None:
-        save_dataframe(fd_matches, f"matches_{season}.csv", "football_data")
-    else:
-        print("✗ Failed")
-    time.sleep(6)
-    
-    # Teams
-    print("  • Teams...", end=" ")
-    teams = get_football_data_teams(season)
-    if teams is not None:
-        save_dataframe(teams, f"teams_{season}.csv", "football_data")
-    else:
-        print("✗ Failed")
-    time.sleep(6)
-    
-    print(f"✓ Season {season} complete")
+print(f"\nExtracting data for season {FD_SEASON}-{FD_SEASON+1}...")
+
+# Standings
+print("\n  • Standings...", end=" ")
+standings = get_football_data_standings(FD_SEASON)
+if standings is not None:
+    save_dataframe(standings, "standings.csv")
+else:
+    print("✗ Failed")
+time.sleep(6)
+
+# Matches
+print("  • Matches...", end=" ")
+fd_matches = get_football_data_matches(FD_SEASON)
+if fd_matches is not None:
+    save_dataframe(fd_matches, "matches_football_data.csv")
+else:
+    print("✗ Failed")
+time.sleep(6)
+
+# Top Scorers
+print("  • Top Scorers...", end=" ")
+scorers = get_football_data_scorers(FD_SEASON)
+if scorers is not None:
+    save_dataframe(scorers, "top_scorers.csv")
+else:
+    print("✗ Failed")
+time.sleep(6)
+
+# Teams
+print("  • Teams...", end=" ")
+teams = get_football_data_teams(FD_SEASON)
+if teams is not None:
+    save_dataframe(teams, "teams.csv")
+else:
+    print("✗ Failed")
+time.sleep(6)
+
+print(f"\n✓ Football-Data.org extraction complete")
 
 # ============================================================================
 # UNDERSTAT EXTRACTION VIA SOCCERDATA
@@ -527,11 +453,11 @@ print("PART 2: UNDERSTAT EXTRACTION (via soccerdata)")
 print("=" * 70)
 
 try:
-    print(f"\nInitializing Understat for seasons: {SOCCERDATA_SEASONS[0]}-{SOCCERDATA_SEASONS[-1]}")
-    understat = sd.Understat(leagues=['ENG-Premier League'], seasons=SOCCERDATA_SEASONS)
+    print(f"\nInitializing Understat for season: {SD_SEASON}")
+    understat = sd.Understat(leagues=['ENG-Premier League'], seasons=[SD_SEASON])
     
     # 1. Team match stats
-    print("\n[1/5] Extracting team match stats...")
+    print("\n[1/4] Extracting team match stats...")
     team_stats = understat.read_team_match_stats()
     
     # Flatten multi-index columns and reset index
@@ -541,24 +467,24 @@ try:
     
     # Clean column names
     team_stats.columns = [str(col).lower().replace(' ', '_') for col in team_stats.columns]
-    
+
     # Standardize date format and create join key
     if 'date' in team_stats.columns:
         team_stats['date'] = pd.to_datetime(team_stats['date']).dt.strftime('%Y-%m-%d')
         team_stats['home_team_shortened'] = team_stats['home_team'].str.split().str[0]
         team_stats['join_key'] = team_stats['date'] + '_' + team_stats['home_team_shortened']
         team_stats = team_stats[['join_key'] + [col for col in team_stats.columns if col != 'join_key']]
-    
+
     # Change League Name
     team_stats['league'] = team_stats['league'].replace('ENG-Premier League', 'Premier League')
-    
+
     # Remove the date and space, replace '-' with ' v '
     team_stats['game'] = team_stats['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
-    
+
     # Drop specific columns
     team_stats_drop = ['game_id', 'league_id','home_team_id', 'away_team_id', 'home_team_shortened', 'away_expected_points', 'home_expected_points']
     team_stats = team_stats.drop(columns=[col for col in team_stats_drop if col in team_stats.columns])
-    
+
     # Rename Columns
     team_stats = team_stats.rename(columns={
         'game': 'Game',
@@ -584,20 +510,59 @@ try:
         'home_ppda': 'Home PPDA',
     })
     
-    # *** NEW: Calculate xG Difference per match ***
-    team_stats = calculate_match_xg_difference(team_stats)
+    # Add xG differential columns
+    team_stats['Home xG Diff'] = team_stats['Home xG'] - team_stats['Away xG']
+    team_stats['Away xG Diff'] = team_stats['Away xG'] - team_stats['Home xG']
     
-    # Save by season
-    for season in SOCCERDATA_SEASONS:
-        season_data = player_season[player_season['season_id'] == season]
-        if not season_data.empty:
-            save_dataframe(season_data, f"player_season_{season}.csv", "understat")
+    save_dataframe(team_stats, "team_stats.csv")
+    print(f"  ✓ Saved {len(team_stats)} records")
     
-    save_dataframe(player_season, "player_season_all_seasons.csv", "understat")
+    # 2. Player season stats
+    print("\n[2/4] Extracting player season stats...")
+    player_season = understat.read_player_season_stats()
+    
+    # Flatten multi-index columns and reset index
+    if isinstance(player_season.columns, pd.MultiIndex):
+        player_season.columns = ['_'.join(col).strip() if col[1] else col[0] for col in player_season.columns.values]
+    player_season = player_season.reset_index()
+    
+    # Clean column names
+    player_season.columns = [str(col).lower().replace(' ', '_') for col in player_season.columns]
+
+    # Change League Name
+    player_season['league'] = player_season['league'].replace('ENG-Premier League', 'Premier League')
+    
+    # Drop specific columns
+    player_season_drop = ['league_id','player_id','team_id']
+    player_season = player_season.drop(columns=[col for col in player_season_drop if col in player_season.columns])
+
+    # Rename columns
+    player_season = player_season.rename(columns={
+        'season_id': 'Season',
+        'season': 'season_id',
+        'league': 'League',
+        'player': 'Player',
+        'team': 'Team',
+        'minutes': 'Minutes',
+        'matches': 'Matches',
+        'goals': 'Goals',
+        'xg': 'xG',
+        'np_goals': 'Non-Penalty Goals',
+        'np_xg': 'Non-Penalty xG',
+        'assists': 'Assists',
+        'xa': 'xA',
+        'shots': 'Shots',
+        'key_passes': 'Key Passes',
+        'passes': 'Total Passes',
+        'yellow_cards': 'Yellow Cards',
+        'red_cards': 'Red Cards',        
+    })
+
+    save_dataframe(player_season, "player_season_stats.csv")
     print(f"  ✓ Saved {len(player_season)} records")
     
-    # 4. Player match stats
-    print("\n[4/5] Extracting player match stats...")
+    # 3. Player match stats
+    print("\n[3/4] Extracting player match stats...")
     player_match = understat.read_player_match_stats()
     
     # Flatten multi-index columns and reset index
@@ -607,14 +572,14 @@ try:
     
     # Clean column names
     player_match.columns = [str(col).lower().replace(' ', '_') for col in player_match.columns]
-    
+
     # Remove the date and space, replace '-' with ' v '
     player_match['game'] = player_match['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
-    
+
     # Drop specific columns
     player_match_drop = ['league_id','player_id','team_id']
     player_match = player_match.drop(columns=[col for col in player_match_drop if col in player_match.columns])
-    
+
     # Rename columns
     player_match = player_match.rename(columns={
         'season_id': 'Season',
@@ -634,46 +599,25 @@ try:
         'xa': 'xA',
         'position_id': 'Position ID',
         'yellow_cards': 'Yellow Cards',
-        'red_cards': 'Red Cards',
+        'red_cards': 'Red Cards',        
     })
     
-    # Save by season
-    for season in SOCCERDATA_SEASONS:
-        season_data = player_match[player_match['season_id'] == season]
-        game_date = shots_basic[shots_basic['season_id'] == season][['game_id','date']].drop_duplicates(keep='first').reset_index(drop=True)
-        season_data = season_data.merge(game_date, how='left', on='game_id')
-        if not season_data.empty:
-            save_dataframe(season_data, f"player_match_{season}.csv", "understat")
-    
-    save_dataframe(player_match, "player_match_all_seasons.csv", "understat")
+    save_dataframe(player_match, "player_match_stats.csv")
     print(f"  ✓ Saved {len(player_match)} records")
     
-    # 5. ENHANCED: Detailed shots via web scraping - UPDATED METHOD
-    print("\n[5/5] Extracting DETAILED shot data via web scraping...")
+    # 4. ENHANCED: Detailed shots via web scraping
+    print("\n[4/4] Extracting DETAILED shot data via web scraping...")
     print("  (This includes: Shot Type, Last Action, Home/Away)")
     
-    all_detailed_shots = []
+    print(f"\n  Processing season {SD_SEASON} (using year {UNDERSTAT_YEAR} for scraping)...")
     
-    for idx, season in enumerate(SOCCERDATA_SEASONS):
-        # Get corresponding full year for web scraping
-        full_year = UNDERSTAT_YEARS[idx]
-        
-        print(f"\n  Processing season {season} (using year {full_year} for scraping)...")
-        
-        # NEW APPROACH: Get match IDs directly from Understat scraping
-        print(f"    • Fetching match list from Understat...")
-        understat_matches = get_understat_matches_with_ids(full_year)
-        
-        if understat_matches is None or understat_matches.empty:
-            print(f"    ⚠️  No matches found for season {season} via Understat scraping")
-            continue
-        
-        # *** NEW: Add xG Difference to match list ***
-        understat_matches = calculate_match_xg_difference(understat_matches.rename(columns={
-            'home_xg': 'Home xG',
-            'away_xg': 'Away xG'
-        }))
-        
+    # Get match IDs directly from Understat scraping
+    print(f"    • Fetching match list from Understat...")
+    understat_matches = get_understat_matches_with_ids(UNDERSTAT_YEAR)
+    
+    if understat_matches is None or understat_matches.empty:
+        print(f"    ⚠️  No matches found via Understat scraping")
+    else:
         match_ids = understat_matches['match_id'].unique().tolist()
         print(f"    ✓ Found {len(match_ids)} matches")
         print(f"    • Scraping shots from {len(match_ids)} matches with {MAX_WORKERS} threads...")
@@ -697,8 +641,8 @@ try:
                         match_info = understat_matches[understat_matches['match_id'] == match_id].iloc[0]
                         shots_df['Date'] = match_info['date']
                         shots_df['Game'] = match_info['Match']
-                        shots_df['Season'] = full_year
-                        shots_df['season_id'] = season
+                        shots_df['Season'] = UNDERSTAT_YEAR
+                        shots_df['season_id'] = SD_SEASON
                         
                         season_shots.append(shots_df)
                         successful += 1
@@ -709,29 +653,22 @@ try:
                     pass
         
         if season_shots:
-            combined_season = pd.concat(season_shots, ignore_index=True)
+            combined_shots = pd.concat(season_shots, ignore_index=True)
             
             # Drop columns we don't need and reorder
             drop_cols = ['shot_id', 'match_id', 'player_id']
-            combined_season = combined_season.drop(columns=[col for col in drop_cols if col in combined_season.columns])
+            combined_shots = combined_shots.drop(columns=[col for col in drop_cols if col in combined_shots.columns])
             
             # Reorder columns for consistency
             column_order = ['Season', 'season_id', 'Date', 'Game', 'Team', 'Player', 'Assist Player',
                         'xG', 'x', 'y', 'Minute', 'Situation', 'Result', 'Shot Type', 
                         'Last Action', 'Home/Away']
-            combined_season = combined_season[[col for col in column_order if col in combined_season.columns]]
+            combined_shots = combined_shots[[col for col in column_order if col in combined_shots.columns]]
             
-            save_dataframe(combined_season, f"shots_detailed_{season}.csv", "understat")
-            all_detailed_shots.append(combined_season)
-            print(f"    ✓ Saved {len(combined_season)} detailed shots for season {season}")
+            save_dataframe(combined_shots, "shots_detailed.csv")
+            print(f"    ✓ Saved {len(combined_shots)} detailed shots")
         else:
-            print(f"    ✗ No shots collected for season {season}")
-    
-    # Save combined detailed shots
-    if all_detailed_shots:
-        all_shots_combined = pd.concat(all_detailed_shots, ignore_index=True)
-        save_dataframe(all_shots_combined, "shots_detailed_all_seasons.csv", "understat")
-        print(f"\n  ✓ Total detailed shots saved: {len(all_shots_combined)}")
+            print(f"    ✗ No shots collected")
     
     print("\n✓ Understat data extraction completed successfully!")
 
@@ -741,66 +678,39 @@ except Exception as e:
     traceback.print_exc()
 
 # ============================================================================
-# COMBINE AND MERGE DATA
-# ============================================================================
-
-print("\n" + "=" * 70)
-print("PART 3: COMBINING FOOTBALL-DATA.ORG DATA")
-print("=" * 70)
-
-# Combine Football-Data.org data
-for data_type in ['standings', 'matches', 'teams']:
-    all_dfs = []
-    for season in FOOTBALL_DATA_SEASONS:
-        fpath = os.path.join(OUTPUT_DIR, "football_data", f"{data_type}_{season}.csv")
-        if os.path.exists(fpath):
-            all_dfs.append(pd.read_csv(fpath))
-    
-    if all_dfs:
-        combined = pd.concat(all_dfs, ignore_index=True)
-        save_dataframe(combined, f"{data_type}_all_seasons.csv", "football_data")
-
-# ============================================================================
 # MERGE DATASETS
 # ============================================================================
 
 print("\n" + "=" * 70)
-print("PART 4: MERGING DATASETS")
+print("PART 3: MERGING DATASETS")
 print("=" * 70)
 
-print("\nCreating merged match datasets per season (Football-Data + Understat xG)...")
+print("\nCreating merged match dataset (Football-Data + Understat xG)...")
 
-# Convert soccerdata season format to Football-Data format for matching
-for idx, fd_season in enumerate(FOOTBALL_DATA_SEASONS):
-    sd_season = SOCCERDATA_SEASONS[idx]
+fd_matches_file = os.path.join(OUTPUT_DIR, "matches_football_data.csv")
+us_matches_file = os.path.join(OUTPUT_DIR, "team_stats.csv")
+
+if os.path.exists(fd_matches_file) and os.path.exists(us_matches_file):
+    fd_df = pd.read_csv(fd_matches_file)
+    us_df = pd.read_csv(us_matches_file)
     
-    fd_matches_file = os.path.join(OUTPUT_DIR, "football_data", f"matches_{fd_season}.csv")
-    us_matches_file = os.path.join(OUTPUT_DIR, "understat", f"team_stats_{sd_season}.csv")
+    # Merge on join_key
+    merged = pd.merge(
+        us_df,
+        fd_df[['join_key', 'Referee', 'Match Week', 'Status']],
+        on='join_key',
+        how='left',
+        suffixes=('', '_fd')
+    )
     
-    if os.path.exists(fd_matches_file) and os.path.exists(us_matches_file):
-        fd_df = pd.read_csv(fd_matches_file)
-        us_df = pd.read_csv(us_matches_file)
-        
-        # Merge on join_key
-        merged = pd.merge(
-            us_df,
-            fd_df[['join_key', 'Referee', 'Match Week', 'Status']],
-            on='join_key',
-            how='left',
-            suffixes=('', '_fd')
-        )
-        
-        save_dataframe(merged, f"matches_merged_{fd_season}.csv")
-        
-        # Report matching success
-        matched = merged['Referee'].notna().sum()
-        total = len(merged)
-        print(f"  ✓ Merged {fd_season}: {matched}/{total} matches joined (with xG Difference)")
-    else:
-        if not os.path.exists(fd_matches_file):
-            print(f"  ⚠️  Missing Football-Data file for {fd_season}")
-        if not os.path.exists(us_matches_file):
-            print(f"  ⚠️  Missing Understat file for {sd_season}")
+    save_dataframe(merged, "matches_merged.csv")
+    
+    # Report matching success
+    matched = merged['Referee'].notna().sum()
+    total = len(merged)
+    print(f"  ✓ Merged matches: {matched}/{total} matches joined successfully")
+else:
+    print("  ⚠️  Could not merge - missing source files")
 
 # ============================================================================
 # FINAL SUMMARY
@@ -810,148 +720,47 @@ print("\n" + "=" * 70)
 print("✓ EXTRACTION COMPLETE")
 print("=" * 70)
 
-print("\nData Structure:")
-print("  📁 football_data/")
-print("     • standings_{season}.csv - League tables")
-print("     • matches_{season}.csv - Match details with scores")
-print("     • teams_{season}.csv - Team information")
-print("     • *_all_seasons.csv - Combined data")
-
-print("\n  📁 understat/")
-print("     • team_stats_{season}.csv - Team match stats with xG, PPDA, xG Difference")
-print("     • team_season_xg_stats.csv - 🆕 Season-level xG statistics per team")
-print("     • shots_detailed_{season}.csv - ALL shots with Shot Type, Last Action")
-print("     • player_season_{season}.csv - Player season stats")
-print("     • player_match_{season}.csv - Player match stats")
-print("     • *_all_seasons.csv - Combined data")
-
-print("\n  📁 Root/")
-print("     • matches_merged_{season}.csv - Combined best of both per season (with xG Difference)!")
-
-print("\n🆕 xG Difference Features:")
-print("  ✓ Match-level xG Difference (Home xG - Away xG)")
-print("  ✓ Season totals per team (Total xG For, Against, Difference)")
-print("  ✓ Home/Away xG splits per team")
-print("  ✓ Per-game xG averages")
-print("  ✓ Rankings by xG Difference")
+print("\nFiles created:")
+print("  • standings.csv - Current league table")
+print("  • matches_football_data.csv - Match details with scores")
+print("  • matches_merged.csv - Combined match data with xG")
+print("  • top_scorers.csv - Current top goal scorers")
+print("  • teams.csv - Team information")
+print("  • team_stats.csv - Team match stats with xG, PPDA")
+print("  • shots_detailed.csv - ALL shots with Shot Type, Last Action")
+print("  • player_season_stats.csv - Player season statistics")
+print("  • player_match_stats.csv - Player match-by-match stats")
 
 print("\nWhat you have:")
-print("  ✓ Basic match data (Football-Data.org)")
-print("  ✓ Advanced xG stats (Understat via soccerdata)")
-print("  ✓ 🆕 xG Difference per match and season")
-print("  ✓ 🆕 Team season xG statistics with home/away splits")
-print("  ✓ DETAILED shot data with Shot Type & Last Action (Understat scraping)")
+print("  ✓ Current standings and form")
+print("  ✓ All matches with scores and referees")
+print("  ✓ Advanced xG stats for all matches")
+print("  ✓ DETAILED shot data with Shot Type & Last Action")
 print("  ✓ Shot locations and coordinates (x, y)")
-print("  ✓ Team PPDA and advanced metrics (Understat)")
-print("  ✓ Player season and match stats (Understat)")
-print("  ✓ Referee information (Football-Data.org)")
+print("  ✓ Team PPDA and advanced metrics")
+print("  ✓ Player season and match stats")
+print("  ✓ Top scorers with assists")
 
-print("\nShot data now includes:")
+print("\nShot data includes:")
 print("  ✓ Shot Type (LeftFoot, RightFoot, Head, OtherBodyPart)")
 print("  ✓ Last Action (Pass, Dribble, Rebound, etc.)")
 print("  ✓ Home/Away designation")
 print("  ✓ Assist Player information")
+print("  ✓ xG value for each shot")
+print("  ✓ Exact x,y coordinates on pitch")
 
-print("\nKey Fix Applied:")
-print("  ✓ Match IDs now fetched directly from Understat scraping")
-print("  ✓ No longer dependent on Football-Data.org match files")
-print("  ✓ Resolves 'No match IDs found' errors for seasons 2324, 2425, 2526")
-
-print("\n🆕 New Files to Explore:")
-print("  1. team_season_xg_stats.csv - Complete season xG analysis by team")
-print("  2. team_stats_{season}.csv - Now includes xG Difference column")
-print("  3. matches_merged_{season}.csv - Now includes xG Difference")
+print("\nKey Features:")
+print("  ✓ Automatically detects current season")
+print("  ✓ No dependency on match file matching")
+print("  ✓ Multi-threaded shot scraping for speed")
+print("  ✓ Rate limiting to respect Understat")
 
 print("\nNext steps:")
-print("  1. Use matches_merged_{season}.csv for comprehensive match analysis")
-print("  2. Use team_season_xg_stats.csv to compare team performance vs xG")
-print("  3. Use shots_detailed_all_seasons.csv for complete shot maps and analysis")
-print("  4. Use player stats for detailed player performance tracking")
-print("  5. Analyze xG Difference to identify over/underperforming teams")
-print("  6. Build Streamlit dashboard with mplsoccer")
+print("  1. Use matches_merged.csv for comprehensive match analysis")
+print("  2. Use shots_detailed.csv for complete shot maps and analysis")
+print("  3. Use player stats for detailed player performance tracking")
+print("  4. Build Streamlit dashboard with mplsoccer for visualizations")
 
-print(f"\n{'=' * 70}\n")SEASONS:
-        season_data = team_stats[team_stats['season_id'] == season]
-        if not season_data.empty:
-            save_dataframe(season_data, f"team_stats_{season}.csv", "understat")
-    
-    save_dataframe(team_stats, "team_stats_all_seasons.csv", "understat")
-    print(f"  ✓ Saved {len(team_stats)} records with xG Difference")
-    
-    # *** NEW: Calculate season-level xG statistics ***
-    print("\n[1b/5] Calculating season xG statistics per team...")
-    season_xg_stats = calculate_team_season_xg_stats(team_stats)
-    if season_xg_stats is not None:
-        save_dataframe(season_xg_stats, "team_season_xg_stats.csv", "understat")
-        print(f"  ✓ Saved season xG stats for {len(season_xg_stats)} team-seasons")
-    
-    # 2. Shot events (basic from soccerdata)
-    print("\n[2/5] Extracting basic shot events...")
-    shots_basic = understat.read_shot_events()
-    
-    # Flatten multi-index columns and reset index
-    if isinstance(shots_basic.columns, pd.MultiIndex):
-        shots_basic.columns = ['_'.join(col).strip() if col[1] else col[0] for col in shots_basic.columns.values]
-    shots_basic = shots_basic.reset_index()
-    
-    # Clean column names
-    shots_basic.columns = [str(col).lower().replace(' ', '_') for col in shots_basic.columns]
-    
-    # Standardize date format
-    if 'date' in shots_basic.columns:
-        shots_basic['date'] = pd.to_datetime(shots_basic['date']).dt.strftime('%Y-%m-%d')
-    
-    # Change League Name
-    shots_basic['league'] = shots_basic['league'].replace('ENG-Premier League', 'Premier League')
-    
-    # Remove the date and space, replace '-' with ' v '
-    shots_basic['game'] = shots_basic['game'].str.replace(r'^\d{4}-\d{2}-\d{2} ', '', regex=True).str.replace('-', ' v ')
-    
-    # Store game_id for matching with detailed shots
-    # Convert season_id to string for consistency
-    shots_basic['season_id_str'] = shots_basic['season_id'].astype(str)
-    game_id_mapping = shots_basic[['game_id', 'date', 'game', 'season_id', 'season_id_str']].drop_duplicates()
-    
-    # 3. Player season stats
-    print("\n[3/5] Extracting player season stats...")
-    player_season = understat.read_player_season_stats()
-    
-    # Flatten multi-index columns and reset index
-    if isinstance(player_season.columns, pd.MultiIndex):
-        player_season.columns = ['_'.join(col).strip() if col[1] else col[0] for col in player_season.columns.values]
-    player_season = player_season.reset_index()
-    
-    # Clean column names
-    player_season.columns = [str(col).lower().replace(' ', '_') for col in player_season.columns]
-    
-    # Change League Name
-    player_season['league'] = player_season['league'].replace('ENG-Premier League', 'Premier League')
-    
-    # Drop specific columns
-    player_season_drop = ['league_id','player_id','team_id']
-    player_season = player_season.drop(columns=[col for col in player_season_drop if col in player_season.columns])
-    
-    # Rename columns
-    player_season = player_season.rename(columns={
-        'season_id': 'Season',
-        'season': 'season_id',
-        'league': 'League',
-        'player': 'Player',
-        'team': 'Team',
-        'minutes': 'Minutes',
-        'matches': 'Matches',
-        'goals': 'Goals',
-        'xg': 'xG',
-        'np_goals': 'Non-Penalty Goals',
-        'np_xg': 'Non-Penalty xG',
-        'assists': 'Assists',
-        'xa': 'xA',
-        'shots': 'Shots',
-        'key_passes': 'Key Passes',
-        'passes': 'Total Passes',
-        'yellow_cards': 'Yellow Cards',
-        'red_cards': 'Red Cards',
-    })
-    
-    # Save by season
-    for season in SOCCERDATA_
+print(f"\nData saved to: {OUTPUT_DIR}/")
+print(f"Season: {FD_SEASON}-{FD_SEASON+1}")
+print(f"\n{'=' * 70}\n")

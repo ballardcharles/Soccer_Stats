@@ -26,7 +26,7 @@ FOOTBALL_DATA_HEADERS = {'X-Auth-Token': FOOTBALL_DATA_API_KEY}
 PREMIER_LEAGUE_CODE = "PL"
 
 # Understat Web Scraping Configuration
-MAX_WORKERS = 3
+MAX_WORKERS = 4
 REQUEST_DELAY = 0.5
 rate_limit_lock = threading.Lock()
 last_request_time = {'time': 0}
@@ -490,6 +490,9 @@ try:
         'home_ppda': 'Home PPDA',
     })
     
+    team_stats['Home xG Diff'] = team_stats['Home xG'] - team_stats['Away xG']
+    team_stats['Away xG Diff'] = team_stats['Away xG'] - team_stats['Home xG']
+
     # Save by season
     for season in SOCCERDATA_SEASONS:
         season_data = team_stats[team_stats['season_id'] == season]

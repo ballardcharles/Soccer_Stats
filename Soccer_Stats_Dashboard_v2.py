@@ -108,7 +108,9 @@ with st.spinner('Loading Premier League data...'):
 # SIDEBAR
 # ============================================================================
 
-st.sidebar.title("⚽ Premier League Analytics")
+st.sidebar.image("Premier_League.jpg", width=200)
+st.sidebar.markdown("---")
+st.sidebar.title("Premier League Analytics")
 st.sidebar.markdown("---")
 
 # Season filter - use consistent format
@@ -136,13 +138,15 @@ st.sidebar.markdown("---")
 # View selection
 view = st.sidebar.selectbox(
     "Select View:",
-    ["🏆 Standings", "🎯 Shot Maps", "📊 Team Analysis", "👤 Player Analysis", "📈 Match Analysis"]
+    ["🏆 Standings", "🎯 Shot Maps", "📊 League Analysis", "👤 Player Analysis", "📈 Match Analysis"]
 )
 
 
 # ============================================================================
 # SHOT MAPS VIEW
 # ============================================================================
+
+# Replace the SHOT MAPS VIEW section (lines ~145-300) with this updated version:
 
 if view == "🎯 Shot Maps":
     st.title("🎯 Shot Maps & Analysis")
@@ -210,12 +214,71 @@ if view == "🎯 Shot Maps":
                     title = f"{selected_match} - {selected_team}"
         else:
             st.warning("Match information not available in shot data")
-    
-    with col3:
+
         if result_col:
             shot_results = sorted(filtered_shots[result_col].dropna().unique())
             selected_results = st.multiselect("Shot Results:", shot_results, default=shot_results)
             filtered_shots = filtered_shots[filtered_shots[result_col].isin(selected_results)]
+    
+    # ========== ADD TEAM CREST DISPLAY ==========
+    # Helper function to match team names
+    def find_team_match(team_name, available_teams):
+        """Find matching team name from available teams, handling variations"""
+        # Direct match
+        if team_name in available_teams:
+            return team_name
+        
+        # Normalize and try again
+        team_normalized = team_name.lower().strip()
+        
+        for available_team in available_teams:
+            available_normalized = available_team.lower().strip()
+            
+            # Check if one contains the other
+            if team_normalized in available_normalized or available_normalized in team_normalized:
+                return available_team
+            
+            # Remove common suffixes and try again
+            team_base = team_normalized.replace(' fc', '').replace(' afc', '').replace(' united', '').replace(' city', '')
+            available_base = available_normalized.replace(' fc', '').replace(' afc', '').replace(' united', '').replace(' city', '')
+            
+            if team_base == available_base:
+                return available_team
+        
+        return None
+    
+    # Get team crest URL if available
+    team_crest_url = None
+    
+    if data['teams'] is not None:
+        teams_season_col = get_column_name(data['teams'], ['Season', 'season'])
+        
+        if teams_season_col:
+            teams_season_data = data['teams'][data['teams'][teams_season_col].astype(str) == selected_season].copy()
+            
+            if not teams_season_data.empty:
+                teams_name_col = get_column_name(teams_season_data, ['Name', 'name', 'Team', 'team'])
+                teams_crest_col = get_column_name(teams_season_data, ['Crest', 'crest'])
+                
+                if teams_name_col and teams_crest_col:
+                    available_teams = teams_season_data[teams_name_col].unique().tolist()
+                    matched_team = find_team_match(selected_team, available_teams)
+                    
+                    if matched_team:
+                        team_row = teams_season_data[teams_season_data[teams_name_col] == matched_team]
+                        if not team_row.empty:
+                            team_crest_url = team_row.iloc[0][teams_crest_col]
+    
+    with col3:
+        if team_crest_url:
+            # Center the image using markdown and HTML
+            st.markdown(
+                f'<div style="display: flex; justify-content: center; align-items: center; height: 100%;">'
+                f'<img src="{team_crest_url}" width="200">'
+                f'</div>',
+                unsafe_allow_html=True
+            )
+    # ========== END TEAM CREST DISPLAY ==========
     
     # Visualization type toggle
     viz_type = st.radio("Visualization Type:", ["Shot Map", "Heat Map"], horizontal=True)
@@ -236,7 +299,7 @@ if view == "🎯 Shot Maps":
             st.metric("Conversion %", f"{conversion:.1f}%")
     
     # Shot Map or Heat Map
-    st.subheader(title)
+    # (Remove the st.subheader(title) line that was here before since we moved it above)
     
     if not filtered_shots.empty and x_col and y_col:
         if viz_type == "Shot Map":
@@ -379,8 +442,8 @@ if view == "🎯 Shot Maps":
 # TEAM ANALYSIS VIEW
 # ============================================================================
 
-elif view == "📊 Team Analysis":
-    st.title("📊 Team Analysis")
+elif view == "📊 League Analysis":
+    st.title("📊 League Analysis")
     
     if data['standings'] is not None:
         # Get column names

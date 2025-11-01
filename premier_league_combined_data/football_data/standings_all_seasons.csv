@@ -39,23 +39,23 @@ Position,Team,Games Played,Won,Draw,Lost,Points,Goals For,Goals Against,Goal Dif
 18,Leicester City FC,38,6,7,25,25,33,80,-47,"L,W,D,W,L",2024
 19,Ipswich Town FC,38,4,10,24,22,36,82,-46,"L,L,L,D,L",2024
 20,Southampton FC,38,2,6,30,12,26,86,-60,"L,L,D,L,L",2024
-1,Arsenal FC,9,7,1,1,22,16,3,13,"W,W,W,W,D",2025
+1,Arsenal FC,10,8,1,1,25,18,3,15,"W,W,W,W,W",2025
 2,AFC Bournemouth,9,5,3,1,18,16,11,5,"W,D,W,D,D",2025
-3,Tottenham Hotspur FC,9,5,2,2,17,17,7,10,"W,L,W,D,D",2025
-4,Sunderland AFC,9,5,2,2,17,11,7,4,"W,W,L,W,D",2025
-5,Manchester City FC,9,5,1,3,16,17,7,10,"L,W,W,W,D",2025
-6,Manchester United FC,9,5,1,3,16,15,14,1,"W,W,W,L,W",2025
-7,Liverpool FC,9,5,0,4,15,16,14,2,"L,L,L,L,W",2025
-8,Aston Villa FC,9,4,3,2,15,9,8,1,"W,W,W,W,D",2025
-9,Chelsea FC,9,4,2,3,14,17,11,6,"L,W,W,L,L",2025
-10,Crystal Palace FC,9,3,4,2,13,12,9,3,"L,D,L,W,W",2025
-11,Brentford FC,9,4,1,4,13,14,14,0,"W,W,L,W,L",2025
-12,Newcastle United FC,9,3,3,3,12,9,8,1,"W,L,W,L,D",2025
-13,Brighton & Hove Albion FC,9,3,3,3,12,14,15,-1,"L,W,D,W,D",2025
-14,Everton FC,9,3,2,4,11,9,12,-3,"L,L,W,D,L",2025
-15,Leeds United FC,9,3,2,4,11,9,14,-5,"W,L,L,D,W",2025
-16,Burnley FC,9,3,1,5,10,12,17,-5,"W,W,L,L,D",2025
-17,Fulham FC,9,2,2,5,8,9,14,-5,"L,L,L,L,W",2025
-18,Nottingham Forest FC,9,1,2,6,5,5,17,-12,"L,L,L,L,D",2025
+3,Liverpool FC,10,6,0,4,18,18,14,4,"W,L,L,L,L",2025
+4,Tottenham Hotspur FC,10,5,2,3,17,17,8,9,"L,W,L,W,D",2025
+5,Chelsea FC,10,5,2,3,17,18,11,7,"W,L,W,W,L",2025
+6,Sunderland AFC,9,5,2,2,17,11,7,4,"W,W,L,W,D",2025
+7,Manchester United FC,10,5,2,3,17,17,16,1,"D,W,W,W,L",2025
+8,Manchester City FC,9,5,1,3,16,17,7,10,"L,W,W,W,D",2025
+9,Crystal Palace FC,10,4,4,2,16,14,9,5,"W,L,D,L,W",2025
+10,Brighton & Hove Albion FC,10,4,3,3,15,17,15,2,"W,L,W,D,W",2025
+11,Aston Villa FC,10,4,3,3,15,9,10,-1,"L,W,W,W,W",2025
+12,Brentford FC,10,4,1,5,13,14,16,-2,"L,W,W,L,W",2025
+13,Newcastle United FC,9,3,3,3,12,9,8,1,"W,L,W,L,D",2025
+14,Fulham FC,10,3,2,5,11,12,14,-2,"W,L,L,L,L",2025
+15,Everton FC,9,3,2,4,11,9,12,-3,"L,L,W,D,L",2025
+16,Leeds United FC,10,3,2,5,11,9,17,-8,"L,W,L,L,D",2025
+17,Burnley FC,10,3,1,6,10,12,19,-7,"L,W,W,L,L",2025
+18,Nottingham Forest FC,10,1,3,6,6,7,19,-12,"D,L,L,L,L",2025
 19,West Ham United FC,9,1,1,7,4,7,20,-13,"L,L,L,D,L",2025
-20,Wolverhampton Wanderers FC,9,0,2,7,2,7,19,-12,"L,L,D,D,L",2025
+20,Wolverhampton Wanderers FC,10,0,2,8,2,7,22,-15,"L,L,L,D,D",2025

@@ -22546,3 +22546,157 @@ Season,season_id,Date,Game,Team,Player,Assist Player,xG,x,y,Minute,Situation,Res
 2025,2526,2025-10-26,Everton v Tottenham,Tottenham,Mohammed Kudus,,0.06584076583385468,0.750999984741211,0.4979999923706055,59,DirectFreekick,BlockedShot,LeftFoot,Standard,Away
 2025,2526,2025-10-26,Everton v Tottenham,Tottenham,Richarlison,,0.41355663537979126,0.9,0.3629999923706055,64,OpenPlay,SavedShot,RightFoot,None,Away
 2025,2526,2025-10-26,Everton v Tottenham,Tottenham,Pape Sarr,Richarlison,0.6374728679656982,0.955,0.47400001525878904,88,OpenPlay,Goal,Head,Aerial,Away
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Carlos Baleba,Mats Wieffer,0.010648563504219055,0.725,0.24299999237060546,1,OpenPlay,MissedShots,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Yasin Ayari,,0.07523082196712494,0.855,0.5770000076293945,8,OpenPlay,SavedShot,RightFoot,BallRecovery,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Yasin Ayari,,0.032472316175699234,0.795,0.6170000076293946,10,OpenPlay,BlockedShot,RightFoot,None,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Danny Welbeck,Mats Wieffer,0.5774248242378235,0.9330000305175781,0.48,10,OpenPlay,Goal,RightFoot,Pass,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Yasin Ayari,,0.016298996284604073,0.7569999694824219,0.385,14,FromCorner,MissedShots,LeftFoot,None,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Danny Welbeck,Jan Paul van Hecke,0.060039225965738297,0.8169999694824219,0.3920000076293945,33,OpenPlay,MissedShots,RightFoot,BallRecovery,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Diego Gómez,Danny Welbeck,0.01725221984088421,0.7240000152587891,0.44599998474121094,38,OpenPlay,BlockedShot,RightFoot,TakeOn,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Yankuba Minteh,Diego Gómez,0.3010975122451782,0.87,0.539000015258789,40,OpenPlay,MissedShots,LeftFoot,TakeOn,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Jan Paul van Hecke,Yankuba Minteh,0.11808684468269348,0.865,0.5159999847412109,46,OpenPlay,SavedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Georginio Rutter,Diego Gómez,0.028983620926737785,0.7609999847412109,0.605,48,OpenPlay,MissedShots,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Diego Gómez,,0.09100312739610672,0.8530000305175781,0.5329999923706055,56,OpenPlay,SavedShot,RightFoot,None,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Diego Gómez,,0.6436755061149597,0.9569999694824218,0.49,63,OpenPlay,Goal,RightFoot,None,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Diego Gómez,Yankuba Minteh,0.559005618095398,0.91,0.47200000762939454,69,OpenPlay,Goal,RightFoot,None,Home
+2025,2526,2025-11-01,Brighton v Leeds,Brighton,Yasin Ayari,Stefanos Tzimas,0.11005481332540512,0.8440000152587891,0.5059999847412109,82,OpenPlay,SavedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Brighton v Leeds,Leeds,Sean Longstaff,,0.058571744710206985,0.745999984741211,0.5709999847412109,19,DirectFreekick,MissedShots,RightFoot,Standard,Away
+2025,2526,2025-11-01,Brighton v Leeds,Leeds,Sean Longstaff,Brenden Aaronson,0.13617469370365143,0.8980000305175782,0.4109999847412109,45,OpenPlay,BlockedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Brighton v Leeds,Leeds,Dominic Calvert-Lewin,Gabriel Gudmundsson,0.01795397885143757,0.794000015258789,0.715,56,OpenPlay,MissedShots,RightFoot,BallRecovery,Away
+2025,2526,2025-11-01,Brighton v Leeds,Leeds,Lukas Nmecha,Daniel James,0.04481443762779236,0.9469999694824218,0.3340000152587891,84,OpenPlay,SavedShot,RightFoot,Chipped,Away
+2025,2526,2025-11-01,Brighton v Leeds,Leeds,Anton Stach,,0.10167467594146729,0.8919999694824219,0.66,84,OpenPlay,SavedShot,LeftFoot,TakeOn,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Burnley,Zian Flemming,,0.03466686233878136,0.860999984741211,0.5109999847412109,70,OpenPlay,MissedShots,Head,Aerial,Home
+2025,2526,2025-11-01,Burnley v Arsenal,Burnley,Florentino Luís,Maxime Estève,0.5850650668144226,0.965999984741211,0.5079999923706054,72,SetPiece,MissedShots,Head,HeadPass,Home
+2025,2526,2025-11-01,Burnley v Arsenal,Burnley,Marcus Edwards,,0.05944499373435974,0.7580000305175781,0.37599998474121094,96,DirectFreekick,ShotOnPost,LeftFoot,Standard,Home
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Viktor Gyokeres,Gabriel,0.657794713973999,0.9769999694824218,0.49900001525878906,13,FromCorner,Goal,Head,Pass,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Jurriën Timber,,0.08213049918413162,0.955,0.45,18,FromCorner,MissedShots,Head,Aerial,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Riccardo Calafiori,Leandro Trossard,0.08583354204893112,0.93,0.6769999694824219,20,OpenPlay,SavedShot,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Bukayo Saka,Viktor Gyokeres,0.388456255197525,0.855,0.4590000152587891,22,OpenPlay,SavedShot,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Bukayo Saka,Viktor Gyokeres,0.38591456413269043,0.885,0.3820000076293945,31,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Leandro Trossard,Viktor Gyokeres,0.14579643309116364,0.889000015258789,0.5640000152587891,31,OpenPlay,BlockedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Declan Rice,Leandro Trossard,0.509440541267395,0.914000015258789,0.51,34,OpenPlay,Goal,Head,Cross,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Eberechi Eze,Bukayo Saka,0.1159055158495903,0.8490000152587891,0.6029999923706054,37,OpenPlay,BlockedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Leandro Trossard,Declan Rice,0.02482816018164158,0.7859999847412109,0.68,55,SetPiece,SavedShot,RightFoot,Chipped,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Jurriën Timber,Bukayo Saka,0.04470247030258179,0.8780000305175781,0.27899999618530275,65,OpenPlay,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Ethan Nwaneri,,0.026944873854517937,0.755,0.46599998474121096,81,OpenPlay,MissedShots,LeftFoot,BallRecovery,Away
+2025,2526,2025-11-01,Burnley v Arsenal,Arsenal,Christian Nørgaard,Mikel Merino,0.048741746693849564,0.8019999694824219,0.375,91,OpenPlay,SavedShot,RightFoot,BallRecovery,Away
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Yeremi Pino,,0.07886485755443573,0.7659999847412109,0.5209999847412109,6,DirectFreekick,BlockedShot,RightFoot,Standard,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Jean-Philippe Mateta,,0.06111471727490425,0.93,0.4540000152587891,25,OpenPlay,SavedShot,Head,Aerial,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Daichi Kamada,Tyrick Mitchell,0.030642688274383545,0.8440000152587891,0.6990000152587891,26,OpenPlay,MissedShots,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Jean-Philippe Mateta,Jefferson Lerma,0.03891671448945999,0.8830000305175781,0.4379999923706055,29,SetPiece,Goal,Head,HeadPass,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Ismaila Sarr,,0.023122671991586685,0.845999984741211,0.41700000762939454,34,FromCorner,MissedShots,RightFoot,Aerial,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Ismaila Sarr,,0.39296168088912964,0.870999984741211,0.44400001525878907,51,OpenPlay,ShotOnPost,RightFoot,BallRecovery,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Daichi Kamada,,0.024404441937804222,0.7630000305175781,0.47700000762939454,52,OpenPlay,BlockedShot,RightFoot,None,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Jefferson Lerma,Marc Guehi,0.034514717757701874,0.874000015258789,0.5970000076293945,55,FromCorner,BlockedShot,RightFoot,HeadPass,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Crystal Palace,Ismaila Sarr,Will Hughes,0.050015371292829514,0.815,0.6580000305175782,84,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Crystal Palace v Brentford,Brentford,Dango Ouattara,Thiago,0.0938725471496582,0.7930000305175782,0.42700000762939455,14,OpenPlay,BlockedShot,LeftFoot,HeadPass,Away
+2025,2526,2025-11-01,Crystal Palace v Brentford,Brentford,Mikkel Damsgaard,,0.1725776344537735,0.82,0.46900001525878904,44,DirectFreekick,MissedShots,RightFoot,Standard,Away
+2025,2526,2025-11-01,Crystal Palace v Brentford,Brentford,Nathan Collins,,0.0,0.08,0.3970000076293945,50,OpenPlay,OwnGoal,Head,None,Away
+2025,2526,2025-11-01,Crystal Palace v Brentford,Brentford,Kristoffer Ajer,Jordan Henderson,0.4381144940853119,0.9519999694824218,0.600999984741211,57,OpenPlay,SavedShot,Head,Aerial,Away
+2025,2526,2025-11-01,Crystal Palace v Brentford,Brentford,Vitaly Janelt,,0.0506218746304512,0.845999984741211,0.5559999847412109,73,OpenPlay,MissedShots,LeftFoot,None,Away
+2025,2526,2025-11-01,Crystal Palace v Brentford,Brentford,Reiss Nelson,Keane Lewis-Potter,0.050453945994377136,0.8059999847412109,0.5770000076293945,75,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Crystal Palace v Brentford,Brentford,Jordan Henderson,,0.014857977628707886,0.7430000305175781,0.62,82,FromCorner,BlockedShot,RightFoot,None,Away
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Ryan Sessegnon,Raúl Jiménez,0.32474061846733093,0.8569999694824219,0.64,8,OpenPlay,Goal,LeftFoot,Throughball,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Harry Wilson,Alex Iwobi,0.010526735335588455,0.784000015258789,0.385,16,FromCorner,MissedShots,LeftFoot,Chipped,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Harry Wilson,Alex Iwobi,0.014163708314299583,0.7180000305175781,0.3659999847412109,21,SetPiece,BlockedShot,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Harry Wilson,Joshua King,0.09377039968967438,0.9009999847412109,0.34,30,OpenPlay,MissedShots,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Kenny Tete,Sander Berge,0.020957238972187042,0.745999984741211,0.34,51,OpenPlay,SavedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Joachim Andersen,Harry Wilson,0.06322178989648819,0.9880000305175781,0.6070000076293945,51,OpenPlay,BlockedShot,RightFoot,Cross,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Kenny Tete,Alex Iwobi,0.029291372746229172,0.75,0.49200000762939455,52,OpenPlay,MissedShots,RightFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Alex Iwobi,Harry Wilson,0.06745675951242447,0.855999984741211,0.669000015258789,55,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Kenny Tete,Raúl Jiménez,0.0869169682264328,0.9740000152587891,0.3390000152587891,55,OpenPlay,SavedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Sander Berge,Raúl Jiménez,0.07875360548496246,0.8369999694824218,0.4490000152587891,61,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Harry Wilson,,0.04649535194039345,0.81,0.405,61,OpenPlay,Goal,LeftFoot,Rebound,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Joshua King,Alex Iwobi,0.056306228041648865,0.7869999694824219,0.44099998474121094,68,OpenPlay,MissedShots,RightFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Harry Wilson,Sander Berge,0.08950056880712509,0.784000015258789,0.41200000762939454,69,OpenPlay,SavedShot,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Emile Smith-Rowe,Alex Iwobi,0.14464212954044342,0.9269999694824219,0.5729999923706055,85,OpenPlay,BlockedShot,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Samuel Chukwueze,,0.6224537491798401,0.9359999847412109,0.515,85,OpenPlay,ShotOnPost,RightFoot,Rebound,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Tom Cairney,,0.05029952526092529,0.8390000152587891,0.5259999847412109,85,OpenPlay,BlockedShot,LeftFoot,Rebound,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Samuel Chukwueze,Kenny Tete,0.0611441396176815,0.8519999694824218,0.39099998474121095,87,OpenPlay,SavedShot,LeftFoot,TakeOn,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Adama Traoré,Tom Cairney,0.08458613604307175,0.8490000152587891,0.655,90,OpenPlay,BlockedShot,RightFoot,Chipped,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Fulham,Rodrigo Muniz,Emile Smith-Rowe,0.09459666162729263,0.8140000152587891,0.66,94,OpenPlay,BlockedShot,RightFoot,BallRecovery,Home
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Wolverhampton Wanderers,Jean-Ricner Bellegarde,Jørgen Strand Larsen,0.06966282427310944,0.8669999694824219,0.34599998474121096,2,OpenPlay,SavedShot,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Wolverhampton Wanderers,Marshall Munetsi,Toti,0.016461476683616638,0.889000015258789,0.39799999237060546,19,OpenPlay,MissedShots,Head,Aerial,Away
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Wolverhampton Wanderers,Jean-Ricner Bellegarde,,0.010837031528353691,0.764000015258789,0.645,47,OpenPlay,MissedShots,LeftFoot,Aerial,Away
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Wolverhampton Wanderers,Ladislav Krejcí,Toti,0.039967987686395645,0.9280000305175782,0.43599998474121093,50,OpenPlay,SavedShot,Head,Aerial,Away
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Wolverhampton Wanderers,Yerson Mosquera,,0.0,0.03200000047683716,0.48200000762939454,74,OpenPlay,OwnGoal,RightFoot,None,Away
+2025,2526,2025-11-01,Fulham v Wolverhampton Wanderers,Wolverhampton Wanderers,Tolu Arokodare,,0.07300447672605515,0.7809999847412109,0.3629999923706055,94,DirectFreekick,BlockedShot,RightFoot,Standard,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Igor Jesus,Callum Hudson-Odoi,0.10693354159593582,0.8640000152587891,0.529000015258789,5,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Nikola Milenkovic,Douglas Luiz,0.057286493480205536,0.965999984741211,0.5729999923706055,6,FromCorner,MissedShots,Head,Aerial,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Dan Ndoye,Callum Hudson-Odoi,0.017925884574651718,0.7519999694824219,0.3160000038146973,7,OpenPlay,SavedShot,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Elliot Anderson,,0.016019824892282486,0.7809999847412109,0.4909999847412109,7,FromCorner,MissedShots,RightFoot,Aerial,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Callum Hudson-Odoi,Morgan Gibbs-White,0.027538128197193146,0.8180000305175781,0.7090000152587891,14,OpenPlay,MissedShots,RightFoot,TakeOn,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Callum Hudson-Odoi,Morgan Gibbs-White,0.026938065886497498,0.8080000305175781,0.6909999847412109,39,OpenPlay,MissedShots,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Morgan Gibbs-White,Callum Hudson-Odoi,0.12161798775196075,0.8880000305175781,0.37099998474121093,42,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Morgan Gibbs-White,Ryan Yates,0.08953892439603806,0.9180000305175782,0.54,47,OpenPlay,Goal,Head,Cross,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Igor Jesus,,0.056174881756305695,0.9109999847412109,0.5209999847412109,49,OpenPlay,BlockedShot,Head,None,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Nicolò Savona,,0.6933292150497437,0.9590000152587891,0.5079999923706054,49,OpenPlay,Goal,LeftFoot,Rebound,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Murillo,Elliot Anderson,0.042134784162044525,0.9180000305175782,0.4809999847412109,56,FromCorner,MissedShots,Head,Aerial,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Igor Jesus,,0.055346209555864334,0.9769999694824218,0.41400001525878904,65,OpenPlay,MissedShots,Head,Aerial,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Callum Hudson-Odoi,Elliot Anderson,0.06050170212984085,0.7709999847412109,0.46099998474121096,67,OpenPlay,MissedShots,RightFoot,Pass,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Neco Williams,,0.04677194356918335,0.8190000152587891,0.5940000152587891,84,OpenPlay,BlockedShot,RightFoot,None,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Nikola Milenkovic,Elliot Anderson,0.03556076064705849,0.9159999847412109,0.5320000076293945,85,FromCorner,MissedShots,Head,Aerial,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Callum Hudson-Odoi,Taiwo Awoniyi,0.07760867476463318,0.874000015258789,0.6070000076293945,88,OpenPlay,BlockedShot,RightFoot,BallRecovery,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Nottingham Forest,Elliot Anderson,Callum Hudson-Odoi,0.0632932260632515,0.8809999847412109,0.6220000076293946,88,OpenPlay,BlockedShot,RightFoot,Rebound,Home
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Benjamin Sesko,Bryan Mbeumo,0.1057664304971695,0.895,0.4759999847412109,2,OpenPlay,BlockedShot,RightFoot,Cross,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Benjamin Sesko,Matheus Cunha,0.0272288229316473,0.77,0.5879999923706055,14,OpenPlay,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Amad Diallo Traore,Bruno Fernandes,0.024067455902695656,0.789000015258789,0.3240000152587891,27,OpenPlay,SavedShot,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Casemiro,Bruno Fernandes,0.11617419123649597,0.9369999694824219,0.4620000076293945,33,FromCorner,Goal,Head,Cross,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Amad Diallo Traore,Bryan Mbeumo,0.03299862518906593,0.7559999847412109,0.39799999237060546,41,OpenPlay,MissedShots,LeftFoot,BallRecovery,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Bryan Mbeumo,Matheus Cunha,0.05240187421441078,0.8369999694824218,0.4229999923706055,55,OpenPlay,SavedShot,LeftFoot,BallTouch,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Bruno Fernandes,Bryan Mbeumo,0.015346704050898552,0.7130000305175781,0.42700000762939455,59,OpenPlay,ShotOnPost,RightFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Casemiro,,0.07025039196014404,0.9080000305175782,0.37900001525878907,59,OpenPlay,MissedShots,RightFoot,Rebound,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Casemiro,Amad Diallo Traore,0.014276795089244843,0.7019999694824218,0.549000015258789,73,OpenPlay,BlockedShot,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Bruno Fernandes,Casemiro,0.04922129958868027,0.8180000305175781,0.5970000076293945,73,OpenPlay,BlockedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Matheus Cunha,Casemiro,0.039864636957645416,0.7709999847412109,0.44400001525878907,74,OpenPlay,BlockedShot,RightFoot,LayOff,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Patrick Dorgu,,0.015165358781814575,0.86,0.825999984741211,74,OpenPlay,SavedShot,LeftFoot,BallRecovery,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Patrick Dorgu,Casemiro,0.13721652328968048,0.9490000152587891,0.5,80,FromCorner,MissedShots,LeftFoot,HeadPass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Amad Diallo Traore,,0.04883319139480591,0.815,0.46700000762939453,80,FromCorner,Goal,LeftFoot,Rebound,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Matheus Cunha,Bruno Fernandes,0.030170688405632973,0.77,0.4829999923706055,86,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Benjamin Sesko,Matheus Cunha,0.059348173439502716,0.9640000152587891,0.6930000305175781,87,OpenPlay,MissedShots,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Casemiro,Bruno Fernandes,0.013148176483809948,0.6840000152587891,0.45599998474121095,92,OpenPlay,BlockedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Nottingham Forest v Manchester United,Manchester United,Amad Diallo Traore,,0.07251963019371033,0.9030000305175782,0.610999984741211,93,FromCorner,BlockedShot,LeftFoot,None,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Tottenham,Mohammed Kudus,Randal Kolo Muani,0.02562577649950981,0.8109999847412109,0.29200000762939454,31,OpenPlay,MissedShots,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Tottenham v Chelsea,Tottenham,Mohammed Kudus,Pape Sarr,0.05039970949292183,0.8819999694824219,0.3,50,OpenPlay,SavedShot,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Tottenham v Chelsea,Tottenham,Mohammed Kudus,Pape Sarr,0.07092811167240143,0.875,0.35400001525878905,70,OpenPlay,BlockedShot,LeftFoot,TakeOn,Home
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Marc Cucurella,,0.050805579870939255,0.8490000152587891,0.41200000762939454,10,FromCorner,BlockedShot,LeftFoot,None,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Reece James,Enzo Fernández,0.014707226306200027,0.7030000305175781,0.5540000152587891,18,OpenPlay,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Alejandro Garnacho,Enzo Fernández,0.06115251034498215,0.8519999694824218,0.64,19,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,João Pedro,Alejandro Garnacho,0.30618831515312195,0.875999984741211,0.6859999847412109,30,OpenPlay,SavedShot,RightFoot,BallRecovery,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,João Pedro,Moisés Caicedo,0.5045353174209595,0.9159999847412109,0.48200000762939454,33,OpenPlay,Goal,RightFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,João Pedro,Malo Gusto,0.3248288333415985,0.8980000305175782,0.46599998474121096,42,OpenPlay,SavedShot,RightFoot,Cross,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Enzo Fernández,Moisés Caicedo,0.03798317164182663,0.7709999847412109,0.5179999923706055,47,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Enzo Fernández,Reece James,0.6195019483566284,0.950999984741211,0.49900001525878906,52,OpenPlay,MissedShots,Head,Aerial,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Pedro Neto,João Pedro,0.050810255110263824,0.89,0.2979999923706055,55,OpenPlay,SavedShot,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Pedro Neto,Alejandro Garnacho,0.154220849275589,0.950999984741211,0.545,56,OpenPlay,MissedShots,LeftFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,João Pedro,Pedro Neto,0.014432013034820557,0.9569999694824218,0.654000015258789,56,OpenPlay,SavedShot,Head,Rebound,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Pedro Neto,Enzo Fernández,0.08520326018333435,0.8930000305175781,0.3290000152587891,73,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Reece James,Malo Gusto,0.0824153870344162,0.8180000305175781,0.47900001525878905,73,OpenPlay,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,Jamie Bynoe-Gittens,João Pedro,0.4768640100955963,0.889000015258789,0.6029999923706054,92,OpenPlay,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Tottenham v Chelsea,Chelsea,João Pedro,Enzo Fernández,0.5610902309417725,0.905,0.44,93,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Ryan Gravenberch,Dominik Szoboszlai,0.01718798652291298,0.7469999694824219,0.3609999847412109,1,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Dominik Szoboszlai,Cody Gakpo,0.016982421278953552,0.730999984741211,0.4209999847412109,14,OpenPlay,MissedShots,RightFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Cody Gakpo,Mohamed Salah,0.03213052451610565,0.9080000305175782,0.610999984741211,17,OpenPlay,MissedShots,Head,Chipped,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Andrew Robertson,Dominik Szoboszlai,0.05662696808576584,0.855,0.519000015258789,17,OpenPlay,BlockedShot,LeftFoot,HeadPass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Mohamed Salah,Cody Gakpo,0.02013007365167141,0.7530000305175781,0.43200000762939456,21,OpenPlay,MissedShots,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Dominik Szoboszlai,,0.32155975699424744,0.8159999847412109,0.515,22,OpenPlay,SavedShot,LeftFoot,BallRecovery,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Dominik Szoboszlai,,0.0709388256072998,0.8090000152587891,0.705,32,DirectFreekick,SavedShot,RightFoot,Standard,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Cody Gakpo,Alexis Mac Allister,0.09435593336820602,0.845999984741211,0.544000015258789,35,OpenPlay,MissedShots,RightFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Ibrahima Konaté,Andrew Robertson,0.17957918345928192,0.915,0.435,37,SetPiece,MissedShots,Head,Cross,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Cody Gakpo,Alexis Mac Allister,0.021985482424497604,0.7619999694824219,0.6580000305175782,37,OpenPlay,MissedShots,RightFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Alexis Mac Allister,Ryan Gravenberch,0.09594360738992691,0.9059999847412109,0.3659999847412109,42,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Mohamed Salah,,0.2812313437461853,0.8590000152587891,0.28299999237060547,45,OpenPlay,Goal,RightFoot,None,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Conor Bradley,,0.014446502551436424,0.725,0.46799999237060547,48,FromCorner,MissedShots,RightFoot,None,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Ryan Gravenberch,Alexis Mac Allister,0.0752357691526413,0.8130000305175781,0.4829999923706055,57,OpenPlay,Goal,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Mohamed Salah,Dominik Szoboszlai,0.0905098244547844,0.8240000152587891,0.44799999237060545,62,OpenPlay,BlockedShot,LeftFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Liverpool,Cody Gakpo,Florian Wirtz,0.08136576414108276,0.8430000305175781,0.625999984741211,79,OpenPlay,BlockedShot,RightFoot,Pass,Home
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Morgan Rogers,Ollie Watkins,0.05503184720873833,0.8369999694824218,0.625999984741211,4,OpenPlay,ShotOnPost,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Matthew Cash,Boubacar Kamara,0.017546281218528748,0.8190000152587891,0.18299999237060546,18,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Morgan Rogers,John McGinn,0.01868811622262001,0.7219999694824218,0.37200000762939456,20,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Evann Guessand,Morgan Rogers,0.09193339943885803,0.8490000152587891,0.48900001525878906,25,OpenPlay,BlockedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Matthew Cash,Lucas Digne,0.018016966059803963,0.7140000152587891,0.4620000076293945,39,SetPiece,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Morgan Rogers,Matthew Cash,0.052194301038980484,0.92,0.3940000152587891,55,OpenPlay,MissedShots,Head,Cross,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Ross Barkley,Amadou Onana,0.020390674471855164,0.76,0.39299999237060546,62,OpenPlay,SavedShot,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Donyell Malen,Ross Barkley,0.057013943791389465,0.805,0.30700000762939456,69,OpenPlay,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Ross Barkley,Jadon Sancho,0.08261272311210632,0.8669999694824219,0.624000015258789,78,OpenPlay,MissedShots,RightFoot,Pass,Away
+2025,2526,2025-11-01,Liverpool v Aston Villa,Aston Villa,Jadon Sancho,Ian Maatsen,0.021591899916529655,0.775,0.6480000305175782,85,OpenPlay,MissedShots,RightFoot,Pass,Away
