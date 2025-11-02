@@ -418,14 +418,14 @@ if view == "🎯 Shot Maps":
                 st.subheader("Shot Type Distribution")
                 shot_type_counts = filtered_shots[shot_type_col].value_counts().reset_index()
                 shot_type_counts.columns = ['body_part', 'count']
-                st.bar_chart(shot_type_counts.set_index('body_part'), color="#37003c", horizontal=True, height=400)
+                st.bar_chart(shot_type_counts.set_index('body_part'), color="#e289ea", horizontal=True, height=400)
         
         with col2:
             if situation_col:
                 st.subheader("Situation Distribution")
                 situation_counts = filtered_shots[situation_col].value_counts().reset_index()
                 situation_counts.columns = ['situation', 'count']
-                st.bar_chart(situation_counts.set_index('situation'), color="#37003c", horizontal=True, height=400)
+                st.bar_chart(situation_counts.set_index('situation'), color="#e289ea", horizontal=True, height=400)
         
         st.subheader("Shot Details")
         display_cols = [player_col, minute_col, result_col, xg_col, shot_type_col, situation_col, assist_col]
@@ -487,7 +487,7 @@ elif view == "📊 League Analysis":
             top_10_chart = alt.Chart(top_10).mark_bar().encode(
                 x=alt.X(points_col, title='Points'),
                 y=alt.Y(team_col, sort=alt.SortField(points_col, order='descending'), title='Team'),
-                color=alt.value("#37003c"),
+                color=alt.value("#e289ea"),
                 tooltip=[team_col, points_col]
             ).properties(height=400)
 
@@ -504,7 +504,7 @@ elif view == "📊 League Analysis":
                 x=gf_col,
                 y=ga_col,
                 size=gf_col,
-                color=alt.value("#37003c"),
+                color=alt.value("#e289ea"),
                 tooltip=[team_col, gf_col, ga_col]
             ).properties(height=400)
 
