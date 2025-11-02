@@ -70,9 +70,11 @@ def get_current_season():
 # Get current season
 FD_SEASON, SD_SEASON, UNDERSTAT_YEAR = get_current_season()
 
-# Output directory
+# Output directories - same structure as original
 OUTPUT_DIR = "premier_league_combined_data"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "football_data"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "understat"), exist_ok=True)
 
 # ============================================================================
 # UTILITY FUNCTIONS
@@ -105,7 +107,6 @@ def make_football_data_request(endpoint, params=None):
             print(f"  ✗ Access forbidden - may not be available in free tier")
         return None
     except Exception as e:
-        print(f"  ✗ Error: {e}")
         return None
 
 def make_understat_request(url):
@@ -121,10 +122,13 @@ def make_understat_request(url):
     except Exception as e:
         return None
 
-def save_dataframe(df, filename):
+def save_dataframe(df, filename, subdir=None):
     """Save dataframe as CSV"""
     if df is not None and not df.empty:
-        filepath = os.path.join(OUTPUT_DIR, filename)
+        if subdir:
+            filepath = os.path.join(OUTPUT_DIR, subdir, filename)
+        else:
+            filepath = os.path.join(OUTPUT_DIR, filename)
         df.to_csv(filepath, index=False)
         print(f"  ✓ Saved: {filename} ({len(df)} rows)")
         return True
@@ -210,31 +214,6 @@ def get_football_data_matches(season):
         return df
     return None
 
-def get_football_data_scorers(season):
-    """Get top scorers from Football-Data.org"""
-    scorers_data = make_football_data_request(
-        f"competitions/{PREMIER_LEAGUE_CODE}/scorers",
-        {"season": season}
-    )
-    
-    if scorers_data and 'scorers' in scorers_data:
-        scorers_list = []
-        
-        for scorer in scorers_data['scorers']:
-            scorers_list.append({
-                'Player': scorer['player']['name'],
-                'Team': scorer['team']['name'],
-                'Goals': scorer['goals'],
-                'Assists': scorer.get('assists'),
-                'Penalties': scorer.get('penalties'),
-                'Nationality': scorer['player'].get('nationality'),
-                'Position': scorer['player'].get('position'),
-                'Season': season
-            })
-        
-        return pd.DataFrame(scorers_list)
-    return None
-
 def get_football_data_teams(season):
     """Get teams from Football-Data.org"""
     teams_data = make_football_data_request(
@@ -249,7 +228,7 @@ def get_football_data_teams(season):
             teams_list.append({
                 'Name': team.get('name'),
                 'Short Name': team.get('shortName'),
-                'TLA': team.get('tla'),
+                'tla': team.get('tla'),
                 'Crest': team.get('crest'),
                 'Address': team.get('address'),
                 'Website': team.get('website'),
@@ -404,13 +383,14 @@ print("\n" + "=" * 70)
 print("PART 1: FOOTBALL-DATA.ORG EXTRACTION")
 print("=" * 70)
 
-print(f"\nExtracting data for season {FD_SEASON}-{FD_SEASON+1}...")
+print(f"\nSEASON {FD_SEASON}-{FD_SEASON+1}")
+print("=" * 70)
 
 # Standings
-print("\n  • Standings...", end=" ")
+print("  • Standings...", end=" ")
 standings = get_football_data_standings(FD_SEASON)
 if standings is not None:
-    save_dataframe(standings, "standings.csv")
+    save_dataframe(standings, f"standings_{FD_SEASON}.csv", "football_data")
 else:
     print("✗ Failed")
 time.sleep(6)
@@ -419,16 +399,7 @@ time.sleep(6)
 print("  • Matches...", end=" ")
 fd_matches = get_football_data_matches(FD_SEASON)
 if fd_matches is not None:
-    save_dataframe(fd_matches, "matches_football_data.csv")
-else:
-    print("✗ Failed")
-time.sleep(6)
-
-# Top Scorers
-print("  • Top Scorers...", end=" ")
-scorers = get_football_data_scorers(FD_SEASON)
-if scorers is not None:
-    save_dataframe(scorers, "top_scorers.csv")
+    save_dataframe(fd_matches, f"matches_{FD_SEASON}.csv", "football_data")
 else:
     print("✗ Failed")
 time.sleep(6)
@@ -437,12 +408,12 @@ time.sleep(6)
 print("  • Teams...", end=" ")
 teams = get_football_data_teams(FD_SEASON)
 if teams is not None:
-    save_dataframe(teams, "teams.csv")
+    save_dataframe(teams, f"teams_{FD_SEASON}.csv", "football_data")
 else:
     print("✗ Failed")
 time.sleep(6)
 
-print(f"\n✓ Football-Data.org extraction complete")
+print(f"✓ Season {FD_SEASON} complete")
 
 # ============================================================================
 # UNDERSTAT EXTRACTION VIA SOCCERDATA
@@ -457,7 +428,7 @@ try:
     understat = sd.Understat(leagues=['ENG-Premier League'], seasons=[SD_SEASON])
     
     # 1. Team match stats
-    print("\n[1/4] Extracting team match stats...")
+    print("\n[1/5] Extracting team match stats...")
     team_stats = understat.read_team_match_stats()
     
     # Flatten multi-index columns and reset index
@@ -514,11 +485,31 @@ try:
     team_stats['Home xG Diff'] = team_stats['Home xG'] - team_stats['Away xG']
     team_stats['Away xG Diff'] = team_stats['Away xG'] - team_stats['Home xG']
     
-    save_dataframe(team_stats, "team_stats.csv")
+    save_dataframe(team_stats, f"team_stats_{SD_SEASON}.csv", "understat")
+    save_dataframe(team_stats, "team_stats_all_seasons.csv", "understat")
     print(f"  ✓ Saved {len(team_stats)} records")
     
-    # 2. Player season stats
-    print("\n[2/4] Extracting player season stats...")
+    # 2. Store game_id for later use
+    print("\n[2/5] Extracting basic shot events...")
+    shots_basic = understat.read_shot_events()
+    
+    # Flatten multi-index columns and reset index
+    if isinstance(shots_basic.columns, pd.MultiIndex):
+        shots_basic.columns = ['_'.join(col).strip() if col[1] else col[0] for col in shots_basic.columns.values]
+    shots_basic = shots_basic.reset_index()
+    
+    # Clean column names
+    shots_basic.columns = [str(col).lower().replace(' ', '_') for col in shots_basic.columns]
+    
+    # Standardize date format
+    if 'date' in shots_basic.columns:
+        shots_basic['date'] = pd.to_datetime(shots_basic['date']).dt.strftime('%Y-%m-%d')
+    
+    # Store game_id mapping for player match stats
+    game_id_mapping = shots_basic[['game_id', 'date']].drop_duplicates()
+    
+    # 3. Player season stats
+    print("\n[3/5] Extracting player season stats...")
     player_season = understat.read_player_season_stats()
     
     # Flatten multi-index columns and reset index
@@ -558,11 +549,12 @@ try:
         'red_cards': 'Red Cards',        
     })
 
-    save_dataframe(player_season, "player_season_stats.csv")
+    save_dataframe(player_season, f"player_season_{SD_SEASON}.csv", "understat")
+    save_dataframe(player_season, "player_season_all_seasons.csv", "understat")
     print(f"  ✓ Saved {len(player_season)} records")
     
-    # 3. Player match stats
-    print("\n[3/4] Extracting player match stats...")
+    # 4. Player match stats
+    print("\n[4/5] Extracting player match stats...")
     player_match = understat.read_player_match_stats()
     
     # Flatten multi-index columns and reset index
@@ -579,6 +571,9 @@ try:
     # Drop specific columns
     player_match_drop = ['league_id','player_id','team_id']
     player_match = player_match.drop(columns=[col for col in player_match_drop if col in player_match.columns])
+    
+    # Add dates from game_id_mapping
+    player_match = player_match.merge(game_id_mapping, how='left', on='game_id')
 
     # Rename columns
     player_match = player_match.rename(columns={
@@ -599,14 +594,16 @@ try:
         'xa': 'xA',
         'position_id': 'Position ID',
         'yellow_cards': 'Yellow Cards',
-        'red_cards': 'Red Cards',        
+        'red_cards': 'Red Cards',
+        'date': 'Date',
     })
     
-    save_dataframe(player_match, "player_match_stats.csv")
+    save_dataframe(player_match, f"player_match_{SD_SEASON}.csv", "understat")
+    save_dataframe(player_match, "player_match_all_seasons.csv", "understat")
     print(f"  ✓ Saved {len(player_match)} records")
     
-    # 4. ENHANCED: Detailed shots via web scraping
-    print("\n[4/4] Extracting DETAILED shot data via web scraping...")
+    # 5. ENHANCED: Detailed shots via web scraping
+    print("\n[5/5] Extracting DETAILED shot data via web scraping...")
     print("  (This includes: Shot Type, Last Action, Home/Away)")
     
     print(f"\n  Processing season {SD_SEASON} (using year {UNDERSTAT_YEAR} for scraping)...")
@@ -665,7 +662,8 @@ try:
                         'Last Action', 'Home/Away']
             combined_shots = combined_shots[[col for col in column_order if col in combined_shots.columns]]
             
-            save_dataframe(combined_shots, "shots_detailed.csv")
+            save_dataframe(combined_shots, f"shots_detailed_{SD_SEASON}.csv", "understat")
+            save_dataframe(combined_shots, "shots_detailed_all_seasons.csv", "understat")
             print(f"    ✓ Saved {len(combined_shots)} detailed shots")
         else:
             print(f"    ✗ No shots collected")
@@ -687,8 +685,8 @@ print("=" * 70)
 
 print("\nCreating merged match dataset (Football-Data + Understat xG)...")
 
-fd_matches_file = os.path.join(OUTPUT_DIR, "matches_football_data.csv")
-us_matches_file = os.path.join(OUTPUT_DIR, "team_stats.csv")
+fd_matches_file = os.path.join(OUTPUT_DIR, "football_data", f"matches_{FD_SEASON}.csv")
+us_matches_file = os.path.join(OUTPUT_DIR, "understat", f"team_stats_{SD_SEASON}.csv")
 
 if os.path.exists(fd_matches_file) and os.path.exists(us_matches_file):
     fd_df = pd.read_csv(fd_matches_file)
@@ -703,14 +701,17 @@ if os.path.exists(fd_matches_file) and os.path.exists(us_matches_file):
         suffixes=('', '_fd')
     )
     
-    save_dataframe(merged, "matches_merged.csv")
+    save_dataframe(merged, f"matches_merged_{FD_SEASON}.csv")
     
     # Report matching success
     matched = merged['Referee'].notna().sum()
     total = len(merged)
-    print(f"  ✓ Merged matches: {matched}/{total} matches joined successfully")
+    print(f"  ✓ Merged {FD_SEASON}: {matched}/{total} matches joined successfully")
 else:
-    print("  ⚠️  Could not merge - missing source files")
+    if not os.path.exists(fd_matches_file):
+        print(f"  ⚠️  Missing Football-Data file for {FD_SEASON}")
+    if not os.path.exists(us_matches_file):
+        print(f"  ⚠️  Missing Understat file for {SD_SEASON}")
 
 # ============================================================================
 # FINAL SUMMARY
@@ -720,46 +721,48 @@ print("\n" + "=" * 70)
 print("✓ EXTRACTION COMPLETE")
 print("=" * 70)
 
-print("\nFiles created:")
-print("  • standings.csv - Current league table")
-print("  • matches_football_data.csv - Match details with scores")
-print("  • matches_merged.csv - Combined match data with xG")
-print("  • top_scorers.csv - Current top goal scorers")
-print("  • teams.csv - Team information")
-print("  • team_stats.csv - Team match stats with xG, PPDA")
-print("  • shots_detailed.csv - ALL shots with Shot Type, Last Action")
-print("  • player_season_stats.csv - Player season statistics")
-print("  • player_match_stats.csv - Player match-by-match stats")
+print("\nData Structure:")
+print("  📁 football_data/")
+print(f"     • standings_{FD_SEASON}.csv - League table")
+print(f"     • matches_{FD_SEASON}.csv - Match details with scores")
+print(f"     • teams_{FD_SEASON}.csv - Team information")
+
+print("\n  📁 understat/")
+print(f"     • team_stats_{SD_SEASON}.csv - Team match stats with xG, PPDA")
+print(f"     • shots_detailed_{SD_SEASON}.csv - ALL shots with Shot Type, Last Action")
+print(f"     • player_season_{SD_SEASON}.csv - Player season stats")
+print(f"     • player_match_{SD_SEASON}.csv - Player match stats")
+print("     • *_all_seasons.csv - Combined data (same as season files)")
+
+print("\n  📁 Root/")
+print(f"     • matches_merged_{FD_SEASON}.csv - Combined best of both!")
 
 print("\nWhat you have:")
-print("  ✓ Current standings and form")
-print("  ✓ All matches with scores and referees")
-print("  ✓ Advanced xG stats for all matches")
-print("  ✓ DETAILED shot data with Shot Type & Last Action")
+print("  ✓ Basic match data (Football-Data.org)")
+print("  ✓ Advanced xG stats (Understat via soccerdata)")
+print("  ✓ DETAILED shot data with Shot Type & Last Action (Understat scraping)")
 print("  ✓ Shot locations and coordinates (x, y)")
-print("  ✓ Team PPDA and advanced metrics")
-print("  ✓ Player season and match stats")
-print("  ✓ Top scorers with assists")
+print("  ✓ Team PPDA and advanced metrics (Understat)")
+print("  ✓ Player season and match stats (Understat)")
+print("  ✓ Referee information (Football-Data.org)")
 
 print("\nShot data includes:")
 print("  ✓ Shot Type (LeftFoot, RightFoot, Head, OtherBodyPart)")
 print("  ✓ Last Action (Pass, Dribble, Rebound, etc.)")
 print("  ✓ Home/Away designation")
 print("  ✓ Assist Player information")
-print("  ✓ xG value for each shot")
-print("  ✓ Exact x,y coordinates on pitch")
 
 print("\nKey Features:")
 print("  ✓ Automatically detects current season")
-print("  ✓ No dependency on match file matching")
+print("  ✓ Match IDs fetched directly from Understat scraping")
+print("  ✓ No dependency on historical match files")
 print("  ✓ Multi-threaded shot scraping for speed")
-print("  ✓ Rate limiting to respect Understat")
 
 print("\nNext steps:")
-print("  1. Use matches_merged.csv for comprehensive match analysis")
-print("  2. Use shots_detailed.csv for complete shot maps and analysis")
+print(f"  1. Use matches_merged_{FD_SEASON}.csv for comprehensive match analysis")
+print("  2. Use shots_detailed_all_seasons.csv for complete shot maps and analysis")
 print("  3. Use player stats for detailed player performance tracking")
-print("  4. Build Streamlit dashboard with mplsoccer for visualizations")
+print("  4. Build Streamlit dashboard with mplsoccer")
 
 print(f"\nData saved to: {OUTPUT_DIR}/")
 print(f"Season: {FD_SEASON}-{FD_SEASON+1}")
