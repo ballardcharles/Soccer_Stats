@@ -96,19 +96,19 @@ join_key,id,Season,Match Week,Date,Status,Home Team,Away Team,Home Score,Away Sc
 2025-11-01_Nottingham,537882,2025,10,2025-11-01,FINISHED,Nottingham Forest FC,Manchester United FC,2.0,2.0,0.0,1.0,DRAW,,Darren England,Nottingham
 2025-11-01_Tottenham,537883,2025,10,2025-11-01,FINISHED,Tottenham Hotspur FC,Chelsea FC,0.0,1.0,0.0,1.0,AWAY_TEAM,,Jarred Gillett,Tottenham
 2025-11-01_Liverpool,537880,2025,10,2025-11-01,FINISHED,Liverpool FC,Aston Villa FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Stuart Attwell,Liverpool
-2025-11-02_West,537884,2025,10,2025-11-02,IN_PLAY,West Ham United FC,Newcastle United FC,1.0,1.0,0.0,0.0,DRAW,,Robert Jones,West
-2025-11-02_Manchester,537881,2025,10,2025-11-02,TIMED,Manchester City FC,Bournemouth,,,,,,,Anthony Taylor,Manchester
-2025-11-03_Sunderland,537875,2025,10,2025-11-03,TIMED,Sunderland AFC,Everton FC,,,,,,,,Sunderland
-2025-11-08_Tottenham,537893,2025,11,2025-11-08,TIMED,Tottenham Hotspur FC,Manchester United FC,,,,,,,,Tottenham
-2025-11-08_Everton,537890,2025,11,2025-11-08,TIMED,Everton FC,Fulham FC,,,,,,,,Everton
-2025-11-08_West,537894,2025,11,2025-11-08,TIMED,West Ham United FC,Burnley FC,,,,,,,,West
-2025-11-08_Sunderland,537885,2025,11,2025-11-08,TIMED,Sunderland AFC,Arsenal FC,,,,,,,,Sunderland
-2025-11-08_Chelsea,537889,2025,11,2025-11-08,TIMED,Chelsea FC,Wolverhampton Wanderers FC,,,,,,,,Chelsea
-2025-11-09_Aston,537886,2025,11,2025-11-09,TIMED,Aston Villa FC,Bournemouth,,,,,,,,Aston
-2025-11-09_Crystal,537887,2025,11,2025-11-09,TIMED,Crystal Palace FC,Brighton & Hove Albion FC,,,,,,,,Crystal
-2025-11-09_Brentford,537888,2025,11,2025-11-09,TIMED,Brentford FC,Newcastle United FC,,,,,,,,Brentford
-2025-11-09_Nottingham,537892,2025,11,2025-11-09,TIMED,Nottingham Forest FC,Leeds United FC,,,,,,,,Nottingham
-2025-11-09_Manchester,537891,2025,11,2025-11-09,TIMED,Manchester City FC,Liverpool FC,,,,,,,,Manchester
+2025-11-02_West,537884,2025,10,2025-11-02,FINISHED,West Ham United FC,Newcastle United FC,3.0,1.0,2.0,1.0,HOME_TEAM,,Robert Jones,West
+2025-11-02_Manchester,537881,2025,10,2025-11-02,FINISHED,Manchester City FC,Bournemouth,3.0,1.0,2.0,1.0,HOME_TEAM,,Anthony Taylor,Manchester
+2025-11-03_Sunderland,537875,2025,10,2025-11-03,FINISHED,Sunderland AFC,Everton FC,1.0,1.0,0.0,1.0,DRAW,,Thomas Bramall,Sunderland
+2025-11-08_Tottenham,537893,2025,11,2025-11-08,FINISHED,Tottenham Hotspur FC,Manchester United FC,2.0,2.0,0.0,1.0,DRAW,,Sam Barrott,Tottenham
+2025-11-08_Everton,537890,2025,11,2025-11-08,FINISHED,Everton FC,Fulham FC,2.0,0.0,1.0,0.0,HOME_TEAM,,Andy Madley,Everton
+2025-11-08_West,537894,2025,11,2025-11-08,FINISHED,West Ham United FC,Burnley FC,3.0,2.0,1.0,1.0,HOME_TEAM,,Michael Salisbury,West
+2025-11-08_Sunderland,537885,2025,11,2025-11-08,FINISHED,Sunderland AFC,Arsenal FC,2.0,2.0,1.0,0.0,DRAW,,Craig Pawson,Sunderland
+2025-11-08_Chelsea,537889,2025,11,2025-11-08,FINISHED,Chelsea FC,Wolverhampton Wanderers FC,3.0,0.0,0.0,0.0,HOME_TEAM,,Andrew Kitchen,Chelsea
+2025-11-09_Aston,537886,2025,11,2025-11-09,FINISHED,Aston Villa FC,Bournemouth,4.0,0.0,2.0,0.0,HOME_TEAM,,John Brooks,Aston
+2025-11-09_Crystal,537887,2025,11,2025-11-09,FINISHED,Crystal Palace FC,Brighton & Hove Albion FC,0.0,0.0,0.0,0.0,DRAW,,Tim Robinson,Crystal
+2025-11-09_Brentford,537888,2025,11,2025-11-09,FINISHED,Brentford FC,Newcastle United FC,3.0,1.0,0.0,1.0,HOME_TEAM,,Stuart Attwell,Brentford
+2025-11-09_Nottingham,537892,2025,11,2025-11-09,FINISHED,Nottingham Forest FC,Leeds United FC,3.0,1.0,1.0,1.0,HOME_TEAM,,Jarred Gillett,Nottingham
+2025-11-09_Manchester,537891,2025,11,2025-11-09,FINISHED,Manchester City FC,Liverpool FC,3.0,0.0,2.0,0.0,HOME_TEAM,,Chris Kavanagh,Manchester
 2025-11-22_Burnley,537898,2025,12,2025-11-22,TIMED,Burnley FC,Chelsea FC,,,,,,,,Burnley
 2025-11-22_Bournemouth,537895,2025,12,2025-11-22,TIMED,Bournemouth,West Ham United FC,,,,,,,,Bournemouth
 2025-11-22_Brighton,537896,2025,12,2025-11-22,TIMED,Brighton & Hove Albion FC,Brentford FC,,,,,,,,Brighton

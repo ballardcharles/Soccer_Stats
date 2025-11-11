@@ -6,3 +6,4 @@ seaborn==0.13.2
 mplsoccer==1.6.0
 pillow==11.0.0
 altair==5.5.0
+feedparser==6.0.11

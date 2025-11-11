@@ -35,8 +35,7 @@ st.set_page_config(
 if 'preferences' not in st.session_state:
     st.session_state.preferences = {
         'sources': [],
-        'num_articles': 15,
-        'dark_mode': False
+        'num_articles': 15
     }
 
 if 'bookmarks' not in st.session_state:
@@ -48,10 +47,8 @@ if 'read_articles' not in st.session_state:
 # =============================================================================
 # THEME CONFIGURATION
 # =============================================================================
-def get_theme_colors():
-    """Return color scheme based on dark mode preference"""
-    if st.session_state.preferences['dark_mode']:
-        return {
+
+theme = {
             'bg_primary': '#1e1e1e',
             'bg_secondary': '#2d2d2d',
             'text_primary': '#ffffff',
@@ -59,17 +56,6 @@ def get_theme_colors():
             'border': '#404040',
             'link': '#58a6ff'
         }
-    else:
-        return {
-            'bg_primary': '#ffffff',
-            'bg_secondary': '#f9f9f9',
-            'text_primary': '#000000',
-            'text_secondary': '#666666',
-            'border': '#dddddd',
-            'link': '#1f77b4'
-        }
-
-theme = get_theme_colors()
 
 # =============================================================================
 # CUSTOM CSS STYLING
@@ -112,8 +98,8 @@ st.markdown(f"""
 # =============================================================================
 # APP HEADER
 # =============================================================================
-st.title("⚽ Premier League News Aggregator")
-st.markdown("*Curated headlines from multiple sports news sources with advanced filtering*")
+st.title("⚽ Premier League News")
+st.markdown("*Hand Curated Headlines*")
 
 # =============================================================================
 # FEED CONFIGURATION
@@ -123,10 +109,11 @@ def load_feeds():
     config_file = Path('feeds_config.json')
     
     default_feeds = {
+        "The Athletic": "https://www.nytimes.com/athletic/rss/premier-league",
         "BBC Sport": "http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/football/rss.xml",
         "Sky Sports": "https://www.skysports.com/rss/12040",
         "Mirror Football": "https://www.mirror.co.uk/sport/football/rss.xml",
-        "The Guardian Football": "https://www.theguardian.com/football/rss",
+        "The Guardian Football": "https://www.theguardian.com/football/rss"
     }
     
     if config_file.exists():
@@ -347,17 +334,16 @@ def mark_as_read(article_id):
 # =============================================================================
 # SIDEBAR CONTROLS
 # =============================================================================
+st.sidebar.image("Soccer_News.jpg", width=200)
 st.sidebar.header("📋 Settings")
 
-# Dark mode toggle
-dark_mode = st.sidebar.checkbox(
-    "🌙 Dark Mode",
-    value=st.session_state.preferences['dark_mode'],
-    key='dark_mode_toggle'
+# Search functionality
+st.sidebar.subheader("🔍 Search Articles")
+search_term = st.sidebar.text_input(
+    "Search (use commas for multiple terms):",
+    placeholder="e.g., Arsenal, Liverpool, transfer"
 )
-if dark_mode != st.session_state.preferences['dark_mode']:
-    st.session_state.preferences['dark_mode'] = dark_mode
-    st.rerun()
+st.sidebar.caption("💡 Tip: Use commas to search multiple terms")
 
 # Source selection
 st.sidebar.subheader("Select News Sources")
@@ -370,14 +356,6 @@ selected_sources = st.sidebar.multiselect(
 # Update preferences
 if selected_sources != st.session_state.preferences['sources']:
     st.session_state.preferences['sources'] = selected_sources
-
-# Search functionality
-st.sidebar.subheader("🔍 Search Articles")
-search_term = st.sidebar.text_input(
-    "Search (use commas for multiple terms):",
-    placeholder="e.g., Arsenal, Liverpool, transfer"
-)
-st.sidebar.caption("💡 Tip: Use commas to search multiple terms")
 
 # Filter options
 st.sidebar.subheader("⚙️ Filter Options")
@@ -496,18 +474,28 @@ else:
                             unsafe_allow_html=True
                         )
                         
-                        # Image display
+                        # Image display (now clickable)
                         if article['image']:
-                            try:
-                                st.image(article['image'], use_container_width=True)
-                            except Exception:
-                                st.info("🖼️ Image unavailable")
+                            st.markdown(
+                                f"""
+                                <a href='{article['link']}' target='_blank' style='display: block;'>
+                                    <img src='{article['image']}' style='width: 100%; border-radius: 8px;'>
+                                </a>
+                                """,
+                                unsafe_allow_html=True
+                            )
                         else:
                             st.info("📷 No image available")
                         
-                        # Title
+                        # Title (now clickable)
                         st.markdown(
-                            f"<div style='font-size:16px; font-weight:600; margin-top:10px; color:{theme['link']}'>{article['title']}</div>",
+                            f"""
+                            <div style='font-size:16px; font-weight:600; margin-top:10px;'>
+                                <a href='{article['link']}' target='_blank' style='color:{theme['link']}; text-decoration:none;'>
+                                    {article['title']}
+                                </a>
+                            </div>
+                            """,
                             unsafe_allow_html=True
                         )
                         
@@ -537,9 +525,6 @@ else:
                             if st.button(bookmark_label, key=f"bookmark_{article['id']}", use_container_width=True):
                                 toggle_bookmark(article['id'])
                                 st.rerun()
-                        
-                        with btn_col3:
-                            st.link_button("🔗", article['link'], use_container_width=True)
                         
                         st.markdown("</div>", unsafe_allow_html=True)
 
